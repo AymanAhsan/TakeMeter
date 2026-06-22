@@ -1,0 +1,684 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "What If Armin Had the Founding Titan's Powers? : r/attackontitan"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - generic [ref=e12]:
+            - button "Open menu" [ref=e16] [cursor=pointer]:
+              - img [ref=e19]
+              - generic [ref=e21]:
+                - generic: Open menu
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Home":
+                        - /url: https://www.reddit.com/
+          - search [ref=e31]:
+            - generic [ref=e33]:
+              - img [ref=e36]
+              - textbox "Ask" [ref=e40]:
+                - /placeholder: Find anything
+              - separator [ref=e41]
+              - link "Ask" [ref=e45] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e46]:
+                  - img [ref=e48]
+                  - generic [ref=e50]: Ask
+              - generic: Find anything
+          - generic [ref=e51]:
+            - link "Log In" [ref=e55] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e57]: Log In
+            - button "Expand user menu" [ref=e62] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]:
+                - generic: Expand user menu
+      - generic [ref=e71]:
+        - main [ref=e72]:
+          - 'generic "What If Armin Had the Founding Titan''s Powers? : r/attackontitan"'
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - button "Back" [ref=e77] [cursor=pointer]:
+                  - img [ref=e80]
+                  - generic [ref=e82]:
+                    - generic: Back
+                - link "Go to attackontitan" [ref=e85] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/
+                  - generic [ref=e89]:
+                    - generic: Go to attackontitan
+                - group [ref=e90]:
+                  - generic [ref=e91]:
+                    - link "r/attackontitan" [ref=e94] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/
+                    - generic [ref=e95]: •
+                    - time [ref=e97]: 5d ago
+                  - 'link "Author: cosmic-jai" [ref=e102] [cursor=pointer]':
+                    - /url: https://www.reddit.com/user/cosmic-jai/
+                    - generic [ref=e103]: cosmic-jai
+              - button "Open user actions" [ref=e107] [cursor=pointer]:
+                - img [ref=e110]
+            - generic [ref=e117]:
+              - img [ref=e119]
+              - generic [ref=e121]: SPOILER
+            - 'heading "Post Title: What If Armin Had the Founding Titan''s Powers?" [level=1] [ref=e124]': What If Armin Had the Founding Titan's Powers?
+            - generic [ref=e129]:
+              - button "View spoiler" [ref=e131] [cursor=pointer]:
+                - generic [ref=e133]: View spoiler
+              - generic:
+                - generic:
+                  - generic:
+                    - img "r/attackontitan - What If Armin Had the Founding Titan's Powers?"
+            - generic [ref=e139]:
+              - button "View spoiler" [ref=e141] [cursor=pointer]:
+                - generic [ref=e143]: View spoiler
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: In this scene, Eren says he's an idiot because the Rumbling was the only solution he could come up with.
+                    - paragraph
+                    - paragraph: If Armin had inherited both the Founding Titan and the Attack Titan, do you think he could have found a better way to break the cycle of hatred and violence? Or would he have ultimately reached the same conclusion as Eren?
+            - generic [ref=e145]:
+              - img [ref=e146]
+              - generic [ref=e148]: "60"
+              - img [ref=e149]
+              - generic [ref=e151]: ·
+              - img [ref=e152]
+              - generic [ref=e154]: "31"
+          - separator [ref=e155]
+          - generic "Sign up for free to get the latest news, content, freebies, and more!" [ref=e156]:
+            - generic [ref=e157]:
+              - 'link "Advertisement: Sign up for free to get the latest news, content, freebies, and more!" [ref=e158] [cursor=pointer]':
+                - /url: https://alb.reddit.com/cr?za=Lf2pCwpdNIshPhAJJinMRopDukCAC2gKRA0_9w8DggAiw2sd9ZfnKyyPmq5dQo4m_rSI4aGkMHaEmaIekjh7T9ITnlPmmNqsiELj-Iqr3qArhwcPmF3e-WN1YwDxobEaRTBHBU03Jv7lYOkaDz3geDR3rOKQCWI_6aHZziEutvTQNZBCwjTFUL9QhBHF7BwdIUdKmN0WBSJeJ3jP7C418MwgeN0JlL1RIVKkGUF64OtxwXMmQzJPU63KZ5A79ac8j3LmB-6cgkYbN7-A6qmoM6CmtSVi411QLQHu_pMr5w3JePsv8mPCqZRBVHhI9GtzI1-IwmFL5EUKMSMYvXxA2h-wiQ7NuyEVqJrcvX7BFfPbSlGCqZRFMlyXpuDw9EXcrtJBEFp37S4NnXofobffwKa8IBK2mCNynFCu5PEuhHib3ihru97YwBcjslbFbxTbeKI95WDsonZOy_P5sEcmkZLn3hOqzq5rbRihzhtF65qka6UJv4dR82C643kxVLxrga6Cqa27Y2SEBbMPxvGx9YDeyQTUdBq_YPjdmYu5tPGmuJ451zFR55saLy7QOvQZ9QQP2FgLTTsh1QhK_zv9pBRZ9zpP5rur1wJgZKqJ4snrDmDwcPf4BW3l7W5ac65CiZtErBRjQ_B8GF39fmnYERnfuHkKymwYi7iW-x699OPyEPXOSbAFduzJTZEndy25L37XLtVpTX6VIjKC0Wj5zXAbPZ1AXs5EbRVqrl01w8Urne0zpQ&zp=gkuAt2iDWHuLWZoQbZTVbcjYN-7KIJVLtLDCeJF0pDMUVbytYO-z7J2DSwsiS7VuUg4_5djUzJNdAv83uU-dJ2-3lf7smtwRSzHV2RcEX6hNsDbeP02dG0EbnmqGdjeJJ0EmkhDEACCzYN3uaUwfhRPlBqzwO5MNMPiJdVSU7uPrJ3xHF9m94aYNuGt9J1cBeund8JSoUFXf3ST4ShgIuTG45WEZmrWdhk5c1wbxlbqf20XMrRe1VsmKZfTfmdPcUJy0STLNf_4qSuDerqBYh6n9IYhBWRuM8a2aQ8Brn9ipsDxg2OF9FauImJ5qZqYbQ0ppgoU3bf8RNH9UEvdmMOmsl0xkYVFhuxj3OXu_kb5ujzLwGRceWyGICw
+              - generic [ref=e159]:
+                - generic [ref=e160]:
+                  - link "u/SesameWorkshop avatar SesameWorkshop" [ref=e162] [cursor=pointer]:
+                    - /url: /user/SesameWorkshop/
+                    - img "u/SesameWorkshop avatar" [ref=e165]
+                    - generic [ref=e166]: SesameWorkshop
+                  - generic [ref=e167]: •
+                  - link "Promoted" [ref=e169] [cursor=pointer]:
+                    - /url: /user/SesameWorkshop/
+                    - generic [ref=e170]: Promoted
+                  - link [ref=e171] [cursor=pointer]:
+                    - /url: https://alb.reddit.com/cr?za=Lf2pCwpdNIshPhAJJinMRopDukCAC2gKRA0_9w8DggAiw2sd9ZfnKyyPmq5dQo4m_rSI4aGkMHaEmaIekjh7T9ITnlPmmNqsiELj-Iqr3qArhwcPmF3e-WN1YwDxobEaRTBHBU03Jv7lYOkaDz3geDR3rOKQCWI_6aHZziEutvTQNZBCwjTFUL9QhBHF7BwdIUdKmN0WBSJeJ3jP7C418MwgeN0JlL1RIVKkGUF64OtxwXMmQzJPU63KZ5A79ac8j3LmB-6cgkYbN7-A6qmoM6CmtSVi411QLQHu_pMr5w3JePsv8mPCqZRBVHhI9GtzI1-IwmFL5EUKMSMYvXxA2h-wiQ7NuyEVqJrcvX7BFfPbSlGCqZRFMlyXpuDw9EXcrtJBEFp37S4NnXofobffwKa8IBK2mCNynFCu5PEuhHib3ihru97YwBcjslbFbxTbeKI95WDsonZOy_P5sEcmkZLn3hOqzq5rbRihzhtF65qka6UJv4dR82C643kxVLxrga6Cqa27Y2SEBbMPxvGx9YDeyQTUdBq_YPjdmYu5tPGmuJ451zFR55saLy7QOvQZ9QQP2FgLTTsh1QhK_zv9pBRZ9zpP5rur1wJgZKqJ4snrDmDwcPf4BW3l7W5ac65CiZtErBRjQ_B8GF39fmnYERnfuHkKymwYi7iW-x699OPyEPXOSbAFduzJTZEndy25L37XLtVpTX6VIjKC0Wj5zXAbPZ1AXs5EbRVqrl01w8Urne0zpQ&zp=gkuAt2iDWHuLWZoQbZTVbcjYN-7KIJVLtLDCeJF0pDMUVbytYO-z7J2DSwsiS7VuUg4_5djUzJNdAv83uU-dJ2-3lf7smtwRSzHV2RcEX6hNsDbeP02dG0EbnmqGdjeJJ0EmkhDEACCzYN3uaUwfhRPlBqzwO5MNMPiJdVSU7uPrJ3xHF9m94aYNuGt9J1cBeund8JSoUFXf3ST4ShgIuTG45WEZmrWdhk5c1wbxlbqf20XMrRe1VsmKZfTfmdPcUJy0STLNf_4qSuDerqBYh6n9IYhBWRuM8a2aQ8Brn9ipsDxg2OF9FauImJ5qZqYbQ0ppgoU3bf8RNH9UEvdmMOmsl0xkYVFhuxj3OXu_kb5ujzLwGRceWyGICw
+                - button "Open user actions" [ref=e176] [cursor=pointer]:
+                  - img [ref=e179]
+              - generic [ref=e182]:
+                - generic [ref=e183]:
+                  - link "Sign up for free to get the latest news, content, freebies, and more!" [ref=e185] [cursor=pointer]:
+                    - /url: https://alb.reddit.com/cr?za=Lf2pCwpdNIshPhAJJinMRopDukCAC2gKRA0_9w8DggAiw2sd9ZfnKyyPmq5dQo4m_rSI4aGkMHaEmaIekjh7T9ITnlPmmNqsiELj-Iqr3qArhwcPmF3e-WN1YwDxobEaRTBHBU03Jv7lYOkaDz3geDR3rOKQCWI_6aHZziEutvTQNZBCwjTFUL9QhBHF7BwdIUdKmN0WBSJeJ3jP7C418MwgeN0JlL1RIVKkGUF64OtxwXMmQzJPU63KZ5A79ac8j3LmB-6cgkYbN7-A6qmoM6CmtSVi411QLQHu_pMr5w3JePsv8mPCqZRBVHhI9GtzI1-IwmFL5EUKMSMYvXxA2h-wiQ7NuyEVqJrcvX7BFfPbSlGCqZRFMlyXpuDw9EXcrtJBEFp37S4NnXofobffwKa8IBK2mCNynFCu5PEuhHib3ihru97YwBcjslbFbxTbeKI95WDsonZOy_P5sEcmkZLn3hOqzq5rbRihzhtF65qka6UJv4dR82C643kxVLxrga6Cqa27Y2SEBbMPxvGx9YDeyQTUdBq_YPjdmYu5tPGmuJ451zFR55saLy7QOvQZ9QQP2FgLTTsh1QhK_zv9pBRZ9zpP5rur1wJgZKqJ4snrDmDwcPf4BW3l7W5ac65CiZtErBRjQ_B8GF39fmnYERnfuHkKymwYi7iW-x699OPyEPXOSbAFduzJTZEndy25L37XLtVpTX6VIjKC0Wj5zXAbPZ1AXs5EbRVqrl01w8Urne0zpQ&zp=gkuAt2iDWHuLWZoQbZTVbcjYN-7KIJVLtLDCeJF0pDMUVbytYO-z7J2DSwsiS7VuUg4_5djUzJNdAv83uU-dJ2-3lf7smtwRSzHV2RcEX6hNsDbeP02dG0EbnmqGdjeJJ0EmkhDEACCzYN3uaUwfhRPlBqzwO5MNMPiJdVSU7uPrJ3xHF9m94aYNuGt9J1cBeund8JSoUFXf3ST4ShgIuTG45WEZmrWdhk5c1wbxlbqf20XMrRe1VsmKZfTfmdPcUJy0STLNf_4qSuDerqBYh6n9IYhBWRuM8a2aQ8Brn9ipsDxg2OF9FauImJ5qZqYbQ0ppgoU3bf8RNH9UEvdmMOmsl0xkYVFhuxj3OXu_kb5ujzLwGRceWyGICw
+                  - generic [ref=e186]:
+                    - link [ref=e187] [cursor=pointer]:
+                      - /url: https://alb.reddit.com/cr?za=Lf2pCwpdNIshPhAJJinMRopDukCAC2gKRA0_9w8DggAiw2sd9ZfnKyyPmq5dQo4m_rSI4aGkMHaEmaIekjh7T9ITnlPmmNqsiELj-Iqr3qArhwcPmF3e-WN1YwDxobEaRTBHBU03Jv7lYOkaDz3geDR3rOKQCWI_6aHZziEutvTQNZBCwjTFUL9QhBHF7BwdIUdKmN0WBSJeJ3jP7C418MwgeN0JlL1RIVKkGUF64OtxwXMmQzJPU63KZ5A79ac8j3LmB-6cgkYbN7-A6qmoM6CmtSVi411QLQHu_pMr5w3JePsv8mPCqZRBVHhI9GtzI1-IwmFL5EUKMSMYvXxA2h-wiQ7NuyEVqJrcvX7BFfPbSlGCqZRFMlyXpuDw9EXcrtJBEFp37S4NnXofobffwKa8IBK2mCNynFCu5PEuhHib3ihru97YwBcjslbFbxTbeKI95WDsonZOy_P5sEcmkZLn3hOqzq5rbRihzhtF65qka6UJv4dR82C643kxVLxrga6Cqa27Y2SEBbMPxvGx9YDeyQTUdBq_YPjdmYu5tPGmuJ451zFR55saLy7QOvQZ9QQP2FgLTTsh1QhK_zv9pBRZ9zpP5rur1wJgZKqJ4snrDmDwcPf4BW3l7W5ac65CiZtErBRjQ_B8GF39fmnYERnfuHkKymwYi7iW-x699OPyEPXOSbAFduzJTZEndy25L37XLtVpTX6VIjKC0Wj5zXAbPZ1AXs5EbRVqrl01w8Urne0zpQ&zp=gkuAt2iDWHuLWZoQbZTVbcjYN-7KIJVLtLDCeJF0pDMUVbytYO-z7J2DSwsiS7VuUg4_5djUzJNdAv83uU-dJ2-3lf7smtwRSzHV2RcEX6hNsDbeP02dG0EbnmqGdjeJJ0EmkhDEACCzYN3uaUwfhRPlBqzwO5MNMPiJdVSU7uPrJ3xHF9m94aYNuGt9J1cBeund8JSoUFXf3ST4ShgIuTG45WEZmrWdhk5c1wbxlbqf20XMrRe1VsmKZfTfmdPcUJy0STLNf_4qSuDerqBYh6n9IYhBWRuM8a2aQ8Brn9ipsDxg2OF9FauImJ5qZqYbQ0ppgoU3bf8RNH9UEvdmMOmsl0xkYVFhuxj3OXu_kb5ujzLwGRceWyGICw
+                    - generic [ref=e188]:
+                      - link "Learn More" [ref=e189] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=Lf2pCwpdNIshPhAJJinMRopDukCAC2gKRA0_9w8DggAiw2sd9ZfnKyyPmq5dQo4m_rSI4aGkMHaEmaIekjh7T9ITnlPmmNqsiELj-Iqr3qArhwcPmF3e-WN1YwDxobEaRTBHBU03Jv7lYOkaDz3geDR3rOKQCWI_6aHZziEutvTQNZBCwjTFUL9QhBHF7BwdIUdKmN0WBSJeJ3jP7C418MwgeN0JlL1RIVKkGUF64OtxwXMmQzJPU63KZ5A79ac8j3LmB-6cgkYbN7-A6qmoM6CmtSVi411QLQHu_pMr5w3JePsv8mPCqZRBVHhI9GtzI1-IwmFL5EUKMSMYvXxA2h-wiQ7NuyEVqJrcvX7BFfPbSlGCqZRFMlyXpuDw9EXcrtJBEFp37S4NnXofobffwKa8IBK2mCNynFCu5PEuhHib3ihru97YwBcjslbFbxTbeKI95WDsonZOy_P5sEcmkZLn3hOqzq5rbRihzhtF65qka6UJv4dR82C643kxVLxrga6Cqa27Y2SEBbMPxvGx9YDeyQTUdBq_YPjdmYu5tPGmuJ451zFR55saLy7QOvQZ9QQP2FgLTTsh1QhK_zv9pBRZ9zpP5rur1wJgZKqJ4snrDmDwcPf4BW3l7W5ac65CiZtErBRjQ_B8GF39fmnYERnfuHkKymwYi7iW-x699OPyEPXOSbAFduzJTZEndy25L37XLtVpTX6VIjKC0Wj5zXAbPZ1AXs5EbRVqrl01w8Urne0zpQ&zp=gkuAt2iDWHuLWZoQbZTVbcjYN-7KIJVLtLDCeJF0pDMUVbytYO-z7J2DSwsiS7VuUg4_5djUzJNdAv83uU-dJ2-3lf7smtwRSzHV2RcEX6hNsDbeP02dG0EbnmqGdjeJJ0EmkhDEACCzYN3uaUwfhRPlBqzwO5MNMPiJdVSU7uPrJ3xHF9m94aYNuGt9J1cBeund8JSoUFXf3ST4ShgIuTG45WEZmrWdhk5c1wbxlbqf20XMrRe1VsmKZfTfmdPcUJy0STLNf_4qSuDerqBYh6n9IYhBWRuM8a2aQ8Brn9ipsDxg2OF9FauImJ5qZqYbQ0ppgoU3bf8RNH9UEvdmMOmsl0xkYVFhuxj3OXu_kb5ujzLwGRceWyGICw
+                        - generic [ref=e191]: Learn More
+                      - link "sesameworkshop.org" [ref=e193] [cursor=pointer]:
+                        - /url: https://alb.reddit.com/cr?za=Lf2pCwpdNIshPhAJJinMRopDukCAC2gKRA0_9w8DggAiw2sd9ZfnKyyPmq5dQo4m_rSI4aGkMHaEmaIekjh7T9ITnlPmmNqsiELj-Iqr3qArhwcPmF3e-WN1YwDxobEaRTBHBU03Jv7lYOkaDz3geDR3rOKQCWI_6aHZziEutvTQNZBCwjTFUL9QhBHF7BwdIUdKmN0WBSJeJ3jP7C418MwgeN0JlL1RIVKkGUF64OtxwXMmQzJPU63KZ5A79ac8j3LmB-6cgkYbN7-A6qmoM6CmtSVi411QLQHu_pMr5w3JePsv8mPCqZRBVHhI9GtzI1-IwmFL5EUKMSMYvXxA2h-wiQ7NuyEVqJrcvX7BFfPbSlGCqZRFMlyXpuDw9EXcrtJBEFp37S4NnXofobffwKa8IBK2mCNynFCu5PEuhHib3ihru97YwBcjslbFbxTbeKI95WDsonZOy_P5sEcmkZLn3hOqzq5rbRihzhtF65qka6UJv4dR82C643kxVLxrga6Cqa27Y2SEBbMPxvGx9YDeyQTUdBq_YPjdmYu5tPGmuJ451zFR55saLy7QOvQZ9QQP2FgLTTsh1QhK_zv9pBRZ9zpP5rur1wJgZKqJ4snrDmDwcPf4BW3l7W5ac65CiZtErBRjQ_B8GF39fmnYERnfuHkKymwYi7iW-x699OPyEPXOSbAFduzJTZEndy25L37XLtVpTX6VIjKC0Wj5zXAbPZ1AXs5EbRVqrl01w8Urne0zpQ&zp=gkuAt2iDWHuLWZoQbZTVbcjYN-7KIJVLtLDCeJF0pDMUVbytYO-z7J2DSwsiS7VuUg4_5djUzJNdAv83uU-dJ2-3lf7smtwRSzHV2RcEX6hNsDbeP02dG0EbnmqGdjeJJ0EmkhDEACCzYN3uaUwfhRPlBqzwO5MNMPiJdVSU7uPrJ3xHF9m94aYNuGt9J1cBeund8JSoUFXf3ST4ShgIuTG45WEZmrWdhk5c1wbxlbqf20XMrRe1VsmKZfTfmdPcUJy0STLNf_4qSuDerqBYh6n9IYhBWRuM8a2aQ8Brn9ipsDxg2OF9FauImJ5qZqYbQ0ppgoU3bf8RNH9UEvdmMOmsl0xkYVFhuxj3OXu_kb5ujzLwGRceWyGICw
+                - 'link "Thumbnail image: Sign up for free to get the latest news, content, freebies, and more!" [ref=e195] [cursor=pointer]':
+                  - /url: https://alb.reddit.com/cr?za=Lf2pCwpdNIshPhAJJinMRopDukCAC2gKRA0_9w8DggAiw2sd9ZfnKyyPmq5dQo4m_rSI4aGkMHaEmaIekjh7T9ITnlPmmNqsiELj-Iqr3qArhwcPmF3e-WN1YwDxobEaRTBHBU03Jv7lYOkaDz3geDR3rOKQCWI_6aHZziEutvTQNZBCwjTFUL9QhBHF7BwdIUdKmN0WBSJeJ3jP7C418MwgeN0JlL1RIVKkGUF64OtxwXMmQzJPU63KZ5A79ac8j3LmB-6cgkYbN7-A6qmoM6CmtSVi411QLQHu_pMr5w3JePsv8mPCqZRBVHhI9GtzI1-IwmFL5EUKMSMYvXxA2h-wiQ7NuyEVqJrcvX7BFfPbSlGCqZRFMlyXpuDw9EXcrtJBEFp37S4NnXofobffwKa8IBK2mCNynFCu5PEuhHib3ihru97YwBcjslbFbxTbeKI95WDsonZOy_P5sEcmkZLn3hOqzq5rbRihzhtF65qka6UJv4dR82C643kxVLxrga6Cqa27Y2SEBbMPxvGx9YDeyQTUdBq_YPjdmYu5tPGmuJ451zFR55saLy7QOvQZ9QQP2FgLTTsh1QhK_zv9pBRZ9zpP5rur1wJgZKqJ4snrDmDwcPf4BW3l7W5ac65CiZtErBRjQ_B8GF39fmnYERnfuHkKymwYi7iW-x699OPyEPXOSbAFduzJTZEndy25L37XLtVpTX6VIjKC0Wj5zXAbPZ1AXs5EbRVqrl01w8Urne0zpQ&zp=gkuAt2iDWHuLWZoQbZTVbcjYN-7KIJVLtLDCeJF0pDMUVbytYO-z7J2DSwsiS7VuUg4_5djUzJNdAv83uU-dJ2-3lf7smtwRSzHV2RcEX6hNsDbeP02dG0EbnmqGdjeJJ0EmkhDEACCzYN3uaUwfhRPlBqzwO5MNMPiJdVSU7uPrJ3xHF9m94aYNuGt9J1cBeund8JSoUFXf3ST4ShgIuTG45WEZmrWdhk5c1wbxlbqf20XMrRe1VsmKZfTfmdPcUJy0STLNf_4qSuDerqBYh6n9IYhBWRuM8a2aQ8Brn9ipsDxg2OF9FauImJ5qZqYbQ0ppgoU3bf8RNH9UEvdmMOmsl0xkYVFhuxj3OXu_kb5ujzLwGRceWyGICw
+                  - 'img "Thumbnail image: Sign up for free to get the latest news, content, freebies, and more!" [ref=e196]'
+          - separator [ref=e197]
+          - region "Comments" [ref=e200]:
+            - heading "Comments Section" [level=1] [ref=e201]
+            - generic:
+              - article "Comment from AutoModerator 5 days ago" [ref=e203]:
+                - generic "AutoModerator's profile 5d ago" [ref=e204] [cursor=pointer]:
+                  - img [ref=e206]
+                  - generic [ref=e211]:
+                    - link "AutoModerator's profile" [ref=e214]:
+                      - /url: https://www.reddit.com/user/AutoModerator/
+                      - text: AutoModerator
+                    - generic "Comment distinguished by moderator" [ref=e217]: MOD
+                    - generic [ref=e218]: •
+                    - link "5d ago" [ref=e220]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/ormu07b/
+                      - time [ref=e222]: 5d ago
+              - article "Comment from That-one-randum-dude 5 days ago" [ref=e225]:
+                - generic "That-one-randum-dude's profile --- avatar That-one-randum-dude's profile 5d ago" [ref=e226] [cursor=pointer]:
+                  - link "That-one-randum-dude's profile --- avatar" [ref=e231]:
+                    - /url: https://www.reddit.com/user/That-one-randum-dude/
+                    - img "u/That-one-randum-dude avatar" [ref=e234]
+                  - generic [ref=e238]:
+                    - link "That-one-randum-dude's profile" [ref=e241]:
+                      - /url: https://www.reddit.com/user/That-one-randum-dude/
+                      - text: That-one-randum-dude
+                    - generic [ref=e242]: •
+                    - link "5d ago" [ref=e244]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/ormv4uy/
+                      - time [ref=e246]: 5d ago
+                - generic [ref=e248]:
+                  - paragraph [ref=e252]: Ngl he would be dead, he’s a bad fighter so he would probably be captured by Reiner and birthold. And even if he made hit far Zeke wouldn’t trust him enough to let him use the founder
+                  - generic [ref=e254]:
+                    - img [ref=e255]
+                    - generic [ref=e257]: "47"
+                    - img [ref=e258]
+                  - img
+                  - generic [ref=e260]:
+                    - 'article "Comment thread level 1: Reply from TardTohr 3 days ago" [ref=e262]':
+                      - generic "TardTohr's profile --- avatar TardTohr's profile 3d ago" [ref=e263] [cursor=pointer]:
+                        - link "TardTohr's profile --- avatar" [ref=e268]:
+                          - /url: https://www.reddit.com/user/TardTohr/
+                          - img "u/TardTohr avatar" [ref=e271]
+                        - generic [ref=e275]:
+                          - link "TardTohr's profile" [ref=e278]:
+                            - /url: https://www.reddit.com/user/TardTohr/
+                            - text: TardTohr
+                          - generic [ref=e279]: •
+                          - link "3d ago" [ref=e281]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/os7cqod/
+                            - time [ref=e283]: 3d ago
+                      - generic [ref=e285]:
+                        - generic [ref=e288]:
+                          - paragraph [ref=e289]: Being captured by Reiner and Bertholdt is also what happened to Eren, his fighting skills only delayed capture by like 5 minutes. I doubt Armin would even put himself in Reiner and Bertholdt's range once they know they are shifters. Reiner probably wouldn't confess to him like he did to Eren either. So in that scenario Reiner and Bertholdt probably wouldn't be outed and would probably end up captured later (using sleep gas like the MP did on Eren) and could probably be made to spill the beans.
+                          - paragraph [ref=e290]: In season 4 they probably wouldn't get help from Zeke, but they would still be able to capture Marleyan ships and make the soldiers speak. It might actually help them to some extent, since they wouldn't have Yelena subtly misinforming them. They would have to infiltrate Marley to retrieve titan fluid, which would be hard but possible. Actually if they can get spinal fluid and activate the FT through Historia before the war ends, they could make a show of moving against Marley to end the war and win some goodwill from the rest of the world.
+                          - paragraph [ref=e291]: Hell, if Armin also inherits Grisha's memories, he would know Dina has royal blood and is somewhere around as a titan which could be found and captured to experiment with. There is a world where Paradis activates the FT before the end of season 3 without sacrificing Historia.
+                        - generic [ref=e293]:
+                          - img [ref=e294]
+                          - generic [ref=e296]: "2"
+                          - img [ref=e297]
+                    - 'article "Comment thread level 1: Reply from Previous_Head7199 5 days ago" [ref=e300]':
+                      - generic "Previous_Head7199's profile 5d ago" [ref=e301] [cursor=pointer]:
+                        - img [ref=e303]
+                        - generic [ref=e308]:
+                          - link "Previous_Head7199's profile" [ref=e311]:
+                            - /url: https://www.reddit.com/user/Previous_Head7199/
+                            - text: Previous_Head7199
+                          - generic [ref=e312]: •
+                          - link "5d ago" [ref=e314]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/ormzcuj/
+                            - time [ref=e316]: 5d ago
+              - article "Comment from aliezsn 5 days ago" [ref=e319]:
+                - generic "aliezsn's profile --- avatar aliezsn's profile 5d ago" [ref=e320] [cursor=pointer]:
+                  - link "aliezsn's profile --- avatar" [ref=e325]:
+                    - /url: https://www.reddit.com/user/aliezsn/
+                    - img "u/aliezsn avatar" [ref=e328]
+                  - generic [ref=e332]:
+                    - link "aliezsn's profile" [ref=e335]:
+                      - /url: https://www.reddit.com/user/aliezsn/
+                      - text: aliezsn
+                    - generic [ref=e336]: •
+                    - link "5d ago" [ref=e338]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/ormvb1z/
+                      - time [ref=e340]: 5d ago
+                - generic [ref=e342]:
+                  - paragraph [ref=e346]: Armin would have died in either battle or the powers would've been passed down to the next soldier since he wouldn't be as impatient as Eren, so ultimately, he wouldn't have achieved anything. Even if he didn't die, Zeke wouldn't trust him so he would never actually have full power of the founder. Diplomatic solution was impossible, since the outside world had already decided they were devils.
+                  - generic [ref=e348]:
+                    - img [ref=e349]
+                    - generic [ref=e351]: "21"
+                    - img [ref=e352]
+                  - img
+                  - 'article "Comment thread level 1: Reply from Euphoric_Ad_434 5 days ago" [ref=e356]':
+                    - generic "Euphoric_Ad_434's profile --- avatar Euphoric_Ad_434's profile 5d ago" [ref=e357] [cursor=pointer]:
+                      - link "Euphoric_Ad_434's profile --- avatar" [ref=e362]:
+                        - /url: https://www.reddit.com/user/Euphoric_Ad_434/
+                        - img [ref=e367]
+                      - generic [ref=e372]:
+                        - link "Euphoric_Ad_434's profile" [ref=e375]:
+                          - /url: https://www.reddit.com/user/Euphoric_Ad_434/
+                          - text: Euphoric_Ad_434
+                        - generic [ref=e376]: •
+                        - link "5d ago" [ref=e378]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/ornhdcq/
+                          - time [ref=e380]: 5d ago
+                    - generic [ref=e382]:
+                      - paragraph [ref=e386]: But Armin could have thought a way to use the founder with Historia royal blood.
+                      - generic [ref=e388]:
+                        - img [ref=e389]
+                        - generic [ref=e391]: "3"
+                        - img [ref=e392]
+                      - img
+                      - 'article "Comment thread level 2: Reply from aliezsn 5 days ago" [ref=e396]':
+                        - generic "aliezsn's profile --- avatar aliezsn's profile 5d ago" [ref=e397] [cursor=pointer]:
+                          - link "aliezsn's profile --- avatar" [ref=e402]:
+                            - /url: https://www.reddit.com/user/aliezsn/
+                            - img "u/aliezsn avatar" [ref=e405]
+                          - generic [ref=e409]:
+                            - link "aliezsn's profile" [ref=e412]:
+                              - /url: https://www.reddit.com/user/aliezsn/
+                              - text: aliezsn
+                            - generic [ref=e413]: •
+                            - link "5d ago" [ref=e415]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/orninqk/
+                              - time [ref=e417]: 5d ago
+                        - generic [ref=e419]:
+                          - paragraph [ref=e423]: Historia needed to be a shifter for that to be an option.
+                          - generic [ref=e425]:
+                            - img [ref=e426]
+                            - generic [ref=e428]: "0"
+                            - img [ref=e429]
+                          - button "2 more replies" [ref=e434] [cursor=pointer]:
+                            - generic [ref=e437]:
+                              - generic [ref=e439]:
+                                - generic [ref=e440]: "2"
+                                - text: more replies
+                              - img [ref=e441]
+              - article "Comment from Jumbernaut 5 days ago" [ref=e444]:
+                - generic "Jumbernaut's profile --- avatar Jumbernaut's profile 5d ago" [ref=e445] [cursor=pointer]:
+                  - link "Jumbernaut's profile --- avatar" [ref=e450]:
+                    - /url: https://www.reddit.com/user/Jumbernaut/
+                    - img [ref=e455]
+                  - generic [ref=e460]:
+                    - link "Jumbernaut's profile" [ref=e463]:
+                      - /url: https://www.reddit.com/user/Jumbernaut/
+                      - text: Jumbernaut
+                    - generic [ref=e464]: •
+                    - link "5d ago" [ref=e466]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/orn4i5l/
+                      - time [ref=e468]: 5d ago
+                - generic [ref=e470]:
+                  - generic [ref=e473]:
+                    - paragraph [ref=e474]: The story doesn't really tries to explore the limits of what Ymir can do with the Titan Powers. By all accounts, Eren should have transcended his humanity when he unlocked the FT's full powers, gaining access / perfect memory of all memories of all Eldians / Titans connected through the Paths as if they were his own (feeling them as they happened).
+                    - paragraph [ref=e475]: This doesn't necessarily means that Eren's Ego would have been lost among these millions of Eldian lifetimes but at the very least all these experiences should have changed his personality somewhat, giving him infinite time to think about these new perspectives of the world.
+                    - paragraph [ref=e476]: Eren's own biology also should have become irrelevant, making almost no difference if he has a "smart brain" when he also has access to the processing power of all other Eldian brains. Even after losing his body and everything, the story still presents Future Eren in the Paths as mostly the same person, even though the knows all past and future memories.
+                    - paragraph [ref=e477]: If Armin were to inherit the FT, he most probably would not do the Rumbling and would have tested the limits of what the FT can do to find the best possible solution. At the very least, if no other solution was found, then he would probably opt for Zeke's sterilization plan, as it would ensure the end of the Titan Powers while also allowing the Eldians still alive to live the rest of their lives in peace on Paradis under the protection of the threat of the Rumbling. There are a few more details he would have to work out to make the plan work, but it would work, as long as Ymir allowed it.
+                    - paragraph [ref=e478]: If Ymir refused to allow the sterilization or any other alternative to work, then there's nothing anyone else can do and Ymir would be the all powerful villain of the story.
+                  - generic [ref=e480]:
+                    - img [ref=e481]
+                    - generic [ref=e483]: "5"
+                    - img [ref=e484]
+              - article "Comment from Cute_Blackberry2909 5 days ago" [ref=e487]:
+                - generic "Cute_Blackberry2909's profile --- avatar Cute_Blackberry2909's profile 5d ago" [ref=e488] [cursor=pointer]:
+                  - link "Cute_Blackberry2909's profile --- avatar" [ref=e493]:
+                    - /url: https://www.reddit.com/user/Cute_Blackberry2909/
+                    - img "u/Cute_Blackberry2909 avatar" [ref=e496]
+                  - generic [ref=e500]:
+                    - link "Cute_Blackberry2909's profile" [ref=e503]:
+                      - /url: https://www.reddit.com/user/Cute_Blackberry2909/
+                      - text: Cute_Blackberry2909
+                    - generic [ref=e504]: •
+                    - link "5d ago" [ref=e506]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/ormv6x7/
+                      - time [ref=e508]: 5d ago
+                - generic [ref=e510]:
+                  - paragraph [ref=e514]: He would have a found a way with less death toll for sure , he too was crazy like Eren in a sense but he wasn't that far gone
+                  - generic [ref=e516]:
+                    - img [ref=e517]
+                    - generic [ref=e519]: "6"
+                    - img [ref=e520]
+                  - img
+                  - 'article "Comment thread level 1: Reply from Acceptable_Gift_9138 2 days ago" [ref=e524]':
+                    - generic "Acceptable_Gift_9138's profile --- avatar Acceptable_Gift_9138's profile 2d ago" [ref=e525] [cursor=pointer]:
+                      - link "Acceptable_Gift_9138's profile --- avatar" [ref=e530]:
+                        - /url: https://www.reddit.com/user/Acceptable_Gift_9138/
+                        - img "u/Acceptable_Gift_9138 avatar" [ref=e533]
+                      - generic [ref=e537]:
+                        - link "Acceptable_Gift_9138's profile" [ref=e540]:
+                          - /url: https://www.reddit.com/user/Acceptable_Gift_9138/
+                          - text: Acceptable_Gift_9138
+                        - generic [ref=e541]: •
+                        - link "2d ago" [ref=e543]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/os8zyo2/
+                          - time [ref=e545]: 2d ago
+                    - generic [ref=e547]:
+                      - paragraph [ref=e551]: Was he crazy?
+                      - generic [ref=e553]:
+                        - img [ref=e554]
+                        - generic [ref=e556]: "1"
+                        - img [ref=e557]
+                      - img
+                      - 'article "Comment thread level 2: Reply from Cute_Blackberry2909 2 days ago" [ref=e561]':
+                        - generic "Cute_Blackberry2909's profile --- avatar Cute_Blackberry2909's profile 2d ago" [ref=e562] [cursor=pointer]:
+                          - link "Cute_Blackberry2909's profile --- avatar" [ref=e567]:
+                            - /url: https://www.reddit.com/user/Cute_Blackberry2909/
+                            - img "u/Cute_Blackberry2909 avatar" [ref=e570]
+                          - generic [ref=e574]:
+                            - link "Cute_Blackberry2909's profile" [ref=e577]:
+                              - /url: https://www.reddit.com/user/Cute_Blackberry2909/
+                              - text: Cute_Blackberry2909
+                            - generic [ref=e578]: •
+                            - link "2d ago" [ref=e580]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/os93dc1/
+                              - time [ref=e582]: 2d ago
+                        - generic [ref=e584]:
+                          - paragraph [ref=e588]: I mean he was great at manipulation and though preferred non violence He nuked the port and led the alliance against the Yaegarists
+                          - generic [ref=e590]:
+                            - img [ref=e591]
+                            - generic [ref=e593]: "1"
+                            - img [ref=e594]
+                          - button "1 more reply" [ref=e599] [cursor=pointer]:
+                            - generic [ref=e602]:
+                              - generic [ref=e604]:
+                                - generic [ref=e605]: "1"
+                                - text: more reply
+                              - img [ref=e606]
+              - article "Comment from ShadowL0rd333 5 days ago" [ref=e609]:
+                - generic "ShadowL0rd333's profile --- avatar ShadowL0rd333's profile 5d ago" [ref=e610] [cursor=pointer]:
+                  - link "ShadowL0rd333's profile --- avatar" [ref=e615]:
+                    - /url: https://www.reddit.com/user/ShadowL0rd333/
+                    - generic [ref=e617]:
+                      - img [ref=e619]
+                      - img [ref=e623]
+                      - img [ref=e626]
+                  - generic [ref=e631]:
+                    - link "ShadowL0rd333's profile" [ref=e634]:
+                      - /url: https://www.reddit.com/user/ShadowL0rd333/
+                      - text: ShadowL0rd333
+                    - generic [ref=e635]: •
+                    - link "5d ago" [ref=e637]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/ornb1cs/
+                      - time [ref=e639]: 5d ago
+                - generic [ref=e641]:
+                  - generic [ref=e644]:
+                    - paragraph [ref=e645]: It worked at the end with Eren because he was a kindred spirit with Yimir the Founder.
+                    - paragraph [ref=e646]: I don't think Armin would have been able to use the Founding Titan to the extend Eren did. Also Beast would have very less desire to co-operate with him further limiting the founders ability to be used.
+                    - paragraph [ref=e647]: "Armin shines when he uses his head and that too from the backlines. Throughout the series Armin struggles/chokes when making decision on the spot. (eg: when taking back shiganshina he couldn't plan on the fly and asked Jean to cover for him)"
+                    - paragraph [ref=e648]: So he would have the Attack Titan with okayish combat ability and unable to use his big brains to the fullest. Sure as he grows older, gets experience and confidence he would overcome his weakness but time is a luxury he wouldn't have had.
+                    - paragraph [ref=e649]: Marley was losing big time and to give themselves some time Willy wanted to distract the world by diverting their attention towards Paradise. So it is just a matter of time before Paradise would have been wiped out. So Armins choices wouldn't have been pretty at the end with all the limitations.
+                  - generic [ref=e651]:
+                    - img [ref=e652]
+                    - generic [ref=e654]: "2"
+                    - img [ref=e655]
+              - article "Comment from Pet_Velvet 5 days ago" [ref=e658]:
+                - generic "Pet_Velvet's profile --- avatar Pet_Velvet's profile 5d ago" [ref=e659] [cursor=pointer]:
+                  - link "Pet_Velvet's profile --- avatar" [ref=e664]:
+                    - /url: https://www.reddit.com/user/Pet_Velvet/
+                    - img "u/Pet_Velvet avatar" [ref=e667]
+                  - generic [ref=e671]:
+                    - link "Pet_Velvet's profile" [ref=e674]:
+                      - /url: https://www.reddit.com/user/Pet_Velvet/
+                      - text: Pet_Velvet
+                    - generic [ref=e675]: •
+                    - link "5d ago" [ref=e677]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/orooduf/
+                      - time [ref=e679]: 5d ago
+                - generic [ref=e681]:
+                  - generic [ref=e684]:
+                    - paragraph [ref=e685]: He either would die/get captured very early on due to his combat incompetence or think of a good solution to the Paradis question due to his intelligence
+                    - paragraph [ref=e686]: No inbetween
+                  - generic [ref=e688]:
+                    - img [ref=e689]
+                    - generic [ref=e691]: "2"
+                    - img [ref=e692]
+              - article "Comment from Calm-Reaction3612 5 days ago" [ref=e695]:
+                - generic "Calm-Reaction3612's profile --- avatar Calm-Reaction3612's profile 5d ago" [ref=e696] [cursor=pointer]:
+                  - link "Calm-Reaction3612's profile --- avatar" [ref=e701]:
+                    - /url: https://www.reddit.com/user/Calm-Reaction3612/
+                    - generic [ref=e703]:
+                      - img [ref=e705]
+                      - img [ref=e709]
+                      - img [ref=e712]
+                  - generic [ref=e717]:
+                    - link "Calm-Reaction3612's profile" [ref=e720]:
+                      - /url: https://www.reddit.com/user/Calm-Reaction3612/
+                      - text: Calm-Reaction3612
+                    - generic [ref=e721]: •
+                    - link "5d ago" [ref=e723]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/orotmiy/
+                      - time [ref=e725]: 5d ago
+                - generic [ref=e727]:
+                  - paragraph [ref=e731]: I think Armin would likely use the Founding titan for necessary defense by using small scale rumblings and to scare others to compel them to surrender. Armin likely forces compliance initially while slowly negotiating and trying to build healthy alliances with other countries as a sort of a diplomat.
+                  - generic [ref=e733]:
+                    - img [ref=e734]
+                    - generic [ref=e736]: "2"
+                    - img [ref=e737]
+              - article "Comment from ikzz1 5 days ago" [ref=e740]:
+                - generic "ikzz1's profile --- avatar ikzz1's profile 5d ago" [ref=e741] [cursor=pointer]:
+                  - link "ikzz1's profile --- avatar" [ref=e746]:
+                    - /url: https://www.reddit.com/user/ikzz1/
+                    - img "u/ikzz1 avatar" [ref=e749]
+                  - generic [ref=e753]:
+                    - link "ikzz1's profile" [ref=e756]:
+                      - /url: https://www.reddit.com/user/ikzz1/
+                      - text: ikzz1
+                    - generic [ref=e757]: •
+                    - link "5d ago" [ref=e759]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/orouv4b/
+                      - time [ref=e761]: 5d ago
+                - generic [ref=e763]:
+                  - generic [ref=e766]:
+                    - paragraph [ref=e767]: Armin wanted a limited rumbling to serve as a threat.
+                    - paragraph [ref=e768]: It might work, but it might not, and it requires Historia to become a breeding machine.
+                    - paragraph [ref=e769]: 100% rumbling is the only way to ensure Paradis is 100% safe and Historia can have children on her on terms.
+                  - generic [ref=e771]:
+                    - img [ref=e772]
+                    - generic [ref=e774]: "2"
+                    - img [ref=e775]
+              - article "Comment from Dangerous_Shift_3637 5 days ago" [ref=e778]:
+                - generic "Dangerous_Shift_3637's profile --- avatar Dangerous_Shift_3637's profile 5d ago" [ref=e779] [cursor=pointer]:
+                  - link "Dangerous_Shift_3637's profile --- avatar" [ref=e784]:
+                    - /url: https://www.reddit.com/user/Dangerous_Shift_3637/
+                    - img "u/Dangerous_Shift_3637 avatar" [ref=e787]
+                  - generic [ref=e791]:
+                    - link "Dangerous_Shift_3637's profile" [ref=e794]:
+                      - /url: https://www.reddit.com/user/Dangerous_Shift_3637/
+                      - text: Dangerous_Shift_3637
+                    - generic [ref=e795]: •
+                    - link "5d ago" [ref=e797]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/orneyaq/
+                      - time [ref=e799]: 5d ago
+                - generic [ref=e801]:
+                  - generic [ref=e804]:
+                    - paragraph [ref=e805]: The story would've ended on trost or female titan arc, or clash of titan arc.
+                    - paragraph [ref=e806]: Ppl don't realize Eren determination pushed the story that far. Not to mention Eren biq.
+                  - generic [ref=e808]:
+                    - img [ref=e809]
+                    - generic [ref=e811]: "1"
+                    - img [ref=e812]
+              - article "Comment from San_Forcier7 5 days ago" [ref=e815]:
+                - generic "San_Forcier7's profile --- avatar San_Forcier7's profile 5d ago" [ref=e816] [cursor=pointer]:
+                  - link "San_Forcier7's profile --- avatar" [ref=e821]:
+                    - /url: https://www.reddit.com/user/San_Forcier7/
+                    - img [ref=e826]
+                  - generic [ref=e831]:
+                    - link "San_Forcier7's profile" [ref=e834]:
+                      - /url: https://www.reddit.com/user/San_Forcier7/
+                      - text: San_Forcier7
+                    - generic [ref=e835]: •
+                    - link "5d ago" [ref=e837]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/oro1s7f/
+                      - time [ref=e839]: 5d ago
+                - generic [ref=e841]:
+                  - paragraph [ref=e845]: "Armin would just die and mash up tbf, he’ doesn’t have the resolve to do what needs to be done, side note about this scene: in this scene Erens layers to his character is being peeled away, layer by layer, persona by persona, at first when he started talking to armin he was regular eren, then chad eren, then he goes to simp Eren crying for mikasa, then he returns back to founding titan Eren, stating matter of factly that he had no choice but to commit to the future he’d seen, and then moves into the paychopathic genocidal violent layer of Eren, which says that at his core he basically craves blood fighting and freedom, that’s him in this scene, he then moves to his core and final layer, the inner child Eren, who Eren really is at his core, someone who wants to live happily ever after with his freinds, doesn’t want to die, and is horrified by the monster he’s become, it’s an absolute masterpiece in writing, and also shows the inner child and demon everyone has inside them perfectly, idk why alot of people say Eren was character assasinated, it was completely in line with his theme, you can see him changing by his body language facial expressions and voice acting, he’ll go from crying to a cold flat voice in 10 seconds"
+                  - generic [ref=e847]:
+                    - img [ref=e848]
+                    - generic [ref=e850]: "1"
+                    - img [ref=e851]
+              - article "Comment from Liet-Kynez 5 days ago" [ref=e854]:
+                - generic "Liet-Kynez's profile 5d ago" [ref=e855] [cursor=pointer]:
+                  - img [ref=e857]
+                  - generic [ref=e862]:
+                    - link "Liet-Kynez's profile" [ref=e865]:
+                      - /url: https://www.reddit.com/user/Liet-Kynez/
+                      - text: Liet-Kynez
+                    - generic [ref=e866]: •
+                    - link "5d ago" [ref=e868]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/orqnkmy/
+                      - time [ref=e870]: 5d ago
+              - article "Comment from familyparka 4 days ago" [ref=e873]:
+                - generic "familyparka's profile --- avatar familyparka's profile 4d ago" [ref=e874] [cursor=pointer]:
+                  - link "familyparka's profile --- avatar" [ref=e879]:
+                    - /url: https://www.reddit.com/user/familyparka/
+                    - generic [ref=e881]:
+                      - img [ref=e883]
+                      - img [ref=e887]
+                      - img [ref=e890]
+                  - generic [ref=e895]:
+                    - link "familyparka's profile" [ref=e898]:
+                      - /url: https://www.reddit.com/user/familyparka/
+                      - text: familyparka
+                    - generic [ref=e899]: •
+                    - link "4d ago" [ref=e901]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/orz8w8s/
+                      - time [ref=e903]: 4d ago
+                - generic [ref=e905]:
+                  - paragraph [ref=e909]: Armin would 100% reach a much better conclusion than Eren or Zeke.
+                  - generic [ref=e911]:
+                    - img [ref=e912]
+                    - generic [ref=e914]: "1"
+                    - img [ref=e915]
+              - article "Comment from OnDaGoop 3 days ago" [ref=e918]:
+                - generic "OnDaGoop's profile --- avatar OnDaGoop's profile 3d ago" [ref=e919] [cursor=pointer]:
+                  - link "OnDaGoop's profile --- avatar" [ref=e924]:
+                    - /url: https://www.reddit.com/user/OnDaGoop/
+                    - img "u/OnDaGoop avatar" [ref=e927]
+                  - generic [ref=e931]:
+                    - link "OnDaGoop's profile" [ref=e934]:
+                      - /url: https://www.reddit.com/user/OnDaGoop/
+                      - text: OnDaGoop
+                    - generic [ref=e935]: •
+                    - link "3d ago" [ref=e937]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/os252rz/
+                      - time [ref=e939]: 3d ago
+                - generic [ref=e941]:
+                  - paragraph [ref=e945]: No real way to know, we havent been in a position to see what Armin would really do with this level of something. But, i personally would come to think he would use the attack titan, and then the future would basically get set to the founder never getting used if he gets the same chance to do what eren did in the paths with zeke. I truly do believe if Armin was the one in control, he would eventually come to the conclusion the only solution to the Eldian/Marleyian problem is likely not using the founder at all.
+                  - generic [ref=e947]:
+                    - img [ref=e948]
+                    - generic [ref=e950]: "1"
+                    - img [ref=e951]
+              - article "Comment from ZeubeuWantsBeu 5 days ago" [ref=e954]:
+                - generic "ZeubeuWantsBeu's profile --- avatar ZeubeuWantsBeu's profile 5d ago" [ref=e955] [cursor=pointer]:
+                  - link "ZeubeuWantsBeu's profile --- avatar" [ref=e960]:
+                    - /url: https://www.reddit.com/user/ZeubeuWantsBeu/
+                    - img [ref=e965]
+                  - generic [ref=e970]:
+                    - link "ZeubeuWantsBeu's profile" [ref=e973]:
+                      - /url: https://www.reddit.com/user/ZeubeuWantsBeu/
+                      - text: ZeubeuWantsBeu
+                    - generic [ref=e974]: •
+                    - link "5d ago" [ref=e976]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/ormx07q/
+                      - time [ref=e978]: 5d ago
+                - generic [ref=e980]:
+                  - paragraph [ref=e984]: Armin folded under the pressure of fighting the colossal titan and gave command to Jean. If he had the founder he'd probably ask Eren what to do.
+                  - generic [ref=e986]:
+                    - img [ref=e987]
+                    - generic [ref=e989]: "1"
+                    - img [ref=e990]
+              - article "Comment from Bluelantern9 5 days ago" [ref=e993]:
+                - generic "Bluelantern9's profile --- avatar Bluelantern9's profile 5d ago" [ref=e994] [cursor=pointer]:
+                  - link "Bluelantern9's profile --- avatar" [ref=e999]:
+                    - /url: https://www.reddit.com/user/Bluelantern9/
+                    - img "u/Bluelantern9 avatar" [ref=e1002]
+                  - generic [ref=e1006]:
+                    - link "Bluelantern9's profile" [ref=e1009]:
+                      - /url: https://www.reddit.com/user/Bluelantern9/
+                      - text: Bluelantern9
+                    - generic [ref=e1010]: •
+                    - link "5d ago" [ref=e1012]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/orn33en/
+                      - time [ref=e1014]: 5d ago
+                - generic [ref=e1016]:
+                  - paragraph [ref=e1020]: He would have been dead. He doesn't have the resolve Eren does. Its possible he dies in Trost, where he was powerless and paralyzed, to scared to even consider resisting his death. While he is smart, he does get overwhelmed. He could get taken back to Marley by the Warriors with much less push back, especially since he doesn't have the fighting skill of Eren. Maybe he could come up with a better plan but realistically he just doesn't survive until that point.
+                  - generic [ref=e1022]:
+                    - img [ref=e1023]
+                    - generic [ref=e1025]: "0"
+                    - img [ref=e1026]
+              - article "Comment from tinselpandora 5 days ago" [ref=e1029]:
+                - generic "tinselpandora's profile --- avatar tinselpandora's profile 5d ago" [ref=e1030] [cursor=pointer]:
+                  - link "tinselpandora's profile --- avatar" [ref=e1035]:
+                    - /url: https://www.reddit.com/user/tinselpandora/
+                    - generic [ref=e1037]:
+                      - img [ref=e1039]
+                      - img [ref=e1043]
+                      - img [ref=e1046]
+                  - generic [ref=e1051]:
+                    - link "tinselpandora's profile" [ref=e1054]:
+                      - /url: https://www.reddit.com/user/tinselpandora/
+                      - text: tinselpandora
+                    - generic [ref=e1055]: •
+                    - link "5d ago" [ref=e1057]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/comment/ormvnx8/
+                      - time [ref=e1059]: 5d ago
+                - generic [ref=e1061]:
+                  - generic [ref=e1064]:
+                    - paragraph [ref=e1065]: I don’t think Armin would’ve saved the world, but he was a strategist and would’ve at least exhausted every possible option before resorting to genocide.
+                    - paragraph [ref=e1066]: Eren saw the Rumbling as the only road because of who Eren was. Give the same powers to Armin, and you probably get a different journey and a less horrific outcome, but not necessarily a happy ending. The point of AOT is that the cycle itself is bigger than any one person, even the person holding the Founding Titan.
+                  - generic [ref=e1068]:
+                    - img [ref=e1069]
+                    - generic [ref=e1071]: "6"
+                    - img [ref=e1072]
+        - generic [ref=e1077]:
+          - generic [ref=e1078]:
+            - complementary "People also ask about section" [ref=e1080]:
+              - heading "People also ask about section" [level=1] [ref=e1081]
+              - generic [ref=e1082]:
+                - img [ref=e1084]
+                - generic [ref=e1086]: People also ask about
+              - generic [ref=e1087]:
+                - link "Best Founding Titan users in Attack on Titan" [ref=e1089] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/f96a2103-8a36-4c1b-a20d-7bbc2d80a893/?q=Best+Founding+Titan+users+in+Attack+on+Titan&source=PDP
+                  - generic [ref=e1092]: Best Founding Titan users in Attack on Titan
+                  - img [ref=e1095]
+                - link "Armin's role in Attack on Titan" [ref=e1098] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/d4a386ee-ae81-4651-ba7e-a4af47684611/?q=Armin%27s+role+in+Attack+on+Titan&source=PDP
+                  - generic [ref=e1101]: Armin's role in Attack on Titan
+                  - img [ref=e1104]
+                - link "Comparison of Armin and Eren as Titans" [ref=e1107] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/cd91f8e9-e453-4f2a-9a56-b07446a85ca3/?q=Comparison+of+Armin+and+Eren+as+Titans&source=PDP
+                  - generic [ref=e1110]: Comparison of Armin and Eren as Titans
+                  - img [ref=e1113]
+                - link "Armin's Colossal Titan abilities" [ref=e1116] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/2e8c4073-1411-42b4-b6b3-805e6cbeb886/?q=Armin%27s+Colossal+Titan+abilities&source=PDP
+                  - generic [ref=e1119]: Armin's Colossal Titan abilities
+                  - img [ref=e1122]
+                - link "Eren's Founding Titan forms" [ref=e1125] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/c8f11a1f-77f4-4f1b-b443-42b3731970a4/?q=Eren%27s+Founding+Titan+forms&source=PDP
+                  - generic [ref=e1128]: Eren's Founding Titan forms
+                  - img [ref=e1131]
+            - complementary "Community information" [ref=e1436]:
+              - generic [ref=e1438]:
+                - heading "Community Info Section" [level=1] [ref=e1439]
+                - generic [ref=e1440]:
+                  - generic [ref=e1441]:
+                    - link "r/attackontitan" [ref=e1442] [cursor=pointer]:
+                      - /url: /r/attackontitan/
+                      - generic [ref=e1443]: r/attackontitan
+                    - 'button "Community status: Resting Under the tree..." [ref=e1446] [cursor=pointer]':
+                      - img "tree" [ref=e1447]
+                  - button "Join" [ref=e1451] [cursor=pointer]
+                - generic [ref=e1452]:
+                  - generic [ref=e1453]: Attack on Titan (Shingeki no Kyojin)
+                  - generic [ref=e1454]: A subreddit dedicated to Attack on Titan (進撃の巨人) manga and anime series.
+                  - generic [ref=e1457]:
+                    - img [ref=e1458]
+                    - text: Public
+          - list [ref=e1461]:
+            - listitem [ref=e1462]:
+              - link "Home" [ref=e1464] [cursor=pointer]:
+                - /url: /?feed=home
+            - listitem [ref=e1465]:
+              - link "Popular" [ref=e1467] [cursor=pointer]:
+                - /url: /r/popular/
+            - listitem [ref=e1468]:
+              - link "News" [ref=e1470] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e1471]:
+              - link "Explore" [ref=e1473] [cursor=pointer]:
+                - /url: /explore/
+            - listitem [ref=e1474]:
+              - link "Best of Reddit" [ref=e1476] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/global/
+            - listitem [ref=e1477]:
+              - link "Best of Reddit in Portuguese" [ref=e1479] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+            - listitem [ref=e1480]:
+              - link "Best of Reddit in German" [ref=e1482] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-de/
+            - listitem [ref=e1483]:
+              - link "Reddit Rules" [ref=e1485] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/content-policy
+            - listitem [ref=e1486]:
+              - link "Privacy Policy" [ref=e1488] [cursor=pointer]:
+                - /url: https://www.reddit.com/policies/privacy-policy
+            - listitem [ref=e1489]:
+              - link "User Agreement" [ref=e1491] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/user-agreement
+            - listitem [ref=e1492]:
+              - link "Your Privacy Choices" [ref=e1494] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/articles/43980704794004
+            - listitem [ref=e1495]:
+              - link "Accessibility" [ref=e1497] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+            - listitem [ref=e1498]:
+              - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1499] [cursor=pointer]:
+                - /url: https://redditinc.com

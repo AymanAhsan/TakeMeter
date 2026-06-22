@@ -1,0 +1,1096 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Just finished AOT!! : r/attackontitan"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - generic [ref=e12]:
+            - button "Open menu" [ref=e16] [cursor=pointer]:
+              - img [ref=e19]
+              - generic [ref=e21]:
+                - generic: Open menu
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Home":
+                        - /url: https://www.reddit.com/
+          - search [ref=e31]:
+            - generic [ref=e33]:
+              - img [ref=e36]
+              - textbox "Ask" [ref=e40]:
+                - /placeholder: Find anything
+              - separator [ref=e41]
+              - link "Ask" [ref=e45] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e46]:
+                  - img [ref=e48]
+                  - generic [ref=e50]: Ask
+              - generic: Find anything
+          - generic [ref=e51]:
+            - link "Log In" [ref=e55] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e57]: Log In
+            - button "Expand user menu" [ref=e62] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]:
+                - generic: Expand user menu
+      - generic [ref=e71]:
+        - main [ref=e72]:
+          - 'generic "Just finished AOT!! : r/attackontitan"'
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - button "Back" [ref=e77] [cursor=pointer]:
+                  - img [ref=e80]
+                  - generic [ref=e82]:
+                    - generic: Back
+                - link "Go to attackontitan" [ref=e85] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/
+                  - generic [ref=e89]:
+                    - generic: Go to attackontitan
+                - group [ref=e90]:
+                  - generic [ref=e91]:
+                    - link "r/attackontitan" [ref=e94] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/
+                    - generic [ref=e95]: •
+                    - time [ref=e97]: 3d ago
+                  - 'link "Author: Ordinary-Cheek-4716" [ref=e102] [cursor=pointer]':
+                    - /url: https://www.reddit.com/user/Ordinary-Cheek-4716/
+                    - generic [ref=e103]: Ordinary-Cheek-4716
+              - button "Open user actions" [ref=e107] [cursor=pointer]:
+                - img [ref=e110]
+            - 'heading "Post Title: Just finished AOT!!" [level=1] [ref=e114]': Just finished AOT!!
+            - generic [ref=e117]:
+              - paragraph [ref=e119]: Where do I begin? I’ll keep this short this was the best anime I’ve ever watched plain and simple. I love demon slayer and I love hunter hunter but removing my bias AOT is just superior. The amount of twists it gives you, the amount of times you think you figured it out then boom something is revealed. The amount of deaths from close ones, it’s impossible for anyone to predict what the ending would be. The person eren evolves to, from someone that was an annoying brat to one who achieved his goal to ending the titans reign. I don’t know how to feel about the ending I just hated it for mikasa who was arguably my fav character. She suffered so much and that was her reward. I wish I can just type my thoughts and keep going but I’ll know I’ll forget more. Holy shit Erwin! He’d have no idea what the end would’ve been he never got to see the cellar. Reiner survived to the end I never expected. Zeke an interesting character I still don’t know what side he’s on lol, fucking hell the scene where Levi see all the dead scouts at the end🥲🥲😭. Eren, why! Why coudnt there be a world where u lived with mikasa and armin. I want to keep going but I just finished it now I haven’t processed so much. Hange Sasha😭. 10/10 take a bow AOT I doubted you at first
+              - button "Read more" [ref=e120] [cursor=pointer]:
+                - generic [ref=e122]: Read more
+                - img [ref=e125]
+            - generic [ref=e127]:
+              - img [ref=e128]
+              - generic [ref=e130]: "20"
+              - img [ref=e131]
+              - generic [ref=e133]: ·
+              - img [ref=e134]
+              - generic [ref=e136]: "10"
+          - separator [ref=e137]
+          - region "Comments" [ref=e140]:
+            - heading "Comments Section" [level=1] [ref=e141]
+            - generic:
+              - article "Comment from AutoModerator 3 days ago" [ref=e143]:
+                - generic "AutoModerator's profile 3d ago" [ref=e144] [cursor=pointer]:
+                  - img [ref=e146]
+                  - generic [ref=e151]:
+                    - link "AutoModerator's profile" [ref=e154]:
+                      - /url: https://www.reddit.com/user/AutoModerator/
+                      - text: AutoModerator
+                    - generic "Comment distinguished by moderator" [ref=e157]: MOD
+                    - generic [ref=e158]: •
+                    - link "3d ago" [ref=e160]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/os2h1z0/
+                      - time [ref=e162]: 3d ago
+              - article "Comment from JSleez225 3 days ago" [ref=e165]:
+                - generic "JSleez225's profile --- avatar JSleez225's profile 3d ago" [ref=e166] [cursor=pointer]:
+                  - link "JSleez225's profile --- avatar" [ref=e171]:
+                    - /url: https://www.reddit.com/user/JSleez225/
+                    - img "u/JSleez225 avatar" [ref=e174]
+                  - generic [ref=e178]:
+                    - link "JSleez225's profile" [ref=e181]:
+                      - /url: https://www.reddit.com/user/JSleez225/
+                      - text: JSleez225
+                    - generic [ref=e182]: •
+                    - link "3d ago" [ref=e184]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/os34n6u/
+                      - time [ref=e186]: 3d ago
+                - generic [ref=e188]:
+                  - paragraph [ref=e192]: "Eren’s character arc and motivations are some of the best ever told in fiction. I often go back to the series and am floored with how incredible and entertaining it was. 10/10 for sure. If you haven’t seen it, watch Fullmetal Alchemist: Brotherhood next"
+                  - generic [ref=e194]:
+                    - img [ref=e195]
+                    - generic [ref=e197]: "3"
+                    - img [ref=e198]
+                  - img
+                  - 'article "Comment thread level 1: Reply from Ordinary-Cheek-4716 3 days ago" [ref=e202]':
+                    - generic "Ordinary-Cheek-4716's profile --- avatar Ordinary-Cheek-4716's profile 3d ago" [ref=e203] [cursor=pointer]:
+                      - link "Ordinary-Cheek-4716's profile --- avatar" [ref=e208]:
+                        - /url: https://www.reddit.com/user/Ordinary-Cheek-4716/
+                        - img "u/Ordinary-Cheek-4716 avatar" [ref=e211]
+                      - generic [ref=e215]:
+                        - link "Ordinary-Cheek-4716's profile" [ref=e218]:
+                          - /url: https://www.reddit.com/user/Ordinary-Cheek-4716/
+                          - text: Ordinary-Cheek-4716
+                        - generic "Comment distinguished as the original poster" [ref=e221]: OP
+                        - generic [ref=e222]: •
+                        - link "3d ago" [ref=e224]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/os3vo59/
+                          - time [ref=e226]: 3d ago
+                    - generic [ref=e228]:
+                      - paragraph [ref=e232]: I watched FMA and while the ending was absolutely beautiful, it was boring at first to me, but I loved the last 10 ish shows. 7/10. I do love the story and how ed and Al sacrifice for each other.
+                      - generic [ref=e234]:
+                        - img [ref=e235]
+                        - generic [ref=e237]: "1"
+                        - img [ref=e238]
+              - article "Comment from Cismet 3 days ago" [ref=e241]:
+                - generic "Cismet's profile --- avatar Cismet's profile 3d ago" [ref=e242] [cursor=pointer]:
+                  - link "Cismet's profile --- avatar" [ref=e247]:
+                    - /url: https://www.reddit.com/user/Cismet/
+                    - img "u/Cismet avatar" [ref=e250]
+                  - generic [ref=e254]:
+                    - link "Cismet's profile" [ref=e257]:
+                      - /url: https://www.reddit.com/user/Cismet/
+                      - text: Cismet
+                    - generic [ref=e258]: •
+                    - link "3d ago" [ref=e260]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/os349ae/
+                      - time [ref=e262]: 3d ago
+                - generic [ref=e264]:
+                  - paragraph [ref=e268]: "Brutal ending for Mikasa fans fr. If you need to cope or just want something good to watch next: Steins Gate, Death Note, and Frieren are all great. Nothing can touch AoT tho"
+                  - generic [ref=e270]:
+                    - img [ref=e271]
+                    - generic [ref=e273]: "4"
+                    - img [ref=e274]
+                  - img
+                  - 'article "Comment thread level 1: Reply from Total-Badger-425 2 days ago" [ref=e278]':
+                    - generic "Total-Badger-425's profile --- avatar Total-Badger-425's profile 2d ago" [ref=e279] [cursor=pointer]:
+                      - link "Total-Badger-425's profile --- avatar" [ref=e284]:
+                        - /url: https://www.reddit.com/user/Total-Badger-425/
+                        - img [ref=e289]
+                      - generic [ref=e294]:
+                        - link "Total-Badger-425's profile" [ref=e297]:
+                          - /url: https://www.reddit.com/user/Total-Badger-425/
+                          - text: Total-Badger-425
+                        - generic [ref=e298]: •
+                        - link "2d ago" [ref=e300]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/osdbeya/
+                          - time [ref=e302]: 2d ago
+                    - generic [ref=e304]:
+                      - paragraph [ref=e308]: Coping with death note is certainly a choice
+                      - generic [ref=e310]:
+                        - img [ref=e311]
+                        - generic [ref=e313]: "1"
+                        - img [ref=e314]
+              - article "Comment from MilliardoMK 3 days ago" [ref=e317]:
+                - generic "MilliardoMK's profile --- avatar MilliardoMK's profile 3d ago" [ref=e318] [cursor=pointer]:
+                  - link "MilliardoMK's profile --- avatar" [ref=e323]:
+                    - /url: https://www.reddit.com/user/MilliardoMK/
+                    - img "u/MilliardoMK avatar" [ref=e326]
+                  - generic [ref=e330]:
+                    - link "MilliardoMK's profile" [ref=e333]:
+                      - /url: https://www.reddit.com/user/MilliardoMK/
+                      - text: MilliardoMK
+                    - generic [ref=e334]: •
+                    - link "3d ago" [ref=e336]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/os3kr8u/
+                      - time [ref=e338]: 3d ago
+                - generic [ref=e340]:
+                  - paragraph [ref=e344]: Snap I just finished it too for the first time. I agree.
+                  - generic [ref=e346]:
+                    - img [ref=e347]
+                    - generic [ref=e349]: "1"
+                    - img [ref=e350]
+              - article "Comment from Commercial-Citron127 3 days ago" [ref=e353]:
+                - generic "Commercial-Citron127's profile --- avatar Commercial-Citron127's profile 3d ago" [ref=e354] [cursor=pointer]:
+                  - link "Commercial-Citron127's profile --- avatar" [ref=e359]:
+                    - /url: https://www.reddit.com/user/Commercial-Citron127/
+                    - img "u/Commercial-Citron127 avatar" [ref=e362]
+                  - generic [ref=e366]:
+                    - link "Commercial-Citron127's profile" [ref=e369]:
+                      - /url: https://www.reddit.com/user/Commercial-Citron127/
+                      - text: Commercial-Citron127
+                    - generic [ref=e370]: •
+                    - link "3d ago" [ref=e372]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/os4l2y7/
+                      - time [ref=e374]: 3d ago
+                - generic [ref=e376]:
+                  - paragraph [ref=e380]:
+                    - text: AOT Is a great show from beginning to end, rarely does any show have so much content and keeps the quality of its story up like that. I only ever disliked s3p1, but the rest of the show heavily lifts the entire thing.
+                    - text: The ending was kinda controversial at the time it released I hear, but I think its a great ending, if people expected Eren to get a redemption after all that they would have gotten a worst written ending for sure.
+                    - text: I usually like older, shorter anime, but AOT deserves all the popularity it got.
+                  - generic [ref=e382]:
+                    - img [ref=e383]
+                    - generic [ref=e385]: "1"
+                    - img [ref=e386]
+              - article "Comment from CoonJams112 3 days ago" [ref=e389]:
+                - generic "CoonJams112's profile --- avatar CoonJams112's profile 3d ago" [ref=e390] [cursor=pointer]:
+                  - link "CoonJams112's profile --- avatar" [ref=e395]:
+                    - /url: https://www.reddit.com/user/CoonJams112/
+                    - img "u/CoonJams112 avatar" [ref=e398]
+                  - generic [ref=e402]:
+                    - link "CoonJams112's profile" [ref=e405]:
+                      - /url: https://www.reddit.com/user/CoonJams112/
+                      - text: CoonJams112
+                    - generic [ref=e406]: •
+                    - link "3d ago" [ref=e408]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/os5mzwe/
+                      - time [ref=e410]: 3d ago
+                - generic [ref=e412]:
+                  - paragraph [ref=e416]: Great now watch it again
+                  - generic [ref=e418]:
+                    - img [ref=e419]
+                    - generic [ref=e421]: "1"
+                    - img [ref=e422]
+              - article "Comment from Vegetable-Salad5368 3 days ago" [ref=e425]:
+                - generic "Vegetable-Salad5368's profile --- avatar Vegetable-Salad5368's profile 3d ago" [ref=e426] [cursor=pointer]:
+                  - link "Vegetable-Salad5368's profile --- avatar" [ref=e431]:
+                    - /url: https://www.reddit.com/user/Vegetable-Salad5368/
+                    - img [ref=e436]
+                  - generic [ref=e441]:
+                    - link "Vegetable-Salad5368's profile" [ref=e444]:
+                      - /url: https://www.reddit.com/user/Vegetable-Salad5368/
+                      - text: Vegetable-Salad5368
+                    - generic [ref=e445]: •
+                    - link "3d ago" [ref=e447]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/os61fig/
+                      - time [ref=e449]: 3d ago
+                - generic [ref=e451]:
+                  - generic [ref=e454]:
+                    - paragraph [ref=e455]: Cara, eu entendo exatamente esse sentimento.
+                    - paragraph [ref=e456]: Attack on Titan me pegou de um jeito que nenhuma outra obra conseguiu. Eu já tinha assistido antes, mas recentemente resolvi re-assistir a história e foi tão impactante que eu simplesmente decidi começar a colecionar o mangá do nada.
+                    - paragraph [ref=e457]: Eu nem tinha planejado colecionar o mangá, mas conforme fui relendo e revisitando a obra fui percebendo o quanto ela marcou minha vida. Hoje estou correndo atrás da coleção inteira.
+                    - paragraph [ref=e458]: E o mais louco é que mesmo sabendo de vários acontecimentos, a história continua acertando em cheio. Personagens como Erwin, Hange, Levi, Sasha e até o próprio Eren continuam me fazendo sentir as mesmas coisas.
+                    - paragraph [ref=e459]: Attack on Titan é uma daquelas obras raras que terminam e deixam um vazio estranho. Você fica olhando pro teto pensando em tudo que aconteceu e tentando processar.
+                    - paragraph [ref=e460]: Pra mim também foi uma experiência 10/10 🔥.
+                  - generic [ref=e462]:
+                    - img [ref=e463]
+                    - generic [ref=e465]: "1"
+                    - img [ref=e466]
+              - article "Comment from Longjumping-Strike-6 3 days ago" [ref=e469]:
+                - generic "Longjumping-Strike-6's profile --- avatar Longjumping-Strike-6's profile 3d ago" [ref=e470] [cursor=pointer]:
+                  - link "Longjumping-Strike-6's profile --- avatar" [ref=e475]:
+                    - /url: https://www.reddit.com/user/Longjumping-Strike-6/
+                    - img "u/Longjumping-Strike-6 avatar" [ref=e478]
+                  - generic [ref=e482]:
+                    - link "Longjumping-Strike-6's profile" [ref=e485]:
+                      - /url: https://www.reddit.com/user/Longjumping-Strike-6/
+                      - text: Longjumping-Strike-6
+                    - generic [ref=e486]: •
+                    - link "3d ago" [ref=e488]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/comment/os68ijz/
+                      - time [ref=e490]: 3d ago
+                - generic [ref=e492]:
+                  - paragraph [ref=e496]: I liked it until season 4
+                  - generic [ref=e498]:
+                    - img [ref=e499]
+                    - generic [ref=e501]: "1"
+                    - img [ref=e502]
+        - generic [ref=e504]:
+          - generic [ref=e505]:
+            - complementary "People also ask about section" [ref=e507]:
+              - heading "People also ask about section" [level=1] [ref=e508]
+              - generic [ref=e509]:
+                - img [ref=e511]
+                - generic [ref=e513]: People also ask about
+              - generic [ref=e514]:
+                - generic [ref=e516]:
+                  - generic [ref=e517]:
+                    - generic [ref=e518]: Most shocking moments in Attack on Titan
+                    - generic [ref=e519]:
+                      - paragraph [ref=e520]:
+                        - text: To identify the most shocking moments in
+                        - emphasis [ref=e521]: Attack on Titan
+                        - text: ", consider scenes that deliver unexpected plot twists, horrific imagery, or intense emotional impact."
+                      - heading "Unexpected Revelations and Betrayals" [level=3] [ref=e522]
+                      - list [ref=e523]:
+                        - listitem [ref=e524]:
+                          - paragraph [ref=e525]:
+                            - strong [ref=e526]: The Colossal and Armored Titan reveal
+                            - text: was a massive shock to viewers, fundamentally changing the understanding of the show's conflict. "Its hard to beat the Reiner and Bert reveal"
+                        - listitem [ref=e527]:
+                          - paragraph [ref=e528]:
+                            - strong [ref=e529]: Eren manipulating Grisha to kill the Reiss family
+                            - text: completely redefined Eren's character and motivations. "Finding out Eren is the one who pushed Grisha to kill the Reiss family."
+                        - listitem [ref=e530]:
+                          - paragraph [ref=e531]:
+                            - strong [ref=e532]: The Beast Titan's first appearance
+                            - text: was shocking due to its intelligent, human-like behavior and ability to speak. "The Beast Titan legit had me shooketh."
+                      - heading "Horrific and Disturbing Imagery" [level=3] [ref=e533]
+                      - list [ref=e534]:
+                        - listitem [ref=e535]:
+                          - paragraph [ref=e536]:
+                            - strong [ref=e537]: Mike Zacharias's death
+                            - text: is frequently cited as one of the most brutal and disturbing, showing him helpless and terrified before being devoured. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e538]:
+                          - paragraph [ref=e539]:
+                            - strong [ref=e540]: Kaya witnessing her mother being eaten alive
+                            - text: left a lasting impact due to the prolonged suffering and the child's helplessness. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e541]:
+                          - paragraph [ref=e542]:
+                            - strong [ref=e543]: The Rumbling
+                            - text: presented an apocalyptic scale of horror, with countless innocent lives being crushed. "The Rumbling was like the one of the most horrifying end of the world moment I’ve ever seen watching all those people trying to escape even attack each other in a futile attempt to escape and even a women crying in terror and despair with her kids made me speechless and sick probably moreso than Faye or Nanaba’s deaths"
+                      - heading "Emotional Impact and Character Trauma" [level=3] [ref=e544]
+                      - list [ref=e545]:
+                        - listitem [ref=e546]:
+                          - paragraph [ref=e547]:
+                            - strong [ref=e548]: Nanaba's psychological breakdown
+                            - text: before her death, regressing to a terrified child, was deeply disturbing. "Nanaba screaming "father, please, no, i'll be good", having a full on trauma induced regression to a childhood memory as shes about to be eaten."
+                        - listitem [ref=e549]:
+                          - paragraph [ref=e550]:
+                            - strong [ref=e551]: Hannah attempting CPR on Franz
+                            - text: ", who was missing the lower half of his body, highlighted the grim realities of battle. \"this was disturbing.Hannah giving cpr to franz. the view in anime is blocked by armin in the anime\""
+                        - listitem [ref=e552]:
+                          - paragraph [ref=e553]:
+                            - strong [ref=e554]: Marco's betrayal and death
+                            - text: was a crushing moment, showing the harshness of a war where former comrades turn on each other. "Being betrayed by not one, not two, but THREE people who you believed were your comrades and friends is just so crushing."
+                      - paragraph [ref=e555]: Do you think the earlier seasons had more shocking moments due to the initial mystery of the titans?
+                      - separator [ref=e556]
+                  - link "Show More" [ref=e561] [cursor=pointer]:
+                    - /url: https://www.reddit.com/answers/d57b852b-83fa-4759-b502-2f0e5d8d9c5d/?q=Most+shocking+moments+in+Attack+on+Titan&source=PDP
+                    - generic [ref=e563]: Show More
+                - link "Character arcs that surprised fans the most" [ref=e565] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/df38321f-e803-466d-9d6d-1b9e19db100b/?q=Character+arcs+that+surprised+fans+the+most&source=PDP
+                  - generic [ref=e568]: Character arcs that surprised fans the most
+                  - img [ref=e571]
+                - link "Best fan theories about the series" [ref=e574] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/d5e3f6fd-c367-451c-808e-7026c39b13fe/?q=Best+fan+theories+about+the+series&source=PDP
+                  - generic [ref=e577]: Best fan theories about the series
+                  - img [ref=e580]
+                - link "Impact of Attack on Titan on anime culture" [ref=e583] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/26e5df5c-514e-440e-b5ac-bf3fd976e84d/?q=Impact+of+Attack+on+Titan+on+anime+culture&source=PDP
+                  - generic [ref=e586]: Impact of Attack on Titan on anime culture
+                  - img [ref=e589]
+                - link "Favorite Titan transformations and why" [ref=e592] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/9a998d24-b73b-4d4d-98ae-739d5fc49f1b/?q=Favorite+Titan+transformations+and+why&source=PDP
+                  - generic [ref=e595]: Favorite Titan transformations and why
+                  - img [ref=e598]
+            - complementary "Related Posts Section" [ref=e600]:
+              - heading "Related Posts Section" [level=1] [ref=e601]: More posts you may like
+              - generic [ref=e602]: Related posts
+              - list [ref=e608]:
+                - listitem [ref=e609]:
+                  - generic [ref=e610]:
+                    - generic [ref=e611]:
+                      - link "I FINISHED LUCKY STAR!!!" [ref=e612] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/LuckyStarSFW/comments/1tvd4ya/i_finished_lucky_star/
+                        - generic [ref=e613]:
+                          - generic: I FINISHED LUCKY STAR!!!
+                      - generic [ref=e614]:
+                        - generic [ref=e615]:
+                          - generic [ref=e617]:
+                            - link "r/LuckyStarSFW" [ref=e618] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/LuckyStarSFW/
+                              - generic [ref=e622]: r/LuckyStarSFW
+                            - generic [ref=e623]: •
+                            - time [ref=e625]: 17d ago
+                          - link "List item post - I FINISHED LUCKY STAR!!!" [ref=e627] [cursor=pointer]:
+                            - /url: /r/LuckyStarSFW/comments/1tvd4ya/i_finished_lucky_star/
+                            - heading "List item post - I FINISHED LUCKY STAR!!!" [level=3] [ref=e630]: I FINISHED LUCKY STAR!!!
+                        - generic [ref=e632]:
+                          - link "r/LuckyStarSFW - I FINISHED LUCKY STAR!!!" [ref=e633] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/LuckyStarSFW/comments/1tvd4ya/i_finished_lucky_star/
+                            - img "r/LuckyStarSFW - I FINISHED LUCKY STAR!!!" [ref=e634]
+                          - generic:
+                            - img
+                      - generic [ref=e636]:
+                        - generic [ref=e637]: "748"
+                        - text: upvotes ·
+                        - generic [ref=e638]: "14"
+                        - text: comments
+                    - separator [ref=e639]
+                - listitem [ref=e640]:
+                  - generic [ref=e641]:
+                    - generic [ref=e642]:
+                      - link "just finished legendary!!" [ref=e643] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/Caraval_OUABH/comments/1u0jdjl/just_finished_legendary/
+                        - generic [ref=e644]:
+                          - generic: just finished legendary!!
+                      - generic [ref=e646]:
+                        - generic [ref=e648]:
+                          - link "r/Caraval_OUABH" [ref=e649] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Caraval_OUABH/
+                            - generic [ref=e653]: r/Caraval_OUABH
+                          - generic [ref=e654]: •
+                          - time [ref=e656]: 11d ago
+                        - link "List item post - just finished legendary!!" [ref=e658] [cursor=pointer]:
+                          - /url: /r/Caraval_OUABH/comments/1u0jdjl/just_finished_legendary/
+                          - heading "List item post - just finished legendary!!" [level=3] [ref=e661]: just finished legendary!!
+                      - generic [ref=e663]:
+                        - generic [ref=e664]: "10"
+                        - text: upvotes ·
+                        - generic [ref=e665]: "3"
+                        - text: comments
+                    - separator [ref=e666]
+                - listitem [ref=e667]:
+                  - generic [ref=e668]:
+                    - generic [ref=e669]:
+                      - link "Just finished the story!" [ref=e670] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/ResidentEvilRequiem/comments/1tt489r/just_finished_the_story/
+                        - generic [ref=e671]:
+                          - generic: Just finished the story!
+                      - generic [ref=e673]:
+                        - generic [ref=e675]:
+                          - link "r/ResidentEvilRequiem" [ref=e676] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/ResidentEvilRequiem/
+                            - generic [ref=e680]: r/ResidentEvilRequiem
+                          - generic [ref=e681]: •
+                          - time [ref=e683]: 19d ago
+                        - link "SPOILER List item post - Just finished the story!" [ref=e685] [cursor=pointer]:
+                          - /url: /r/ResidentEvilRequiem/comments/1tt489r/just_finished_the_story/
+                          - generic [ref=e687]:
+                            - generic [ref=e689]:
+                              - img [ref=e691]
+                              - generic [ref=e693]: SPOILER
+                            - heading "List item post - Just finished the story!" [level=3] [ref=e694]: Just finished the story!
+                      - generic [ref=e696]:
+                        - generic [ref=e697]: "10"
+                        - text: upvotes ·
+                        - generic [ref=e698]: "3"
+                        - text: comments
+                    - separator [ref=e699]
+                - listitem
+                - listitem [ref=e700]:
+                  - generic [ref=e701]:
+                    - generic [ref=e702]:
+                      - link "I just finished S2!" [ref=e703] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/Tomozaki_kun/comments/1t0p7c4/i_just_finished_s2/
+                        - generic [ref=e704]:
+                          - generic: I just finished S2!
+                      - generic [ref=e706]:
+                        - generic [ref=e708]:
+                          - link "r/Tomozaki_kun" [ref=e709] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Tomozaki_kun/
+                            - generic [ref=e713]: r/Tomozaki_kun
+                          - generic [ref=e714]: •
+                          - time [ref=e716]: 2mo ago
+                        - link "SPOILER List item post - I just finished S2!" [ref=e718] [cursor=pointer]:
+                          - /url: /r/Tomozaki_kun/comments/1t0p7c4/i_just_finished_s2/
+                          - generic [ref=e720]:
+                            - generic [ref=e722]:
+                              - img [ref=e724]
+                              - generic [ref=e726]: SPOILER
+                            - heading "List item post - I just finished S2!" [level=3] [ref=e727]: I just finished S2!
+                      - generic [ref=e729]:
+                        - generic [ref=e730]: "15"
+                        - text: upvotes ·
+                        - generic [ref=e731]: "23"
+                        - text: comments
+                    - separator [ref=e732]
+                - listitem [ref=e733]:
+                  - generic [ref=e734]:
+                    - generic [ref=e735]:
+                      - link "Finished AoT, it was my first time" [ref=e736] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1o1gi1o/finished_aot_it_was_my_first_time/
+                        - generic [ref=e737]:
+                          - generic: Finished AoT, it was my first time
+                      - generic [ref=e738]:
+                        - generic [ref=e739]:
+                          - generic [ref=e741]:
+                            - link "r/attackontitan" [ref=e742] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e746]: r/attackontitan
+                            - generic [ref=e747]: •
+                            - time [ref=e749]: 8mo ago
+                          - link "List item post - Finished AoT, it was my first time" [ref=e751] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1o1gi1o/finished_aot_it_was_my_first_time/
+                            - heading "List item post - Finished AoT, it was my first time" [level=3] [ref=e754]: Finished AoT, it was my first time
+                        - link "r/attackontitan - Finished AoT, it was my first time" [ref=e757] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1o1gi1o/finished_aot_it_was_my_first_time/
+                          - img "r/attackontitan - Finished AoT, it was my first time" [ref=e758]
+                      - generic [ref=e760]:
+                        - generic [ref=e761]: "845"
+                        - text: upvotes ·
+                        - generic [ref=e762]: "74"
+                        - text: comments
+                    - separator [ref=e763]
+                - listitem [ref=e764]:
+                  - generic [ref=e765]:
+                    - generic [ref=e766]:
+                      - link "I finally finished AOT" [ref=e767] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qfr2ji/i_finally_finished_aot/
+                        - generic [ref=e768]:
+                          - generic: I finally finished AOT
+                      - generic [ref=e769]:
+                        - generic [ref=e770]:
+                          - generic [ref=e772]:
+                            - link "r/attackontitan" [ref=e773] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e777]: r/attackontitan
+                            - generic [ref=e778]: •
+                            - time [ref=e780]: 5mo ago
+                          - link "SPOILER List item post - I finally finished AOT" [ref=e782] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1qfr2ji/i_finally_finished_aot/
+                            - generic [ref=e784]:
+                              - generic [ref=e786]:
+                                - img [ref=e788]
+                                - generic [ref=e790]: SPOILER
+                              - heading "List item post - I finally finished AOT" [level=3] [ref=e791]: I finally finished AOT
+                        - generic [ref=e793]:
+                          - link "r/attackontitan - I finally finished AOT" [ref=e794] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1qfr2ji/i_finally_finished_aot/
+                            - img "r/attackontitan - I finally finished AOT" [ref=e795]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e797]:
+                        - generic [ref=e798]: "65"
+                        - text: upvotes ·
+                        - generic [ref=e799]: "20"
+                        - text: comments
+                    - separator [ref=e800]
+                - listitem [ref=e801]:
+                  - generic [ref=e802]:
+                    - generic [ref=e803]:
+                      - link "Just finished AOT! 😭😭" [ref=e804] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/animeindian/comments/1taxgfm/just_finished_aot/
+                        - generic [ref=e805]:
+                          - generic: Just finished AOT! 😭😭
+                      - generic [ref=e806]:
+                        - generic [ref=e807]:
+                          - generic [ref=e809]:
+                            - link "r/animeindian" [ref=e810] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/animeindian/
+                              - generic [ref=e814]: r/animeindian
+                            - generic [ref=e815]: •
+                            - time [ref=e817]: 1mo ago
+                          - link "List item post - Just finished AOT! 😭😭" [ref=e819] [cursor=pointer]:
+                            - /url: /r/animeindian/comments/1taxgfm/just_finished_aot/
+                            - heading "List item post - Just finished AOT! 😭😭" [level=3] [ref=e822]: Just finished AOT! 😭😭
+                        - link "r/animeindian - Just finished AOT! 😭😭" [ref=e825] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/animeindian/comments/1taxgfm/just_finished_aot/
+                          - img "r/animeindian - Just finished AOT! 😭😭" [ref=e826]
+                      - generic [ref=e828]:
+                        - generic [ref=e829]: "7"
+                        - text: upvotes ·
+                        - generic [ref=e830]: "21"
+                        - text: comments
+                    - separator [ref=e831]
+                - listitem [ref=e832]:
+                  - generic [ref=e833]:
+                    - generic [ref=e834]:
+                      - link "finished aot, whats next????" [ref=e835] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1on76y0/finished_aot_whats_next/
+                        - generic [ref=e836]:
+                          - generic: finished aot, whats next????
+                      - generic [ref=e837]:
+                        - generic [ref=e838]:
+                          - generic [ref=e840]:
+                            - link "r/attackontitan" [ref=e841] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e845]: r/attackontitan
+                            - generic [ref=e846]: •
+                            - time [ref=e848]: 8mo ago
+                          - link "List item post - finished aot, whats next????" [ref=e850] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1on76y0/finished_aot_whats_next/
+                            - heading "List item post - finished aot, whats next????" [level=3] [ref=e853]: finished aot, whats next????
+                        - link "r/attackontitan - finished aot, whats next????" [ref=e856] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1on76y0/finished_aot_whats_next/
+                          - img "r/attackontitan - finished aot, whats next????" [ref=e857]
+                      - generic [ref=e859]:
+                        - generic [ref=e860]: "548"
+                        - text: upvotes ·
+                        - generic [ref=e861]: "252"
+                        - text: comments
+                    - separator [ref=e862]
+                - listitem
+                - listitem [ref=e863]:
+                  - generic [ref=e864]:
+                    - generic [ref=e865]:
+                      - link "Just watched and finished AOT for the first time.." [ref=e866] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1s2zddy/just_watched_and_finished_aot_for_the_first_time/
+                        - generic [ref=e867]:
+                          - generic: Just watched and finished AOT for the first time..
+                      - generic [ref=e868]:
+                        - generic [ref=e869]:
+                          - generic [ref=e871]:
+                            - link "r/attackontitan" [ref=e872] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e876]: r/attackontitan
+                            - generic [ref=e877]: •
+                            - time [ref=e879]: 3mo ago
+                          - link "List item post - Just watched and finished AOT for the first time.." [ref=e881] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1s2zddy/just_watched_and_finished_aot_for_the_first_time/
+                            - heading "List item post - Just watched and finished AOT for the first time.." [level=3] [ref=e884]: Just watched and finished AOT for the first time..
+                        - link "r/attackontitan - Just watched and finished AOT for the first time.." [ref=e887] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1s2zddy/just_watched_and_finished_aot_for_the_first_time/
+                          - img "r/attackontitan - Just watched and finished AOT for the first time.." [ref=e888]
+                      - generic [ref=e890]:
+                        - generic [ref=e891]: "389"
+                        - text: upvotes ·
+                        - generic [ref=e892]: "49"
+                        - text: comments
+                    - separator [ref=e893]
+                - listitem [ref=e894]:
+                  - generic [ref=e895]:
+                    - generic [ref=e896]:
+                      - link "Finally watched the AOT" [ref=e897] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1s07ef2/finally_watched_the_aot/
+                        - generic [ref=e898]:
+                          - generic: Finally watched the AOT
+                      - generic [ref=e899]:
+                        - generic [ref=e900]:
+                          - generic [ref=e902]:
+                            - link "r/attackontitan" [ref=e903] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e907]: r/attackontitan
+                            - generic [ref=e908]: •
+                            - time [ref=e910]: 3mo ago
+                          - link "List item post - Finally watched the AOT" [ref=e912] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1s07ef2/finally_watched_the_aot/
+                            - heading "List item post - Finally watched the AOT" [level=3] [ref=e915]: Finally watched the AOT
+                        - generic [ref=e917]:
+                          - link "r/attackontitan - Finally watched the AOT" [ref=e918] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1s07ef2/finally_watched_the_aot/
+                            - img "r/attackontitan - Finally watched the AOT" [ref=e919]
+                          - generic:
+                            - img
+                      - generic [ref=e921]:
+                        - generic [ref=e922]: "114"
+                        - text: upvotes ·
+                        - generic [ref=e923]: "15"
+                        - text: comments
+                    - separator [ref=e924]
+                - listitem [ref=e925]:
+                  - generic [ref=e926]:
+                    - generic [ref=e927]:
+                      - link "I just finished AoT last night (and I need help AGAIN)" [ref=e928] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1u1tknf/i_just_finished_aot_last_night_and_i_need_help/
+                        - generic [ref=e929]:
+                          - generic: I just finished AoT last night (and I need help AGAIN)
+                      - generic [ref=e930]:
+                        - generic [ref=e931]:
+                          - generic [ref=e933]:
+                            - link "r/attackontitan" [ref=e934] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e938]: r/attackontitan
+                            - generic [ref=e939]: •
+                            - time [ref=e941]: 10d ago
+                          - link "List item post - I just finished AoT last night (and I need help AGAIN)" [ref=e943] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1u1tknf/i_just_finished_aot_last_night_and_i_need_help/
+                            - heading "List item post - I just finished AoT last night (and I need help AGAIN)" [level=3] [ref=e946]: I just finished AoT last night (and I need help AGAIN)
+                        - generic [ref=e948]:
+                          - link "r/attackontitan - I just finished AoT last night (and I need help AGAIN)" [ref=e949] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u1tknf/i_just_finished_aot_last_night_and_i_need_help/
+                            - img "r/attackontitan - I just finished AoT last night (and I need help AGAIN)" [ref=e950]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e952]:
+                        - generic [ref=e953]: "122"
+                        - text: upvotes ·
+                        - generic [ref=e954]: "40"
+                        - text: comments
+                    - separator [ref=e955]
+                - listitem [ref=e956]:
+                  - generic [ref=e957]:
+                    - generic [ref=e958]:
+                      - link "I'm new to AOT , and i finished it." [ref=e959] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1pr27nf/im_new_to_aot_and_i_finished_it/
+                        - generic [ref=e960]:
+                          - generic: I'm new to AOT , and i finished it.
+                      - generic [ref=e961]:
+                        - generic [ref=e962]:
+                          - generic [ref=e964]:
+                            - link "r/attackontitan" [ref=e965] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e969]: r/attackontitan
+                            - generic [ref=e970]: •
+                            - time [ref=e972]: 6mo ago
+                          - link "SPOILER List item post - I'm new to AOT , and i finished it." [ref=e974] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1pr27nf/im_new_to_aot_and_i_finished_it/
+                            - generic [ref=e976]:
+                              - generic [ref=e978]:
+                                - img [ref=e980]
+                                - generic [ref=e982]: SPOILER
+                              - heading "List item post - I'm new to AOT , and i finished it." [level=3] [ref=e983]: I'm new to AOT , and i finished it.
+                        - generic [ref=e985]:
+                          - link "r/attackontitan - I'm new to AOT , and i finished it." [ref=e986] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1pr27nf/im_new_to_aot_and_i_finished_it/
+                            - img "r/attackontitan - I'm new to AOT , and i finished it." [ref=e987]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e989]:
+                        - generic [ref=e990]: "42"
+                        - text: upvotes ·
+                        - generic [ref=e991]: "10"
+                        - text: comments
+                    - separator [ref=e992]
+                - listitem [ref=e993]:
+                  - generic [ref=e994]:
+                    - generic [ref=e995]:
+                      - link "Why AoT is the most emotional story" [ref=e996] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1r3bh1z/why_aot_is_the_most_emotional_story/
+                        - generic [ref=e997]:
+                          - generic: Why AoT is the most emotional story
+                      - generic [ref=e998]:
+                        - generic [ref=e999]:
+                          - generic [ref=e1001]:
+                            - link "r/attackontitan" [ref=e1002] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1006]: r/attackontitan
+                            - generic [ref=e1007]: •
+                            - time [ref=e1009]: 4mo ago
+                          - link "SPOILER List item post - Why AoT is the most emotional story" [ref=e1011] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1r3bh1z/why_aot_is_the_most_emotional_story/
+                            - generic [ref=e1013]:
+                              - generic [ref=e1015]:
+                                - img [ref=e1017]
+                                - generic [ref=e1019]: SPOILER
+                              - heading "List item post - Why AoT is the most emotional story" [level=3] [ref=e1020]: Why AoT is the most emotional story
+                        - generic [ref=e1022]:
+                          - link "r/attackontitan - Why AoT is the most emotional story" [ref=e1023] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1r3bh1z/why_aot_is_the_most_emotional_story/
+                            - img "r/attackontitan - Why AoT is the most emotional story" [ref=e1024]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1026]:
+                        - generic [ref=e1027]: "42"
+                        - text: upvotes ·
+                        - generic [ref=e1028]: "7"
+                        - text: comments
+                    - separator [ref=e1029]
+                - listitem [ref=e1030]:
+                  - generic [ref=e1031]:
+                    - generic [ref=e1032]:
+                      - link "just finished AOT" [ref=e1033] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qtasww/just_finished_aot/
+                        - generic [ref=e1034]:
+                          - generic: just finished AOT
+                      - generic [ref=e1036]:
+                        - generic [ref=e1038]:
+                          - link "r/attackontitan" [ref=e1039] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1043]: r/attackontitan
+                          - generic [ref=e1044]: •
+                          - time [ref=e1046]: 5mo ago
+                        - link "List item post - just finished AOT" [ref=e1048] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1qtasww/just_finished_aot/
+                          - heading "List item post - just finished AOT" [level=3] [ref=e1051]: just finished AOT
+                      - generic [ref=e1053]:
+                        - generic [ref=e1054]: "63"
+                        - text: upvotes ·
+                        - generic [ref=e1055]: "12"
+                        - text: comments
+                    - separator [ref=e1056]
+                - listitem [ref=e1057]:
+                  - generic [ref=e1058]:
+                    - generic [ref=e1059]:
+                      - link "Just finished aot. I'm heartbroken" [ref=e1060] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1q9f8bm/just_finished_aot_im_heartbroken/
+                        - generic [ref=e1061]:
+                          - generic: Just finished aot. I'm heartbroken
+                      - generic [ref=e1063]:
+                        - generic [ref=e1065]:
+                          - link "r/attackontitan" [ref=e1066] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1070]: r/attackontitan
+                          - generic [ref=e1071]: •
+                          - time [ref=e1073]: 5mo ago
+                        - link "List item post - Just finished aot. I'm heartbroken" [ref=e1075] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1q9f8bm/just_finished_aot_im_heartbroken/
+                          - heading "List item post - Just finished aot. I'm heartbroken" [level=3] [ref=e1078]: Just finished aot. I'm heartbroken
+                      - generic [ref=e1080]:
+                        - generic [ref=e1081]: "97"
+                        - text: upvotes ·
+                        - generic [ref=e1082]: "17"
+                        - text: comments
+                    - separator [ref=e1083]
+                - listitem [ref=e1084]:
+                  - generic [ref=e1085]:
+                    - generic [ref=e1086]:
+                      - link "I just finished AOT…" [ref=e1087] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1sdtsve/i_just_finished_aot/
+                        - generic [ref=e1088]:
+                          - generic: I just finished AOT…
+                      - generic [ref=e1090]:
+                        - generic [ref=e1092]:
+                          - link "r/attackontitan" [ref=e1093] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1097]: r/attackontitan
+                          - generic [ref=e1098]: •
+                          - time [ref=e1100]: 2mo ago
+                        - link "SPOILER List item post - I just finished AOT…" [ref=e1102] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1sdtsve/i_just_finished_aot/
+                          - generic [ref=e1104]:
+                            - generic [ref=e1106]:
+                              - img [ref=e1108]
+                              - generic [ref=e1110]: SPOILER
+                            - heading "List item post - I just finished AOT…" [level=3] [ref=e1111]: I just finished AOT…
+                      - generic [ref=e1113]:
+                        - generic [ref=e1114]: "34"
+                        - text: upvotes ·
+                        - generic [ref=e1115]: "23"
+                        - text: comments
+                    - separator [ref=e1116]
+                - listitem [ref=e1117]:
+                  - generic [ref=e1118]:
+                    - generic [ref=e1119]:
+                      - link "Just finished AOT" [ref=e1120] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1ri9azs/just_finished_aot/
+                        - generic [ref=e1121]:
+                          - generic: Just finished AOT
+                      - generic [ref=e1123]:
+                        - generic [ref=e1125]:
+                          - link "r/attackontitan" [ref=e1126] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1130]: r/attackontitan
+                          - generic [ref=e1131]: •
+                          - time [ref=e1133]: 4mo ago
+                        - link "List item post - Just finished AOT" [ref=e1135] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1ri9azs/just_finished_aot/
+                          - heading "List item post - Just finished AOT" [level=3] [ref=e1138]: Just finished AOT
+                      - generic [ref=e1140]:
+                        - generic [ref=e1141]: "24"
+                        - text: upvotes ·
+                        - generic [ref=e1142]: "9"
+                        - text: comments
+                    - separator [ref=e1143]
+                - listitem [ref=e1144]:
+                  - generic [ref=e1145]:
+                    - generic [ref=e1146]:
+                      - link "I just finished AoT for the first time and I have a question." [ref=e1147] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1rvd3bl/i_just_finished_aot_for_the_first_time_and_i_have/
+                        - generic [ref=e1148]:
+                          - generic: I just finished AoT for the first time and I have a question.
+                      - generic [ref=e1150]:
+                        - generic [ref=e1152]:
+                          - link "r/attackontitan" [ref=e1153] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1157]: r/attackontitan
+                          - generic [ref=e1158]: •
+                          - time [ref=e1160]: 3mo ago
+                        - link "List item post - I just finished AoT for the first time and I have a questio..." [ref=e1162] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1rvd3bl/i_just_finished_aot_for_the_first_time_and_i_have/
+                          - heading "List item post - I just finished AoT for the first time and I have a questio..." [level=3] [ref=e1165]: I just finished AoT for the first time and I have a question.
+                      - generic [ref=e1167]:
+                        - generic [ref=e1168]: "56"
+                        - text: upvotes ·
+                        - generic [ref=e1169]: "17"
+                        - text: comments
+                    - separator [ref=e1170]
+                - listitem [ref=e1171]:
+                  - generic [ref=e1172]:
+                    - generic [ref=e1173]:
+                      - link "Just finished season 1 of Aot, hope rest of seasons are even better then the first!!!!!!!11" [ref=e1174] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1u23o8l/just_finished_season_1_of_aot_hope_rest_of/
+                        - generic [ref=e1175]:
+                          - generic: Just finished season 1 of Aot, hope rest of seasons are even better then the first!!!!!!!11
+                      - generic [ref=e1176]:
+                        - generic [ref=e1177]:
+                          - generic [ref=e1179]:
+                            - link "r/attackontitan" [ref=e1180] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1184]: r/attackontitan
+                            - generic [ref=e1185]: •
+                            - time [ref=e1187]: 10d ago
+                          - link "List item post - Just finished season 1 of Aot, hope rest of seasons are eve..." [ref=e1189] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1u23o8l/just_finished_season_1_of_aot_hope_rest_of/
+                            - heading "List item post - Just finished season 1 of Aot, hope rest of seasons are eve..." [level=3] [ref=e1192]: Just finished season 1 of Aot, hope rest of seasons are even better then the first!!!!!!!11
+                        - link "r/attackontitan - Just finished season 1 of Aot, hope rest of seasons are even better then the first!!!!!!!11" [ref=e1195] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u23o8l/just_finished_season_1_of_aot_hope_rest_of/
+                          - img "r/attackontitan - Just finished season 1 of Aot, hope rest of seasons are even better then the first!!!!!!!11" [ref=e1196]
+                      - generic [ref=e1198]:
+                        - generic [ref=e1199]: "72"
+                        - text: upvotes ·
+                        - generic [ref=e1200]: "41"
+                        - text: comments
+                    - separator [ref=e1201]
+                - listitem [ref=e1202]:
+                  - generic [ref=e1203]:
+                    - generic [ref=e1204]:
+                      - link "Just finished watching aot" [ref=e1205] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1rvsjg7/just_finished_watching_aot/
+                        - generic [ref=e1206]:
+                          - generic: Just finished watching aot
+                      - generic [ref=e1208]:
+                        - generic [ref=e1210]:
+                          - link "r/attackontitan" [ref=e1211] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1215]: r/attackontitan
+                          - generic [ref=e1216]: •
+                          - time [ref=e1218]: 3mo ago
+                        - link "List item post - Just finished watching aot" [ref=e1220] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1rvsjg7/just_finished_watching_aot/
+                          - heading "List item post - Just finished watching aot" [level=3] [ref=e1223]: Just finished watching aot
+                      - generic [ref=e1225]:
+                        - generic [ref=e1226]: "28"
+                        - text: upvotes ·
+                        - generic [ref=e1227]: "21"
+                        - text: comments
+                    - separator [ref=e1228]
+                - listitem [ref=e1229]:
+                  - generic [ref=e1230]:
+                    - generic [ref=e1231]:
+                      - link "I finished aot a month ago i dont know what to do with my life now" [ref=e1232] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1tyusn0/i_finished_aot_a_month_ago_i_dont_know_what_to_do/
+                        - generic [ref=e1233]:
+                          - generic: I finished aot a month ago i dont know what to do with my life now
+                      - generic [ref=e1235]:
+                        - generic [ref=e1237]:
+                          - link "r/attackontitan" [ref=e1238] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1242]: r/attackontitan
+                          - generic [ref=e1243]: •
+                          - time [ref=e1245]: 13d ago
+                        - link "List item post - I finished aot a month ago i dont know what to do with my l..." [ref=e1247] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1tyusn0/i_finished_aot_a_month_ago_i_dont_know_what_to_do/
+                          - heading "List item post - I finished aot a month ago i dont know what to do with my l..." [level=3] [ref=e1250]: I finished aot a month ago i dont know what to do with my life now
+                      - generic [ref=e1252]:
+                        - generic [ref=e1253]: "32"
+                        - text: upvotes ·
+                        - generic [ref=e1254]: "19"
+                        - text: comments
+                    - separator [ref=e1255]
+                - listitem [ref=e1256]:
+                  - generic [ref=e1257]:
+                    - generic [ref=e1258]:
+                      - link "finished aot for the first time" [ref=e1259] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qyous2/finished_aot_for_the_first_time/
+                        - generic [ref=e1260]:
+                          - generic: finished aot for the first time
+                      - generic [ref=e1262]:
+                        - generic [ref=e1264]:
+                          - link "r/attackontitan" [ref=e1265] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1269]: r/attackontitan
+                          - generic [ref=e1270]: •
+                          - time [ref=e1272]: 4mo ago
+                        - link "List item post - finished aot for the first time" [ref=e1274] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1qyous2/finished_aot_for_the_first_time/
+                          - heading "List item post - finished aot for the first time" [level=3] [ref=e1277]: finished aot for the first time
+                      - generic [ref=e1279]:
+                        - generic [ref=e1280]: "24"
+                        - text: upvotes ·
+                        - generic [ref=e1281]: "12"
+                        - text: comments
+                    - separator [ref=e1282]
+                - listitem [ref=e1283]:
+                  - generic [ref=e1284]:
+                    - generic [ref=e1285]:
+                      - link "Just finished AOT for the first time... how do I go on" [ref=e1286] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qt2p62/just_finished_aot_for_the_first_time_how_do_i_go/
+                        - generic [ref=e1287]:
+                          - generic: Just finished AOT for the first time... how do I go on
+                      - generic [ref=e1289]:
+                        - generic [ref=e1291]:
+                          - link "r/attackontitan" [ref=e1292] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1296]: r/attackontitan
+                          - generic [ref=e1297]: •
+                          - time [ref=e1299]: 5mo ago
+                        - link "List item post - Just finished AOT for the first time... how do I go on" [ref=e1301] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1qt2p62/just_finished_aot_for_the_first_time_how_do_i_go/
+                          - heading "List item post - Just finished AOT for the first time... how do I go on" [level=3] [ref=e1304]: Just finished AOT for the first time... how do I go on
+                      - generic [ref=e1306]:
+                        - generic [ref=e1307]: "24"
+                        - text: upvotes ·
+                        - generic [ref=e1308]: "10"
+                        - text: comments
+                    - separator [ref=e1309]
+                - listitem [ref=e1310]:
+                  - generic [ref=e1311]:
+                    - generic [ref=e1312]:
+                      - link "Just finished watching AOT and i wish i hadn't" [ref=e1313] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1s8k0il/just_finished_watching_aot_and_i_wish_i_hadnt/
+                        - generic [ref=e1314]:
+                          - generic: Just finished watching AOT and i wish i hadn't
+                      - generic [ref=e1316]:
+                        - generic [ref=e1318]:
+                          - link "r/attackontitan" [ref=e1319] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1323]: r/attackontitan
+                          - generic [ref=e1324]: •
+                          - time [ref=e1326]: 3mo ago
+                        - link "List item post - Just finished watching AOT and i wish i hadn't" [ref=e1328] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1s8k0il/just_finished_watching_aot_and_i_wish_i_hadnt/
+                          - heading "List item post - Just finished watching AOT and i wish i hadn't" [level=3] [ref=e1331]: Just finished watching AOT and i wish i hadn't
+                      - generic [ref=e1333]:
+                        - generic [ref=e1334]: "38"
+                        - text: upvotes ·
+                        - generic [ref=e1335]: "40"
+                        - text: comments
+                    - separator [ref=e1336]
+                - listitem [ref=e1337]:
+                  - generic [ref=e1339]:
+                    - link "Just finished AOT, that ending left me empty" [ref=e1340] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1sm1j1a/just_finished_aot_that_ending_left_me_empty/
+                      - generic [ref=e1341]:
+                        - generic: Just finished AOT, that ending left me empty
+                    - generic [ref=e1343]:
+                      - generic [ref=e1345]:
+                        - link "r/attackontitan" [ref=e1346] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/
+                          - generic [ref=e1350]: r/attackontitan
+                        - generic [ref=e1351]: •
+                        - time [ref=e1353]: 2mo ago
+                      - link "List item post - Just finished AOT, that ending left me empty" [ref=e1355] [cursor=pointer]:
+                        - /url: /r/attackontitan/comments/1sm1j1a/just_finished_aot_that_ending_left_me_empty/
+                        - heading "List item post - Just finished AOT, that ending left me empty" [level=3] [ref=e1358]: Just finished AOT, that ending left me empty
+                    - generic [ref=e1360]:
+                      - generic [ref=e1361]: "58"
+                      - text: upvotes ·
+                      - generic [ref=e1362]: "28"
+                      - text: comments
+            - generic [ref=e1363]:
+              - heading "View Post in" [level=2] [ref=e1365]:
+                - generic [ref=e1366]: View Post in
+              - generic [ref=e1367]:
+                - link "Français" [ref=e1369] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/just_finished_aot/?tl=fr
+                - link "Português (Brasil)" [ref=e1371] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/just_finished_aot/?tl=pt-br
+                - group [ref=e1372]:
+                  - generic "See more" [ref=e1373] [cursor=pointer]:
+                    - generic [ref=e1374]: See more
+                    - img [ref=e1376]
+            - complementary "Community information" [ref=e1378]:
+              - generic [ref=e1380]:
+                - heading "Community Info Section" [level=1] [ref=e1381]
+                - generic [ref=e1382]:
+                  - generic [ref=e1383]:
+                    - link "r/attackontitan" [ref=e1384] [cursor=pointer]:
+                      - /url: /r/attackontitan/
+                      - generic [ref=e1385]: r/attackontitan
+                    - 'button "Community status: Resting Under the tree..." [ref=e1388] [cursor=pointer]':
+                      - img "tree" [ref=e1389]
+                  - button "Join" [ref=e1393] [cursor=pointer]
+                - generic [ref=e1394]:
+                  - generic [ref=e1395]: Attack on Titan (Shingeki no Kyojin)
+                  - generic [ref=e1396]: A subreddit dedicated to Attack on Titan (進撃の巨人) manga and anime series.
+                  - generic [ref=e1399]:
+                    - img [ref=e1400]
+                    - text: Public
+          - list [ref=e1403]:
+            - listitem [ref=e1404]:
+              - link "Home" [ref=e1406] [cursor=pointer]:
+                - /url: /?feed=home
+            - listitem [ref=e1407]:
+              - link "Popular" [ref=e1409] [cursor=pointer]:
+                - /url: /r/popular/
+            - listitem [ref=e1410]:
+              - link "News" [ref=e1412] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e1413]:
+              - link "Explore" [ref=e1415] [cursor=pointer]:
+                - /url: /explore/
+            - listitem [ref=e1416]:
+              - link "Best of Reddit" [ref=e1418] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/global/
+            - listitem [ref=e1419]:
+              - link "Best of Reddit in Portuguese" [ref=e1421] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+            - listitem [ref=e1422]:
+              - link "Best of Reddit in German" [ref=e1424] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-de/
+            - listitem [ref=e1425]:
+              - link "Reddit Rules" [ref=e1427] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/content-policy
+            - listitem [ref=e1428]:
+              - link "Privacy Policy" [ref=e1430] [cursor=pointer]:
+                - /url: https://www.reddit.com/policies/privacy-policy
+            - listitem [ref=e1431]:
+              - link "User Agreement" [ref=e1433] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/user-agreement
+            - listitem [ref=e1434]:
+              - link "Your Privacy Choices" [ref=e1436] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/articles/43980704794004
+            - listitem [ref=e1437]:
+              - link "Accessibility" [ref=e1439] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+            - listitem [ref=e1440]:
+              - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1441] [cursor=pointer]:
+                - /url: https://redditinc.com

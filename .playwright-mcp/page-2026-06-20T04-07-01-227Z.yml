@@ -1,0 +1,1372 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Explain the cabin scene : r/attackontitan"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - generic [ref=e12]:
+            - button "Open menu" [ref=e16] [cursor=pointer]:
+              - img [ref=e19]
+              - generic [ref=e21]:
+                - generic: Open menu
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Home":
+                        - /url: https://www.reddit.com/
+          - search [ref=e31]:
+            - generic [ref=e33]:
+              - img [ref=e36]
+              - textbox "Ask" [ref=e40]:
+                - /placeholder: Find anything
+              - separator [ref=e41]
+              - link "Ask" [ref=e45] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e46]:
+                  - img [ref=e48]
+                  - generic [ref=e50]: Ask
+              - generic: Find anything
+          - generic [ref=e51]:
+            - link "Log In" [ref=e55] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e57]: Log In
+            - button "Expand user menu" [ref=e62] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]:
+                - generic: Expand user menu
+      - generic [ref=e71]:
+        - main [ref=e72]:
+          - 'generic "Explain the cabin scene : r/attackontitan"'
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - button "Back" [ref=e77] [cursor=pointer]:
+                  - img [ref=e80]
+                  - generic [ref=e82]:
+                    - generic: Back
+                - link "Go to attackontitan" [ref=e85] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/
+                  - generic [ref=e89]:
+                    - generic: Go to attackontitan
+                - group [ref=e90]:
+                  - generic [ref=e91]:
+                    - link "r/attackontitan" [ref=e94] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/
+                    - generic [ref=e95]: •
+                    - time [ref=e97]: 5d ago
+                  - 'link "Author: ArtEnvironmental4540" [ref=e102] [cursor=pointer]':
+                    - /url: https://www.reddit.com/user/ArtEnvironmental4540/
+                    - generic [ref=e103]: ArtEnvironmental4540
+              - button "Open user actions" [ref=e107] [cursor=pointer]:
+                - img [ref=e110]
+            - 'heading "Post Title: Explain the cabin scene" [level=1] [ref=e114]': Explain the cabin scene
+            - generic [ref=e118]:
+              - paragraph [ref=e119]: Please someone explain the cabin scene like I’m twelve.
+              - paragraph [ref=e120]: Did they spend that time together only on their minds? Or was Eren actually physically able to bring her to an alternate world which they spent four years there but in their original timeline it only lasted a few seconds.
+              - paragraph [ref=e121]: Like he was able to speak to everyone on the boat because he could erase their memories but save Mikasa for right after she killed him?
+            - generic [ref=e122]:
+              - img [ref=e123]
+              - generic [ref=e125]: "23"
+              - img [ref=e126]
+              - generic [ref=e128]: ·
+              - img [ref=e129]
+              - generic [ref=e131]: "24"
+          - separator [ref=e132]
+          - region "Comments" [ref=e135]:
+            - heading "Comments Section" [level=1] [ref=e136]
+            - generic:
+              - article "Comment from AutoModerator 5 days ago" [ref=e138]:
+                - generic "AutoModerator's profile 5d ago" [ref=e139] [cursor=pointer]:
+                  - img [ref=e141]
+                  - generic [ref=e146]:
+                    - link "AutoModerator's profile" [ref=e149]:
+                      - /url: https://www.reddit.com/user/AutoModerator/
+                      - text: AutoModerator
+                    - generic "Comment distinguished by moderator" [ref=e152]: MOD
+                    - generic [ref=e153]: •
+                    - link "5d ago" [ref=e155]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/ors74n4/
+                      - time [ref=e157]: 5d ago
+              - article "Comment from Efficient_Ad_6913 5 days ago" [ref=e160]:
+                - generic "Efficient_Ad_6913's profile --- avatar Efficient_Ad_6913's profile 5d ago" [ref=e161] [cursor=pointer]:
+                  - link "Efficient_Ad_6913's profile --- avatar" [ref=e166]:
+                    - /url: https://www.reddit.com/user/Efficient_Ad_6913/
+                    - img [ref=e171]
+                  - generic [ref=e176]:
+                    - link "Efficient_Ad_6913's profile" [ref=e179]:
+                      - /url: https://www.reddit.com/user/Efficient_Ad_6913/
+                      - text: Efficient_Ad_6913
+                    - generic [ref=e180]: •
+                    - link "5d ago" [ref=e182]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/ors9tso/
+                      - time [ref=e184]: 5d ago
+                - generic [ref=e186]:
+                  - paragraph [ref=e190]: From what I understand Eren took Mikasa to the cross paths and lived out their 4 years before he died. However in the real world it took a fraction of a second.
+                  - generic [ref=e192]:
+                    - img [ref=e193]
+                    - generic [ref=e195]: "35"
+                    - img [ref=e196]
+              - article "Comment from AdvertisingMental201 5 days ago" [ref=e199]:
+                - generic "AdvertisingMental201's profile --- avatar AdvertisingMental201's profile 5d ago" [ref=e200] [cursor=pointer]:
+                  - link "AdvertisingMental201's profile --- avatar" [ref=e205]:
+                    - /url: https://www.reddit.com/user/AdvertisingMental201/
+                    - img "u/AdvertisingMental201 avatar" [ref=e208]
+                  - generic [ref=e212]:
+                    - link "AdvertisingMental201's profile" [ref=e215]:
+                      - /url: https://www.reddit.com/user/AdvertisingMental201/
+                      - text: AdvertisingMental201
+                    - generic [ref=e216]: •
+                    - link "5d ago" [ref=e218]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orsaaq7/
+                      - time [ref=e220]: 5d ago
+                - generic [ref=e222]:
+                  - generic [ref=e225]:
+                    - paragraph [ref=e226]: In a sense they did live together for those 4 years because mikasa will remember and does remember everything regarding all the time she spent with Eren in those 4 years. It is in her mind but it also physically happened in a way because she has all memories of those 4 years.
+                    - paragraph [ref=e227]: It is a what if to Mikasa telling Eren her true feelings to the question “what am I to you?” But her saying her true feelings was never gonna happen but if they did that would’ve been the outcome.
+                    - paragraph [ref=e228]: Mikasa needed that, if she didn’t get something along those lines she most likely wouldn’t have been able to go on with killing Eren; that’s why Eren used his powers to give her some kind of closure. She got to spend 4 years with the man she loves; her ideal life/dream life; peace, quiet, and with Eren; sadly it wasn’t it enough as still loves/yearns for him but it definitely helped.
+                  - generic [ref=e230]:
+                    - img [ref=e231]
+                    - generic [ref=e233]: "28"
+                    - img [ref=e234]
+                  - img
+                  - 'article "Comment thread level 1: Reply from terry-the-trex 4 days ago" [ref=e238]':
+                    - generic "terry-the-trex's profile --- avatar terry-the-trex's profile 4d ago" [ref=e239] [cursor=pointer]:
+                      - link "terry-the-trex's profile --- avatar" [ref=e244]:
+                        - /url: https://www.reddit.com/user/terry-the-trex/
+                        - img "u/terry-the-trex avatar" [ref=e247]
+                      - generic [ref=e251]:
+                        - link "terry-the-trex's profile" [ref=e254]:
+                          - /url: https://www.reddit.com/user/terry-the-trex/
+                          - text: terry-the-trex
+                        - generic [ref=e255]: •
+                        - link "4d ago" [ref=e257]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orumg21/
+                          - time [ref=e259]: 4d ago
+                    - generic [ref=e261]:
+                      - paragraph [ref=e265]: wouldn’t have eren still felt like he needed freedom when he was with mikasa in the cabin though?
+                      - generic [ref=e267]:
+                        - img [ref=e268]
+                        - generic [ref=e270]: "2"
+                        - img [ref=e271]
+                      - img
+                      - 'article "Comment thread level 2: Reply from AdvertisingMental201 4 days ago" [ref=e275]':
+                        - generic "AdvertisingMental201's profile --- avatar AdvertisingMental201's profile 4d ago" [ref=e276] [cursor=pointer]:
+                          - link "AdvertisingMental201's profile --- avatar" [ref=e281]:
+                            - /url: https://www.reddit.com/user/AdvertisingMental201/
+                            - img "u/AdvertisingMental201 avatar" [ref=e284]
+                          - generic [ref=e288]:
+                            - link "AdvertisingMental201's profile" [ref=e291]:
+                              - /url: https://www.reddit.com/user/AdvertisingMental201/
+                              - text: AdvertisingMental201
+                            - generic [ref=e292]: •
+                            - link "4d ago" [ref=e294]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orvn4q6/
+                              - time [ref=e296]: 4d ago
+                        - generic [ref=e298]:
+                          - generic [ref=e301]:
+                            - paragraph [ref=e302]: Yes he would, he’s always wanted freedom since he was a kid but became extra fixated on it after kissing historias hand.
+                            - paragraph [ref=e303]: If he ran away with mikasa he would still want it but would choose not to act on it but rather act on love and one of his other personal dreams; to live his remaining 4 years with mikasa, the women he loves most. He would get the life he wanted with mikasa but not freedom he always wanted.
+                          - generic [ref=e305]:
+                            - img [ref=e306]
+                            - generic [ref=e308]: "2"
+                            - img [ref=e309]
+              - article "Comment from Julian-Hoffer 5 days ago" [ref=e312]:
+                - generic "Julian-Hoffer's profile --- avatar Julian-Hoffer's profile 5d ago" [ref=e313] [cursor=pointer]:
+                  - link "Julian-Hoffer's profile --- avatar" [ref=e318]:
+                    - /url: https://www.reddit.com/user/Julian-Hoffer/
+                    - img "u/Julian-Hoffer avatar" [ref=e321]
+                  - generic [ref=e325]:
+                    - link "Julian-Hoffer's profile" [ref=e328]:
+                      - /url: https://www.reddit.com/user/Julian-Hoffer/
+                      - text: Julian-Hoffer
+                    - generic [ref=e329]: •
+                    - link "5d ago" [ref=e331]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orsqi1h/
+                      - time [ref=e333]: 5d ago
+                - generic [ref=e335]:
+                  - paragraph [ref=e339]: It’s like when people have long dreams where they lived a full life and have a kid and then wake up to realize it was a dream and their kid doesn’t exist.
+                  - generic [ref=e341]:
+                    - img [ref=e342]
+                    - generic [ref=e344]: "7"
+                    - img [ref=e345]
+              - article "Comment from grimreaper069 5 days ago" [ref=e348]:
+                - generic "grimreaper069's profile --- avatar grimreaper069's profile 5d ago" [ref=e349] [cursor=pointer]:
+                  - link "grimreaper069's profile --- avatar" [ref=e354]:
+                    - /url: https://www.reddit.com/user/grimreaper069/
+                    - img [ref=e359]
+                  - generic [ref=e364]:
+                    - link "grimreaper069's profile" [ref=e367]:
+                      - /url: https://www.reddit.com/user/grimreaper069/
+                      - text: grimreaper069
+                    - generic [ref=e368]: •
+                    - link "5d ago" [ref=e370]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orsltxf/
+                      - time [ref=e372]: 5d ago
+                - generic [ref=e374]:
+                  - paragraph [ref=e378]: It was in the paths, so while it was a vision in a sense, she indeed feel it and to her it was real.
+                  - generic [ref=e380]:
+                    - img [ref=e381]
+                    - generic [ref=e383]: "5"
+                    - img [ref=e384]
+              - article "Comment from Agheron93 5 days ago" [ref=e387]:
+                - generic "Agheron93's profile --- avatar Agheron93's profile 5d ago" [ref=e388] [cursor=pointer]:
+                  - link "Agheron93's profile --- avatar" [ref=e393]:
+                    - /url: https://www.reddit.com/user/Agheron93/
+                    - img "u/Agheron93 avatar" [ref=e396]
+                  - generic [ref=e400]:
+                    - link "Agheron93's profile" [ref=e403]:
+                      - /url: https://www.reddit.com/user/Agheron93/
+                      - text: Agheron93
+                    - generic [ref=e404]: •
+                    - link "5d ago" [ref=e406]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orsdqoa/
+                      - time [ref=e408]: 5d ago
+                - generic [ref=e410]:
+                  - generic [ref=e413]:
+                    - paragraph [ref=e414]: "It was stated the founding was ineffective in erasing/altering memories (EDIT: i forgot to add \"against the Ackermans\") so my guess is that Eren made that vision as a farewell. Otherwise it doesn't make sense as to why he'd have to summarise Mikasa what had happened (other than for a clumsy attempt at exposition for the readers). So my guess is they didn't really spend four years there, she was just confused enough to be unable to distinguish the vision from reality for a moment."
+                    - paragraph [ref=e415]: It explains why she immediately cries upon seeing it, as she was yoinked from a "nightmare" (real world) into a vision of something she desired.
+                  - generic [ref=e417]:
+                    - img [ref=e418]
+                    - generic [ref=e420]: "3"
+                    - img [ref=e421]
+                  - img
+                  - 'article "Comment thread level 1: Reply from strawberryjetpuff 4 days ago" [ref=e425]':
+                    - generic "strawberryjetpuff's profile --- avatar strawberryjetpuff's profile 4d ago" [ref=e426] [cursor=pointer]:
+                      - link "strawberryjetpuff's profile --- avatar" [ref=e431]:
+                        - /url: https://www.reddit.com/user/strawberryjetpuff/
+                        - img "u/strawberryjetpuff avatar" [ref=e434]
+                      - generic [ref=e438]:
+                        - link "strawberryjetpuff's profile" [ref=e441]:
+                          - /url: https://www.reddit.com/user/strawberryjetpuff/
+                          - text: strawberryjetpuff
+                        - generic [ref=e442]: •
+                        - link "4d ago" [ref=e444]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orun8wp/
+                          - time [ref=e446]: 4d ago
+                    - generic [ref=e448]:
+                      - generic [ref=e451]:
+                        - paragraph [ref=e452]: well no, the founding being able to erase/alter memories WAS effective, because armin and the rest don't remember talking to eren in the paths until right before the battle of heaven and earth. and this is most likely eren returning those memories himself, to make them understand how important it was to stop him.
+                        - paragraph [ref=e453]: mikasa gets the cabin life later because she's an ackerman and resistant/immune to the founder's abilities, specifically. this is also most likely why we only get a brief glimpse of eren's discussion with levi and not a full scene.
+                      - generic [ref=e455]:
+                        - img [ref=e456]
+                        - generic [ref=e458]: "2"
+                        - img [ref=e459]
+                      - img
+                      - 'article "Comment thread level 2: Reply from Agheron93 4 days ago" [ref=e463]':
+                        - generic "Agheron93's profile --- avatar Agheron93's profile 4d ago" [ref=e464] [cursor=pointer]:
+                          - link "Agheron93's profile --- avatar" [ref=e469]:
+                            - /url: https://www.reddit.com/user/Agheron93/
+                            - img "u/Agheron93 avatar" [ref=e472]
+                          - generic [ref=e476]:
+                            - link "Agheron93's profile" [ref=e479]:
+                              - /url: https://www.reddit.com/user/Agheron93/
+                              - text: Agheron93
+                            - generic [ref=e480]: •
+                            - link "4d ago" [ref=e482]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/oruxawy/
+                              - time [ref=e484]: 4d ago
+                        - generic [ref=e486]:
+                          - paragraph [ref=e490]: Ah sorry, i meant to say ineffective against Ackermans, which is why i think the cabin vision was a live thing Eren made in that moment since he couldn't plant and trigger it
+                          - generic [ref=e492]:
+                            - img [ref=e493]
+                            - generic [ref=e495]: "2"
+                            - img [ref=e496]
+                          - button "1 more reply" [ref=e501] [cursor=pointer]:
+                            - generic [ref=e504]:
+                              - generic [ref=e506]:
+                                - generic [ref=e507]: "1"
+                                - text: more reply
+                              - img [ref=e508]
+              - article "Comment from Jumbernaut 5 days ago" [ref=e511]:
+                - generic "Jumbernaut's profile --- avatar Jumbernaut's profile 5d ago" [ref=e512] [cursor=pointer]:
+                  - link "Jumbernaut's profile --- avatar" [ref=e517]:
+                    - /url: https://www.reddit.com/user/Jumbernaut/
+                    - img [ref=e522]
+                  - generic [ref=e527]:
+                    - link "Jumbernaut's profile" [ref=e530]:
+                      - /url: https://www.reddit.com/user/Jumbernaut/
+                      - text: Jumbernaut
+                    - generic [ref=e531]: •
+                    - link "5d ago" [ref=e533]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orsdja4/
+                      - time [ref=e535]: 5d ago
+                - generic [ref=e537]:
+                  - generic [ref=e540]:
+                    - paragraph [ref=e541]: It's a matrix like virtual memory (probably some place that exists and the memory is from some other Eldian) where they spent the 4 years he would have spent with Mikasa if they had ran away.
+                    - paragraph [ref=e542]: In this dream, Eren probably shoots blanks because, after 4 years, they didn't have fake children, like in Wandavision.
+                    - paragraph [ref=e543]: What it doesn't show are the 10 years Eren also spent in the Cabin with Armin, and everyone else he wanted to.
+                  - generic [ref=e545]:
+                    - img [ref=e546]
+                    - generic [ref=e548]: "4"
+                    - img [ref=e549]
+              - article "Comment from aizensosuke247 5 days ago" [ref=e552]:
+                - generic "aizensosuke247's profile --- avatar aizensosuke247's profile 5d ago" [ref=e553] [cursor=pointer]:
+                  - link "aizensosuke247's profile --- avatar" [ref=e558]:
+                    - /url: https://www.reddit.com/user/aizensosuke247/
+                    - img "u/aizensosuke247 avatar" [ref=e561]
+                  - generic [ref=e565]:
+                    - link "aizensosuke247's profile" [ref=e568]:
+                      - /url: https://www.reddit.com/user/aizensosuke247/
+                      - text: aizensosuke247
+                    - generic [ref=e569]: •
+                    - link "5d ago" [ref=e571]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/ors7kdj/
+                      - time [ref=e573]: 5d ago
+                - generic [ref=e575]:
+                  - paragraph [ref=e579]: I think it was just eren or mikasa imagine what their life would have been like if Mikasa confessed her love when eren asked her "what am I to you"
+                  - generic [ref=e581]:
+                    - img [ref=e582]
+                    - generic [ref=e584]: "3"
+                    - img [ref=e585]
+              - article "Comment from PoignantPiranha 5 days ago" [ref=e588]:
+                - generic "PoignantPiranha's profile --- avatar PoignantPiranha's profile 5d ago" [ref=e589] [cursor=pointer]:
+                  - link "PoignantPiranha's profile --- avatar" [ref=e594]:
+                    - /url: https://www.reddit.com/user/PoignantPiranha/
+                    - img "u/PoignantPiranha avatar" [ref=e597]
+                  - generic [ref=e601]:
+                    - link "PoignantPiranha's profile" [ref=e604]:
+                      - /url: https://www.reddit.com/user/PoignantPiranha/
+                      - text: PoignantPiranha
+                    - generic [ref=e605]: •
+                    - link "5d ago" [ref=e607]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/ors9b2k/
+                      - time [ref=e609]: 5d ago
+                - generic [ref=e611]:
+                  - paragraph [ref=e615]: I thought that eren used the founders powers to erase those memories from her until his death. So, it was them living together for four years prior to his death
+                  - generic [ref=e617]:
+                    - img [ref=e618]
+                    - generic [ref=e620]: "0"
+                    - img [ref=e621]
+                  - img
+                  - 'article "Comment thread level 1: Reply from ArtEnvironmental4540 5 days ago" [ref=e625]':
+                    - generic "ArtEnvironmental4540's profile --- avatar ArtEnvironmental4540's profile 5d ago" [ref=e626] [cursor=pointer]:
+                      - link "ArtEnvironmental4540's profile --- avatar" [ref=e631]:
+                        - /url: https://www.reddit.com/user/ArtEnvironmental4540/
+                        - img "u/ArtEnvironmental4540 avatar" [ref=e634]
+                      - generic [ref=e638]:
+                        - link "ArtEnvironmental4540's profile" [ref=e641]:
+                          - /url: https://www.reddit.com/user/ArtEnvironmental4540/
+                          - text: ArtEnvironmental4540
+                        - generic "Comment distinguished as the original poster" [ref=e644]: OP
+                        - generic [ref=e645]: •
+                        - link "5d ago" [ref=e647]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orsachm/
+                          - time [ref=e649]: 5d ago
+                    - generic [ref=e651]:
+                      - paragraph [ref=e655]: Na I think cause of Ackerman gene he can’t erase their memories. So I’m trying to think did he take her to the paths right before she killed him. Or did him like hold on to the memories until the right time?? Like I’m so confused
+                      - generic [ref=e657]:
+                        - img [ref=e658]
+                        - generic [ref=e660]: "1"
+                        - img [ref=e661]
+                      - img
+                      - generic [ref=e663]:
+                        - 'article "Comment thread level 2: Reply from grimreaper069 5 days ago" [ref=e665]':
+                          - generic "grimreaper069's profile --- avatar grimreaper069's profile 5d ago" [ref=e666] [cursor=pointer]:
+                            - link "grimreaper069's profile --- avatar" [ref=e671]:
+                              - /url: https://www.reddit.com/user/grimreaper069/
+                              - img [ref=e676]
+                            - generic [ref=e681]:
+                              - link "grimreaper069's profile" [ref=e684]:
+                                - /url: https://www.reddit.com/user/grimreaper069/
+                                - text: grimreaper069
+                              - generic [ref=e685]: •
+                              - link "5d ago" [ref=e687]:
+                                - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orslqac/
+                                - time [ref=e689]: 5d ago
+                          - generic [ref=e691]:
+                            - paragraph [ref=e695]: No it happened while she was on top of Falco's Titan, unlike Armin with whom he did it before but erased his memories, he can't do that with Mikasa.
+                            - generic [ref=e697]:
+                              - img [ref=e698]
+                              - generic [ref=e700]: "5"
+                              - img [ref=e701]
+                        - 'article "Comment thread level 2: Reply from ingodwetryst 5 days ago" [ref=e704]':
+                          - generic "ingodwetryst's profile --- avatar ingodwetryst's profile 5d ago" [ref=e705] [cursor=pointer]:
+                            - link "ingodwetryst's profile --- avatar" [ref=e710]:
+                              - /url: https://www.reddit.com/user/ingodwetryst/
+                              - img "u/ingodwetryst avatar" [ref=e713]
+                            - generic [ref=e717]:
+                              - link "ingodwetryst's profile" [ref=e720]:
+                                - /url: https://www.reddit.com/user/ingodwetryst/
+                                - text: ingodwetryst
+                              - generic [ref=e721]: •
+                              - link "5d ago" [ref=e723]:
+                                - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orsjuoc/
+                                - time [ref=e725]: 5d ago
+                          - generic [ref=e727]:
+                            - paragraph [ref=e731]: It happened in realtime when she was on Falco, I believe. Like the entire 4 years.
+                            - generic [ref=e733]:
+                              - img [ref=e734]
+                              - generic [ref=e736]: "4"
+                              - img [ref=e737]
+              - article "Comment from strawberryjetpuff 4 days ago" [ref=e740]:
+                - generic "strawberryjetpuff's profile --- avatar strawberryjetpuff's profile 4d ago" [ref=e741] [cursor=pointer]:
+                  - link "strawberryjetpuff's profile --- avatar" [ref=e746]:
+                    - /url: https://www.reddit.com/user/strawberryjetpuff/
+                    - img "u/strawberryjetpuff avatar" [ref=e749]
+                  - generic [ref=e753]:
+                    - link "strawberryjetpuff's profile" [ref=e756]:
+                      - /url: https://www.reddit.com/user/strawberryjetpuff/
+                      - text: strawberryjetpuff
+                    - generic [ref=e757]: •
+                    - link "4d ago" [ref=e759]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orumox4/
+                      - time [ref=e761]: 4d ago
+                - generic [ref=e763]:
+                  - generic [ref=e766]:
+                    - paragraph [ref=e767]: so the paths is how all eldians are connected, and in the paths, time doesnt flow the way it does in the real world. ymir the founder has been in the paths for 2000 years waiting to be "freed." after eren started the rumbling, he used the powers of the founder via the paths to talk to armin and co, then wipes their memories until later. he uses the paths to spend 4 years with mikasa at the cabin, which happens in a fraction of a second before mikasa kills eren. its basically the time and space that eren and mikasa fully realize and express their feelings for each other. its almost like a long, vivid dream they shared.
+                    - paragraph [ref=e768]: eren couldnt share the cabin life with mikasa at the same time of his talk with armin and co because he wouldnt be able to wipe her memories since she's an ackerman, and therefore resistant to the founder's powers.
+                  - generic [ref=e770]:
+                    - img [ref=e771]
+                    - generic [ref=e773]: "1"
+                    - img [ref=e774]
+              - article "Comment from coco_cocoo 4 days ago" [ref=e777]:
+                - generic "coco_cocoo's profile --- avatar coco_cocoo's profile 4d ago" [ref=e778] [cursor=pointer]:
+                  - link "coco_cocoo's profile --- avatar" [ref=e783]:
+                    - /url: https://www.reddit.com/user/coco_cocoo/
+                    - img "u/coco_cocoo avatar" [ref=e786]
+                  - generic [ref=e790]:
+                    - link "coco_cocoo's profile" [ref=e793]:
+                      - /url: https://www.reddit.com/user/coco_cocoo/
+                      - text: coco_cocoo
+                    - generic [ref=e794]: •
+                    - link "4d ago" [ref=e796]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/oruzcqr/
+                      - time [ref=e798]: 4d ago
+                - generic [ref=e800]:
+                  - paragraph [ref=e804]:
+                    - link "here" [ref=e805] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/titanfolk/s/LU6ISbkBUz
+                  - generic [ref=e807]:
+                    - img [ref=e808]
+                    - generic [ref=e810]: "1"
+                    - img [ref=e811]
+              - article "Comment from NotGonnaArgue641 4 days ago" [ref=e814]:
+                - generic "NotGonnaArgue641's profile --- avatar NotGonnaArgue641's profile 4d ago" [ref=e815] [cursor=pointer]:
+                  - link "NotGonnaArgue641's profile --- avatar" [ref=e820]:
+                    - /url: https://www.reddit.com/user/NotGonnaArgue641/
+                    - img "u/NotGonnaArgue641 avatar" [ref=e823]
+                  - generic [ref=e827]:
+                    - link "NotGonnaArgue641's profile" [ref=e830]:
+                      - /url: https://www.reddit.com/user/NotGonnaArgue641/
+                      - text: NotGonnaArgue641
+                    - generic [ref=e831]: •
+                    - link "4d ago" [ref=e833]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orync01/
+                      - time [ref=e835]: 4d ago
+                - generic [ref=e837]:
+                  - paragraph [ref=e841]: Mikasa didn't literally spend 4 years in the paths with Eren like everyone here is saying. It instead essentially amounted to what felt like a long, distant dream to Mikasa. Hence the chapter title.
+                  - generic [ref=e843]:
+                    - img [ref=e844]
+                    - generic [ref=e846]: "1"
+                    - img [ref=e847]
+              - article "Comment from Cheap_Title5302 4 days ago" [ref=e850]:
+                - generic "Cheap_Title5302's profile --- avatar Cheap_Title5302's profile 4d ago" [ref=e851] [cursor=pointer]:
+                  - link "Cheap_Title5302's profile --- avatar" [ref=e856]:
+                    - /url: https://www.reddit.com/user/Cheap_Title5302/
+                    - img [ref=e861]
+                  - generic [ref=e866]:
+                    - link "Cheap_Title5302's profile" [ref=e869]:
+                      - /url: https://www.reddit.com/user/Cheap_Title5302/
+                      - text: Cheap_Title5302
+                    - generic [ref=e870]: •
+                    - link "4d ago" [ref=e872]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orws9xv/
+                      - time [ref=e874]: 4d ago
+                - generic [ref=e876]:
+                  - generic [ref=e879]:
+                    - paragraph [ref=e880]: They did live through the 4 years together. To them it felt and took 4 years but in the outside world mere 1-2 seconds passed.
+                    - paragraph [ref=e881]: In fact, Eren actually pulled her into the Paths during the very last fight. When he fights Armin, both as Colossal Titans. You can tell this by observing Mikasa during this fight. She is still not committed to and ready to kill Eren and struggling with herself. Then next scene we shown/see them in the cabin. When we're out of the scene, it cuts back to the fight and Mikasa says "sorry I can't" and wrapping her scarf around herself being ready and committed now saying "Eren is inside the mouth". If we take away the cabin scene then you notice between her still not ready and struggling vs being committed and ready the fight barely processed 1-2 seconds(at most maybe 5 seconds).
+                  - generic [ref=e883]:
+                    - img [ref=e884]
+                    - generic [ref=e886]: "0"
+                    - img [ref=e887]
+              - article "Comment from humanzrdoomd 4 days ago" [ref=e890]:
+                - generic "humanzrdoomd's profile --- avatar humanzrdoomd's profile 4d ago" [ref=e891] [cursor=pointer]:
+                  - link "humanzrdoomd's profile --- avatar" [ref=e896]:
+                    - /url: https://www.reddit.com/user/humanzrdoomd/
+                    - img [ref=e901]
+                  - generic [ref=e906]:
+                    - link "humanzrdoomd's profile" [ref=e909]:
+                      - /url: https://www.reddit.com/user/humanzrdoomd/
+                      - text: humanzrdoomd
+                    - generic [ref=e910]: •
+                    - link "4d ago" [ref=e912]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orwvzl3/
+                      - time [ref=e914]: 4d ago
+                - generic [ref=e916]:
+                  - paragraph [ref=e920]: It was real, but also in their minds
+                  - generic [ref=e922]:
+                    - img [ref=e923]
+                    - generic [ref=e925]: "0"
+                    - img [ref=e926]
+              - article "Comment from akashchowa12 5 days ago" [ref=e929]:
+                - generic "akashchowa12's profile --- avatar akashchowa12's profile 5d ago" [ref=e930] [cursor=pointer]:
+                  - link "akashchowa12's profile --- avatar" [ref=e935]:
+                    - /url: https://www.reddit.com/user/akashchowa12/
+                    - img "u/akashchowa12 avatar" [ref=e938]
+                  - generic [ref=e942]:
+                    - link "akashchowa12's profile" [ref=e945]:
+                      - /url: https://www.reddit.com/user/akashchowa12/
+                      - text: akashchowa12
+                    - generic [ref=e946]: •
+                    - link "5d ago" [ref=e948]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/comment/orsjhy8/
+                      - time [ref=e950]: 5d ago
+                - generic [ref=e952]:
+                  - generic [ref=e955]:
+                    - paragraph [ref=e956]: i think its like an alternate reality for them. What would have happened if mikasa told her real feelings that day and then they abandon everyone and everthing and ran away.
+                    - paragraph [ref=e957]: the cabin scene has important significance as it helps mikasa to finally kill eren and to let go. It just shows that they can never be together (atleast in this lifetime) so she had to make a very important and painful decision of killing him. I also believe it was eren's way of telling her 'goodbye' or like a farewell and to show her that he loved her and reciprocated her feelings. But he would always choose the other path (the rumbling) no matter what. This is how i interpreted the scene atleast.
+                  - generic [ref=e959]:
+                    - img [ref=e960]
+                    - generic [ref=e962]: "4"
+                    - img [ref=e963]
+        - generic [ref=e965]:
+          - generic [ref=e966]:
+            - complementary "People also ask about section" [ref=e968]:
+              - heading "People also ask about section" [level=1] [ref=e969]
+              - generic [ref=e970]:
+                - img [ref=e972]
+                - generic [ref=e974]: People also ask about
+              - generic [ref=e975]:
+                - generic [ref=e977]:
+                  - generic [ref=e978]:
+                    - generic [ref=e979]: Most shocking moments in Attack on Titan
+                    - generic [ref=e980]:
+                      - paragraph [ref=e981]:
+                        - text: To identify the most shocking moments in
+                        - emphasis [ref=e982]: Attack on Titan
+                        - text: ", consider scenes that deliver unexpected plot twists, horrific imagery, or intense emotional impact."
+                      - heading "Unexpected Revelations and Betrayals" [level=3] [ref=e983]
+                      - list [ref=e984]:
+                        - listitem [ref=e985]:
+                          - paragraph [ref=e986]:
+                            - strong [ref=e987]: The Colossal and Armored Titan reveal
+                            - text: was a massive shock to viewers, fundamentally changing the understanding of the show's conflict. "Its hard to beat the Reiner and Bert reveal"
+                        - listitem [ref=e988]:
+                          - paragraph [ref=e989]:
+                            - strong [ref=e990]: Eren manipulating Grisha to kill the Reiss family
+                            - text: completely redefined Eren's character and motivations. "Finding out Eren is the one who pushed Grisha to kill the Reiss family."
+                        - listitem [ref=e991]:
+                          - paragraph [ref=e992]:
+                            - strong [ref=e993]: The Beast Titan's first appearance
+                            - text: was shocking due to its intelligent, human-like behavior and ability to speak. "The Beast Titan legit had me shooketh."
+                      - heading "Horrific and Disturbing Imagery" [level=3] [ref=e994]
+                      - list [ref=e995]:
+                        - listitem [ref=e996]:
+                          - paragraph [ref=e997]:
+                            - strong [ref=e998]: Mike Zacharias's death
+                            - text: is frequently cited as one of the most brutal and disturbing, showing him helpless and terrified before being devoured. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e999]:
+                          - paragraph [ref=e1000]:
+                            - strong [ref=e1001]: Kaya witnessing her mother being eaten alive
+                            - text: left a lasting impact due to the prolonged suffering and the child's helplessness. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e1002]:
+                          - paragraph [ref=e1003]:
+                            - strong [ref=e1004]: The Rumbling
+                            - text: presented an apocalyptic scale of horror, with countless innocent lives being crushed. "The Rumbling was like the one of the most horrifying end of the world moment I’ve ever seen watching all those people trying to escape even attack each other in a futile attempt to escape and even a women crying in terror and despair with her kids made me speechless and sick probably moreso than Faye or Nanaba’s deaths"
+                      - heading "Emotional Impact and Character Trauma" [level=3] [ref=e1005]
+                      - list [ref=e1006]:
+                        - listitem [ref=e1007]:
+                          - paragraph [ref=e1008]:
+                            - strong [ref=e1009]: Nanaba's psychological breakdown
+                            - text: before her death, regressing to a terrified child, was deeply disturbing. "Nanaba screaming "father, please, no, i'll be good", having a full on trauma induced regression to a childhood memory as shes about to be eaten."
+                        - listitem [ref=e1010]:
+                          - paragraph [ref=e1011]:
+                            - strong [ref=e1012]: Hannah attempting CPR on Franz
+                            - text: ", who was missing the lower half of his body, highlighted the grim realities of battle. \"this was disturbing.Hannah giving cpr to franz. the view in anime is blocked by armin in the anime\""
+                        - listitem [ref=e1013]:
+                          - paragraph [ref=e1014]:
+                            - strong [ref=e1015]: Marco's betrayal and death
+                            - text: was a crushing moment, showing the harshness of a war where former comrades turn on each other. "Being betrayed by not one, not two, but THREE people who you believed were your comrades and friends is just so crushing."
+                      - paragraph [ref=e1016]: Do you think the earlier seasons had more shocking moments due to the initial mystery of the titans?
+                      - separator [ref=e1017]
+                  - link "Show More" [ref=e1022] [cursor=pointer]:
+                    - /url: https://www.reddit.com/answers/f5567c26-5c5c-4feb-965c-2f9888a63b43/?q=Most+shocking+moments+in+Attack+on+Titan&source=PDP
+                    - generic [ref=e1024]: Show More
+                - link "Character arcs that surprised fans the most" [ref=e1026] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/f4be1c15-787e-4c22-a169-aa7e7def3cc4/?q=Character+arcs+that+surprised+fans+the+most&source=PDP
+                  - generic [ref=e1029]: Character arcs that surprised fans the most
+                  - img [ref=e1032]
+                - link "Best fan theories about the series" [ref=e1035] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/5ca9bfd6-26de-48f5-9a3e-a5b74803144a/?q=Best+fan+theories+about+the+series&source=PDP
+                  - generic [ref=e1038]: Best fan theories about the series
+                  - img [ref=e1041]
+                - link "Impact of Attack on Titan on anime culture" [ref=e1044] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/f7ca61b0-76e3-4273-b3aa-0fdff8772a20/?q=Impact+of+Attack+on+Titan+on+anime+culture&source=PDP
+                  - generic [ref=e1047]: Impact of Attack on Titan on anime culture
+                  - img [ref=e1050]
+                - link "Favorite Titan transformations and why" [ref=e1053] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/520fc400-14e6-4ac1-9b2c-684140bafae1/?q=Favorite+Titan+transformations+and+why&source=PDP
+                  - generic [ref=e1056]: Favorite Titan transformations and why
+                  - img [ref=e1059]
+            - complementary "Related Posts Section" [ref=e1061]:
+              - heading "Related Posts Section" [level=1] [ref=e1062]: More posts you may like
+              - generic [ref=e1063]: Related posts
+              - list [ref=e1069]:
+                - listitem [ref=e1070]:
+                  - generic [ref=e1071]:
+                    - generic [ref=e1072]:
+                      - link "Needed help to understand (Pursuit of jade)" [ref=e1073] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/cdramasfans/comments/1tgw5pm/needed_help_to_understand_pursuit_of_jade/
+                        - generic [ref=e1074]:
+                          - generic: Needed help to understand (Pursuit of jade)
+                      - generic [ref=e1076]:
+                        - generic [ref=e1078]:
+                          - link "r/cdramasfans" [ref=e1079] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/cdramasfans/
+                            - generic [ref=e1083]: r/cdramasfans
+                          - generic [ref=e1084]: •
+                          - time [ref=e1086]: 1mo ago
+                        - link "SPOILER List item post - Needed help to understand (Pursuit of jade)" [ref=e1088] [cursor=pointer]:
+                          - /url: /r/cdramasfans/comments/1tgw5pm/needed_help_to_understand_pursuit_of_jade/
+                          - generic [ref=e1090]:
+                            - generic [ref=e1092]:
+                              - img [ref=e1094]
+                              - generic [ref=e1096]: SPOILER
+                            - heading "List item post - Needed help to understand (Pursuit of jade)" [level=3] [ref=e1097]: Needed help to understand (Pursuit of jade)
+                      - generic [ref=e1099]:
+                        - generic [ref=e1100]: "4"
+                        - text: upvotes ·
+                        - generic [ref=e1101]: "13"
+                        - text: comments
+                    - separator [ref=e1102]
+                - listitem [ref=e1103]:
+                  - generic [ref=e1104]:
+                    - generic [ref=e1105]:
+                      - link "Can you save Wyll’s dad after destroying the foundry?" [ref=e1106] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/BG3/comments/1swuom0/can_you_save_wylls_dad_after_destroying_the/
+                        - generic [ref=e1107]:
+                          - generic: Can you save Wyll’s dad after destroying the foundry?
+                      - generic [ref=e1109]:
+                        - generic [ref=e1111]:
+                          - link "r/BG3" [ref=e1112] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/BG3/
+                            - generic [ref=e1116]: r/BG3
+                          - generic [ref=e1117]: •
+                          - time [ref=e1119]: 2mo ago
+                        - link "List item post - Can you save Wyll’s dad after destroying the foundry?" [ref=e1121] [cursor=pointer]:
+                          - /url: /r/BG3/comments/1swuom0/can_you_save_wylls_dad_after_destroying_the/
+                          - heading "List item post - Can you save Wyll’s dad after destroying the foundry?" [level=3] [ref=e1124]: Can you save Wyll’s dad after destroying the foundry?
+                      - generic [ref=e1126]:
+                        - generic [ref=e1127]: "59"
+                        - text: upvotes ·
+                        - generic [ref=e1128]: "27"
+                        - text: comments
+                    - separator [ref=e1129]
+                - listitem [ref=e1130]:
+                  - generic [ref=e1131]:
+                    - generic [ref=e1132]:
+                      - link "Is this a foreshadowing?" [ref=e1133] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1r8zvzb/is_this_a_foreshadowing/
+                        - generic [ref=e1134]:
+                          - generic: Is this a foreshadowing?
+                      - generic [ref=e1135]:
+                        - generic [ref=e1136]:
+                          - generic [ref=e1138]:
+                            - link "r/attackontitan" [ref=e1139] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1143]: r/attackontitan
+                            - generic [ref=e1144]: •
+                            - time [ref=e1146]: 4mo ago
+                          - link "List item post - Is this a foreshadowing?" [ref=e1148] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1r8zvzb/is_this_a_foreshadowing/
+                            - heading "List item post - Is this a foreshadowing?" [level=3] [ref=e1151]: Is this a foreshadowing?
+                        - generic [ref=e1153]:
+                          - link "r/attackontitan - Is this a foreshadowing?" [ref=e1154] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1r8zvzb/is_this_a_foreshadowing/
+                            - img "r/attackontitan - Is this a foreshadowing?" [ref=e1155]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1157]:
+                        - generic [ref=e1158]: 1.2K
+                        - text: upvotes ·
+                        - generic [ref=e1159]: "18"
+                        - text: comments
+                    - separator [ref=e1160]
+                - listitem
+                - listitem [ref=e1161]:
+                  - generic [ref=e1162]:
+                    - generic [ref=e1163]:
+                      - link "is this foreshadowing or am i crazy" [ref=e1164] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1ty5aur/is_this_foreshadowing_or_am_i_crazy/
+                        - generic [ref=e1165]:
+                          - generic: is this foreshadowing or am i crazy
+                      - generic [ref=e1166]:
+                        - generic [ref=e1167]:
+                          - generic [ref=e1169]:
+                            - link "r/attackontitan" [ref=e1170] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1174]: r/attackontitan
+                            - generic [ref=e1175]: •
+                            - time [ref=e1177]: 14d ago
+                          - link "SPOILER List item post - is this foreshadowing or am i crazy" [ref=e1179] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1ty5aur/is_this_foreshadowing_or_am_i_crazy/
+                            - generic [ref=e1181]:
+                              - generic [ref=e1183]:
+                                - img [ref=e1185]
+                                - generic [ref=e1187]: SPOILER
+                              - heading "List item post - is this foreshadowing or am i crazy" [level=3] [ref=e1188]: is this foreshadowing or am i crazy
+                        - generic [ref=e1190]:
+                          - link "r/attackontitan - is this foreshadowing or am i crazy" [ref=e1191] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1ty5aur/is_this_foreshadowing_or_am_i_crazy/
+                            - img "r/attackontitan - is this foreshadowing or am i crazy" [ref=e1192]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1194]:
+                        - generic [ref=e1195]: 2.1K
+                        - text: upvotes ·
+                        - generic [ref=e1196]: "83"
+                        - text: comments
+                    - separator [ref=e1197]
+                - listitem [ref=e1198]:
+                  - generic [ref=e1199]:
+                    - generic [ref=e1200]:
+                      - link "New foreshadowing" [ref=e1201] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qb60t2/new_foreshadowing/
+                        - generic [ref=e1202]:
+                          - generic: New foreshadowing
+                      - generic [ref=e1203]:
+                        - generic [ref=e1204]:
+                          - generic [ref=e1206]:
+                            - link "r/attackontitan" [ref=e1207] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1211]: r/attackontitan
+                            - generic [ref=e1212]: •
+                            - time [ref=e1214]: 5mo ago
+                          - link "List item post - New foreshadowing" [ref=e1216] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1qb60t2/new_foreshadowing/
+                            - heading "List item post - New foreshadowing" [level=3] [ref=e1219]: New foreshadowing
+                        - generic [ref=e1221]:
+                          - link "r/attackontitan - New foreshadowing" [ref=e1222] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1qb60t2/new_foreshadowing/
+                            - img "r/attackontitan - New foreshadowing" [ref=e1223]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1225]:
+                        - generic [ref=e1226]: "960"
+                        - text: upvotes ·
+                        - generic [ref=e1227]: "22"
+                        - text: comments
+                    - separator [ref=e1228]
+                - listitem [ref=e1229]:
+                  - generic [ref=e1230]:
+                    - generic [ref=e1231]:
+                      - link "This comment perfectly captures the theme of each season" [ref=e1232] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1p04juc/this_comment_perfectly_captures_the_theme_of_each/
+                        - generic [ref=e1233]:
+                          - generic: This comment perfectly captures the theme of each season
+                      - generic [ref=e1234]:
+                        - generic [ref=e1235]:
+                          - generic [ref=e1237]:
+                            - link "r/attackontitan" [ref=e1238] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1242]: r/attackontitan
+                            - generic [ref=e1243]: •
+                            - time [ref=e1245]: 7mo ago
+                          - link "List item post - This comment perfectly captures the theme of each season" [ref=e1247] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1p04juc/this_comment_perfectly_captures_the_theme_of_each/
+                            - heading "List item post - This comment perfectly captures the theme of each season" [level=3] [ref=e1250]: This comment perfectly captures the theme of each season
+                        - link "r/attackontitan - This comment perfectly captures the theme of each season" [ref=e1253] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1p04juc/this_comment_perfectly_captures_the_theme_of_each/
+                          - img "r/attackontitan - This comment perfectly captures the theme of each season" [ref=e1254]
+                      - generic [ref=e1256]:
+                        - generic [ref=e1257]: "350"
+                        - text: upvotes ·
+                        - generic [ref=e1258]: "6"
+                        - text: comments
+                    - separator [ref=e1259]
+                - listitem [ref=e1260]:
+                  - generic [ref=e1261]:
+                    - generic [ref=e1262]:
+                      - link "We all know what happened" [ref=e1263] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1ne5ku6/we_all_know_what_happened/
+                        - generic [ref=e1264]:
+                          - generic: We all know what happened
+                      - generic [ref=e1266]:
+                        - generic [ref=e1268]:
+                          - link "r/attackontitan" [ref=e1269] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1273]: r/attackontitan
+                          - generic [ref=e1274]: •
+                          - time [ref=e1276]: 9mo ago
+                        - link "List item post - We all know what happened" [ref=e1278] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1ne5ku6/we_all_know_what_happened/
+                          - heading "List item post - We all know what happened" [level=3] [ref=e1281]: We all know what happened
+                      - generic [ref=e1283]:
+                        - generic [ref=e1284]: 1.4K
+                        - text: upvotes ·
+                        - generic [ref=e1285]: "19"
+                        - text: comments
+                    - separator [ref=e1286]
+                - listitem [ref=e1287]:
+                  - generic [ref=e1288]:
+                    - generic [ref=e1289]:
+                      - link "Somethings Off... Or am I Crazy" [ref=e1290] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1pnxqtq/somethings_off_or_am_i_crazy/
+                        - generic [ref=e1291]:
+                          - generic: Somethings Off... Or am I Crazy
+                      - generic [ref=e1292]:
+                        - generic [ref=e1293]:
+                          - generic [ref=e1295]:
+                            - link "r/attackontitan" [ref=e1296] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1300]: r/attackontitan
+                            - generic [ref=e1301]: •
+                            - time [ref=e1303]: 6mo ago
+                          - link "List item post - Somethings Off... Or am I Crazy" [ref=e1305] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1pnxqtq/somethings_off_or_am_i_crazy/
+                            - heading "List item post - Somethings Off... Or am I Crazy" [level=3] [ref=e1308]: Somethings Off... Or am I Crazy
+                        - generic [ref=e1310]:
+                          - link "r/attackontitan - Somethings Off... Or am I Crazy" [ref=e1311] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1pnxqtq/somethings_off_or_am_i_crazy/
+                            - img "r/attackontitan - Somethings Off... Or am I Crazy" [ref=e1312]
+                          - generic:
+                            - img
+                            - generic: "5"
+                      - generic [ref=e1314]:
+                        - generic [ref=e1315]: "258"
+                        - text: upvotes ·
+                        - generic [ref=e1316]: "25"
+                        - text: comments
+                    - separator [ref=e1317]
+                - listitem
+                - listitem [ref=e1318]:
+                  - generic [ref=e1319]:
+                    - generic [ref=e1320]:
+                      - link "what’s this referencing?" [ref=e1321] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1r0o9b9/whats_this_referencing/
+                        - generic [ref=e1322]:
+                          - generic: what’s this referencing?
+                      - generic [ref=e1323]:
+                        - generic [ref=e1324]:
+                          - generic [ref=e1326]:
+                            - link "r/attackontitan" [ref=e1327] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1331]: r/attackontitan
+                            - generic [ref=e1332]: •
+                            - time [ref=e1334]: 4mo ago
+                          - link "List item post - what’s this referencing?" [ref=e1336] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1r0o9b9/whats_this_referencing/
+                            - heading "List item post - what’s this referencing?" [level=3] [ref=e1339]: what’s this referencing?
+                        - link "r/attackontitan - what’s this referencing?" [ref=e1342] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1r0o9b9/whats_this_referencing/
+                          - img "r/attackontitan - what’s this referencing?" [ref=e1343]
+                      - generic [ref=e1345]:
+                        - generic [ref=e1346]: "254"
+                        - text: upvotes ·
+                        - generic [ref=e1347]: "8"
+                        - text: comments
+                    - separator [ref=e1348]
+                - listitem [ref=e1349]:
+                  - generic [ref=e1350]:
+                    - generic [ref=e1351]:
+                      - link "Most unrealistic part of the show" [ref=e1352] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1pawiqp/most_unrealistic_part_of_the_show/
+                        - generic [ref=e1353]:
+                          - generic: Most unrealistic part of the show
+                      - generic [ref=e1354]:
+                        - generic [ref=e1355]:
+                          - generic [ref=e1357]:
+                            - link "r/attackontitan" [ref=e1358] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1362]: r/attackontitan
+                            - generic [ref=e1363]: •
+                            - time [ref=e1365]: 7mo ago
+                          - link "List item post - Most unrealistic part of the show" [ref=e1367] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1pawiqp/most_unrealistic_part_of_the_show/
+                            - heading "List item post - Most unrealistic part of the show" [level=3] [ref=e1370]: Most unrealistic part of the show
+                        - link "r/attackontitan - Most unrealistic part of the show" [ref=e1373] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1pawiqp/most_unrealistic_part_of_the_show/
+                          - img "r/attackontitan - Most unrealistic part of the show" [ref=e1374]
+                      - generic [ref=e1376]:
+                        - generic [ref=e1377]: 1.2K
+                        - text: upvotes ·
+                        - generic [ref=e1378]: "49"
+                        - text: comments
+                    - separator [ref=e1379]
+                - listitem [ref=e1380]:
+                  - generic [ref=e1381]:
+                    - generic [ref=e1382]:
+                      - link "Is this a subtle foreshadowing or am I just overthinking this scene?" [ref=e1383] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1u4vlkt/is_this_a_subtle_foreshadowing_or_am_i_just/
+                        - generic [ref=e1384]:
+                          - generic: Is this a subtle foreshadowing or am I just overthinking this scene?
+                      - generic [ref=e1385]:
+                        - generic [ref=e1386]:
+                          - generic [ref=e1388]:
+                            - link "r/attackontitan" [ref=e1389] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1393]: r/attackontitan
+                            - generic [ref=e1394]: •
+                            - time [ref=e1396]: 6d ago
+                          - link "List item post - Is this a subtle foreshadowing or am I just overthinking th..." [ref=e1398] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1u4vlkt/is_this_a_subtle_foreshadowing_or_am_i_just/
+                            - heading "List item post - Is this a subtle foreshadowing or am I just overthinking th..." [level=3] [ref=e1401]: Is this a subtle foreshadowing or am I just overthinking this scene?
+                        - generic [ref=e1403]:
+                          - link "r/attackontitan - Is this a subtle foreshadowing or am I just overthinking this scene?" [ref=e1404] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u4vlkt/is_this_a_subtle_foreshadowing_or_am_i_just/
+                            - img "r/attackontitan - Is this a subtle foreshadowing or am I just overthinking this scene?" [ref=e1405]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1407]:
+                        - generic [ref=e1408]: "206"
+                        - text: upvotes ·
+                        - generic [ref=e1409]: "12"
+                        - text: comments
+                    - separator [ref=e1410]
+                - listitem [ref=e1411]:
+                  - generic [ref=e1412]:
+                    - generic [ref=e1413]:
+                      - link "This may be my favorite line in the whole show" [ref=e1414] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1s8ajo5/this_may_be_my_favorite_line_in_the_whole_show/
+                        - generic [ref=e1415]:
+                          - generic: This may be my favorite line in the whole show
+                      - generic [ref=e1416]:
+                        - generic [ref=e1417]:
+                          - generic [ref=e1419]:
+                            - link "r/attackontitan" [ref=e1420] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1424]: r/attackontitan
+                            - generic [ref=e1425]: •
+                            - time [ref=e1427]: 3mo ago
+                          - link "List item post - This may be my favorite line in the whole show" [ref=e1429] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1s8ajo5/this_may_be_my_favorite_line_in_the_whole_show/
+                            - heading "List item post - This may be my favorite line in the whole show" [level=3] [ref=e1432]: This may be my favorite line in the whole show
+                        - link "r/attackontitan - This may be my favorite line in the whole show" [ref=e1435] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1s8ajo5/this_may_be_my_favorite_line_in_the_whole_show/
+                          - img "r/attackontitan - This may be my favorite line in the whole show" [ref=e1436]
+                      - generic [ref=e1438]:
+                        - generic [ref=e1439]: "856"
+                        - text: upvotes ·
+                        - generic [ref=e1440]: "33"
+                        - text: comments
+                    - separator [ref=e1441]
+                - listitem [ref=e1442]:
+                  - generic [ref=e1443]:
+                    - generic [ref=e1444]:
+                      - link "Idk why but this scene gives me one of the best vibes" [ref=e1445] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1odgzaj/idk_why_but_this_scene_gives_me_one_of_the_best/
+                        - generic [ref=e1446]:
+                          - generic: Idk why but this scene gives me one of the best vibes
+                      - generic [ref=e1447]:
+                        - generic [ref=e1448]:
+                          - generic [ref=e1450]:
+                            - link "r/attackontitan" [ref=e1451] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1455]: r/attackontitan
+                            - generic [ref=e1456]: •
+                            - time [ref=e1458]: 8mo ago
+                          - link "List item post - Idk why but this scene gives me one of the best vibes" [ref=e1460] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1odgzaj/idk_why_but_this_scene_gives_me_one_of_the_best/
+                            - heading "List item post - Idk why but this scene gives me one of the best vibes" [level=3] [ref=e1463]: Idk why but this scene gives me one of the best vibes
+                        - link "r/attackontitan - Idk why but this scene gives me one of the best vibes" [ref=e1466] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1odgzaj/idk_why_but_this_scene_gives_me_one_of_the_best/
+                          - img "r/attackontitan - Idk why but this scene gives me one of the best vibes" [ref=e1467]
+                      - generic [ref=e1469]:
+                        - generic [ref=e1470]: "300"
+                        - text: upvotes ·
+                        - generic [ref=e1471]: "24"
+                        - text: comments
+                    - separator [ref=e1472]
+                - listitem [ref=e1473]:
+                  - generic [ref=e1474]:
+                    - generic [ref=e1475]:
+                      - link "They should have done this scene in the anime." [ref=e1476] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1moue3e/they_should_have_done_this_scene_in_the_anime/
+                        - generic [ref=e1477]:
+                          - generic: They should have done this scene in the anime.
+                      - generic [ref=e1478]:
+                        - generic [ref=e1479]:
+                          - generic [ref=e1481]:
+                            - link "r/attackontitan" [ref=e1482] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1486]: r/attackontitan
+                            - generic [ref=e1487]: •
+                            - time [ref=e1489]: 10mo ago
+                          - link "List item post - They should have done this scene in the anime." [ref=e1491] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1moue3e/they_should_have_done_this_scene_in_the_anime/
+                            - heading "List item post - They should have done this scene in the anime." [level=3] [ref=e1494]: They should have done this scene in the anime.
+                        - generic [ref=e1496]:
+                          - link "r/attackontitan - They should have done this scene in the anime." [ref=e1497] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1moue3e/they_should_have_done_this_scene_in_the_anime/
+                            - img "r/attackontitan - They should have done this scene in the anime." [ref=e1498]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1500]:
+                        - generic [ref=e1501]: "739"
+                        - text: upvotes ·
+                        - generic [ref=e1502]: "49"
+                        - text: comments
+                    - separator [ref=e1503]
+                - listitem [ref=e1504]:
+                  - generic [ref=e1505]:
+                    - generic [ref=e1506]:
+                      - link "Was this scene forshadowing the Rumbling?" [ref=e1507] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qgdt2d/was_this_scene_forshadowing_the_rumbling/
+                        - generic [ref=e1508]:
+                          - generic: Was this scene forshadowing the Rumbling?
+                      - generic [ref=e1509]:
+                        - generic [ref=e1510]:
+                          - generic [ref=e1512]:
+                            - link "r/attackontitan" [ref=e1513] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1517]: r/attackontitan
+                            - generic [ref=e1518]: •
+                            - time [ref=e1520]: 5mo ago
+                          - link "List item post - Was this scene forshadowing the Rumbling?" [ref=e1522] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1qgdt2d/was_this_scene_forshadowing_the_rumbling/
+                            - heading "List item post - Was this scene forshadowing the Rumbling?" [level=3] [ref=e1525]: Was this scene forshadowing the Rumbling?
+                        - link "r/attackontitan - Was this scene forshadowing the Rumbling?" [ref=e1528] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1qgdt2d/was_this_scene_forshadowing_the_rumbling/
+                          - img "r/attackontitan - Was this scene forshadowing the Rumbling?" [ref=e1529]
+                      - generic [ref=e1531]:
+                        - generic [ref=e1532]: "329"
+                        - text: upvotes ·
+                        - generic [ref=e1533]: "72"
+                        - text: comments
+                    - separator [ref=e1534]
+                - listitem [ref=e1535]:
+                  - generic [ref=e1536]:
+                    - generic [ref=e1537]:
+                      - link "What do you think they went on to do?" [ref=e1538] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1py4oy3/what_do_you_think_they_went_on_to_do/
+                        - generic [ref=e1539]:
+                          - generic: What do you think they went on to do?
+                      - generic [ref=e1540]:
+                        - generic [ref=e1541]:
+                          - generic [ref=e1543]:
+                            - link "r/attackontitan" [ref=e1544] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1548]: r/attackontitan
+                            - generic [ref=e1549]: •
+                            - time [ref=e1551]: 6mo ago
+                          - link "SPOILER List item post - What do you think they went on to do?" [ref=e1553] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1py4oy3/what_do_you_think_they_went_on_to_do/
+                            - generic [ref=e1555]:
+                              - generic [ref=e1557]:
+                                - img [ref=e1559]
+                                - generic [ref=e1561]: SPOILER
+                              - heading "List item post - What do you think they went on to do?" [level=3] [ref=e1562]: What do you think they went on to do?
+                        - generic [ref=e1564]:
+                          - link "r/attackontitan - What do you think they went on to do?" [ref=e1565] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1py4oy3/what_do_you_think_they_went_on_to_do/
+                            - img "r/attackontitan - What do you think they went on to do?" [ref=e1566]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1568]:
+                        - generic [ref=e1569]: "40"
+                        - text: upvotes ·
+                        - generic [ref=e1570]: "16"
+                        - text: comments
+                    - separator [ref=e1571]
+                - listitem [ref=e1572]:
+                  - generic [ref=e1573]:
+                    - generic [ref=e1574]:
+                      - link "Honestly, it would've been funny if this had happened" [ref=e1575] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1pqr1le/honestly_it_wouldve_been_funny_if_this_had/
+                        - generic [ref=e1576]:
+                          - generic: Honestly, it would've been funny if this had happened
+                      - generic [ref=e1577]:
+                        - generic [ref=e1578]:
+                          - generic [ref=e1580]:
+                            - link "r/attackontitan" [ref=e1581] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1585]: r/attackontitan
+                            - generic [ref=e1586]: •
+                            - time [ref=e1588]: 6mo ago
+                          - link "SPOILER List item post - Honestly, it would've been funny if this had happened" [ref=e1590] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1pqr1le/honestly_it_wouldve_been_funny_if_this_had/
+                            - generic [ref=e1592]:
+                              - generic [ref=e1594]:
+                                - img [ref=e1596]
+                                - generic [ref=e1598]: SPOILER
+                              - heading "List item post - Honestly, it would've been funny if this had happened" [level=3] [ref=e1599]: Honestly, it would've been funny if this had happened
+                        - generic [ref=e1601]:
+                          - link "r/attackontitan - Honestly, it would've been funny if this had happened" [ref=e1602] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1pqr1le/honestly_it_wouldve_been_funny_if_this_had/
+                            - img "r/attackontitan - Honestly, it would've been funny if this had happened" [ref=e1603]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1605]:
+                        - generic [ref=e1606]: "34"
+                        - text: upvotes ·
+                        - generic [ref=e1607]: "14"
+                        - text: comments
+                    - separator [ref=e1608]
+                - listitem [ref=e1609]:
+                  - generic [ref=e1610]:
+                    - generic [ref=e1611]:
+                      - link "Can I still call this a theory ?" [ref=e1612] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1rcqjvw/can_i_still_call_this_a_theory/
+                        - generic [ref=e1613]:
+                          - generic: Can I still call this a theory ?
+                      - generic [ref=e1614]:
+                        - generic [ref=e1615]:
+                          - generic [ref=e1617]:
+                            - link "r/attackontitan" [ref=e1618] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1622]: r/attackontitan
+                            - generic [ref=e1623]: •
+                            - time [ref=e1625]: 4mo ago
+                          - link "List item post - Can I still call this a theory ?" [ref=e1627] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1rcqjvw/can_i_still_call_this_a_theory/
+                            - heading "List item post - Can I still call this a theory ?" [level=3] [ref=e1630]: Can I still call this a theory ?
+                        - generic [ref=e1632]:
+                          - link "r/attackontitan - Can I still call this a theory ?" [ref=e1633] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1rcqjvw/can_i_still_call_this_a_theory/
+                            - img "r/attackontitan - Can I still call this a theory ?" [ref=e1634]
+                          - generic:
+                            - img
+                            - generic: "3"
+                      - generic [ref=e1636]:
+                        - generic [ref=e1637]: "136"
+                        - text: upvotes ·
+                        - generic [ref=e1638]: "30"
+                        - text: comments
+                    - separator [ref=e1639]
+                - listitem [ref=e1640]:
+                  - generic [ref=e1641]:
+                    - generic [ref=e1642]:
+                      - link "Saw this on the internet and immediate thought of the AoT cottage" [ref=e1643] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1tnxclc/saw_this_on_the_internet_and_immediate_thought_of/
+                        - generic [ref=e1644]:
+                          - generic: Saw this on the internet and immediate thought of the AoT cottage
+                      - generic [ref=e1645]:
+                        - generic [ref=e1646]:
+                          - generic [ref=e1648]:
+                            - link "r/attackontitan" [ref=e1649] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1653]: r/attackontitan
+                            - generic [ref=e1654]: •
+                            - time [ref=e1656]: 25d ago
+                          - link "List item post - Saw this on the internet and immediate thought of the AoT c..." [ref=e1658] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1tnxclc/saw_this_on_the_internet_and_immediate_thought_of/
+                            - heading "List item post - Saw this on the internet and immediate thought of the AoT c..." [level=3] [ref=e1661]: Saw this on the internet and immediate thought of the AoT cottage
+                        - link "r/attackontitan - Saw this on the internet and immediate thought of the AoT cottage" [ref=e1664] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1tnxclc/saw_this_on_the_internet_and_immediate_thought_of/
+                          - img "r/attackontitan - Saw this on the internet and immediate thought of the AoT cottage" [ref=e1665]
+                      - generic [ref=e1667]:
+                        - generic [ref=e1668]: "113"
+                        - text: upvotes ·
+                        - generic [ref=e1669]: "10"
+                        - text: comments
+                    - separator [ref=e1670]
+                - listitem [ref=e1671]:
+                  - generic [ref=e1672]:
+                    - generic [ref=e1673]:
+                      - link "So sad they never adapted this into anime" [ref=e1674] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1tkoctz/so_sad_they_never_adapted_this_into_anime/
+                        - generic [ref=e1675]:
+                          - generic: So sad they never adapted this into anime
+                      - generic [ref=e1676]:
+                        - generic [ref=e1677]:
+                          - generic [ref=e1679]:
+                            - link "r/attackontitan" [ref=e1680] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1684]: r/attackontitan
+                            - generic [ref=e1685]: •
+                            - time [ref=e1687]: 28d ago
+                          - link "SPOILER List item post - So sad they never adapted this into anime" [ref=e1689] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1tkoctz/so_sad_they_never_adapted_this_into_anime/
+                            - generic [ref=e1691]:
+                              - generic [ref=e1693]:
+                                - img [ref=e1695]
+                                - generic [ref=e1697]: SPOILER
+                              - heading "List item post - So sad they never adapted this into anime" [level=3] [ref=e1698]: So sad they never adapted this into anime
+                        - generic [ref=e1700]:
+                          - link "r/attackontitan - So sad they never adapted this into anime" [ref=e1701] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1tkoctz/so_sad_they_never_adapted_this_into_anime/
+                            - img "r/attackontitan - So sad they never adapted this into anime" [ref=e1702]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1704]:
+                        - generic [ref=e1705]: "107"
+                        - text: upvotes ·
+                        - generic [ref=e1706]: "15"
+                        - text: comments
+                    - separator [ref=e1707]
+                - listitem [ref=e1708]:
+                  - generic [ref=e1709]:
+                    - generic [ref=e1710]:
+                      - link "Do you think there's any other scene from any work of fiction that matches this scene?" [ref=e1711] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1txbupg/do_you_think_theres_any_other_scene_from_any_work/
+                        - generic [ref=e1712]:
+                          - generic: Do you think there's any other scene from any work of fiction that matches this scene?
+                      - generic [ref=e1713]:
+                        - generic [ref=e1714]:
+                          - generic [ref=e1716]:
+                            - link "r/attackontitan" [ref=e1717] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1721]: r/attackontitan
+                            - generic [ref=e1722]: •
+                            - time [ref=e1724]: 15d ago
+                          - link "List item post - Do you think there's any other scene from any work of ficti..." [ref=e1726] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1txbupg/do_you_think_theres_any_other_scene_from_any_work/
+                            - heading "List item post - Do you think there's any other scene from any work of ficti..." [level=3] [ref=e1729]: Do you think there's any other scene from any work of fiction that matches this scene?
+                        - generic [ref=e1731]:
+                          - link "r/attackontitan - Do you think there's any other scene from any work of fiction that matches this scene?" [ref=e1732] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1txbupg/do_you_think_theres_any_other_scene_from_any_work/
+                            - img "r/attackontitan - Do you think there's any other scene from any work of fiction that matches this scene?" [ref=e1733]
+                          - generic:
+                            - img
+                            - generic: 0:36
+                      - generic [ref=e1735]:
+                        - generic [ref=e1736]: "712"
+                        - text: upvotes ·
+                        - generic [ref=e1737]: "63"
+                        - text: comments
+                    - separator [ref=e1738]
+                - listitem [ref=e1739]:
+                  - generic [ref=e1740]:
+                    - generic [ref=e1741]:
+                      - link "The Murder Drones' Prior Whereabouts" [ref=e1742] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/MurderDrones/comments/1tmvg8a/the_murder_drones_prior_whereabouts/
+                        - generic [ref=e1743]:
+                          - generic: The Murder Drones' Prior Whereabouts
+                      - generic [ref=e1745]:
+                        - generic [ref=e1747]:
+                          - link "r/MurderDrones" [ref=e1748] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/MurderDrones/
+                            - generic [ref=e1752]: r/MurderDrones
+                          - generic [ref=e1753]: •
+                          - time [ref=e1755]: 26d ago
+                        - link "List item post - The Murder Drones' Prior Whereabouts" [ref=e1757] [cursor=pointer]:
+                          - /url: /r/MurderDrones/comments/1tmvg8a/the_murder_drones_prior_whereabouts/
+                          - heading "List item post - The Murder Drones' Prior Whereabouts" [level=3] [ref=e1760]: The Murder Drones' Prior Whereabouts
+                      - generic [ref=e1762]:
+                        - generic [ref=e1763]: "5"
+                        - text: upvotes ·
+                        - generic [ref=e1764]: "1"
+                        - text: comment
+                    - separator [ref=e1765]
+                - listitem [ref=e1766]:
+                  - generic [ref=e1767]:
+                    - generic [ref=e1768]:
+                      - link "What if they had the better Joseph? Arc 6" [ref=e1769] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/ReZero/comments/1smyu2l/what_if_they_had_the_better_joseph_arc_6/
+                        - generic [ref=e1770]:
+                          - generic: What if they had the better Joseph? Arc 6
+                      - generic [ref=e1772]:
+                        - generic [ref=e1774]:
+                          - link "r/ReZero" [ref=e1775] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/ReZero/
+                            - generic [ref=e1779]: r/ReZero
+                          - generic [ref=e1780]: •
+                          - time [ref=e1782]: 2mo ago
+                        - link "SPOILER List item post - What if they had the better Joseph? Arc 6" [ref=e1784] [cursor=pointer]:
+                          - /url: /r/ReZero/comments/1smyu2l/what_if_they_had_the_better_joseph_arc_6/
+                          - generic [ref=e1786]:
+                            - generic [ref=e1788]:
+                              - img [ref=e1790]
+                              - generic [ref=e1792]: SPOILER
+                            - heading "List item post - What if they had the better Joseph? Arc 6" [level=3] [ref=e1793]: What if they had the better Joseph? Arc 6
+                      - generic [ref=e1795]:
+                        - generic [ref=e1796]: "8"
+                        - text: upvotes ·
+                        - generic [ref=e1797]: "1"
+                        - text: comment
+                    - separator [ref=e1798]
+                - listitem [ref=e1799]:
+                  - generic [ref=e1801]:
+                    - link "Doing a rewatch and reread, and thought of something even more tragic" [ref=e1802] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1s2t4lc/doing_a_rewatch_and_reread_and_thought_of/
+                      - generic [ref=e1803]:
+                        - generic: Doing a rewatch and reread, and thought of something even more tragic
+                    - generic [ref=e1805]:
+                      - generic [ref=e1807]:
+                        - link "r/attackontitan" [ref=e1808] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/
+                          - generic [ref=e1812]: r/attackontitan
+                        - generic [ref=e1813]: •
+                        - time [ref=e1815]: 3mo ago
+                      - link "List item post - Doing a rewatch and reread, and thought of something even m..." [ref=e1817] [cursor=pointer]:
+                        - /url: /r/attackontitan/comments/1s2t4lc/doing_a_rewatch_and_reread_and_thought_of/
+                        - heading "List item post - Doing a rewatch and reread, and thought of something even m..." [level=3] [ref=e1820]: Doing a rewatch and reread, and thought of something even more tragic
+                    - generic [ref=e1822]:
+                      - generic [ref=e1823]: "47"
+                      - text: upvotes ·
+                      - generic [ref=e1824]: "12"
+                      - text: comments
+            - generic [ref=e1825]:
+              - heading "View Post in" [level=2] [ref=e1827]:
+                - generic [ref=e1828]: View Post in
+              - generic [ref=e1829]:
+                - link "Português (Brasil)" [ref=e1831] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/explain_the_cabin_scene/?tl=pt-br
+                - link "Français" [ref=e1833] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/explain_the_cabin_scene/?tl=fr
+                - group [ref=e1834]:
+                  - generic "See more" [ref=e1835] [cursor=pointer]:
+                    - generic [ref=e1836]: See more
+                    - img [ref=e1838]
+            - complementary "Community information" [ref=e1840]:
+              - generic [ref=e1842]:
+                - heading "Community Info Section" [level=1] [ref=e1843]
+                - generic [ref=e1844]:
+                  - generic [ref=e1845]:
+                    - link "r/attackontitan" [ref=e1846] [cursor=pointer]:
+                      - /url: /r/attackontitan/
+                      - generic [ref=e1847]: r/attackontitan
+                    - 'button "Community status: Resting Under the tree..." [ref=e1850] [cursor=pointer]':
+                      - img "tree" [ref=e1851]
+                  - button "Join" [ref=e1855] [cursor=pointer]
+                - generic [ref=e1856]:
+                  - generic [ref=e1857]: Attack on Titan (Shingeki no Kyojin)
+                  - generic [ref=e1858]: A subreddit dedicated to Attack on Titan (進撃の巨人) manga and anime series.
+                  - generic [ref=e1861]:
+                    - img [ref=e1862]
+                    - text: Public
+          - list [ref=e1865]:
+            - listitem [ref=e1866]:
+              - link "Home" [ref=e1868] [cursor=pointer]:
+                - /url: /?feed=home
+            - listitem [ref=e1869]:
+              - link "Popular" [ref=e1871] [cursor=pointer]:
+                - /url: /r/popular/
+            - listitem [ref=e1872]:
+              - link "News" [ref=e1874] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e1875]:
+              - link "Explore" [ref=e1877] [cursor=pointer]:
+                - /url: /explore/
+            - listitem [ref=e1878]:
+              - link "Best of Reddit" [ref=e1880] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/global/
+            - listitem [ref=e1881]:
+              - link "Best of Reddit in Portuguese" [ref=e1883] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+            - listitem [ref=e1884]:
+              - link "Best of Reddit in German" [ref=e1886] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-de/
+            - listitem [ref=e1887]:
+              - link "Reddit Rules" [ref=e1889] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/content-policy
+            - listitem [ref=e1890]:
+              - link "Privacy Policy" [ref=e1892] [cursor=pointer]:
+                - /url: https://www.reddit.com/policies/privacy-policy
+            - listitem [ref=e1893]:
+              - link "User Agreement" [ref=e1895] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/user-agreement
+            - listitem [ref=e1896]:
+              - link "Your Privacy Choices" [ref=e1898] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/articles/43980704794004
+            - listitem [ref=e1899]:
+              - link "Accessibility" [ref=e1901] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+            - listitem [ref=e1902]:
+              - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1903] [cursor=pointer]:
+                - /url: https://redditinc.com

@@ -1,0 +1,1413 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Armin vs. Erwin discourse has undone years of my therapy : r/attackontitan"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - generic [ref=e12]:
+            - button "Open menu" [ref=e16] [cursor=pointer]:
+              - img [ref=e19]
+              - generic [ref=e21]:
+                - generic: Open menu
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Home":
+                        - /url: https://www.reddit.com/
+          - search [ref=e31]:
+            - generic [ref=e33]:
+              - img [ref=e36]
+              - textbox "Ask" [ref=e40]:
+                - /placeholder: Find anything
+              - separator [ref=e41]
+              - link "Ask" [ref=e45] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e46]:
+                  - img [ref=e48]
+                  - generic [ref=e50]: Ask
+              - generic: Find anything
+          - generic [ref=e51]:
+            - link "Log In" [ref=e55] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e57]: Log In
+            - button "Expand user menu" [ref=e62] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]:
+                - generic: Expand user menu
+      - generic [ref=e71]:
+        - main [ref=e72]:
+          - 'generic "Armin vs. Erwin discourse has undone years of my therapy : r/attackontitan"'
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - button "Back" [ref=e77] [cursor=pointer]:
+                  - img [ref=e80]
+                  - generic [ref=e82]:
+                    - generic: Back
+                - link "Go to attackontitan" [ref=e85] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/
+                  - generic [ref=e89]:
+                    - generic: Go to attackontitan
+                - group [ref=e90]:
+                  - generic [ref=e91]:
+                    - link "r/attackontitan" [ref=e94] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/
+                    - generic [ref=e95]: •
+                    - time [ref=e97]: 5d ago
+                  - 'link "Author: tinselpandora" [ref=e102] [cursor=pointer]':
+                    - /url: https://www.reddit.com/user/tinselpandora/
+                    - generic [ref=e103]: tinselpandora
+              - button "Open user actions" [ref=e107] [cursor=pointer]:
+                - img [ref=e110]
+            - 'heading "Post Title: Armin vs. Erwin discourse has undone years of my therapy" [level=1] [ref=e114]': Armin vs. Erwin discourse has undone years of my therapy
+            - generic [ref=e117]:
+              - generic [ref=e118]:
+                - paragraph [ref=e119]: I had this debate with my friends and completely blanked, so now you get to read my imaginary “shower argument” scenario because apparently my brain refuses to let me sleep until I win debates that ended two days ago…
+                - paragraph [ref=e120]: Can we stop acting like choosing Armin over Erwin was some objective catastrophe for FIVE SECONDS?
+                - paragraph [ref=e121]: “BUT ERWIN WAS THE DEVIL HUMANITY NEEEEEEEEEEDEDDDDDD!”
+                - paragraph [ref=e122]: Yeah, and the guy was EXHAUSTEDD on a cellular level. Did we watch the same show??!?? Erwin had spent YEARS sending teenagers into meat grinders while carrying enough survivor’s guilt to collapse a large nation. His final charge wasn’t some LinkedIn motivational speech about how he couldn’t wait to keep leading. It was basically, “Please let this nightmare end already.”
+                - paragraph [ref=e123]: Meanwhile Armin is over there being the only person in the cast asking, “Hey, maybe we should use our brains before committing mass homicide?” Mans figured out Annie. He outplayed Bertholdt. He CONSTANTLY came up with strategies despite having the self-esteem of a wet napkin.
+                - paragraph [ref=e124]: “But Erwin would’ve solved everything!!!!!!!”😩😩😩
+                - paragraph [ref=e125]: OH, WOULD HE??!?
+                - paragraph [ref=e126]: The man couldn’t even get to the basement without having an existential crisis every other episode. His entire character arc was about chasing the truth that obsessed him since childhood. Once he finally accepted sacrificing that dream, that was his conclusion. That’s tragedy. That’s storytelling.
+                - paragraph [ref=e127]: AND ANOTHER THING, are we really pretending Erwin would’ve been totally normal after waking up and finding out a sixteen-year-old got roasted alive so HE could keep going?!?!?THIS MAN KEPT AN EMOTIONAL EXCEL SPREADSHEET OF EVERY SOLDIER WHO DIED UNDER HIS COMMAND. You think hearing, “Good news, Commander! We let the kid die instead lol!” would’ve had him standing up like, “Excellent. Back to business boys😎”?!? Can we be so fr right now.
+                - paragraph [ref=e128]: Also, everyone suddenly becomes a military efficiency expert with hindsight. “I would’ve picked Erwin.” Sure you would’ve. Easy decision when you’re sitting on your couch eating chips with all four seasons worth of information instead of having thirty seconds while your friends are literally burning to death around you.
+                - paragraph [ref=e129]: Levi didn’t choose the “stronger weapon.” He chose to let one broken man rest and give another kid full of hope a chance to see the world he kept talking about.
+                - paragraph [ref=e130]: And the funniest part? The same people screaming that Armin was useless immediately shut up whenever he actually pulls off another impossible plan.
+                - paragraph [ref=e131]: Now, let’s talk about Eren for a sec here.
+                - paragraph [ref=e132]: Could you IMAGINEEE how much worse Eren would have become if his best friend died??? Man probably wouldn’t have stopped until he killed 99% of the world.
+                - paragraph [ref=e133]: You don’t have to prefer Armin as a character, hell you don’t even have to like the guy. Erwin is incredible no doubt about it and the picture of peak testosterone. But acting like the choice was objectively stupid completely misses the point.
+              - button "Read more" [ref=e134] [cursor=pointer]:
+                - generic [ref=e136]: Read more
+                - img [ref=e139]
+            - generic [ref=e141]:
+              - img [ref=e142]
+              - generic [ref=e144]: "126"
+              - img [ref=e145]
+              - generic [ref=e147]: ·
+              - img [ref=e148]
+              - generic [ref=e150]: "22"
+          - separator [ref=e151]
+          - region "Comments" [ref=e154]:
+            - heading "Comments Section" [level=1] [ref=e155]
+            - generic:
+              - article "Comment from AutoModerator 5 days ago" [ref=e157]:
+                - generic "AutoModerator's profile 5d ago" [ref=e158] [cursor=pointer]:
+                  - img [ref=e160]
+                  - generic [ref=e165]:
+                    - link "AutoModerator's profile" [ref=e168]:
+                      - /url: https://www.reddit.com/user/AutoModerator/
+                      - text: AutoModerator
+                    - generic "Comment distinguished by moderator" [ref=e171]: MOD
+                    - generic [ref=e172]: •
+                    - link "5d ago" [ref=e174]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/ornb6ux/
+                      - time [ref=e176]: 5d ago
+              - article "Comment from tinselpandora 5 days ago" [ref=e179]:
+                - generic "tinselpandora's profile --- avatar tinselpandora's profile 5d ago" [ref=e180] [cursor=pointer]:
+                  - link "tinselpandora's profile --- avatar" [ref=e185]:
+                    - /url: https://www.reddit.com/user/tinselpandora/
+                    - generic [ref=e187]:
+                      - img [ref=e189]
+                      - img [ref=e193]
+                      - img [ref=e196]
+                  - generic [ref=e201]:
+                    - link "tinselpandora's profile" [ref=e204]:
+                      - /url: https://www.reddit.com/user/tinselpandora/
+                      - text: tinselpandora
+                    - generic "Comment distinguished as the original poster" [ref=e207]: OP
+                    - generic [ref=e208]: •
+                    - link "5d ago" [ref=e210]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/ornbhwi/
+                      - time [ref=e212]: 5d ago
+                - generic [ref=e214]:
+                  - generic [ref=e218]:
+                    - paragraph
+                    - figure [ref=e219]:
+                      - link "video player" [ref=e221] [cursor=pointer]:
+                        - /url: https://external-preview.redd.it/19ZcbEJH4mSJavvANZ8hjwTdzrst-ld-K-IBjJvUJcQ.gif?auto=webp&s=f71516e53bd5c69f7e4b11851fddf15328b824ac
+                        - generic [ref=e224]:
+                          - generic "video player" [ref=e225]
+                          - button [disabled] [ref=e226]:
+                            - img [ref=e227]
+                    - text: I feel a little better now.
+                    - paragraph
+                  - generic [ref=e230]:
+                    - img [ref=e231]
+                    - generic [ref=e233]: "85"
+                    - img [ref=e234]
+                  - img
+                  - 'article "Comment thread level 1: Reply from dillon_tharp 5 days ago" [ref=e238]':
+                    - generic "dillon_tharp's profile --- avatar dillon_tharp's profile 5d ago" [ref=e239] [cursor=pointer]:
+                      - link "dillon_tharp's profile --- avatar" [ref=e244]:
+                        - /url: https://www.reddit.com/user/dillon_tharp/
+                        - img [ref=e249]
+                      - generic [ref=e254]:
+                        - link "dillon_tharp's profile" [ref=e257]:
+                          - /url: https://www.reddit.com/user/dillon_tharp/
+                          - text: dillon_tharp
+                        - generic [ref=e258]: •
+                        - link "5d ago" [ref=e260]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/ornchon/
+                          - time [ref=e262]: 5d ago
+                    - generic [ref=e264]:
+                      - paragraph [ref=e268]: I’m glad you got all that out, I 100% agree btw
+                      - generic [ref=e270]:
+                        - img [ref=e271]
+                        - generic [ref=e273]: "20"
+                        - img [ref=e274]
+              - article "Comment from Odd-Woodpecker-4103 5 days ago" [ref=e277]:
+                - generic "Odd-Woodpecker-4103's profile --- avatar Odd-Woodpecker-4103's profile 5d ago" [ref=e278] [cursor=pointer]:
+                  - link "Odd-Woodpecker-4103's profile --- avatar" [ref=e283]:
+                    - /url: https://www.reddit.com/user/Odd-Woodpecker-4103/
+                    - img [ref=e288]
+                  - generic [ref=e293]:
+                    - link "Odd-Woodpecker-4103's profile" [ref=e296]:
+                      - /url: https://www.reddit.com/user/Odd-Woodpecker-4103/
+                      - text: Odd-Woodpecker-4103
+                    - generic [ref=e297]: •
+                    - link "5d ago" [ref=e299]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/ornhr31/
+                      - time [ref=e301]: 5d ago
+                - generic [ref=e303]:
+                  - generic [ref=e306]:
+                    - paragraph [ref=e307]: This is why Levi overhearing Armin talking about the ocean was important. All three commanders of the Survey Corps had the desire for kind kind of learning - Erwin wanted to learn the truth of the world in a political sense, Hange was the scientist, and Armin simply wanted to see the ocean.
+                    - paragraph [ref=e308]: In a way, I think Armin represented the best of humanity. For all of Erwin's cunning, I don't think he would have been able to convince Zeke to give up, or the previous shifters to help them. I mean, this was the man who smiled when he learnt the truth about the titans. I love Erwin, but Armin's childlike innocence and sense of right and wrong was what they needed when the world went through an Armeggedon of sorts.
+                  - generic [ref=e310]:
+                    - img [ref=e311]
+                    - generic [ref=e313]: "41"
+                    - img [ref=e314]
+              - article "Comment from ActualSpamBot 5 days ago" [ref=e317]:
+                - generic "ActualSpamBot's profile --- avatar ActualSpamBot's profile 5d ago" [ref=e318] [cursor=pointer]:
+                  - link "ActualSpamBot's profile --- avatar" [ref=e323]:
+                    - /url: https://www.reddit.com/user/ActualSpamBot/
+                    - img "u/ActualSpamBot avatar" [ref=e326]
+                  - generic [ref=e330]:
+                    - link "ActualSpamBot's profile" [ref=e333]:
+                      - /url: https://www.reddit.com/user/ActualSpamBot/
+                      - text: ActualSpamBot
+                    - generic [ref=e334]: •
+                    - link "5d ago" [ref=e336]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/oro8hy5/
+                      - time [ref=e338]: 5d ago
+                - generic [ref=e340]:
+                  - generic [ref=e343]:
+                    - paragraph [ref=e344]: 10 out of 10. No notes.
+                    - paragraph [ref=e345]: My hope in media literacy is rekindled for a moment OP.
+                  - generic [ref=e347]:
+                    - img [ref=e348]
+                    - generic [ref=e350]: "17"
+                    - img [ref=e351]
+              - article "Comment from bitchflavoured 5 days ago" [ref=e354]:
+                - generic "bitchflavoured's profile --- avatar bitchflavoured's profile 5d ago" [ref=e355] [cursor=pointer]:
+                  - link "bitchflavoured's profile --- avatar" [ref=e360]:
+                    - /url: https://www.reddit.com/user/bitchflavoured/
+                    - img "u/bitchflavoured avatar" [ref=e363]
+                  - generic [ref=e367]:
+                    - link "bitchflavoured's profile" [ref=e370]:
+                      - /url: https://www.reddit.com/user/bitchflavoured/
+                      - text: bitchflavoured
+                    - generic [ref=e371]: •
+                    - link "5d ago" [ref=e373]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/ornlmj7/
+                      - time [ref=e375]: 5d ago
+                - generic [ref=e377]:
+                  - generic [ref=e380]:
+                    - paragraph [ref=e381]: It’s all about foreshadowing.
+                    - paragraph [ref=e382]: We see Armin grow from a timid and oftentimes cowardly boy to someone who bravely speaks up for what he believes in and to voice his own ideas and hypotheses because he wants to see things that no one had ever thought possible.
+                    - paragraph [ref=e383]: Shadis stepped aside because he knew that Erwin was the next best leader they had, and Shadis eventually gave his life for humanity the way he refused to when he was Commander.
+                    - paragraph [ref=e384]: Erwin was the devil they needed but only to reach a critical point because no one else would have gotten them there and Marley would’ve blindsided them all. Shadis could not handle the many lives they wasted yet Erwin bore the brunt of it because he had something to prove.
+                    - paragraph [ref=e385]: Hange was curious about the titans and outside world and led with a sense of discovery that differed to Erwin’s; his was selfish, theirs was not. Hange accepted the outside world and its technology while also building relations with other countries. Would Erwin have done this? Perhaps, but Erwin would have most likely stopped at some point once he realized his father’s theory was true and felt absolved of the guilt of causing his father’s death.
+                  - generic [ref=e387]:
+                    - img [ref=e388]
+                    - generic [ref=e390]: "12"
+                    - img [ref=e391]
+              - article "Comment from GloomsandDooms 5 days ago" [ref=e394]:
+                - generic "GloomsandDooms's profile --- avatar GloomsandDooms's profile 5d ago" [ref=e395] [cursor=pointer]:
+                  - link "GloomsandDooms's profile --- avatar" [ref=e400]:
+                    - /url: https://www.reddit.com/user/GloomsandDooms/
+                    - img "u/GloomsandDooms avatar" [ref=e403]
+                  - generic [ref=e407]:
+                    - link "GloomsandDooms's profile" [ref=e410]:
+                      - /url: https://www.reddit.com/user/GloomsandDooms/
+                      - text: GloomsandDooms
+                    - generic [ref=e411]: •
+                    - link "5d ago" [ref=e413]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/ornr2mr/
+                      - time [ref=e415]: 5d ago
+                - generic [ref=e417]:
+                  - generic [ref=e420]:
+                    - paragraph [ref=e421]: Dude this was so well said. I’m here to add nothing other than your take is so valid and logical and needs to be said louder for those in the back 📢
+                    - paragraph [ref=e422]: "Also side note: your post reads like a tiktok rant in the best way possible lol. You’re hilarious"
+                  - generic [ref=e424]:
+                    - img [ref=e425]
+                    - generic [ref=e427]: "9"
+                    - img [ref=e428]
+              - article "Comment from ashr926 5 days ago" [ref=e431]:
+                - generic "ashr926's profile --- avatar ashr926's profile 5d ago" [ref=e432] [cursor=pointer]:
+                  - link "ashr926's profile --- avatar" [ref=e437]:
+                    - /url: https://www.reddit.com/user/ashr926/
+                    - img [ref=e442]
+                  - generic [ref=e447]:
+                    - link "ashr926's profile" [ref=e450]:
+                      - /url: https://www.reddit.com/user/ashr926/
+                      - text: ashr926
+                    - generic [ref=e451]: •
+                    - link "5d ago" [ref=e453]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orocht0/
+                      - time [ref=e455]: 5d ago
+                - generic [ref=e457]:
+                  - paragraph [ref=e461]: My thoughts exactly
+                  - generic [ref=e463]:
+                    - img [ref=e464]
+                    - generic [ref=e466]: "5"
+                    - img [ref=e467]
+              - article "Comment from Historical_Cause8989 5 days ago" [ref=e470]:
+                - generic "Historical_Cause8989's profile --- avatar Historical_Cause8989's profile 5d ago" [ref=e471] [cursor=pointer]:
+                  - link "Historical_Cause8989's profile --- avatar" [ref=e476]:
+                    - /url: https://www.reddit.com/user/Historical_Cause8989/
+                    - img "u/Historical_Cause8989 avatar" [ref=e479]
+                  - generic [ref=e483]:
+                    - link "Historical_Cause8989's profile" [ref=e486]:
+                      - /url: https://www.reddit.com/user/Historical_Cause8989/
+                      - text: Historical_Cause8989
+                    - generic [ref=e487]: •
+                    - link "5d ago" [ref=e489]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/ornp09j/
+                      - time [ref=e491]: 5d ago
+                - generic [ref=e493]:
+                  - paragraph [ref=e497]: Facts
+                  - generic [ref=e499]:
+                    - img [ref=e500]
+                    - generic [ref=e502]: "4"
+                    - img [ref=e503]
+              - article "Comment from NewThink 5 days ago" [ref=e506]:
+                - generic "NewThink's profile --- avatar NewThink's profile 5d ago" [ref=e507] [cursor=pointer]:
+                  - link "NewThink's profile --- avatar" [ref=e512]:
+                    - /url: https://www.reddit.com/user/NewThink/
+                    - img [ref=e517]
+                  - generic [ref=e522]:
+                    - link "NewThink's profile" [ref=e525]:
+                      - /url: https://www.reddit.com/user/NewThink/
+                      - text: NewThink
+                    - generic [ref=e526]: •
+                    - link "5d ago" [ref=e528]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orot2ad/
+                      - time [ref=e530]: 5d ago
+                - generic [ref=e532]:
+                  - paragraph [ref=e536]: Erwin is possibly my favorite character, but you've got me convinced.
+                  - generic [ref=e538]:
+                    - img [ref=e539]
+                    - generic [ref=e541]: "4"
+                    - img [ref=e542]
+              - article "Comment from AvalancheZ250 5 days ago" [ref=e545]:
+                - generic "AvalancheZ250's profile --- avatar AvalancheZ250's profile 5d ago" [ref=e546] [cursor=pointer]:
+                  - link "AvalancheZ250's profile --- avatar" [ref=e551]:
+                    - /url: https://www.reddit.com/user/AvalancheZ250/
+                    - generic [ref=e553]:
+                      - img [ref=e555]
+                      - img [ref=e559]
+                      - img [ref=e562]
+                  - generic [ref=e567]:
+                    - link "AvalancheZ250's profile" [ref=e570]:
+                      - /url: https://www.reddit.com/user/AvalancheZ250/
+                      - text: AvalancheZ250
+                    - generic [ref=e571]: •
+                    - link "5d ago" [ref=e573]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/oroukjd/
+                      - time [ref=e575]: 5d ago
+                - generic [ref=e577]:
+                  - paragraph [ref=e581]: Back in the manga-reading community when it was releasing, we even termed this the "serumbowl" and it was constantly debated until the very end of the manga story. Every argument under the sun was posited and the debates were never pretty.
+                  - generic [ref=e583]:
+                    - img [ref=e584]
+                    - generic [ref=e586]: "4"
+                    - img [ref=e587]
+              - article "Comment from AvalancheZ250 5 days ago" [ref=e590]:
+                - generic "AvalancheZ250's profile --- avatar AvalancheZ250's profile 5d ago" [ref=e591] [cursor=pointer]:
+                  - link "AvalancheZ250's profile --- avatar" [ref=e596]:
+                    - /url: https://www.reddit.com/user/AvalancheZ250/
+                    - generic [ref=e598]:
+                      - img [ref=e600]
+                      - img [ref=e604]
+                      - img [ref=e607]
+                  - generic [ref=e612]:
+                    - link "AvalancheZ250's profile" [ref=e615]:
+                      - /url: https://www.reddit.com/user/AvalancheZ250/
+                      - text: AvalancheZ250
+                    - generic [ref=e616]: •
+                    - link "5d ago" [ref=e618]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orowphl/
+                      - time [ref=e620]: 5d ago
+                - generic [ref=e622]:
+                  - generic [ref=e625]:
+                    - paragraph [ref=e626]:
+                      - text: I will be honest here. Erwin was the safest choice. Armin was a
+                      - emphasis [ref=e627]: viable
+                      - text: choice for the Erwin's tactical and spiritual successor (but not leadership successor, of which only Jean could fulfil that role), but when there was no downside to picking Erwin over Armin, the obvious answer is Erwin.
+                    - paragraph [ref=e628]: What tipped the scales is Eren. Eren made it clear that he wanted Armin. If they had revived Erwin there's no telling what Eren would do. He could explode and lash out, or become withdrawn and dejected, or simply become crazed without his childhood friend and "guardrail" Armin around to talk sense into him. At that point, there was a legitimate reason to choose Armin over Erwin, even if it was Eren throwing a tantrum. That's just the nature of it. Eren is the Attack Titan and so his needs are important.
+                    - paragraph [ref=e629]: The only way Erwin would have been the better choice is if they never found Armin's body until it was too late and they had already injected Erwin. Eren wouldn't have been tormented at possibly having been able to rescue is friend only for him to be taken away from him again, and Erwin would live.
+                    - paragraph [ref=e630]:
+                      - text: From a narrative POV, the obvious answer was also Armin. Erwin's character arc was finished. So was Armin's, technically (hence the episode title "Hero"), but Armin as a part of
+                      - emphasis [ref=e631]: Eren's
+                      - text: character arc wasn't finished. Armin needed to be Eren's foil at the very end, the idealist who won out over the cynic. Erwin was far too much of a bloodied adult already, not to mention he accepted the nihilism of not knowing the "truth beyond the walls" when he made his final charge whereas Armin had died with heroic defiance on his lips, to fulfil that role. He also wasn't Eren's childhood friend, and furthermore Erwin had to fulfil his role as part of
+                      - emphasis [ref=e632]: Levi's
+                      - text: character development to choose the least regretful end. Erwin had already made his choice to save humanity even if it meant he himself could not learn the truth, that was the end he regretted the least.
+                  - generic [ref=e634]:
+                    - img [ref=e635]
+                    - generic [ref=e637]: "3"
+                    - img [ref=e638]
+              - article "Comment from FuzzyKiwiFurrr 5 days ago" [ref=e641]:
+                - generic "FuzzyKiwiFurrr's profile --- avatar FuzzyKiwiFurrr's profile 5d ago" [ref=e642] [cursor=pointer]:
+                  - link "FuzzyKiwiFurrr's profile --- avatar" [ref=e647]:
+                    - /url: https://www.reddit.com/user/FuzzyKiwiFurrr/
+                    - img [ref=e652]
+                  - generic [ref=e657]:
+                    - link "FuzzyKiwiFurrr's profile" [ref=e660]:
+                      - /url: https://www.reddit.com/user/FuzzyKiwiFurrr/
+                      - text: FuzzyKiwiFurrr
+                    - generic [ref=e661]: •
+                    - link "5d ago" [ref=e663]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orncle8/
+                      - time [ref=e665]: 5d ago
+                - generic [ref=e667]:
+                  - generic [ref=e670]:
+                    - paragraph [ref=e671]: People always complain that it should have been Erwin who got injected and inherited the colossus.
+                    - paragraph [ref=e672]: They always fail to mention that he literally used the last of his strength to smack the needle AWAY.
+                    - paragraph [ref=e673]: He died exactly where he should have. RIP my goat.
+                  - generic [ref=e675]:
+                    - img [ref=e676]
+                    - generic [ref=e678]: "7"
+                    - img [ref=e679]
+                  - img
+                  - 'article "Comment thread level 1: Reply from Silverwalter 5 days ago" [ref=e683]':
+                    - generic "Silverwalter's profile --- avatar Silverwalter's profile 5d ago" [ref=e684] [cursor=pointer]:
+                      - link "Silverwalter's profile --- avatar" [ref=e689]:
+                        - /url: https://www.reddit.com/user/Silverwalter/
+                        - img "u/Silverwalter avatar" [ref=e692]
+                      - generic [ref=e696]:
+                        - link "Silverwalter's profile" [ref=e699]:
+                          - /url: https://www.reddit.com/user/Silverwalter/
+                          - text: Silverwalter
+                        - generic [ref=e700]: •
+                        - link "5d ago" [ref=e702]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/ornek9u/
+                          - time [ref=e704]: 5d ago
+                    - generic [ref=e706]:
+                      - paragraph [ref=e710]: "I’m the #1 Armin glazer but I thought erwin slapped the hand away because he was hallucinating in his final moments back to the classroom as a child asking his teacher about humans outside of the walls"
+                      - generic [ref=e712]:
+                        - img [ref=e713]
+                        - generic [ref=e715]: "15"
+                        - img [ref=e716]
+                      - img
+                      - 'article "Comment thread level 2: Reply from MAVRICKgodd 5 days ago" [ref=e720]':
+                        - generic "MAVRICKgodd's profile --- avatar MAVRICKgodd's profile 5d ago" [ref=e721] [cursor=pointer]:
+                          - link "MAVRICKgodd's profile --- avatar" [ref=e726]:
+                            - /url: https://www.reddit.com/user/MAVRICKgodd/
+                            - img "u/MAVRICKgodd avatar" [ref=e729]
+                          - generic [ref=e733]:
+                            - link "MAVRICKgodd's profile" [ref=e736]:
+                              - /url: https://www.reddit.com/user/MAVRICKgodd/
+                              - text: MAVRICKgodd
+                            - generic [ref=e737]: •
+                            - link "5d ago" [ref=e739]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/ornfr9r/
+                              - time [ref=e741]: 5d ago
+                        - generic [ref=e743]:
+                          - paragraph [ref=e747]: Yes thats true , that was the case precisely, levi decided to inject armin because he saw erwin at peace and did mot want to interrupt that
+                          - generic [ref=e749]:
+                            - img [ref=e750]
+                            - generic [ref=e752]: "7"
+                            - img [ref=e753]
+              - article "Comment from Ceallach1770 5 days ago" [ref=e756]:
+                - generic "Ceallach1770's profile --- avatar Ceallach1770's profile 5d ago" [ref=e757] [cursor=pointer]:
+                  - link "Ceallach1770's profile --- avatar" [ref=e762]:
+                    - /url: https://www.reddit.com/user/Ceallach1770/
+                    - img [ref=e767]
+                  - generic [ref=e772]:
+                    - link "Ceallach1770's profile" [ref=e775]:
+                      - /url: https://www.reddit.com/user/Ceallach1770/
+                      - text: Ceallach1770
+                    - generic [ref=e776]: •
+                    - link "5d ago" [ref=e778]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orp1e9g/
+                      - time [ref=e780]: 5d ago
+                - generic [ref=e782]:
+                  - paragraph [ref=e786]: Well said. I totally agree.
+                  - generic [ref=e788]:
+                    - img [ref=e789]
+                    - generic [ref=e791]: "2"
+                    - img [ref=e792]
+              - article "Comment from no1womenlover 5 days ago" [ref=e795]:
+                - generic "no1womenlover's profile --- avatar no1womenlover's profile 5d ago" [ref=e796] [cursor=pointer]:
+                  - link "no1womenlover's profile --- avatar" [ref=e801]:
+                    - /url: https://www.reddit.com/user/no1womenlover/
+                    - img "u/no1womenlover avatar" [ref=e804]
+                  - generic [ref=e808]:
+                    - link "no1womenlover's profile" [ref=e811]:
+                      - /url: https://www.reddit.com/user/no1womenlover/
+                      - text: no1womenlover
+                    - generic [ref=e812]: •
+                    - link "5d ago" [ref=e814]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orop8na/
+                      - time [ref=e816]: 5d ago
+                - generic [ref=e818]:
+                  - paragraph [ref=e822]: Ok but have you considered that Erwin is FINE as HELL and I wanted to see his even finer MAPPA self
+                  - generic [ref=e824]:
+                    - img [ref=e825]
+                    - generic [ref=e827]: "1"
+                    - img [ref=e828]
+              - article "Comment from dead_lunar 5 days ago" [ref=e831]:
+                - generic "dead_lunar's profile --- avatar dead_lunar's profile 5d ago" [ref=e832] [cursor=pointer]:
+                  - link "dead_lunar's profile --- avatar" [ref=e837]:
+                    - /url: https://www.reddit.com/user/dead_lunar/
+                    - img [ref=e842]
+                  - generic [ref=e847]:
+                    - link "dead_lunar's profile" [ref=e850]:
+                      - /url: https://www.reddit.com/user/dead_lunar/
+                      - text: dead_lunar
+                    - generic [ref=e851]: •
+                    - link "5d ago" [ref=e853]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orp22st/
+                      - time [ref=e855]: 5d ago
+                - generic [ref=e857]:
+                  - paragraph [ref=e861]: I would love to see what else you have to say in aot debates
+                  - generic [ref=e863]:
+                    - img [ref=e864]
+                    - generic [ref=e866]: "1"
+                    - img [ref=e867]
+              - article "Comment from Formal-Opposite-8342 5 days ago" [ref=e870]:
+                - generic "Formal-Opposite-8342's profile --- avatar Formal-Opposite-8342's profile 5d ago" [ref=e871] [cursor=pointer]:
+                  - link "Formal-Opposite-8342's profile --- avatar" [ref=e876]:
+                    - /url: https://www.reddit.com/user/Formal-Opposite-8342/
+                    - img [ref=e881]
+                  - generic [ref=e886]:
+                    - link "Formal-Opposite-8342's profile" [ref=e889]:
+                      - /url: https://www.reddit.com/user/Formal-Opposite-8342/
+                      - text: Formal-Opposite-8342
+                    - generic [ref=e890]: •
+                    - link "5d ago" [ref=e892]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orni4fp/
+                      - time [ref=e894]: 5d ago
+                - generic [ref=e896]:
+                  - paragraph [ref=e900]: My argument for Erwin is heavily based on a fan made series what if. To sum it up, Erwin might not have been as adaptive as armin but he had charisma and level headedness that could convince a lot of people esp those on Marley to come on friendlier terms as well give a better plan to eren compared to a full blown rumbling.
+                  - generic [ref=e902]:
+                    - img [ref=e903]
+                    - generic [ref=e905]: "1"
+                    - img [ref=e906]
+              - article "Comment from SidelingMass 5 days ago" [ref=e909]:
+                - generic "SidelingMass's profile --- avatar SidelingMass's profile 5d ago" [ref=e910] [cursor=pointer]:
+                  - link "SidelingMass's profile --- avatar" [ref=e915]:
+                    - /url: https://www.reddit.com/user/SidelingMass/
+                    - img [ref=e920]
+                  - generic [ref=e925]:
+                    - link "SidelingMass's profile" [ref=e928]:
+                      - /url: https://www.reddit.com/user/SidelingMass/
+                      - text: SidelingMass
+                    - generic [ref=e929]: •
+                    - link "5d ago" [ref=e931]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orp00nv/
+                      - time [ref=e933]: 5d ago
+                - generic [ref=e935]:
+                  - generic [ref=e938]:
+                    - paragraph [ref=e939]: Look, I love Armin, I do, but it’s unfair to think Erwin would just crash out if he were the one revived (kinda like Armin did, but he got over it right?), or that even Eren would if he had lost his friend, and Erwin’s dream of seeing the basement is just as important as Armin wanting to see the ocean.
+                    - paragraph [ref=e940]: "Paradis lost exactly what it needed when they needed it: a smart, charismatic leader to unite the people inside the walls (and Erwin could absolutely do this, look at the bloodless coup) and convince the rest of the world that the people of Paradis weren’t to be feared. Instead, there was a massive power vacuum that left the people terrified and allowed the jaegerists to gain power. People assume he’d just give up after achieving his dream, but he could just as easily experience the opposite, being elated that he and his father were correct in humanity existing outside the walls, remember that big ass smile he had when he learned that titans were people?"
+                    - paragraph [ref=e941]: As great a job as Armin did toward the end, I honestly think Erwin could have done better, remember that the choice to revive Armin ultimately led to 80% of humanity being wiped out and Paradis being turned into a facist state. But that’s alright because Armin was never MEANT to replace the commander, he handled what happened in his own way, and he did a good job considering the situation. But at the same time you can’t fault the people who wanted Erwin brought back
+                  - generic [ref=e943]:
+                    - img [ref=e944]
+                    - generic [ref=e946]: "1"
+                    - img [ref=e947]
+              - article "Comment from indecisive-interests 5 days ago" [ref=e950]:
+                - generic "indecisive-interests's profile --- avatar indecisive-interests's profile 5d ago" [ref=e951] [cursor=pointer]:
+                  - link "indecisive-interests's profile --- avatar" [ref=e956]:
+                    - /url: https://www.reddit.com/user/indecisive-interests/
+                    - img "u/indecisive-interests avatar" [ref=e959]
+                  - generic [ref=e963]:
+                    - link "indecisive-interests's profile" [ref=e966]:
+                      - /url: https://www.reddit.com/user/indecisive-interests/
+                      - text: indecisive-interests
+                    - generic [ref=e967]: •
+                    - link "5d ago" [ref=e969]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/oroes1e/
+                      - time [ref=e971]: 5d ago
+                - generic [ref=e973]:
+                  - generic [ref=e976]:
+                    - paragraph [ref=e977]: It’s funny bc I’ve always been indifferent about this topic until 2 months ago when I accidentally convinced myself that Erwin would’ve been a better choice. That man probably could’ve talked Marley into genociding themselves lol.
+                    - paragraph [ref=e978]: I do agree with your point of feeling guilty over Armin but I know he would’ve felt a sense of relief knowing all the soldiers he sent to their deaths, including Armin, didn’t die for nothing. Not to mention that the virtual elimination of titans in the years following would’ve been some reprieve for him. I do genuinely think that him and Willy Tybur, could’ve talked the world into changing their minds about titans and Eldians. They would’ve made a 5 year plan to announce their return to the world, while threatening uninvited guests. Then they would’ve handpicked representatives to put in the spotlight that would’ve made the world think “maybe they’re not so bad after all” to gain favor with the world. All while diplomacy was happening in the background between them and Marley. All that man needs is a platform.
+                    - paragraph [ref=e979]: That’s just an example of what he could’ve done and it doesn’t even involve Eren.
+                    - paragraph [ref=e980]: But if, in fact, learning the truth about the world wouldn’t have satisfied his soul, then I’d agree to let him rest.
+                  - generic [ref=e982]:
+                    - img [ref=e983]
+                    - generic [ref=e985]: "2"
+                    - img [ref=e986]
+                  - img
+                  - 'article "Comment thread level 1: Reply from muskian 5 days ago" [ref=e990]':
+                    - generic "muskian's profile --- avatar muskian's profile 5d ago" [ref=e991] [cursor=pointer]:
+                      - link "muskian's profile --- avatar" [ref=e996]:
+                        - /url: https://www.reddit.com/user/muskian/
+                        - img "u/muskian avatar" [ref=e999]
+                      - generic [ref=e1003]:
+                        - link "muskian's profile" [ref=e1006]:
+                          - /url: https://www.reddit.com/user/muskian/
+                          - text: muskian
+                        - generic [ref=e1007]: •
+                        - link "5d ago" [ref=e1009]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/comment/orpuur2/
+                          - time [ref=e1011]: 5d ago
+                    - generic [ref=e1013]:
+                      - generic [ref=e1016]:
+                        - blockquote [ref=e1017]:
+                          - paragraph [ref=e1018]: Then they would’ve handpicked representatives to put in the spotlight that would’ve made the world think “maybe they’re not so bad after all”
+                        - paragraph [ref=e1019]: Willy would be signing Marley’s death warrant if he did that. His main reason for declaring war on Paradis in the first place was to stop the world from uniting to destroy Marley by pointing them to an even bigger threat. Making Paradis look harmless would be self-defeating, and it’s likely Erwin would notice this and not play along if Willy ever did make contact.
+                      - generic [ref=e1021]:
+                        - img [ref=e1022]
+                        - generic [ref=e1024]: "1"
+                        - img [ref=e1025]
+        - generic [ref=e1027]:
+          - generic [ref=e1028]:
+            - complementary "People also ask about section" [ref=e1030]:
+              - heading "People also ask about section" [level=1] [ref=e1031]
+              - generic [ref=e1032]:
+                - img [ref=e1034]
+                - generic [ref=e1036]: People also ask about
+              - generic [ref=e1037]:
+                - generic [ref=e1039]:
+                  - generic [ref=e1040]:
+                    - generic [ref=e1041]: Most shocking moments in Attack on Titan
+                    - generic [ref=e1042]:
+                      - paragraph [ref=e1043]:
+                        - text: To identify the most shocking moments in
+                        - emphasis [ref=e1044]: Attack on Titan
+                        - text: ", consider scenes that deliver unexpected plot twists, horrific imagery, or intense emotional impact."
+                      - heading "Unexpected Revelations and Betrayals" [level=3] [ref=e1045]
+                      - list [ref=e1046]:
+                        - listitem [ref=e1047]:
+                          - paragraph [ref=e1048]:
+                            - strong [ref=e1049]: The Colossal and Armored Titan reveal
+                            - text: was a massive shock to viewers, fundamentally changing the understanding of the show's conflict. "Its hard to beat the Reiner and Bert reveal"
+                        - listitem [ref=e1050]:
+                          - paragraph [ref=e1051]:
+                            - strong [ref=e1052]: Eren manipulating Grisha to kill the Reiss family
+                            - text: completely redefined Eren's character and motivations. "Finding out Eren is the one who pushed Grisha to kill the Reiss family."
+                        - listitem [ref=e1053]:
+                          - paragraph [ref=e1054]:
+                            - strong [ref=e1055]: The Beast Titan's first appearance
+                            - text: was shocking due to its intelligent, human-like behavior and ability to speak. "The Beast Titan legit had me shooketh."
+                      - heading "Horrific and Disturbing Imagery" [level=3] [ref=e1056]
+                      - list [ref=e1057]:
+                        - listitem [ref=e1058]:
+                          - paragraph [ref=e1059]:
+                            - strong [ref=e1060]: Mike Zacharias's death
+                            - text: is frequently cited as one of the most brutal and disturbing, showing him helpless and terrified before being devoured. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e1061]:
+                          - paragraph [ref=e1062]:
+                            - strong [ref=e1063]: Kaya witnessing her mother being eaten alive
+                            - text: left a lasting impact due to the prolonged suffering and the child's helplessness. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e1064]:
+                          - paragraph [ref=e1065]:
+                            - strong [ref=e1066]: The Rumbling
+                            - text: presented an apocalyptic scale of horror, with countless innocent lives being crushed. "The Rumbling was like the one of the most horrifying end of the world moment I’ve ever seen watching all those people trying to escape even attack each other in a futile attempt to escape and even a women crying in terror and despair with her kids made me speechless and sick probably moreso than Faye or Nanaba’s deaths"
+                      - heading "Emotional Impact and Character Trauma" [level=3] [ref=e1067]
+                      - list [ref=e1068]:
+                        - listitem [ref=e1069]:
+                          - paragraph [ref=e1070]:
+                            - strong [ref=e1071]: Nanaba's psychological breakdown
+                            - text: before her death, regressing to a terrified child, was deeply disturbing. "Nanaba screaming "father, please, no, i'll be good", having a full on trauma induced regression to a childhood memory as shes about to be eaten."
+                        - listitem [ref=e1072]:
+                          - paragraph [ref=e1073]:
+                            - strong [ref=e1074]: Hannah attempting CPR on Franz
+                            - text: ", who was missing the lower half of his body, highlighted the grim realities of battle. \"this was disturbing.Hannah giving cpr to franz. the view in anime is blocked by armin in the anime\""
+                        - listitem [ref=e1075]:
+                          - paragraph [ref=e1076]:
+                            - strong [ref=e1077]: Marco's betrayal and death
+                            - text: was a crushing moment, showing the harshness of a war where former comrades turn on each other. "Being betrayed by not one, not two, but THREE people who you believed were your comrades and friends is just so crushing."
+                      - paragraph [ref=e1078]: Do you think the earlier seasons had more shocking moments due to the initial mystery of the titans?
+                      - separator [ref=e1079]
+                  - link "Show More" [ref=e1084] [cursor=pointer]:
+                    - /url: https://www.reddit.com/answers/ae4b4881-32f4-422f-8ae9-5d8f25177a84/?q=Most+shocking+moments+in+Attack+on+Titan&source=PDP
+                    - generic [ref=e1086]: Show More
+                - link "Character arcs that surprised fans the most" [ref=e1088] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/0e63507b-506f-4091-9441-c2cbad04bddb/?q=Character+arcs+that+surprised+fans+the+most&source=PDP
+                  - generic [ref=e1091]: Character arcs that surprised fans the most
+                  - img [ref=e1094]
+                - link "Best fan theories about the series" [ref=e1097] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/c45a6058-7887-4a27-a9f3-855844f75873/?q=Best+fan+theories+about+the+series&source=PDP
+                  - generic [ref=e1100]: Best fan theories about the series
+                  - img [ref=e1103]
+                - link "Impact of Attack on Titan on anime culture" [ref=e1106] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/aa7f4f02-7d17-42a7-b471-ec89e93705b5/?q=Impact+of+Attack+on+Titan+on+anime+culture&source=PDP
+                  - generic [ref=e1109]: Impact of Attack on Titan on anime culture
+                  - img [ref=e1112]
+                - link "Favorite Titan transformations and why" [ref=e1115] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/918823dc-1279-4df1-9c37-231e64b71d7f/?q=Favorite+Titan+transformations+and+why&source=PDP
+                  - generic [ref=e1118]: Favorite Titan transformations and why
+                  - img [ref=e1121]
+            - complementary "Related Posts Section" [ref=e1123]:
+              - heading "Related Posts Section" [level=1] [ref=e1124]: More posts you may like
+              - generic [ref=e1125]: Related posts
+              - list [ref=e1131]:
+                - listitem [ref=e1132]:
+                  - generic [ref=e1133]:
+                    - generic [ref=e1134]:
+                      - link "Sarah J Maas murdered my cat" [ref=e1135] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/romantasycirclejerk/comments/1svds3f/sarah_j_maas_murdered_my_cat/
+                        - generic [ref=e1136]:
+                          - generic: Sarah J Maas murdered my cat
+                      - generic [ref=e1138]:
+                        - generic [ref=e1140]:
+                          - link "r/romantasycirclejerk" [ref=e1141] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/romantasycirclejerk/
+                            - generic [ref=e1145]: r/romantasycirclejerk
+                          - generic [ref=e1146]: •
+                          - time [ref=e1148]: 2mo ago
+                        - link "List item post - Sarah J Maas murdered my cat" [ref=e1150] [cursor=pointer]:
+                          - /url: /r/romantasycirclejerk/comments/1svds3f/sarah_j_maas_murdered_my_cat/
+                          - heading "List item post - Sarah J Maas murdered my cat" [level=3] [ref=e1153]: Sarah J Maas murdered my cat
+                      - generic [ref=e1155]:
+                        - generic [ref=e1156]: "69"
+                        - text: upvotes ·
+                        - generic [ref=e1157]: "20"
+                        - text: comments
+                    - separator [ref=e1158]
+                - listitem [ref=e1159]:
+                  - generic [ref=e1160]:
+                    - generic [ref=e1161]:
+                      - link "The ick Egothan gives" [ref=e1162] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/WelcomeToPlathville/comments/1t0d462/the_ick_egothan_gives/
+                        - generic [ref=e1163]:
+                          - generic: The ick Egothan gives
+                      - generic [ref=e1164]:
+                        - generic [ref=e1165]:
+                          - generic [ref=e1167]:
+                            - link "r/WelcomeToPlathville" [ref=e1168] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/WelcomeToPlathville/
+                              - generic [ref=e1172]: r/WelcomeToPlathville
+                            - generic [ref=e1173]: •
+                            - time [ref=e1175]: 2mo ago
+                          - link "List item post - The ick Egothan gives" [ref=e1177] [cursor=pointer]:
+                            - /url: /r/WelcomeToPlathville/comments/1t0d462/the_ick_egothan_gives/
+                            - heading "List item post - The ick Egothan gives" [level=3] [ref=e1180]: The ick Egothan gives
+                        - link "r/WelcomeToPlathville - The ick Egothan gives" [ref=e1183] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/WelcomeToPlathville/comments/1t0d462/the_ick_egothan_gives/
+                          - img "r/WelcomeToPlathville - The ick Egothan gives" [ref=e1184]
+                      - generic [ref=e1186]:
+                        - generic [ref=e1187]: "260"
+                        - text: upvotes ·
+                        - generic [ref=e1188]: "216"
+                        - text: comments
+                    - separator [ref=e1189]
+                - listitem [ref=e1190]:
+                  - generic [ref=e1191]:
+                    - generic [ref=e1192]:
+                      - link "fanmade ending 1 monologue for a kylar game" [ref=e1193] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/Classof09Game/comments/1t333tm/fanmade_ending_1_monologue_for_a_kylar_game/
+                        - generic [ref=e1194]:
+                          - generic: fanmade ending 1 monologue for a kylar game
+                      - generic [ref=e1196]:
+                        - generic [ref=e1198]:
+                          - link "r/Classof09Game" [ref=e1199] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Classof09Game/
+                            - generic [ref=e1203]: r/Classof09Game
+                          - generic [ref=e1204]: •
+                          - time [ref=e1206]: 2mo ago
+                        - link "List item post - fanmade ending 1 monologue for a kylar game" [ref=e1208] [cursor=pointer]:
+                          - /url: /r/Classof09Game/comments/1t333tm/fanmade_ending_1_monologue_for_a_kylar_game/
+                          - heading "List item post - fanmade ending 1 monologue for a kylar game" [level=3] [ref=e1211]: fanmade ending 1 monologue for a kylar game
+                      - generic [ref=e1213]:
+                        - generic [ref=e1214]: "14"
+                        - text: upvotes ·
+                        - generic [ref=e1215]: "2"
+                        - text: comments
+                    - separator [ref=e1216]
+                - listitem
+                - listitem [ref=e1217]:
+                  - generic [ref=e1218]:
+                    - generic [ref=e1219]:
+                      - 'link "Harpoon, Panic, Then Victory: My First Bimix Experience" [ref=e1220] [cursor=pointer]':
+                        - /url: https://www.reddit.com/r/TrimixForED/comments/1sn52ax/harpoon_panic_then_victory_my_first_bimix/
+                        - generic [ref=e1221]:
+                          - generic: "Harpoon, Panic, Then Victory: My First Bimix Experience"
+                      - generic [ref=e1223]:
+                        - generic [ref=e1225]:
+                          - link "r/TrimixForED" [ref=e1226] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/TrimixForED/
+                            - generic [ref=e1230]: r/TrimixForED
+                          - generic [ref=e1231]: •
+                          - time [ref=e1233]: 2mo ago
+                        - 'link "List item post - Harpoon, Panic, Then Victory: My First Bimix Experience" [ref=e1235] [cursor=pointer]':
+                          - /url: /r/TrimixForED/comments/1sn52ax/harpoon_panic_then_victory_my_first_bimix/
+                          - 'heading "List item post - Harpoon, Panic, Then Victory: My First Bimix Experience" [level=3] [ref=e1238]': "Harpoon, Panic, Then Victory: My First Bimix Experience"
+                      - generic [ref=e1240]:
+                        - generic [ref=e1241]: "12"
+                        - text: upvotes ·
+                        - generic [ref=e1242]: "11"
+                        - text: comments
+                    - separator [ref=e1243]
+                - listitem [ref=e1244]:
+                  - generic [ref=e1245]:
+                    - generic [ref=e1246]:
+                      - link "Comparing King Koil Natural to Aireloom" [ref=e1247] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/Mattress/comments/1srxzx1/comparing_king_koil_natural_to_aireloom/
+                        - generic [ref=e1248]:
+                          - generic: Comparing King Koil Natural to Aireloom
+                      - generic [ref=e1250]:
+                        - generic [ref=e1252]:
+                          - link "r/Mattress" [ref=e1253] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Mattress/
+                            - generic [ref=e1257]: r/Mattress
+                          - generic [ref=e1258]: •
+                          - time [ref=e1260]: 2mo ago
+                        - link "List item post - Comparing King Koil Natural to Aireloom" [ref=e1262] [cursor=pointer]:
+                          - /url: /r/Mattress/comments/1srxzx1/comparing_king_koil_natural_to_aireloom/
+                          - heading "List item post - Comparing King Koil Natural to Aireloom" [level=3] [ref=e1265]: Comparing King Koil Natural to Aireloom
+                      - generic [ref=e1267]:
+                        - generic [ref=e1268]: "2"
+                        - text: upvotes ·
+                        - generic [ref=e1269]: "8"
+                        - text: comments
+                    - separator [ref=e1270]
+                - listitem [ref=e1271]:
+                  - generic [ref=e1272]:
+                    - generic [ref=e1273]:
+                      - link "Erwin seriously doesn't give a damn" [ref=e1274] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1r170bo/erwin_seriously_doesnt_give_a_damn/
+                        - generic [ref=e1275]:
+                          - generic: Erwin seriously doesn't give a damn
+                      - generic [ref=e1276]:
+                        - generic [ref=e1277]:
+                          - generic [ref=e1279]:
+                            - link "r/attackontitan" [ref=e1280] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1284]: r/attackontitan
+                            - generic [ref=e1285]: •
+                            - time [ref=e1287]: 4mo ago
+                          - link "List item post - Erwin seriously doesn't give a damn" [ref=e1289] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1r170bo/erwin_seriously_doesnt_give_a_damn/
+                            - heading "List item post - Erwin seriously doesn't give a damn" [level=3] [ref=e1292]: Erwin seriously doesn't give a damn
+                        - link "r/attackontitan - Erwin seriously doesn't give a damn" [ref=e1295] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1r170bo/erwin_seriously_doesnt_give_a_damn/
+                          - img "r/attackontitan - Erwin seriously doesn't give a damn" [ref=e1296]
+                      - generic [ref=e1298]:
+                        - generic [ref=e1299]: 1.5K
+                        - text: upvotes ·
+                        - generic [ref=e1300]: "14"
+                        - text: comments
+                    - separator [ref=e1301]
+                - listitem [ref=e1302]:
+                  - generic [ref=e1303]:
+                    - generic [ref=e1304]:
+                      - link "What rhetoric was Erwin using here?" [ref=e1305] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1p3jsna/what_rhetoric_was_erwin_using_here/
+                        - generic [ref=e1306]:
+                          - generic: What rhetoric was Erwin using here?
+                      - generic [ref=e1307]:
+                        - generic [ref=e1308]:
+                          - generic [ref=e1310]:
+                            - link "r/attackontitan" [ref=e1311] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1315]: r/attackontitan
+                            - generic [ref=e1316]: •
+                            - time [ref=e1318]: 7mo ago
+                          - link "List item post - What rhetoric was Erwin using here?" [ref=e1320] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1p3jsna/what_rhetoric_was_erwin_using_here/
+                            - heading "List item post - What rhetoric was Erwin using here?" [level=3] [ref=e1323]: What rhetoric was Erwin using here?
+                        - link "r/attackontitan - What rhetoric was Erwin using here?" [ref=e1326] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1p3jsna/what_rhetoric_was_erwin_using_here/
+                          - img "r/attackontitan - What rhetoric was Erwin using here?" [ref=e1327]
+                      - generic [ref=e1329]:
+                        - generic [ref=e1330]: "553"
+                        - text: upvotes ·
+                        - generic [ref=e1331]: "17"
+                        - text: comments
+                    - separator [ref=e1332]
+                - listitem [ref=e1333]:
+                  - generic [ref=e1334]:
+                    - generic [ref=e1335]:
+                      - link "Eren & Armin following the trend (@katery_chan)" [ref=e1336] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1p4gul9/eren_armin_following_the_trend_katery_chan/
+                        - generic [ref=e1337]:
+                          - generic: Eren & Armin following the trend (@katery_chan)
+                      - generic [ref=e1338]:
+                        - generic [ref=e1339]:
+                          - generic [ref=e1341]:
+                            - link "r/attackontitan" [ref=e1342] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1346]: r/attackontitan
+                            - generic [ref=e1347]: •
+                            - time [ref=e1349]: 7mo ago
+                          - link "List item post - Eren & Armin following the trend (@katery_chan)" [ref=e1351] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1p4gul9/eren_armin_following_the_trend_katery_chan/
+                            - heading "List item post - Eren & Armin following the trend (@katery_chan)" [level=3] [ref=e1354]: Eren & Armin following the trend (@katery_chan)
+                        - link "r/attackontitan - Eren & Armin following the trend (@katery_chan)" [ref=e1357] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1p4gul9/eren_armin_following_the_trend_katery_chan/
+                          - img "r/attackontitan - Eren & Armin following the trend (@katery_chan)" [ref=e1358]
+                      - generic [ref=e1360]:
+                        - generic [ref=e1361]: 1.1K
+                        - text: upvotes ·
+                        - generic [ref=e1362]: "7"
+                        - text: comments
+                    - separator [ref=e1363]
+                - listitem
+                - listitem [ref=e1364]:
+                  - generic [ref=e1365]:
+                    - generic [ref=e1366]:
+                      - link "You got this Erwin" [ref=e1367] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1mrm17j/you_got_this_erwin/
+                        - generic [ref=e1368]:
+                          - generic: You got this Erwin
+                      - generic [ref=e1369]:
+                        - generic [ref=e1370]:
+                          - generic [ref=e1372]:
+                            - link "r/attackontitan" [ref=e1373] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1377]: r/attackontitan
+                            - generic [ref=e1378]: •
+                            - time [ref=e1380]: 10mo ago
+                          - link "List item post - You got this Erwin" [ref=e1382] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1mrm17j/you_got_this_erwin/
+                            - heading "List item post - You got this Erwin" [level=3] [ref=e1385]: You got this Erwin
+                        - generic [ref=e1387]:
+                          - link "r/attackontitan - You got this Erwin" [ref=e1388] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1mrm17j/you_got_this_erwin/
+                            - img "r/attackontitan - You got this Erwin" [ref=e1389]
+                          - generic:
+                            - img
+                            - generic: 0:07
+                      - generic [ref=e1391]:
+                        - generic [ref=e1392]: "674"
+                        - text: upvotes ·
+                        - generic [ref=e1393]: "18"
+                        - text: comments
+                    - separator [ref=e1394]
+                - listitem [ref=e1395]:
+                  - generic [ref=e1396]:
+                    - generic [ref=e1397]:
+                      - link "Erwin Smith Appreciation Post" [ref=e1398] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1nbvmiz/erwin_smith_appreciation_post/
+                        - generic [ref=e1399]:
+                          - generic: Erwin Smith Appreciation Post
+                      - generic [ref=e1400]:
+                        - generic [ref=e1401]:
+                          - generic [ref=e1403]:
+                            - link "r/attackontitan" [ref=e1404] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1408]: r/attackontitan
+                            - generic [ref=e1409]: •
+                            - time [ref=e1411]: 9mo ago
+                          - link "List item post - Erwin Smith Appreciation Post" [ref=e1413] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1nbvmiz/erwin_smith_appreciation_post/
+                            - heading "List item post - Erwin Smith Appreciation Post" [level=3] [ref=e1416]: Erwin Smith Appreciation Post
+                        - generic [ref=e1418]:
+                          - link "r/attackontitan - Erwin Smith Appreciation Post" [ref=e1419] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1nbvmiz/erwin_smith_appreciation_post/
+                            - img "r/attackontitan - Erwin Smith Appreciation Post" [ref=e1420]
+                          - generic:
+                            - img
+                            - generic: "9"
+                      - generic [ref=e1422]:
+                        - generic [ref=e1423]: 1.4K
+                        - text: upvotes ·
+                        - generic [ref=e1424]: "46"
+                        - text: comments
+                    - separator [ref=e1425]
+                - listitem [ref=e1426]:
+                  - generic [ref=e1427]:
+                    - generic [ref=e1428]:
+                      - link "Pretty accurate depiction of Armin" [ref=e1429] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1thsmfi/pretty_accurate_depiction_of_armin/
+                        - generic [ref=e1430]:
+                          - generic: Pretty accurate depiction of Armin
+                      - generic [ref=e1431]:
+                        - generic [ref=e1432]:
+                          - generic [ref=e1434]:
+                            - link "r/attackontitan" [ref=e1435] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1439]: r/attackontitan
+                            - generic [ref=e1440]: •
+                            - time [ref=e1442]: 1mo ago
+                          - link "List item post - Pretty accurate depiction of Armin" [ref=e1444] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1thsmfi/pretty_accurate_depiction_of_armin/
+                            - heading "List item post - Pretty accurate depiction of Armin" [level=3] [ref=e1447]: Pretty accurate depiction of Armin
+                        - generic [ref=e1449]:
+                          - link "r/attackontitan - Pretty accurate depiction of Armin" [ref=e1450] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1thsmfi/pretty_accurate_depiction_of_armin/
+                            - img "r/attackontitan - Pretty accurate depiction of Armin" [ref=e1451]
+                          - generic:
+                            - img
+                            - generic: 0:08
+                      - generic [ref=e1453]:
+                        - generic [ref=e1454]: 3.1K
+                        - text: upvotes ·
+                        - generic [ref=e1455]: "40"
+                        - text: comments
+                    - separator [ref=e1456]
+                - listitem [ref=e1457]:
+                  - generic [ref=e1458]:
+                    - generic [ref=e1459]:
+                      - link "I always thought Erwin could be a titan worth suspecting" [ref=e1460] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1u8czq6/i_always_thought_erwin_could_be_a_titan_worth/
+                        - generic [ref=e1461]:
+                          - generic: I always thought Erwin could be a titan worth suspecting
+                      - generic [ref=e1462]:
+                        - generic [ref=e1463]:
+                          - generic [ref=e1465]:
+                            - link "r/attackontitan" [ref=e1466] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1470]: r/attackontitan
+                            - generic [ref=e1471]: •
+                            - time [ref=e1473]: 3d ago
+                          - link "List item post - I always thought Erwin could be a titan worth suspecting" [ref=e1475] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1u8czq6/i_always_thought_erwin_could_be_a_titan_worth/
+                            - heading "List item post - I always thought Erwin could be a titan worth suspecting" [level=3] [ref=e1478]: I always thought Erwin could be a titan worth suspecting
+                        - link "r/attackontitan - I always thought Erwin could be a titan worth suspecting" [ref=e1481] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u8czq6/i_always_thought_erwin_could_be_a_titan_worth/
+                          - img "r/attackontitan - I always thought Erwin could be a titan worth suspecting" [ref=e1482]
+                      - generic [ref=e1484]:
+                        - generic [ref=e1485]: "626"
+                        - text: upvotes ·
+                        - generic [ref=e1486]: "33"
+                        - text: comments
+                    - separator [ref=e1487]
+                - listitem [ref=e1488]:
+                  - generic [ref=e1489]:
+                    - generic [ref=e1490]:
+                      - link "The perfect Erwin Smith" [ref=e1491] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1n0z77a/the_perfect_erwin_smith/
+                        - generic [ref=e1492]:
+                          - generic: The perfect Erwin Smith
+                      - generic [ref=e1493]:
+                        - generic [ref=e1494]:
+                          - generic [ref=e1496]:
+                            - link "r/attackontitan" [ref=e1497] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1501]: r/attackontitan
+                            - generic [ref=e1502]: •
+                            - time [ref=e1504]: 10mo ago
+                          - link "List item post - The perfect Erwin Smith" [ref=e1506] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1n0z77a/the_perfect_erwin_smith/
+                            - heading "List item post - The perfect Erwin Smith" [level=3] [ref=e1509]: The perfect Erwin Smith
+                        - link "r/attackontitan - The perfect Erwin Smith" [ref=e1512] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1n0z77a/the_perfect_erwin_smith/
+                          - img "r/attackontitan - The perfect Erwin Smith" [ref=e1513]
+                      - generic [ref=e1515]:
+                        - generic [ref=e1516]: "709"
+                        - text: upvotes ·
+                        - generic [ref=e1517]: "52"
+                        - text: comments
+                    - separator [ref=e1518]
+                - listitem [ref=e1519]:
+                  - generic [ref=e1520]:
+                    - generic [ref=e1521]:
+                      - link "Armin disrespect will not be tolerated 🥀" [ref=e1522] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1otyr7b/armin_disrespect_will_not_be_tolerated/
+                        - generic [ref=e1523]:
+                          - generic: Armin disrespect will not be tolerated 🥀
+                      - generic [ref=e1524]:
+                        - generic [ref=e1525]:
+                          - generic [ref=e1527]:
+                            - link "r/attackontitan" [ref=e1528] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1532]: r/attackontitan
+                            - generic [ref=e1533]: •
+                            - time [ref=e1535]: 7mo ago
+                          - link "SPOILER List item post - Armin disrespect will not be tolerated 🥀" [ref=e1537] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1otyr7b/armin_disrespect_will_not_be_tolerated/
+                            - generic [ref=e1539]:
+                              - generic [ref=e1541]:
+                                - img [ref=e1543]
+                                - generic [ref=e1545]: SPOILER
+                              - heading "List item post - Armin disrespect will not be tolerated 🥀" [level=3] [ref=e1546]: Armin disrespect will not be tolerated 🥀
+                        - generic [ref=e1548]:
+                          - link "r/attackontitan - Armin disrespect will not be tolerated 🥀" [ref=e1549] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1otyr7b/armin_disrespect_will_not_be_tolerated/
+                            - img "r/attackontitan - Armin disrespect will not be tolerated 🥀" [ref=e1550]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1552]:
+                        - generic [ref=e1553]: "164"
+                        - text: upvotes ·
+                        - generic [ref=e1554]: "8"
+                        - text: comments
+                    - separator [ref=e1555]
+                - listitem [ref=e1556]:
+                  - generic [ref=e1557]:
+                    - generic [ref=e1558]:
+                      - link "If Erwin is the commander, why doesn't he have military rank on him?" [ref=e1559] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1u6vw5g/if_erwin_is_the_commander_why_doesnt_he_have/
+                        - generic [ref=e1560]:
+                          - generic: If Erwin is the commander, why doesn't he have military rank on him?
+                      - generic [ref=e1561]:
+                        - generic [ref=e1562]:
+                          - generic [ref=e1564]:
+                            - link "r/attackontitan" [ref=e1565] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1569]: r/attackontitan
+                            - generic [ref=e1570]: •
+                            - time [ref=e1572]: 4d ago
+                          - link "List item post - If Erwin is the commander, why doesn't he have military ran..." [ref=e1574] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1u6vw5g/if_erwin_is_the_commander_why_doesnt_he_have/
+                            - heading "List item post - If Erwin is the commander, why doesn't he have military ran..." [level=3] [ref=e1577]: If Erwin is the commander, why doesn't he have military rank on him?
+                        - generic [ref=e1579]:
+                          - link "r/attackontitan - If Erwin is the commander, why doesn't he have military rank on him?" [ref=e1580] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u6vw5g/if_erwin_is_the_commander_why_doesnt_he_have/
+                            - img "r/attackontitan - If Erwin is the commander, why doesn't he have military rank on him?" [ref=e1581]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1583]:
+                        - generic [ref=e1584]: "353"
+                        - text: upvotes ·
+                        - generic [ref=e1585]: "21"
+                        - text: comments
+                    - separator [ref=e1586]
+                - listitem [ref=e1587]:
+                  - generic [ref=e1588]:
+                    - generic [ref=e1589]:
+                      - link "I love how Armin thought Eren was trying to shift here lol" [ref=e1590] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1t9qw8j/i_love_how_armin_thought_eren_was_trying_to_shift/
+                        - generic [ref=e1591]:
+                          - generic: I love how Armin thought Eren was trying to shift here lol
+                      - generic [ref=e1592]:
+                        - generic [ref=e1593]:
+                          - generic [ref=e1595]:
+                            - link "r/attackontitan" [ref=e1596] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1600]: r/attackontitan
+                            - generic [ref=e1601]: •
+                            - time [ref=e1603]: 1mo ago
+                          - link "List item post - I love how Armin thought Eren was trying to shift here lol" [ref=e1605] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1t9qw8j/i_love_how_armin_thought_eren_was_trying_to_shift/
+                            - heading "List item post - I love how Armin thought Eren was trying to shift here lol" [level=3] [ref=e1608]: I love how Armin thought Eren was trying to shift here lol
+                        - link "r/attackontitan - I love how Armin thought Eren was trying to shift here lol" [ref=e1611] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1t9qw8j/i_love_how_armin_thought_eren_was_trying_to_shift/
+                          - img "r/attackontitan - I love how Armin thought Eren was trying to shift here lol" [ref=e1612]
+                      - generic [ref=e1614]:
+                        - generic [ref=e1615]: "50"
+                        - text: upvotes ·
+                        - generic [ref=e1616]: "7"
+                        - text: comments
+                    - separator [ref=e1617]
+                - listitem [ref=e1618]:
+                  - generic [ref=e1619]:
+                    - generic [ref=e1620]:
+                      - link "Armin has the purest heart in the whole story" [ref=e1621] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1o9lxqn/armin_has_the_purest_heart_in_the_whole_story/
+                        - generic [ref=e1622]:
+                          - generic: Armin has the purest heart in the whole story
+                      - generic [ref=e1623]:
+                        - generic [ref=e1624]:
+                          - generic [ref=e1626]:
+                            - link "r/attackontitan" [ref=e1627] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1631]: r/attackontitan
+                            - generic [ref=e1632]: •
+                            - time [ref=e1634]: 8mo ago
+                          - link "List item post - Armin has the purest heart in the whole story" [ref=e1636] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1o9lxqn/armin_has_the_purest_heart_in_the_whole_story/
+                            - heading "List item post - Armin has the purest heart in the whole story" [level=3] [ref=e1639]: Armin has the purest heart in the whole story
+                        - generic [ref=e1641]:
+                          - link "r/attackontitan - Armin has the purest heart in the whole story" [ref=e1642] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1o9lxqn/armin_has_the_purest_heart_in_the_whole_story/
+                            - img "r/attackontitan - Armin has the purest heart in the whole story" [ref=e1643]
+                          - generic:
+                            - img
+                            - generic: "8"
+                      - generic [ref=e1645]:
+                        - generic [ref=e1646]: "197"
+                        - text: upvotes ·
+                        - generic [ref=e1647]: "22"
+                        - text: comments
+                    - separator [ref=e1648]
+                - listitem [ref=e1649]:
+                  - generic [ref=e1650]:
+                    - generic [ref=e1651]:
+                      - link "Is Armin the hardest character in AoT?" [ref=e1652] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1n1bkt3/is_armin_the_hardest_character_in_aot/
+                        - generic [ref=e1653]:
+                          - generic: Is Armin the hardest character in AoT?
+                      - generic [ref=e1654]:
+                        - generic [ref=e1655]:
+                          - generic [ref=e1657]:
+                            - link "r/attackontitan" [ref=e1658] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1662]: r/attackontitan
+                            - generic [ref=e1663]: •
+                            - time [ref=e1665]: 10mo ago
+                          - link "List item post - Is Armin the hardest character in AoT?" [ref=e1667] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1n1bkt3/is_armin_the_hardest_character_in_aot/
+                            - heading "List item post - Is Armin the hardest character in AoT?" [level=3] [ref=e1670]: Is Armin the hardest character in AoT?
+                        - generic [ref=e1672]:
+                          - link "r/attackontitan - Is Armin the hardest character in AoT?" [ref=e1673] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1n1bkt3/is_armin_the_hardest_character_in_aot/
+                            - img "r/attackontitan - Is Armin the hardest character in AoT?" [ref=e1674]
+                          - generic:
+                            - img
+                            - generic: "7"
+                      - generic [ref=e1676]:
+                        - generic [ref=e1677]: 2.6K
+                        - text: upvotes ·
+                        - generic [ref=e1678]: "128"
+                        - text: comments
+                    - separator [ref=e1679]
+                - listitem [ref=e1680]:
+                  - generic [ref=e1681]:
+                    - generic [ref=e1682]:
+                      - link "This one hurt to make. Armin deserved more for his loyalty." [ref=e1683] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1ojg97q/this_one_hurt_to_make_armin_deserved_more_for_his/
+                        - generic [ref=e1684]:
+                          - generic: This one hurt to make. Armin deserved more for his loyalty.
+                      - generic [ref=e1685]:
+                        - generic [ref=e1686]:
+                          - generic [ref=e1688]:
+                            - link "r/attackontitan" [ref=e1689] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1693]: r/attackontitan
+                            - generic [ref=e1694]: •
+                            - time [ref=e1696]: 8mo ago
+                          - link "SPOILER List item post - This one hurt to make. Armin deserved more for his loyalty." [ref=e1698] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1ojg97q/this_one_hurt_to_make_armin_deserved_more_for_his/
+                            - generic [ref=e1700]:
+                              - generic [ref=e1702]:
+                                - img [ref=e1704]
+                                - generic [ref=e1706]: SPOILER
+                              - heading "List item post - This one hurt to make. Armin deserved more for his loyalty." [level=3] [ref=e1707]: This one hurt to make. Armin deserved more for his loyalty.
+                        - generic [ref=e1709]:
+                          - link "r/attackontitan - This one hurt to make. Armin deserved more for his loyalty." [ref=e1710] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1ojg97q/this_one_hurt_to_make_armin_deserved_more_for_his/
+                            - img "r/attackontitan - This one hurt to make. Armin deserved more for his loyalty." [ref=e1711]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1713]:
+                        - generic [ref=e1714]: "127"
+                        - text: upvotes ·
+                        - generic [ref=e1715]: "32"
+                        - text: comments
+                    - separator [ref=e1716]
+                - listitem [ref=e1717]:
+                  - generic [ref=e1718]:
+                    - generic [ref=e1719]:
+                      - link "So, Armin having glasses in the Modern universe, does this mean he needed glasses in the og attack on titan universe but was just too poor to buy them, or is it a stylistic choice lol" [ref=e1720] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1t467ih/so_armin_having_glasses_in_the_modern_universe/
+                        - generic [ref=e1721]:
+                          - generic: So, Armin having glasses in the Modern universe, does this mean he needed glasses in the og attack on titan universe but was just too poor to buy them, or is it a stylistic choice lol
+                      - generic [ref=e1722]:
+                        - generic [ref=e1723]:
+                          - generic [ref=e1725]:
+                            - link "r/attackontitan" [ref=e1726] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1730]: r/attackontitan
+                            - generic [ref=e1731]: •
+                            - time [ref=e1733]: 2mo ago
+                          - link "List item post - So, Armin having glasses in the Modern universe, does this ..." [ref=e1735] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1t467ih/so_armin_having_glasses_in_the_modern_universe/
+                            - heading "List item post - So, Armin having glasses in the Modern universe, does this ..." [level=3] [ref=e1738]: So, Armin having glasses in the Modern universe, does this mean he needed glasses in the og attack on titan universe but was just too poor to buy them, or is it a stylistic choice lol
+                        - link "r/attackontitan - So, Armin having glasses in the Modern universe, does this mean he needed glasses in the og attack on titan universe but was just too poor to buy them, or is it a stylistic choice lol" [ref=e1741] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1t467ih/so_armin_having_glasses_in_the_modern_universe/
+                          - img "r/attackontitan - So, Armin having glasses in the Modern universe, does this mean he needed glasses in the og attack on titan universe but was just too poor to buy them, or is it a stylistic choice lol" [ref=e1742]
+                      - generic [ref=e1744]:
+                        - generic [ref=e1745]: "428"
+                        - text: upvotes ·
+                        - generic [ref=e1746]: "52"
+                        - text: comments
+                    - separator [ref=e1747]
+                - listitem [ref=e1748]:
+                  - generic [ref=e1749]:
+                    - generic [ref=e1750]:
+                      - link "Armin's speech to defend Eren in season one still gives me CHILLS after years" [ref=e1751] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1r62a5k/armins_speech_to_defend_eren_in_season_one_still/
+                        - generic [ref=e1752]:
+                          - generic: Armin's speech to defend Eren in season one still gives me CHILLS after years
+                      - generic [ref=e1753]:
+                        - generic [ref=e1754]:
+                          - generic [ref=e1756]:
+                            - link "r/attackontitan" [ref=e1757] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1761]: r/attackontitan
+                            - generic [ref=e1762]: •
+                            - time [ref=e1764]: 4mo ago
+                          - link "List item post - Armin's speech to defend Eren in season one still gives me ..." [ref=e1766] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1r62a5k/armins_speech_to_defend_eren_in_season_one_still/
+                            - heading "List item post - Armin's speech to defend Eren in season one still gives me ..." [level=3] [ref=e1769]: Armin's speech to defend Eren in season one still gives me CHILLS after years
+                        - generic [ref=e1771]:
+                          - link "r/attackontitan - Armin's speech to defend Eren in season one still gives me CHILLS after years" [ref=e1772] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1r62a5k/armins_speech_to_defend_eren_in_season_one_still/
+                            - img "r/attackontitan - Armin's speech to defend Eren in season one still gives me CHILLS after years" [ref=e1773]
+                          - generic:
+                            - img
+                            - generic: 3:35
+                      - generic [ref=e1775]:
+                        - generic [ref=e1776]: "154"
+                        - text: upvotes ·
+                        - generic [ref=e1777]: "12"
+                        - text: comments
+                    - separator [ref=e1778]
+                - listitem [ref=e1779]:
+                  - generic [ref=e1780]:
+                    - generic [ref=e1781]:
+                      - link "Wait. Did Armin witness the attack titan come out? Or is this just symbolism?" [ref=e1782] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1rhyrwz/wait_did_armin_witness_the_attack_titan_come_out/
+                        - generic [ref=e1783]:
+                          - generic: Wait. Did Armin witness the attack titan come out? Or is this just symbolism?
+                      - generic [ref=e1784]:
+                        - generic [ref=e1785]:
+                          - generic [ref=e1787]:
+                            - link "r/attackontitan" [ref=e1788] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1792]: r/attackontitan
+                            - generic [ref=e1793]: •
+                            - time [ref=e1795]: 4mo ago
+                          - link "List item post - Wait. Did Armin witness the attack titan come out? Or is th..." [ref=e1797] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1rhyrwz/wait_did_armin_witness_the_attack_titan_come_out/
+                            - heading "List item post - Wait. Did Armin witness the attack titan come out? Or is th..." [level=3] [ref=e1800]: Wait. Did Armin witness the attack titan come out? Or is this just symbolism?
+                        - link "r/attackontitan - Wait. Did Armin witness the attack titan come out? Or is this just symbolism?" [ref=e1803] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1rhyrwz/wait_did_armin_witness_the_attack_titan_come_out/
+                          - img "r/attackontitan - Wait. Did Armin witness the attack titan come out? Or is this just symbolism?" [ref=e1804]
+                      - generic [ref=e1806]:
+                        - generic [ref=e1807]: "112"
+                        - text: upvotes ·
+                        - generic [ref=e1808]: "26"
+                        - text: comments
+                    - separator [ref=e1809]
+                - listitem [ref=e1810]:
+                  - generic [ref=e1811]:
+                    - generic [ref=e1812]:
+                      - link "Erwin Smith was never really a hero, he was just extremely good at making selfish motives sound noble" [ref=e1813] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1tigb8z/erwin_smith_was_never_really_a_hero_he_was_just/
+                        - generic [ref=e1814]:
+                          - generic: Erwin Smith was never really a hero, he was just extremely good at making selfish motives sound noble
+                      - generic [ref=e1816]:
+                        - generic [ref=e1818]:
+                          - link "r/attackontitan" [ref=e1819] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1823]: r/attackontitan
+                          - generic [ref=e1824]: •
+                          - time [ref=e1826]: 1mo ago
+                        - link "List item post - Erwin Smith was never really a hero, he was just extremely ..." [ref=e1828] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1tigb8z/erwin_smith_was_never_really_a_hero_he_was_just/
+                          - heading "List item post - Erwin Smith was never really a hero, he was just extremely ..." [level=3] [ref=e1831]: Erwin Smith was never really a hero, he was just extremely good at making selfish motives sound noble
+                      - generic [ref=e1833]:
+                        - generic [ref=e1834]: "213"
+                        - text: upvotes ·
+                        - generic [ref=e1835]: "66"
+                        - text: comments
+                    - separator [ref=e1836]
+                - listitem [ref=e1837]:
+                  - generic [ref=e1838]:
+                    - generic [ref=e1839]:
+                      - link "What would have Erwin done if he was alive" [ref=e1840] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1n7fvwr/what_would_have_erwin_done_if_he_was_alive/
+                        - generic [ref=e1841]:
+                          - generic: What would have Erwin done if he was alive
+                      - generic [ref=e1843]:
+                        - generic [ref=e1845]:
+                          - link "r/attackontitan" [ref=e1846] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1850]: r/attackontitan
+                          - generic [ref=e1851]: •
+                          - time [ref=e1853]: 10mo ago
+                        - link "List item post - What would have Erwin done if he was alive" [ref=e1855] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1n7fvwr/what_would_have_erwin_done_if_he_was_alive/
+                          - heading "List item post - What would have Erwin done if he was alive" [level=3] [ref=e1858]: What would have Erwin done if he was alive
+                      - generic [ref=e1860]:
+                        - generic [ref=e1861]: "15"
+                        - text: upvotes ·
+                        - generic [ref=e1862]: "23"
+                        - text: comments
+                    - separator [ref=e1863]
+                - listitem [ref=e1864]:
+                  - generic [ref=e1866]:
+                    - link "Floch and Armin are two sides of the same coin (Erwin)" [ref=e1867] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1q3fs96/floch_and_armin_are_two_sides_of_the_same_coin/
+                      - generic [ref=e1868]:
+                        - generic: Floch and Armin are two sides of the same coin (Erwin)
+                    - generic [ref=e1870]:
+                      - generic [ref=e1872]:
+                        - link "r/attackontitan" [ref=e1873] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/
+                          - generic [ref=e1877]: r/attackontitan
+                        - generic [ref=e1878]: •
+                        - time [ref=e1880]: 6mo ago
+                      - link "List item post - Floch and Armin are two sides of the same coin (Erwin)" [ref=e1882] [cursor=pointer]:
+                        - /url: /r/attackontitan/comments/1q3fs96/floch_and_armin_are_two_sides_of_the_same_coin/
+                        - heading "List item post - Floch and Armin are two sides of the same coin (Erwin)" [level=3] [ref=e1885]: Floch and Armin are two sides of the same coin (Erwin)
+                    - generic [ref=e1887]:
+                      - generic [ref=e1888]: "77"
+                      - text: upvotes ·
+                      - generic [ref=e1889]: "14"
+                      - text: comments
+            - generic [ref=e1890]:
+              - heading "View Post in" [level=2] [ref=e1892]:
+                - generic [ref=e1893]: View Post in
+              - generic [ref=e1894]:
+                - link "Français" [ref=e1896] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/armin_vs_erwin_discourse_has_undone_years_of_my/?tl=fr
+                - link "Português (Brasil)" [ref=e1898] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/armin_vs_erwin_discourse_has_undone_years_of_my/?tl=pt-br
+                - group [ref=e1899]:
+                  - generic "See more" [ref=e1900] [cursor=pointer]:
+                    - generic [ref=e1901]: See more
+                    - img [ref=e1903]
+            - complementary "Community information" [ref=e1905]:
+              - generic [ref=e1907]:
+                - heading "Community Info Section" [level=1] [ref=e1908]
+                - generic [ref=e1909]:
+                  - generic [ref=e1910]:
+                    - link "r/attackontitan" [ref=e1911] [cursor=pointer]:
+                      - /url: /r/attackontitan/
+                      - generic [ref=e1912]: r/attackontitan
+                    - 'button "Community status: Resting Under the tree..." [ref=e1915] [cursor=pointer]':
+                      - img "tree" [ref=e1916]
+                  - button "Join" [ref=e1920] [cursor=pointer]
+                - generic [ref=e1921]:
+                  - generic [ref=e1922]: Attack on Titan (Shingeki no Kyojin)
+                  - generic [ref=e1923]: A subreddit dedicated to Attack on Titan (進撃の巨人) manga and anime series.
+                  - generic [ref=e1926]:
+                    - img [ref=e1927]
+                    - text: Public
+          - list [ref=e1930]:
+            - listitem [ref=e1931]:
+              - link "Home" [ref=e1933] [cursor=pointer]:
+                - /url: /?feed=home
+            - listitem [ref=e1934]:
+              - link "Popular" [ref=e1936] [cursor=pointer]:
+                - /url: /r/popular/
+            - listitem [ref=e1937]:
+              - link "News" [ref=e1939] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e1940]:
+              - link "Explore" [ref=e1942] [cursor=pointer]:
+                - /url: /explore/
+            - listitem [ref=e1943]:
+              - link "Best of Reddit" [ref=e1945] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/global/
+            - listitem [ref=e1946]:
+              - link "Best of Reddit in Portuguese" [ref=e1948] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+            - listitem [ref=e1949]:
+              - link "Best of Reddit in German" [ref=e1951] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-de/
+            - listitem [ref=e1952]:
+              - link "Reddit Rules" [ref=e1954] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/content-policy
+            - listitem [ref=e1955]:
+              - link "Privacy Policy" [ref=e1957] [cursor=pointer]:
+                - /url: https://www.reddit.com/policies/privacy-policy
+            - listitem [ref=e1958]:
+              - link "User Agreement" [ref=e1960] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/user-agreement
+            - listitem [ref=e1961]:
+              - link "Your Privacy Choices" [ref=e1963] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/articles/43980704794004
+            - listitem [ref=e1964]:
+              - link "Accessibility" [ref=e1966] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+            - listitem [ref=e1967]:
+              - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1968] [cursor=pointer]:
+                - /url: https://redditinc.com

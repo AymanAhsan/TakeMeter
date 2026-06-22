@@ -1,0 +1,1814 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: Attack on Titan (Shingeki no Kyojin)
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - generic [ref=e12]:
+            - button "Open menu" [ref=e16] [cursor=pointer]:
+              - img [ref=e19]
+              - generic [ref=e21]:
+                - generic: Open menu
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Home":
+                        - /url: https://www.reddit.com/
+          - search [ref=e31]:
+            - generic [ref=e33]:
+              - img [ref=e36]
+              - textbox "Ask" [ref=e40]:
+                - /placeholder: Find anything
+              - separator [ref=e41]
+              - link "Ask" [ref=e45] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e46]:
+                  - img [ref=e48]
+                  - generic [ref=e50]: Ask
+              - generic: Find anything
+          - generic [ref=e51]:
+            - link "Log In" [ref=e55] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e57]: Log In
+            - button "Expand user menu" [ref=e62] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]:
+                - generic: Expand user menu
+      - generic [ref=e69]:
+        - region "Community actions" [ref=e73]:
+          - generic [ref=e74]:
+            - 'heading "r/attackontitan Community status: Resting Under the tree..." [level=1] [ref=e80]':
+              - text: r/attackontitan
+              - 'button "Community status: Resting Under the tree..." [ref=e82] [cursor=pointer]':
+                - img "tree" [ref=e83]
+            - generic [ref=e84]:
+              - button "Create Post" [ref=e88] [cursor=pointer]:
+                - generic [ref=e89]:
+                  - img [ref=e91]
+                  - generic [ref=e93]: Create Post
+              - button "Join" [ref=e98] [cursor=pointer]
+        - main [ref=e101]:
+          - generic [ref=e102]:
+            - generic [ref=e104]:
+              - tab "Feed" [selected] [ref=e105] [cursor=pointer]:
+                - generic [ref=e108]: Feed
+              - tab "About" [ref=e109] [cursor=pointer]:
+                - generic [ref=e112]: About
+            - generic [ref=e114]:
+              - generic "Sort by" [ref=e118]:
+                - generic [ref=e119]:
+                  - 'button "Sort by: New" [disabled]':
+                    - generic:
+                      - generic: New
+              - generic "View" [ref=e123]:
+                - 'button "View: Card" [ref=e125] [cursor=pointer]'
+          - generic [ref=e131]:
+            - button "collapse/expand community highlights" [ref=e132] [cursor=pointer]:
+              - heading "Community highlights" [level=3] [ref=e133]:
+                - img [ref=e134]
+                - generic [ref=e136]: Community highlights
+              - button "collapse/expand community highlights" [ref=e138]:
+                - img [ref=e141]
+            - list [ref=e145]:
+              - generic:
+                - listitem [ref=e146]:
+                  - link "SPOILER Grisha Yeager | Attack on Titan" [ref=e147] [cursor=pointer]:
+                    - /url: /r/attackontitan/comments/1u35geb/grisha_yeager_attack_on_titan/
+                    - generic [ref=e153]:
+                      - generic [ref=e154]:
+                        - generic [ref=e157]:
+                          - img [ref=e159]
+                          - generic [ref=e161]: SPOILER
+                        - heading "Grisha Yeager | Attack on Titan" [level=2] [ref=e164]
+                      - img [ref=e173]
+                - listitem [ref=e175]:
+                  - link "Attack on Titan 3 Reveal Trailer | Summer Game Fest 2026 Announcement" [ref=e176] [cursor=pointer]:
+                    - /url: /r/attackontitan/comments/1txzm0v/attack_on_titan_3_reveal_trailer_summer_game_fest/
+                    - generic [ref=e182]:
+                      - heading "Attack on Titan 3 Reveal Trailer | Summer Game Fest 2026" [level=2] [ref=e186]
+                      - generic [ref=e190]:
+                        - img [ref=e191]
+                        - generic [ref=e193]: Announcement
+                - listitem [ref=e194]:
+                  - link "We now have a discord!! Announcement" [ref=e195] [cursor=pointer]:
+                    - /url: /r/attackontitan/comments/1t9vh7l/we_now_have_a_discord/
+                    - generic [ref=e199]:
+                      - heading "We now have a discord!!" [level=2] [ref=e203]
+                      - generic [ref=e207]:
+                        - img [ref=e208]
+                        - generic [ref=e210]: Announcement
+                - listitem [ref=e211]:
+                  - 'link "Ultimate Guide to AoT: FAQs, Analysis, and Discourse Flair: Official Megathread" [ref=e212] [cursor=pointer]':
+                    - /url: /r/attackontitan/comments/1i8hei4/ultimate_guide_to_aot_faqs_analysis_and_discourse/
+                    - generic [ref=e218]:
+                      - 'heading "Ultimate Guide to AoT: FAQs, Analysis, and Discourse" [level=2] [ref=e222]'
+                      - 'generic "Flair: Official Megathread" [ref=e227]': Official Megathread
+          - generic [ref=e229]:
+            - generic "Attack on Titan (Shingeki no Kyojin)"
+            - separator [ref=e230]
+            - generic [ref=e231]:
+              - heading "Feed" [level=1] [ref=e233]
+              - generic:
+                - article "How could've diplomacy worked??" [ref=e234]:
+                  - generic [ref=e235] [cursor=pointer]:
+                    - link "How could've diplomacy worked??" [ref=e236]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1ual70v/how_couldve_diplomacy_worked/
+                      - generic [ref=e237]:
+                        - generic: How could've diplomacy worked??
+                    - generic [ref=e238]:
+                      - generic [ref=e239]:
+                        - 'link "Author: u/Liger_I" [ref=e244]':
+                          - /url: https://www.reddit.com/user/Liger_I/
+                          - generic [ref=e245]:
+                            - img "u/Liger_I avatar" [ref=e248]
+                            - generic [ref=e249]: u/Liger_I
+                        - generic [ref=e250]: •
+                        - time [ref=e252]: 1 hr. ago
+                      - button "Open user actions" [ref=e257]:
+                        - img [ref=e260]
+                    - generic [ref=e263]:
+                      - heading "How could've diplomacy worked??" [level=2] [ref=e264]:
+                        - link "How could've diplomacy worked??" [ref=e265]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1ual70v/how_couldve_diplomacy_worked/
+                          - text: How could've diplomacy worked??
+                      - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e268]':
+                        - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                        - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e270]': Ending Spoilers - Discussion/Question
+                      - generic [ref=e271]:
+                        - generic:
+                          - link "All around the world people had so much hate against eldians and paradis, there was no chance of diplomacy, as I saw in the anime , when we saw the marley torture against eldians, one of them said this is not even close to how much they suffer in other countries, and people still talk about eren not taking diplomacy or trampling only the military hange literally saw an eldian right activist group saying outside eldians are innocent and the ones inside the walls are devils":
+                            - /url: /r/attackontitan/comments/1ual70v/how_couldve_diplomacy_worked/
+                            - generic:
+                              - generic:
+                                - paragraph: All around the world people had so much hate against eldians and paradis, there was no chance of diplomacy, as I saw in the anime , when we saw the marley torture against eldians, one of them said this is not even close to how much they suffer in other countries, and people still talk about eren not taking diplomacy or trampling only the military
+                                - paragraph: hange literally saw an eldian right activist group saying outside eldians are innocent and the ones inside the walls are devils
+                    - generic "Actions available for this post" [ref=e273]:
+                      - generic [ref=e276]:
+                        - button "Upvote" [ref=e277]:
+                          - img [ref=e279]
+                          - generic [ref=e281]:
+                            - generic: Upvote
+                        - generic [ref=e283]: "3"
+                        - button "Downvote" [ref=e284]:
+                          - img [ref=e286]
+                          - generic [ref=e288]:
+                            - generic: Downvote
+                      - link "4 Go to comments" [ref=e289]:
+                        - /url: /r/attackontitan/comments/1ual70v/how_couldve_diplomacy_worked/
+                        - generic [ref=e290]:
+                          - img [ref=e292]
+                          - generic [ref=e295]: "4"
+                        - generic [ref=e296]:
+                          - generic: Go to comments
+                      - button "Share" [ref=e300]:
+                        - generic [ref=e301]:
+                          - img [ref=e303]
+                          - generic [ref=e305]: Share
+                - separator [ref=e306]
+                - article "how good is the ending?" [ref=e307]:
+                  - generic [ref=e308] [cursor=pointer]:
+                    - link "how good is the ending?" [ref=e309]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1uaagu8/how_good_is_the_ending/
+                      - generic [ref=e310]:
+                        - generic: how good is the ending?
+                    - generic [ref=e311]:
+                      - generic [ref=e312]:
+                        - 'link "Author: u/Then_Concern_2656" [ref=e317]':
+                          - /url: https://www.reddit.com/user/Then_Concern_2656/
+                          - generic [ref=e318]:
+                            - img "u/Then_Concern_2656 avatar" [ref=e321]
+                            - generic [ref=e322]: u/Then_Concern_2656
+                        - generic [ref=e323]: •
+                        - time [ref=e325]: 9 hr. ago
+                      - button "Open user actions" [ref=e330]:
+                        - img [ref=e333]
+                    - generic [ref=e336]:
+                      - heading "how good is the ending?" [level=2] [ref=e337]:
+                        - link "how good is the ending?" [ref=e338]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1uaagu8/how_good_is_the_ending/
+                      - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e341]':
+                        - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                        - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e343]': Ending Spoilers - Discussion/Question
+                      - generic [ref=e344]:
+                        - generic:
+                          - link "my friend spoiled the ending for me and it’s been months since then… I figured I’ll just try to forget it but obviously I can’t 😭 aot is genuinely the best show I’ve ever seen and the only thing I know about the ending is that mikasa kills eren. does anything interesting happen other than that? or should I continue my journey of tryna forget that that all happened?":
+                            - /url: /r/attackontitan/comments/1uaagu8/how_good_is_the_ending/
+                            - generic:
+                              - generic:
+                                - paragraph: my friend spoiled the ending for me and it’s been months since then… I figured I’ll just try to forget it but obviously I can’t 😭 aot is genuinely the best show I’ve ever seen and the only thing I know about the ending is that mikasa kills eren. does anything interesting happen other than that? or should I continue my journey of tryna forget that that all happened?
+                    - generic "Actions available for this post" [ref=e346]:
+                      - generic [ref=e349]:
+                        - button "Upvote" [ref=e350]:
+                          - img [ref=e352]
+                          - generic [ref=e354]:
+                            - generic: Upvote
+                        - generic [ref=e356]: "4"
+                        - button "Downvote" [ref=e357]:
+                          - img [ref=e359]
+                          - generic [ref=e361]:
+                            - generic: Downvote
+                      - link "17 Go to comments" [ref=e362]:
+                        - /url: /r/attackontitan/comments/1uaagu8/how_good_is_the_ending/
+                        - generic [ref=e363]:
+                          - img [ref=e365]
+                          - generic [ref=e368]: "17"
+                        - generic [ref=e369]:
+                          - generic: Go to comments
+                      - button "Share" [ref=e373]:
+                        - generic [ref=e374]:
+                          - img [ref=e376]
+                          - generic [ref=e378]: Share
+                - separator [ref=e379]
+                - article "How did he make it to the wall?" [ref=e380]:
+                  - generic [ref=e381] [cursor=pointer]:
+                    - link "How did he make it to the wall?" [ref=e382]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1ua8097/how_did_he_make_it_to_the_wall/
+                      - generic [ref=e383]:
+                        - generic: How did he make it to the wall?
+                    - generic [ref=e384]:
+                      - generic [ref=e385]:
+                        - 'link "Author: u/j_swill" [ref=e390]':
+                          - /url: https://www.reddit.com/user/j_swill/
+                          - generic [ref=e391]:
+                            - img "u/j_swill avatar" [ref=e394]
+                            - generic [ref=e395]: u/j_swill
+                        - generic [ref=e396]: •
+                        - time [ref=e398]: 11 hr. ago
+                      - button "Open user actions" [ref=e403]:
+                        - img [ref=e406]
+                    - generic [ref=e413]:
+                      - img [ref=e415]
+                      - generic [ref=e417]: SPOILER
+                    - generic [ref=e419]:
+                      - heading "How did he make it to the wall?" [level=2] [ref=e420]:
+                        - link "How did he make it to the wall?" [ref=e421]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1ua8097/how_did_he_make_it_to_the_wall/
+                      - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e424]':
+                        - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                        - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e426]': Ending Spoilers - Discussion/Question
+                      - generic [ref=e431]:
+                        - button "View spoiler" [ref=e433]:
+                          - generic [ref=e435]: View spoiler
+                        - generic:
+                          - generic:
+                            - generic:
+                              - link "How did he make it to the wall?":
+                                - /url: /r/attackontitan/comments/1ua8097/how_did_he_make_it_to_the_wall/
+                                - generic:
+                                  - generic: How did he make it to the wall?
+                              - generic:
+                                - generic:
+                                  - paragraph: How did Grisha make it to the wall? We see when the owl give him the attack titan, we know he got to the outside of the wall and the soldiers letting him in. How did he get the control of his titan form to get from the dock to the outer wall ? We see an untrained Eren beat like a dozen or so titan after be gets eaten in Trost (?) Bht he eventually gets defeated. Wouldn't Grisha have the same problem en route to the wall?
+                    - generic "Actions available for this post" [ref=e438]:
+                      - generic [ref=e441]:
+                        - button "Upvote" [ref=e442]:
+                          - img [ref=e444]
+                          - generic [ref=e446]:
+                            - generic: Upvote
+                        - generic [ref=e448]: "46"
+                        - button "Downvote" [ref=e449]:
+                          - img [ref=e451]
+                          - generic [ref=e453]:
+                            - generic: Downvote
+                      - link "15 Go to comments" [ref=e454]:
+                        - /url: /r/attackontitan/comments/1ua8097/how_did_he_make_it_to_the_wall/
+                        - generic [ref=e455]:
+                          - img [ref=e457]
+                          - generic [ref=e460]: "15"
+                        - generic [ref=e461]:
+                          - generic: Go to comments
+                      - button "Share" [ref=e465]:
+                        - generic [ref=e466]:
+                          - img [ref=e468]
+                          - generic [ref=e470]: Share
+                - separator [ref=e471]
+                - generic [ref=e472]:
+                  - generic:
+                    - 'article "Spoiler: why didn''t Reiner eat Erin when he was too weak to transform?" [ref=e473]':
+                      - generic [ref=e474] [cursor=pointer]:
+                        - 'link "Spoiler: why didn''t Reiner eat Erin when he was too weak to transform?" [ref=e475]':
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1ua6jlk/spoiler_why_didnt_reiner_eat_erin_when_he_was_too/
+                          - generic [ref=e476]:
+                            - generic: "Spoiler: why didn't Reiner eat Erin when he was too weak to transform?"
+                        - generic [ref=e477]:
+                          - generic [ref=e478]:
+                            - 'link "Author: u/Smiling_Psychopath" [ref=e483]':
+                              - /url: https://www.reddit.com/user/Smiling_Psychopath/
+                              - generic [ref=e484]:
+                                - img [ref=e489]
+                                - generic [ref=e491]: u/Smiling_Psychopath
+                            - generic [ref=e492]: •
+                            - time [ref=e494]: 12 hr. ago
+                          - button "Open user actions" [ref=e499]:
+                            - img [ref=e502]
+                        - generic [ref=e509]:
+                          - img [ref=e511]
+                          - generic [ref=e513]: SPOILER
+                        - generic [ref=e515]:
+                          - 'heading "Spoiler: why didn''t Reiner eat Erin when he was too weak to transform?" [level=2] [ref=e516]':
+                            - 'link "Spoiler: why didn''t Reiner eat Erin when he was too weak to transform?" [ref=e517]':
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1ua6jlk/spoiler_why_didnt_reiner_eat_erin_when_he_was_too/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e520]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e522]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e527]:
+                            - button "View spoiler" [ref=e529]:
+                              - generic [ref=e531]: View spoiler
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - 'link "Spoiler: why didn''t Reiner eat Erin when he was too weak to transform?"':
+                                    - /url: /r/attackontitan/comments/1ua6jlk/spoiler_why_didnt_reiner_eat_erin_when_he_was_too/
+                                    - generic:
+                                      - generic: "Spoiler: why didn't Reiner eat Erin when he was too weak to transform?"
+                                  - generic:
+                                    - generic:
+                                      - paragraph: they were all worried about the scouts taking Erin back but they could’ve solved that by just eating him and taking the founder, thereby accomplishing their mission?
+                        - generic "Actions available for this post" [ref=e534]:
+                          - generic [ref=e537]:
+                            - button "Upvote" [ref=e538]:
+                              - img [ref=e540]
+                              - generic [ref=e542]:
+                                - generic: Upvote
+                            - generic [ref=e544]: "0"
+                            - button "Downvote" [ref=e545]:
+                              - img [ref=e547]
+                              - generic [ref=e549]:
+                                - generic: Downvote
+                          - link "28 Go to comments" [ref=e550]:
+                            - /url: /r/attackontitan/comments/1ua6jlk/spoiler_why_didnt_reiner_eat_erin_when_he_was_too/
+                            - generic [ref=e551]:
+                              - img [ref=e553]
+                              - generic [ref=e556]: "28"
+                            - generic [ref=e557]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e561]:
+                            - generic [ref=e562]:
+                              - img [ref=e564]
+                              - generic [ref=e566]: Share
+                    - separator [ref=e567]
+                    - 'article "Spoiler: Why didn''t the colossal and the armor wipe out the island?" [ref=e568]':
+                      - generic [ref=e569] [cursor=pointer]:
+                        - 'link "Spoiler: Why didn''t the colossal and the armor wipe out the island?" [ref=e570]':
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1ua655q/spoiler_why_didnt_the_colossal_and_the_armor_wipe/
+                          - generic [ref=e571]:
+                            - generic: "Spoiler: Why didn't the colossal and the armor wipe out the island?"
+                        - generic [ref=e572]:
+                          - generic [ref=e573]:
+                            - 'link "Author: u/Smiling_Psychopath" [ref=e578]':
+                              - /url: https://www.reddit.com/user/Smiling_Psychopath/
+                              - generic [ref=e579]:
+                                - img [ref=e584]
+                                - generic [ref=e586]: u/Smiling_Psychopath
+                            - generic [ref=e587]: •
+                            - time [ref=e589]: 12 hr. ago
+                          - button "Open user actions" [ref=e594]:
+                            - img [ref=e597]
+                        - generic [ref=e604]:
+                          - img [ref=e606]
+                          - generic [ref=e608]: SPOILER
+                        - generic [ref=e610]:
+                          - 'heading "Spoiler: Why didn''t the colossal and the armor wipe out the island?" [level=2] [ref=e611]':
+                            - 'link "Spoiler: Why didn''t the colossal and the armor wipe out the island?" [ref=e612]':
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1ua655q/spoiler_why_didnt_the_colossal_and_the_armor_wipe/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e615]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e617]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e622]:
+                            - button "View spoiler" [ref=e624]:
+                              - generic [ref=e626]: View spoiler
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - 'link "Spoiler: Why didn''t the colossal and the armor wipe out the island?"':
+                                    - /url: /r/attackontitan/comments/1ua655q/spoiler_why_didnt_the_colossal_and_the_armor_wipe/
+                                    - generic:
+                                      - generic: "Spoiler: Why didn't the colossal and the armor wipe out the island?"
+                                  - generic:
+                                    - generic:
+                                      - paragraph: I understand the reasoning is because they wanted to find the founder rather then just kicking the problem down the road but wouldn’t it have just made more sense to break through all of the walls and allow them all to be devoured? The founder would no longer exist atp thereby solving their perceived issue. Marley already committed genocide so why not take It all the way if they have the capability?
+                        - generic "Actions available for this post" [ref=e629]:
+                          - generic [ref=e632]:
+                            - button "Upvote" [ref=e633]:
+                              - img [ref=e635]
+                              - generic [ref=e637]:
+                                - generic: Upvote
+                            - generic [ref=e639]: "0"
+                            - button "Downvote" [ref=e640]:
+                              - img [ref=e642]
+                              - generic [ref=e644]:
+                                - generic: Downvote
+                          - link "30 Go to comments" [ref=e645]:
+                            - /url: /r/attackontitan/comments/1ua655q/spoiler_why_didnt_the_colossal_and_the_armor_wipe/
+                            - generic [ref=e646]:
+                              - img [ref=e648]
+                              - generic [ref=e651]: "30"
+                            - generic [ref=e652]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e656]:
+                            - generic [ref=e657]:
+                              - img [ref=e659]
+                              - generic [ref=e661]: Share
+                    - separator [ref=e662]
+                    - article "Daily Reminder! Hange was so close to seeing the first flying titan" [ref=e663]:
+                      - generic [ref=e664] [cursor=pointer]:
+                        - link "Daily Reminder! Hange was so close to seeing the first flying titan" [ref=e665]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1ua32um/daily_reminder_hange_was_so_close_to_seeing_the/
+                          - generic [ref=e666]:
+                            - generic: Daily Reminder! Hange was so close to seeing the first flying titan
+                        - generic [ref=e667]:
+                          - generic [ref=e668]:
+                            - 'link "Author: u/Thewickedsomeone1" [ref=e673]':
+                              - /url: https://www.reddit.com/user/Thewickedsomeone1/
+                              - generic [ref=e674]:
+                                - img "u/Thewickedsomeone1 avatar" [ref=e677]
+                                - generic [ref=e678]: u/Thewickedsomeone1
+                            - generic [ref=e679]: •
+                            - time [ref=e681]: 14 hr. ago
+                          - button "Open user actions" [ref=e686]:
+                            - img [ref=e689]
+                        - generic [ref=e692]:
+                          - heading "Daily Reminder! Hange was so close to seeing the first flying titan" [level=2] [ref=e693]:
+                            - link "Daily Reminder! Hange was so close to seeing the first flying titan" [ref=e694]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1ua32um/daily_reminder_hange_was_so_close_to_seeing_the/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e697]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e699]': Ending Spoilers - Discussion/Question
+                        - generic [ref=e704]:
+                          - generic [ref=e706]:
+                            - generic [ref=e707]:
+                              - generic [ref=e709]:
+                                - button "Previous page" [disabled]:
+                                  - generic:
+                                    - generic:
+                                      - img
+                              - list [ref=e710]:
+                                - listitem [ref=e711]:
+                                  - figure [ref=e712]:
+                                    - img "r/attackontitan - Daily Reminder! Hange was so close to seeing the first flying titan" [ref=e713]
+                              - button "Next page" [ref=e716]:
+                                - img [ref=e719]
+                            - group [ref=e725]:
+                              - button "Page 1 (Current page)" [ref=e727]:
+                                - generic [ref=e728]:
+                                  - generic: Page 1 (Current page)
+                              - button "Page 2" [ref=e729]:
+                                - generic [ref=e730]:
+                                  - generic: Page 2
+                          - generic [ref=e731]:
+                            - generic: Item 1 of 2
+                        - generic "Actions available for this post" [ref=e733]:
+                          - generic [ref=e736]:
+                            - button "Upvote" [ref=e737]:
+                              - img [ref=e739]
+                              - generic [ref=e741]:
+                                - generic: Upvote
+                            - generic [ref=e743]: "601"
+                            - button "Downvote" [ref=e744]:
+                              - img [ref=e746]
+                              - generic [ref=e748]:
+                                - generic: Downvote
+                          - link "21 Go to comments" [ref=e749]:
+                            - /url: /r/attackontitan/comments/1ua32um/daily_reminder_hange_was_so_close_to_seeing_the/
+                            - generic [ref=e750]:
+                              - img [ref=e752]
+                              - generic [ref=e755]: "21"
+                            - generic [ref=e756]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e760]:
+                            - generic [ref=e761]:
+                              - img [ref=e763]
+                              - generic [ref=e765]: Share
+                    - separator [ref=e766]
+                    - article "All our characters should've stayed mindless titans." [ref=e767]:
+                      - generic [ref=e768] [cursor=pointer]:
+                        - link "All our characters should've stayed mindless titans." [ref=e769]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1ua2yqm/all_our_characters_shouldve_stayed_mindless_titans/
+                          - generic [ref=e770]:
+                            - generic: All our characters should've stayed mindless titans.
+                        - generic [ref=e771]:
+                          - generic [ref=e772]:
+                            - 'link "Author: u/Cole-y-wolly" [ref=e777]':
+                              - /url: https://www.reddit.com/user/Cole-y-wolly/
+                              - generic [ref=e778]:
+                                - img "u/Cole-y-wolly avatar" [ref=e781]
+                                - generic [ref=e782]: u/Cole-y-wolly
+                            - generic [ref=e783]: •
+                            - time [ref=e785]: 14 hr. ago
+                          - button "Open user actions" [ref=e790]:
+                            - img [ref=e793]
+                        - generic [ref=e800]:
+                          - img [ref=e802]
+                          - generic [ref=e804]: SPOILER
+                        - generic [ref=e806]:
+                          - heading "All our characters should've stayed mindless titans." [level=2] [ref=e807]:
+                            - link "All our characters should've stayed mindless titans." [ref=e808]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1ua2yqm/all_our_characters_shouldve_stayed_mindless_titans/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e811]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e813]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e818]:
+                            - button "View spoiler" [ref=e820]:
+                              - generic [ref=e822]: View spoiler
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "All our characters should've stayed mindless titans.":
+                                    - /url: /r/attackontitan/comments/1ua2yqm/all_our_characters_shouldve_stayed_mindless_titans/
+                                    - generic:
+                                      - generic: All our characters should've stayed mindless titans.
+                                  - generic:
+                                    - generic:
+                                      - paragraph: Okay so I'm not sure exactly how hot a this take is, but when I first watched the finale, the moment the hallucinogenia let the smoke out and every Eldian besides the shifters & Akermans turned into mindless titans, I remember literally bawling.
+                                      - paragraph
+                                      - paragraph: I feel like regardless of any other issues with the ending, that enormous emotion would've stuck with me, been the thing I remembered most, and would make it even more endlessly rewatchable. As it is now that moment has no emotional impact on rewatch since you know they become human again. Killing off basically the entire main cast save for a few would've been so memorable.
+                                      - paragraph
+                                      - paragraph: Obviously that means all mindless titans would've had to die instead of revert to being human after the titan curse was broken, but besides our characters there was basically only Connie's mom that we cared about who was still around as a mindless titan.
+                                      - paragraph
+                                      - paragraph: What y'all think?
+                        - generic "Actions available for this post" [ref=e825]:
+                          - generic [ref=e828]:
+                            - button "Upvote" [ref=e829]:
+                              - img [ref=e831]
+                              - generic [ref=e833]:
+                                - generic: Upvote
+                            - generic [ref=e835]: "0"
+                            - button "Downvote" [ref=e836]:
+                              - img [ref=e838]
+                              - generic [ref=e840]:
+                                - generic: Downvote
+                          - link "9 Go to comments" [ref=e841]:
+                            - /url: /r/attackontitan/comments/1ua2yqm/all_our_characters_shouldve_stayed_mindless_titans/
+                            - generic [ref=e842]:
+                              - img [ref=e844]
+                              - generic [ref=e847]: "9"
+                            - generic [ref=e848]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e852]:
+                            - generic [ref=e853]:
+                              - img [ref=e855]
+                              - generic [ref=e857]: Share
+                    - separator [ref=e858]
+                    - article "Could another solution for freedom exist?" [ref=e859]:
+                      - generic [ref=e860] [cursor=pointer]:
+                        - link "Could another solution for freedom exist?" [ref=e861]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u9fcbd/could_another_solution_for_freedom_exist/
+                          - generic [ref=e862]:
+                            - generic: Could another solution for freedom exist?
+                        - generic [ref=e863]:
+                          - generic [ref=e864]:
+                            - 'link "Author: u/r0tten_bookaholic" [ref=e869]':
+                              - /url: https://www.reddit.com/user/r0tten_bookaholic/
+                              - generic [ref=e870]:
+                                - img [ref=e875]
+                                - generic [ref=e877]: u/r0tten_bookaholic
+                            - generic [ref=e878]: •
+                            - time [ref=e880]: 1 day ago
+                          - button "Open user actions" [ref=e885]:
+                            - img [ref=e888]
+                        - generic [ref=e891]:
+                          - heading "Could another solution for freedom exist?" [level=2] [ref=e892]:
+                            - link "Could another solution for freedom exist?" [ref=e893]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u9fcbd/could_another_solution_for_freedom_exist/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e896]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e898]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e899]:
+                            - generic:
+                              - link:
+                                - /url: /r/attackontitan/comments/1u9fcbd/could_another_solution_for_freedom_exist/
+                                - generic:
+                                  - generic:
+                                    - paragraph: Me and my friend who introduced me to AoT like to discuss various things of the series, but we never could find an answer to a question we got a while ago. Which is, would the rumbling and killing so many of the whole population be the only way for Eren to achieve freedom of Paradis' people?
+                                    - paragraph
+                                    - paragraph: Last time I rewatched the anime was a good while ago, I might have forgotten some details, but I remember at the end seeing what seemed to be fragments of memories, and one of them was Eren, Mikasa and Armin if they were from the real world. Which makes me believe other timelines are somehow canon.
+                                    - paragraph
+                                    - paragraph: Maybe this would only happen in another timeline, where not everything happened exactly as what we've seen, but could there be any way to achieve this dream without such extreme actions? From time to time I think about it but I can't think about any possible answer or theory.
+                                    - paragraph
+                                    - paragraph: I hope I've worded my question well.
+                        - generic "Actions available for this post" [ref=e901]:
+                          - generic [ref=e904]:
+                            - button "Upvote" [ref=e905]:
+                              - img [ref=e907]
+                              - generic [ref=e909]:
+                                - generic: Upvote
+                            - generic [ref=e911]: "3"
+                            - button "Downvote" [ref=e912]:
+                              - img [ref=e914]
+                              - generic [ref=e916]:
+                                - generic: Downvote
+                          - link "13 Go to comments" [ref=e917]:
+                            - /url: /r/attackontitan/comments/1u9fcbd/could_another_solution_for_freedom_exist/
+                            - generic [ref=e918]:
+                              - img [ref=e920]
+                              - generic [ref=e923]: "13"
+                            - generic [ref=e924]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e928]:
+                            - generic [ref=e929]:
+                              - img [ref=e931]
+                              - generic [ref=e933]: Share
+                    - separator [ref=e934]
+                    - article "To this day a feat that ALL ANIME FEARS" [ref=e935]:
+                      - generic [ref=e936] [cursor=pointer]:
+                        - link "To this day a feat that ALL ANIME FEARS" [ref=e937]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u9eli4/to_this_day_a_feat_that_all_anime_fears/
+                          - generic [ref=e938]:
+                            - generic: To this day a feat that ALL ANIME FEARS
+                        - generic [ref=e939]:
+                          - generic [ref=e940]:
+                            - 'link "Author: u/Automatic-Office-607" [ref=e945]':
+                              - /url: https://www.reddit.com/user/Automatic-Office-607/
+                              - generic [ref=e946]:
+                                - img "u/Automatic-Office-607 avatar" [ref=e949]
+                                - generic [ref=e950]: u/Automatic-Office-607
+                            - generic [ref=e951]: •
+                            - time [ref=e953]: 1 day ago
+                          - button "Open user actions" [ref=e958]:
+                            - img [ref=e961]
+                        - generic [ref=e964]:
+                          - heading "To this day a feat that ALL ANIME FEARS" [level=2] [ref=e965]:
+                            - link "To this day a feat that ALL ANIME FEARS" [ref=e966]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u9eli4/to_this_day_a_feat_that_all_anime_fears/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e969]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e971]': Ending Spoilers - Discussion/Question
+                        - img "r/attackontitan - To this day a feat that ALL ANIME FEARS" [ref=e977]
+                        - generic "Actions available for this post" [ref=e979]:
+                          - generic [ref=e982]:
+                            - button "Upvote" [ref=e983]:
+                              - img [ref=e985]
+                              - generic [ref=e987]:
+                                - generic: Upvote
+                            - generic [ref=e989]: "29"
+                            - button "Downvote" [ref=e990]:
+                              - img [ref=e992]
+                              - generic [ref=e994]:
+                                - generic: Downvote
+                          - link "15 Go to comments" [ref=e995]:
+                            - /url: /r/attackontitan/comments/1u9eli4/to_this_day_a_feat_that_all_anime_fears/
+                            - generic [ref=e996]:
+                              - img [ref=e998]
+                              - generic [ref=e1001]: "15"
+                            - generic [ref=e1002]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1006]:
+                            - generic [ref=e1007]:
+                              - img [ref=e1009]
+                              - generic [ref=e1011]: Share
+                    - separator [ref=e1012]
+                    - article "Why aren't more people talking about this?" [ref=e1013]:
+                      - generic [ref=e1014] [cursor=pointer]:
+                        - link "Why aren't more people talking about this?" [ref=e1015]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u9e4ek/why_arent_more_people_talking_about_this/
+                          - generic [ref=e1016]:
+                            - generic: Why aren't more people talking about this?
+                        - generic [ref=e1017]:
+                          - generic [ref=e1018]:
+                            - 'link "Author: u/Individual-Dark7565" [ref=e1023]':
+                              - /url: https://www.reddit.com/user/Individual-Dark7565/
+                              - generic [ref=e1024]:
+                                - img "u/Individual-Dark7565 avatar" [ref=e1027]
+                                - generic [ref=e1028]: u/Individual-Dark7565
+                            - generic [ref=e1029]: •
+                            - time [ref=e1031]: 1 day ago
+                          - button "Open user actions" [ref=e1036]:
+                            - img [ref=e1039]
+                        - generic [ref=e1046]:
+                          - img [ref=e1048]
+                          - generic [ref=e1050]: SPOILER
+                        - generic [ref=e1052]:
+                          - heading "Why aren't more people talking about this?" [level=2] [ref=e1053]:
+                            - link "Why aren't more people talking about this?" [ref=e1054]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u9e4ek/why_arent_more_people_talking_about_this/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1057]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1059]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e1064]:
+                            - button "View spoiler" [ref=e1066]:
+                              - generic [ref=e1068]: View spoiler
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "Why aren't more people talking about this?":
+                                    - /url: /r/attackontitan/comments/1u9e4ek/why_arent_more_people_talking_about_this/
+                                    - generic:
+                                      - generic: Why aren't more people talking about this?
+                                  - generic:
+                                    - generic:
+                                      - paragraph: In the ending, Eren ran away and married Jean. They lived long lives and we're married for over 80 years. Mikasa wasn't happy. Also Conny married Onyonkapon and my boi Bamboozle married himself.
+                        - generic "Actions available for this post" [ref=e1071]:
+                          - generic [ref=e1074]:
+                            - button "Upvote" [ref=e1075]:
+                              - img [ref=e1077]
+                              - generic [ref=e1079]:
+                                - generic: Upvote
+                            - generic [ref=e1081]: "0"
+                            - button "Downvote" [ref=e1082]:
+                              - img [ref=e1084]
+                              - generic [ref=e1086]:
+                                - generic: Downvote
+                          - link "4 Go to comments" [ref=e1087]:
+                            - /url: /r/attackontitan/comments/1u9e4ek/why_arent_more_people_talking_about_this/
+                            - generic [ref=e1088]:
+                              - img [ref=e1090]
+                              - generic [ref=e1093]: "4"
+                            - generic [ref=e1094]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1098]:
+                            - generic [ref=e1099]:
+                              - img [ref=e1101]
+                              - generic [ref=e1103]: Share
+                    - separator [ref=e1104]
+                    - article "Attack on titan really hits me so hard" [ref=e1105]:
+                      - generic [ref=e1106] [cursor=pointer]:
+                        - link "Attack on titan really hits me so hard" [ref=e1107]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u93kgz/attack_on_titan_really_hits_me_so_hard/
+                          - generic [ref=e1108]:
+                            - generic: Attack on titan really hits me so hard
+                        - generic [ref=e1109]:
+                          - generic [ref=e1110]:
+                            - 'link "Author: u/Quick-Type399" [ref=e1115]':
+                              - /url: https://www.reddit.com/user/Quick-Type399/
+                              - generic [ref=e1116]:
+                                - img [ref=e1121]
+                                - generic [ref=e1123]: u/Quick-Type399
+                            - generic [ref=e1124]: •
+                            - time [ref=e1126]: 2 days ago
+                          - button "Open user actions" [ref=e1131]:
+                            - img [ref=e1134]
+                        - generic [ref=e1137]:
+                          - heading "Attack on titan really hits me so hard" [level=2] [ref=e1138]:
+                            - link "Attack on titan really hits me so hard" [ref=e1139]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u93kgz/attack_on_titan_really_hits_me_so_hard/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1142]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1144]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e1145]:
+                            - generic:
+                              - link "it's been days since I've finished watching aot and i can't move on, my goal after aot is to watch hunterxhunter but i don't think I can do it. Idk why but of all of the anime that I've watch aot really hits my bone, everything about it was so peak. So jealous bout those ppl who get to watch aot for the first time. I don't think i will get over this cus this is absolute depression":
+                                - /url: /r/attackontitan/comments/1u93kgz/attack_on_titan_really_hits_me_so_hard/
+                                - generic:
+                                  - generic:
+                                    - paragraph: it's been days since I've finished watching aot and i can't move on, my goal after aot is to watch hunterxhunter but i don't think I can do it. Idk why but of all of the anime that I've watch aot really hits my bone, everything about it was so peak. So jealous bout those ppl who get to watch aot for the first time. I don't think i will get over this cus this is absolute depression
+                        - generic "Actions available for this post" [ref=e1147]:
+                          - generic [ref=e1150]:
+                            - button "Upvote" [ref=e1151]:
+                              - img [ref=e1153]
+                              - generic [ref=e1155]:
+                                - generic: Upvote
+                            - generic [ref=e1157]: "20"
+                            - button "Downvote" [ref=e1158]:
+                              - img [ref=e1160]
+                              - generic [ref=e1162]:
+                                - generic: Downvote
+                          - link "11 Go to comments" [ref=e1163]:
+                            - /url: /r/attackontitan/comments/1u93kgz/attack_on_titan_really_hits_me_so_hard/
+                            - generic [ref=e1164]:
+                              - img [ref=e1166]
+                              - generic [ref=e1169]: "11"
+                            - generic [ref=e1170]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1174]:
+                            - generic [ref=e1175]:
+                              - img [ref=e1177]
+                              - generic [ref=e1179]: Share
+                    - separator [ref=e1180]
+                    - article "Could there be another answer to my friend's question ?" [ref=e1181]:
+                      - generic [ref=e1182] [cursor=pointer]:
+                        - link "Could there be another answer to my friend's question ?" [ref=e1183]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u90unr/could_there_be_another_answer_to_my_friends/
+                          - generic [ref=e1184]:
+                            - generic: Could there be another answer to my friend's question ?
+                        - generic [ref=e1185]:
+                          - generic [ref=e1186]:
+                            - 'link "Author: u/Suspicious_Catto250" [ref=e1191]':
+                              - /url: https://www.reddit.com/user/Suspicious_Catto250/
+                              - generic [ref=e1192]:
+                                - img [ref=e1197]
+                                - generic [ref=e1199]: u/Suspicious_Catto250
+                            - generic [ref=e1200]: •
+                            - time [ref=e1202]: 2 days ago
+                          - button "Open user actions" [ref=e1207]:
+                            - img [ref=e1210]
+                        - generic [ref=e1217]:
+                          - img [ref=e1219]
+                          - generic [ref=e1221]: SPOILER
+                        - generic [ref=e1223]:
+                          - heading "Could there be another answer to my friend's question ?" [level=2] [ref=e1224]:
+                            - link "Could there be another answer to my friend's question ?" [ref=e1225]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u90unr/could_there_be_another_answer_to_my_friends/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1228]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1230]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e1235]:
+                            - button "View spoiler" [ref=e1237]:
+                              - generic [ref=e1239]: View spoiler
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "Could there be another answer to my friend's question ?":
+                                    - /url: /r/attackontitan/comments/1u90unr/could_there_be_another_answer_to_my_friends/
+                                    - generic:
+                                      - generic: Could there be another answer to my friend's question ?
+                                  - generic:
+                                    - generic:
+                                      - paragraph: So, my friend recently completed Attack on Titan and asked me a question based on the ending. I tried my best to answer but I also want to know other perspectives which might be something new to me.
+                                      - paragraph
+                                      - paragraph:
+                                        - text: Here's the question he asked -
+                                        - strong: Could AoT have an alternate ending ? One with Eren alive and with Mikasa ?
+                                      - paragraph
+                                      - paragraph: My Answer - If you have seen the final movie, you'll know that the alternate ending wherein Mikasa confesses her true feelings for Eren is shown as the Cabin Fever Dream. Eren and Mikasa both run away from the impending war and live in a Wooden Cabin where Eren spends his remaining years i.e. 4 years in peace (Eren only had 13 yrs left to live after he transformed into Titan due to Founder Ymir's Curse.) He showed this to Mikasa because she tortured herself with "If I had confessed my feelings, would Eren still choose Rumbling ?"
+                                      - paragraph: He needed her to have that emotional closure in order to severe his neck. Only she could stop him and save the remaining humanity.
+                                      - paragraph
+                                      - paragraph: Even if Eren chose not to do the Rumbling, he wouldn't be alive because of Founder Ymir's Curse which states that any titan holder who transforms into a Titan has only 13 years left to live. It's because Founder Ymir was 13 when she first transformed.
+                                      - paragraph
+                                      - paragraph: Pls lemme know your thoughts or perspectives!! Have a nice day/night!!
+                        - generic "Actions available for this post" [ref=e1242]:
+                          - generic [ref=e1245]:
+                            - button "Upvote" [ref=e1246]:
+                              - img [ref=e1248]
+                              - generic [ref=e1250]:
+                                - generic: Upvote
+                            - generic [ref=e1252]: "3"
+                            - button "Downvote" [ref=e1253]:
+                              - img [ref=e1255]
+                              - generic [ref=e1257]:
+                                - generic: Downvote
+                          - link "8 Go to comments" [ref=e1258]:
+                            - /url: /r/attackontitan/comments/1u90unr/could_there_be_another_answer_to_my_friends/
+                            - generic [ref=e1259]:
+                              - img [ref=e1261]
+                              - generic [ref=e1264]: "8"
+                            - generic [ref=e1265]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1269]:
+                            - generic [ref=e1270]:
+                              - img [ref=e1272]
+                              - generic [ref=e1274]: Share
+                    - separator [ref=e1275]
+                    - article "Why Zeke merged with Eren?" [ref=e1276]:
+                      - generic [ref=e1277] [cursor=pointer]:
+                        - link "Why Zeke merged with Eren?" [ref=e1278]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u8x7lt/why_zeke_merged_with_eren/
+                          - generic [ref=e1279]:
+                            - generic: Why Zeke merged with Eren?
+                        - generic [ref=e1280]:
+                          - generic [ref=e1281]:
+                            - 'link "Author: u/StrongAnvil" [ref=e1286]':
+                              - /url: https://www.reddit.com/user/StrongAnvil/
+                              - generic [ref=e1287]:
+                                - img "u/StrongAnvil avatar" [ref=e1290]
+                                - generic [ref=e1291]: u/StrongAnvil
+                            - generic [ref=e1292]: •
+                            - time [ref=e1294]: 2 days ago
+                          - button "Open user actions" [ref=e1299]:
+                            - img [ref=e1302]
+                        - generic [ref=e1305]:
+                          - heading "Why Zeke merged with Eren?" [level=2] [ref=e1306]:
+                            - link "Why Zeke merged with Eren?" [ref=e1307]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u8x7lt/why_zeke_merged_with_eren/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1310]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1312]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e1313]:
+                            - generic:
+                              - link "Okay, I might be really dumb. I watched the anime when it first released and didn't think much about it. I watched it again yesterday, and now I have even more questions than before. Everything is still pretty fresh in my mind, but I feel like they never addressed some of the \"mechanics\" behind the Titan powers... For example, why the hell was Zeke absorbed into Eren's body? I know Ymir basically molds Titans out of sand, but why did they become one entity? Why did Eren lose the power to control the other Titans when Zeke died even though Ymir abandoned the royal blood requirement in favor of Eren? Eren didn't eat Zeke, Zeke still maintained his mind inside Eren's body, I don't think either the anime or the manga ever covered why this happened and how this happened? Is this something I missed, or is it a plot hole?":
+                                - /url: /r/attackontitan/comments/1u8x7lt/why_zeke_merged_with_eren/
+                                - generic:
+                                  - generic:
+                                    - paragraph: Okay, I might be really dumb. I watched the anime when it first released and didn't think much about it. I watched it again yesterday, and now I have even more questions than before.
+                                    - paragraph: Everything is still pretty fresh in my mind, but I feel like they never addressed some of the "mechanics" behind the Titan powers...
+                                    - paragraph: For example, why the hell was Zeke absorbed into Eren's body? I know Ymir basically molds Titans out of sand, but why did they become one entity? Why did Eren lose the power to control the other Titans when Zeke died even though Ymir abandoned the royal blood requirement in favor of Eren?
+                                    - paragraph: Eren didn't eat Zeke, Zeke still maintained his mind inside Eren's body, I don't think either the anime or the manga ever covered why this happened and how this happened?
+                                    - paragraph: Is this something I missed, or is it a plot hole?
+                        - generic "Actions available for this post" [ref=e1315]:
+                          - generic [ref=e1318]:
+                            - button "Upvote" [ref=e1319]:
+                              - img [ref=e1321]
+                              - generic [ref=e1323]:
+                                - generic: Upvote
+                            - generic [ref=e1325]: "0"
+                            - button "Downvote" [ref=e1326]:
+                              - img [ref=e1328]
+                              - generic [ref=e1330]:
+                                - generic: Downvote
+                          - link "17 Go to comments" [ref=e1331]:
+                            - /url: /r/attackontitan/comments/1u8x7lt/why_zeke_merged_with_eren/
+                            - generic [ref=e1332]:
+                              - img [ref=e1334]
+                              - generic [ref=e1337]: "17"
+                            - generic [ref=e1338]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1342]:
+                            - generic [ref=e1343]:
+                              - img [ref=e1345]
+                              - generic [ref=e1347]: Share
+                    - separator [ref=e1348]
+                    - article "I just finished AoT and I'm at loss." [ref=e1349]:
+                      - generic [ref=e1350] [cursor=pointer]:
+                        - link "I just finished AoT and I'm at loss." [ref=e1351]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u8jdw7/i_just_finished_aot_and_im_at_loss/
+                          - generic [ref=e1352]:
+                            - generic: I just finished AoT and I'm at loss.
+                        - generic [ref=e1353]:
+                          - generic [ref=e1354]:
+                            - 'link "Author: u/Much_Lychee" [ref=e1359]':
+                              - /url: https://www.reddit.com/user/Much_Lychee/
+                              - generic [ref=e1360]:
+                                - img [ref=e1365]
+                                - generic [ref=e1367]: u/Much_Lychee
+                            - generic [ref=e1368]: •
+                            - time [ref=e1370]: 2 days ago
+                          - button "Open user actions" [ref=e1375]:
+                            - img [ref=e1378]
+                        - generic [ref=e1381]:
+                          - heading "I just finished AoT and I'm at loss." [level=2] [ref=e1382]:
+                            - link "I just finished AoT and I'm at loss." [ref=e1383]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u8jdw7/i_just_finished_aot_and_im_at_loss/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1386]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1388]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e1389]:
+                            - generic:
+                              - link "I know, I'm quite late. I don't think I've ever felt like this for any show before, still bawling my eyes out. I'm quite shocked because during the 1st/2nd season I googled their age out of curiosity and ofc since I'm late SPOILED myself that *he* dies at the age of 19 or whatever and I was shocked. Texted some friends of mine and they told me \"naaah he doesn't actually die\" and I was curious how it goes and then dude actually dies. Like what? Sorry for the rant, needed to vent. Was there any possible scenario where he doesn't die?":
+                                - /url: /r/attackontitan/comments/1u8jdw7/i_just_finished_aot_and_im_at_loss/
+                                - generic:
+                                  - generic:
+                                    - paragraph: I know, I'm quite late. I don't think I've ever felt like this for any show before, still bawling my eyes out.
+                                    - paragraph: I'm quite shocked because during the 1st/2nd season I googled their age out of curiosity and ofc since I'm late SPOILED myself that *he* dies at the age of 19 or whatever and I was shocked. Texted some friends of mine and they told me "naaah he doesn't actually die" and I was curious how it goes and then dude actually dies. Like what?
+                                    - paragraph: Sorry for the rant, needed to vent. Was there any possible scenario where he doesn't die?
+                        - generic "Actions available for this post" [ref=e1391]:
+                          - generic [ref=e1394]:
+                            - button "Upvote" [ref=e1395]:
+                              - img [ref=e1397]
+                              - generic [ref=e1399]:
+                                - generic: Upvote
+                            - generic [ref=e1401]: "86"
+                            - button "Downvote" [ref=e1402]:
+                              - img [ref=e1404]
+                              - generic [ref=e1406]:
+                                - generic: Downvote
+                          - link "42 Go to comments" [ref=e1407]:
+                            - /url: /r/attackontitan/comments/1u8jdw7/i_just_finished_aot_and_im_at_loss/
+                            - generic [ref=e1408]:
+                              - img [ref=e1410]
+                              - generic [ref=e1413]: "42"
+                            - generic [ref=e1414]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1418]:
+                            - generic [ref=e1419]:
+                              - img [ref=e1421]
+                              - generic [ref=e1423]: Share
+                    - separator [ref=e1424]
+                    - article "After watching Backrooms (2026) movie , I convince we have our AOT live action director. He is fan. Definitely can nail the horror. What do you guys think?" [ref=e1425]:
+                      - generic [ref=e1426] [cursor=pointer]:
+                        - link "After watching Backrooms (2026) movie , I convince we have our AOT live action director. He is fan. Definitely can nail the horror. What do you guys think?" [ref=e1427]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u88uwz/after_watching_backrooms_2026_movie_i_convince_we/
+                          - generic [ref=e1428]:
+                            - generic: After watching Backrooms (2026) movie , I convince we have our AOT live action director. He is fan. Definitely can nail the horror. What do you guys think?
+                        - generic [ref=e1429]:
+                          - generic [ref=e1430]:
+                            - 'link "Author: u/DurianCreampie" [ref=e1435]':
+                              - /url: https://www.reddit.com/user/DurianCreampie/
+                              - generic [ref=e1436]:
+                                - img [ref=e1441]
+                                - generic [ref=e1443]: u/DurianCreampie
+                            - generic [ref=e1444]: •
+                            - time [ref=e1446]: 3 days ago
+                          - button "Open user actions" [ref=e1451]:
+                            - img [ref=e1454]
+                        - generic [ref=e1457]:
+                          - heading "After watching Backrooms (2026) movie , I convince we have our AOT live action director. He is fan. Definitely can nail the horror. What do you guys think?" [level=2] [ref=e1458]:
+                            - link "After watching Backrooms (2026) movie , I convince we have our AOT live action director. He is fan. Definitely can nail the horror. What do you guys think?" [ref=e1459]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u88uwz/after_watching_backrooms_2026_movie_i_convince_we/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1462]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1464]': Ending Spoilers - Discussion/Question
+                        - generic [ref=e1469]:
+                          - generic [ref=e1471]:
+                            - generic [ref=e1472]:
+                              - generic [ref=e1474]:
+                                - button "Previous page" [disabled]:
+                                  - generic:
+                                    - generic:
+                                      - img
+                              - list [ref=e1475]:
+                                - listitem [ref=e1476]:
+                                  - figure [ref=e1477]:
+                                    - img "r/attackontitan - After watching Backrooms (2026) movie , I convince we have our AOT live action director. He is fan. Definitely can nail the horror. What do you guys think?" [ref=e1478]
+                              - button "Next page" [ref=e1481]:
+                                - img [ref=e1484]
+                            - group [ref=e1490]:
+                              - button "Page 1 (Current page)" [ref=e1492]:
+                                - generic [ref=e1493]:
+                                  - generic: Page 1 (Current page)
+                              - button "Page 2" [ref=e1494]:
+                                - generic [ref=e1495]:
+                                  - generic: Page 2
+                          - generic [ref=e1496]:
+                            - generic: Item 1 of 2
+                        - generic "Actions available for this post" [ref=e1498]:
+                          - generic [ref=e1501]:
+                            - button "Upvote" [ref=e1502]:
+                              - img [ref=e1504]
+                              - generic [ref=e1506]:
+                                - generic: Upvote
+                            - generic [ref=e1508]: "0"
+                            - button "Downvote" [ref=e1509]:
+                              - img [ref=e1511]
+                              - generic [ref=e1513]:
+                                - generic: Downvote
+                          - link "52 Go to comments" [ref=e1514]:
+                            - /url: /r/attackontitan/comments/1u88uwz/after_watching_backrooms_2026_movie_i_convince_we/
+                            - generic [ref=e1515]:
+                              - img [ref=e1517]
+                              - generic [ref=e1520]: "52"
+                            - generic [ref=e1521]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1525]:
+                            - generic [ref=e1526]:
+                              - img [ref=e1528]
+                              - generic [ref=e1530]: Share
+                    - separator [ref=e1531]
+                    - article "A.O.T3 Xbox page news" [ref=e1532]:
+                      - generic [ref=e1533] [cursor=pointer]:
+                        - link "A.O.T3 Xbox page news" [ref=e1534]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u81lly/aot3_xbox_page_news/
+                          - generic [ref=e1535]:
+                            - generic: A.O.T3 Xbox page news
+                        - generic [ref=e1536]:
+                          - generic [ref=e1537]:
+                            - 'link "Author: u/Alert_Vermicelli1236" [ref=e1542]':
+                              - /url: https://www.reddit.com/user/Alert_Vermicelli1236/
+                              - generic [ref=e1543]:
+                                - img "u/Alert_Vermicelli1236 avatar" [ref=e1546]
+                                - generic [ref=e1547]: u/Alert_Vermicelli1236
+                            - generic [ref=e1548]: •
+                            - time [ref=e1550]: 3 days ago
+                          - button "Open user actions" [ref=e1555]:
+                            - img [ref=e1558]
+                        - generic [ref=e1561]:
+                          - heading "A.O.T3 Xbox page news" [level=2] [ref=e1562]:
+                            - link "A.O.T3 Xbox page news" [ref=e1563]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u81lly/aot3_xbox_page_news/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1566]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1568]': Ending Spoilers - Discussion/Question
+                        - img "r/attackontitan - A.O.T3 Xbox page news" [ref=e1574]
+                        - generic "Actions available for this post" [ref=e1576]:
+                          - generic [ref=e1579]:
+                            - button "Upvote" [ref=e1580]:
+                              - img [ref=e1582]
+                              - generic [ref=e1584]:
+                                - generic: Upvote
+                            - generic [ref=e1586]: "11"
+                            - button "Downvote" [ref=e1587]:
+                              - img [ref=e1589]
+                              - generic [ref=e1591]:
+                                - generic: Downvote
+                          - link "4 Go to comments" [ref=e1592]:
+                            - /url: /r/attackontitan/comments/1u81lly/aot3_xbox_page_news/
+                            - generic [ref=e1593]:
+                              - img [ref=e1595]
+                              - generic [ref=e1598]: "4"
+                            - generic [ref=e1599]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1603]:
+                            - generic [ref=e1604]:
+                              - img [ref=e1606]
+                              - generic [ref=e1608]: Share
+                    - separator [ref=e1609]
+                    - article "Just finished AOT!!" [ref=e1610]:
+                      - generic [ref=e1611] [cursor=pointer]:
+                        - link "Just finished AOT!!" [ref=e1612]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/just_finished_aot/
+                          - generic [ref=e1613]:
+                            - generic: Just finished AOT!!
+                        - generic [ref=e1614]:
+                          - generic [ref=e1615]:
+                            - 'link "Author: u/Ordinary-Cheek-4716" [ref=e1620]':
+                              - /url: https://www.reddit.com/user/Ordinary-Cheek-4716/
+                              - generic [ref=e1621]:
+                                - img "u/Ordinary-Cheek-4716 avatar" [ref=e1624]
+                                - generic [ref=e1625]: u/Ordinary-Cheek-4716
+                            - generic [ref=e1626]: •
+                            - time [ref=e1628]: 3 days ago
+                          - button "Open user actions" [ref=e1633]:
+                            - img [ref=e1636]
+                        - generic [ref=e1639]:
+                          - heading "Just finished AOT!!" [level=2] [ref=e1640]:
+                            - link "Just finished AOT!!" [ref=e1641]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u7r91q/just_finished_aot/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1644]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1646]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e1647]:
+                            - generic:
+                              - link:
+                                - /url: /r/attackontitan/comments/1u7r91q/just_finished_aot/
+                                - generic:
+                                  - generic:
+                                    - paragraph: Where do I begin? I’ll keep this short this was the best anime I’ve ever watched plain and simple. I love demon slayer and I love hunter hunter but removing my bias AOT is just superior. The amount of twists it gives you, the amount of times you think you figured it out then boom something is revealed. The amount of deaths from close ones, it’s impossible for anyone to predict what the ending would be. The person eren evolves to, from someone that was an annoying brat to one who achieved his goal to ending the titans reign. I don’t know how to feel about the ending I just hated it for mikasa who was arguably my fav character. She suffered so much and that was her reward. I wish I can just type my thoughts and keep going but I’ll know I’ll forget more. Holy shit Erwin! He’d have no idea what the end would’ve been he never got to see the cellar. Reiner survived to the end I never expected. Zeke an interesting character I still don’t know what side he’s on lol, fucking hell the scene where Levi see all the dead scouts at the end🥲🥲😭. Eren, why! Why coudnt there be a world where u lived with mikasa and armin. I want to keep going but I just finished it now I haven’t processed so much. Hange Sasha😭. 10/10 take a bow AOT I doubted you at first
+                        - generic "Actions available for this post" [ref=e1649]:
+                          - generic [ref=e1652]:
+                            - button "Upvote" [ref=e1653]:
+                              - img [ref=e1655]
+                              - generic [ref=e1657]:
+                                - generic: Upvote
+                            - generic [ref=e1659]: "20"
+                            - button "Downvote" [ref=e1660]:
+                              - img [ref=e1662]
+                              - generic [ref=e1664]:
+                                - generic: Downvote
+                          - link "10 Go to comments" [ref=e1665]:
+                            - /url: /r/attackontitan/comments/1u7r91q/just_finished_aot/
+                            - generic [ref=e1666]:
+                              - img [ref=e1668]
+                              - generic [ref=e1671]: "10"
+                            - generic [ref=e1672]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1676]:
+                            - generic [ref=e1677]:
+                              - img [ref=e1679]
+                              - generic [ref=e1681]: Share
+                    - separator [ref=e1682]
+                    - article "Has anyone noticed this about anime with similar ending?" [ref=e1683]:
+                      - generic [ref=e1684] [cursor=pointer]:
+                        - link "Has anyone noticed this about anime with similar ending?" [ref=e1685]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u7ltp6/has_anyone_noticed_this_about_anime_with_similar/
+                          - generic [ref=e1686]:
+                            - generic: Has anyone noticed this about anime with similar ending?
+                        - generic [ref=e1687]:
+                          - generic [ref=e1688]:
+                            - 'link "Author: u/msnoodlecup" [ref=e1693]':
+                              - /url: https://www.reddit.com/user/msnoodlecup/
+                              - generic [ref=e1694]:
+                                - generic [ref=e1696]:
+                                  - img [ref=e1698]
+                                  - img [ref=e1702]
+                                  - img [ref=e1705]
+                                - generic [ref=e1707]: u/msnoodlecup
+                            - generic [ref=e1708]: •
+                            - time [ref=e1710]: 3 days ago
+                          - button "Open user actions" [ref=e1715]:
+                            - img [ref=e1718]
+                        - generic [ref=e1725]:
+                          - img [ref=e1727]
+                          - generic [ref=e1729]: SPOILER
+                        - generic [ref=e1731]:
+                          - heading "Has anyone noticed this about anime with similar ending?" [level=2] [ref=e1732]:
+                            - link "Has anyone noticed this about anime with similar ending?" [ref=e1733]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u7ltp6/has_anyone_noticed_this_about_anime_with_similar/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1736]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1738]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e1743]:
+                            - button "View spoiler" [ref=e1745]:
+                              - generic [ref=e1747]: View spoiler
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "Has anyone noticed this about anime with similar ending?":
+                                    - /url: /r/attackontitan/comments/1u7ltp6/has_anyone_noticed_this_about_anime_with_similar/
+                                    - generic:
+                                      - generic: Has anyone noticed this about anime with similar ending?
+                                  - generic:
+                                    - generic:
+                                      - paragraph: "(Spoiler for other anime as well) So all the peak anime I have seen have kind of similar ending to solve problems: take away the magical power. Is there a philosophy behind this? I mean anime is where we go to escape reality and enjoy a world where magic/cool things exist, but they always end up being too problematic and get taken away altogether as a problem solver. It’s like they forget human without magic is also problematic. Every time I started enjoying a show I started anticipating the end, like okay this is peak but I’m pretty sure they’re going to destroy this and return to regular human world as a blanket resolution. Is it just me?"
+                        - generic "Actions available for this post" [ref=e1750]:
+                          - generic [ref=e1753]:
+                            - button "Upvote" [ref=e1754]:
+                              - img [ref=e1756]
+                              - generic [ref=e1758]:
+                                - generic: Upvote
+                            - generic [ref=e1760]: "3"
+                            - button "Downvote" [ref=e1761]:
+                              - img [ref=e1763]
+                              - generic [ref=e1765]:
+                                - generic: Downvote
+                          - link "10 Go to comments" [ref=e1766]:
+                            - /url: /r/attackontitan/comments/1u7ltp6/has_anyone_noticed_this_about_anime_with_similar/
+                            - generic [ref=e1767]:
+                              - img [ref=e1769]
+                              - generic [ref=e1772]: "10"
+                            - generic [ref=e1773]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1777]:
+                            - generic [ref=e1778]:
+                              - img [ref=e1780]
+                              - generic [ref=e1782]: Share
+                    - separator [ref=e1783]
+                    - article "Explain the cabin scene" [ref=e1784]:
+                      - generic [ref=e1785] [cursor=pointer]:
+                        - link "Explain the cabin scene" [ref=e1786]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/explain_the_cabin_scene/
+                          - generic [ref=e1787]:
+                            - generic: Explain the cabin scene
+                        - generic [ref=e1788]:
+                          - generic [ref=e1789]:
+                            - 'link "Author: u/ArtEnvironmental4540" [ref=e1794]':
+                              - /url: https://www.reddit.com/user/ArtEnvironmental4540/
+                              - generic [ref=e1795]:
+                                - img "u/ArtEnvironmental4540 avatar" [ref=e1798]
+                                - generic [ref=e1799]: u/ArtEnvironmental4540
+                            - generic [ref=e1800]: •
+                            - time [ref=e1802]: 5 days ago
+                          - button "Open user actions" [ref=e1807]:
+                            - img [ref=e1810]
+                        - generic [ref=e1813]:
+                          - heading "Explain the cabin scene" [level=2] [ref=e1814]:
+                            - link "Explain the cabin scene" [ref=e1815]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u6gcgi/explain_the_cabin_scene/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1818]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1820]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e1821]:
+                            - generic:
+                              - link "Please someone explain the cabin scene like I’m twelve. Did they spend that time together only on their minds? Or was Eren actually physically able to bring her to an alternate world which they spent four years there but in their original timeline it only lasted a few seconds. Like he was able to speak to everyone on the boat because he could erase their memories but save Mikasa for right after she killed him?":
+                                - /url: /r/attackontitan/comments/1u6gcgi/explain_the_cabin_scene/
+                                - generic:
+                                  - generic:
+                                    - paragraph: Please someone explain the cabin scene like I’m twelve.
+                                    - paragraph: Did they spend that time together only on their minds? Or was Eren actually physically able to bring her to an alternate world which they spent four years there but in their original timeline it only lasted a few seconds.
+                                    - paragraph: Like he was able to speak to everyone on the boat because he could erase their memories but save Mikasa for right after she killed him?
+                        - generic "Actions available for this post" [ref=e1823]:
+                          - generic [ref=e1826]:
+                            - button "Upvote" [ref=e1827]:
+                              - img [ref=e1829]
+                              - generic [ref=e1831]:
+                                - generic: Upvote
+                            - generic [ref=e1833]: "23"
+                            - button "Downvote" [ref=e1834]:
+                              - img [ref=e1836]
+                              - generic [ref=e1838]:
+                                - generic: Downvote
+                          - link "24 Go to comments" [ref=e1839]:
+                            - /url: /r/attackontitan/comments/1u6gcgi/explain_the_cabin_scene/
+                            - generic [ref=e1840]:
+                              - img [ref=e1842]
+                              - generic [ref=e1845]: "24"
+                            - generic [ref=e1846]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1850]:
+                            - generic [ref=e1851]:
+                              - img [ref=e1853]
+                              - generic [ref=e1855]: Share
+                    - separator [ref=e1856]
+                    - article "Titan merge" [ref=e1857]:
+                      - generic [ref=e1858] [cursor=pointer]:
+                        - link "Titan merge" [ref=e1859]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6fvdc/titan_merge/
+                          - generic [ref=e1860]:
+                            - generic: Titan merge
+                        - generic [ref=e1861]:
+                          - generic [ref=e1862]:
+                            - 'link "Author: u/Firm-Register8496" [ref=e1867]':
+                              - /url: https://www.reddit.com/user/Firm-Register8496/
+                              - generic [ref=e1868]:
+                                - img "u/Firm-Register8496 avatar" [ref=e1871]
+                                - generic [ref=e1872]: u/Firm-Register8496
+                            - generic [ref=e1873]: •
+                            - time [ref=e1875]: 5 days ago
+                          - button "Open user actions" [ref=e1880]:
+                            - img [ref=e1883]
+                        - generic [ref=e1890]:
+                          - img [ref=e1892]
+                          - generic [ref=e1894]: SPOILER
+                        - generic [ref=e1896]:
+                          - heading "Titan merge" [level=2] [ref=e1897]:
+                            - link "Titan merge" [ref=e1898]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u6fvdc/titan_merge/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1901]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1903]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e1908]:
+                            - button "View spoiler" [ref=e1910]:
+                              - generic [ref=e1912]: View spoiler
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "Titan merge":
+                                    - /url: /r/attackontitan/comments/1u6fvdc/titan_merge/
+                                    - generic:
+                                      - generic: Titan merge
+                                  - generic:
+                                    - generic:
+                                      - paragraph: When a person eats multiple titans in like eren who ate attack founder and hammer then can’t we have one very loyal soldier to eat all the Titans and make a super soldier because imagine a colossal with armor that makes an explosion that’s a founder thats also super fast and basically unstoppable
+                        - generic "Actions available for this post" [ref=e1915]:
+                          - generic [ref=e1918]:
+                            - button "Upvote" [ref=e1919]:
+                              - img [ref=e1921]
+                              - generic [ref=e1923]:
+                                - generic: Upvote
+                            - generic [ref=e1925]: "2"
+                            - button "Downvote" [ref=e1926]:
+                              - img [ref=e1928]
+                              - generic [ref=e1930]:
+                                - generic: Downvote
+                          - link "6 Go to comments" [ref=e1931]:
+                            - /url: /r/attackontitan/comments/1u6fvdc/titan_merge/
+                            - generic [ref=e1932]:
+                              - img [ref=e1934]
+                              - generic [ref=e1937]: "6"
+                            - generic [ref=e1938]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e1942]:
+                            - generic [ref=e1943]:
+                              - img [ref=e1945]
+                              - generic [ref=e1947]: Share
+                    - separator [ref=e1948]
+                    - article "Finally done with the series people, my thoughts" [ref=e1949]:
+                      - generic [ref=e1950] [cursor=pointer]:
+                        - link "Finally done with the series people, my thoughts" [ref=e1951]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/finally_done_with_the_series_people_my_thoughts/
+                          - generic [ref=e1952]:
+                            - generic: Finally done with the series people, my thoughts
+                        - generic [ref=e1953]:
+                          - generic [ref=e1954]:
+                            - 'link "Author: u/CalmAd6341" [ref=e1959]':
+                              - /url: https://www.reddit.com/user/CalmAd6341/
+                              - generic [ref=e1960]:
+                                - img "u/CalmAd6341 avatar" [ref=e1963]
+                                - generic [ref=e1964]: u/CalmAd6341
+                            - generic [ref=e1965]: •
+                            - time [ref=e1967]: 5 days ago
+                          - button "Open user actions" [ref=e1972]:
+                            - img [ref=e1975]
+                        - generic [ref=e1978]:
+                          - heading "Finally done with the series people, my thoughts" [level=2] [ref=e1979]:
+                            - link "Finally done with the series people, my thoughts" [ref=e1980]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/finally_done_with_the_series_people_my_thoughts/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e1983]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e1985]': Ending Spoilers - Discussion/Question
+                        - img "r/attackontitan - Finally done with the series people, my thoughts" [ref=e1991]
+                        - generic "Actions available for this post" [ref=e1993]:
+                          - generic [ref=e1996]:
+                            - button "Upvote" [ref=e1997]:
+                              - img [ref=e1999]
+                              - generic [ref=e2001]:
+                                - generic: Upvote
+                            - generic [ref=e2003]: "13"
+                            - button "Downvote" [ref=e2004]:
+                              - img [ref=e2006]
+                              - generic [ref=e2008]:
+                                - generic: Downvote
+                          - link "12 Go to comments" [ref=e2009]:
+                            - /url: /r/attackontitan/comments/1u6bmy8/finally_done_with_the_series_people_my_thoughts/
+                            - generic [ref=e2010]:
+                              - img [ref=e2012]
+                              - generic [ref=e2015]: "12"
+                            - generic [ref=e2016]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e2020]:
+                            - generic [ref=e2021]:
+                              - img [ref=e2023]
+                              - generic [ref=e2025]: Share
+                    - separator [ref=e2026]
+                    - article "Wall Titan Question" [ref=e2027]:
+                      - generic [ref=e2028] [cursor=pointer]:
+                        - link "Wall Titan Question" [ref=e2029]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u64eox/wall_titan_question/
+                          - generic [ref=e2030]:
+                            - generic: Wall Titan Question
+                        - generic [ref=e2031]:
+                          - generic [ref=e2032]:
+                            - 'link "Author: u/PB_Shade" [ref=e2037]':
+                              - /url: https://www.reddit.com/user/PB_Shade/
+                              - generic [ref=e2038]:
+                                - img "u/PB_Shade avatar" [ref=e2041]
+                                - generic [ref=e2042]: u/PB_Shade
+                            - generic [ref=e2043]: •
+                            - time [ref=e2045]: 5 days ago
+                          - button "Open user actions" [ref=e2050]:
+                            - img [ref=e2053]
+                        - generic [ref=e2056]:
+                          - heading "Wall Titan Question" [level=2] [ref=e2057]:
+                            - link "Wall Titan Question" [ref=e2058]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u64eox/wall_titan_question/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e2061]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e2063]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e2064]:
+                            - generic:
+                              - link "Was Hange the only character to kill a wall titan? Besides the ending of the rumbling, so Mikasa and Levi killing Eren and Zeke respectively don't count. I only watched the anime, but from what I remember no one accomplished such a feat.":
+                                - /url: /r/attackontitan/comments/1u64eox/wall_titan_question/
+                                - generic:
+                                  - generic:
+                                    - paragraph: Was Hange the only character to kill a wall titan? Besides the ending of the rumbling, so Mikasa and Levi killing Eren and Zeke respectively don't count. I only watched the anime, but from what I remember no one accomplished such a feat.
+                        - generic "Actions available for this post" [ref=e2066]:
+                          - generic [ref=e2069]:
+                            - button "Upvote" [ref=e2070]:
+                              - img [ref=e2072]
+                              - generic [ref=e2074]:
+                                - generic: Upvote
+                            - generic [ref=e2076]: "8"
+                            - button "Downvote" [ref=e2077]:
+                              - img [ref=e2079]
+                              - generic [ref=e2081]:
+                                - generic: Downvote
+                          - link "7 Go to comments" [ref=e2082]:
+                            - /url: /r/attackontitan/comments/1u64eox/wall_titan_question/
+                            - generic [ref=e2083]:
+                              - img [ref=e2085]
+                              - generic [ref=e2088]: "7"
+                            - generic [ref=e2089]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e2093]:
+                            - generic [ref=e2094]:
+                              - img [ref=e2096]
+                              - generic [ref=e2098]: Share
+                    - separator [ref=e2099]
+                    - article "Armin vs. Erwin discourse has undone years of my therapy" [ref=e2100]:
+                      - generic [ref=e2101] [cursor=pointer]:
+                        - link "Armin vs. Erwin discourse has undone years of my therapy" [ref=e2102]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/armin_vs_erwin_discourse_has_undone_years_of_my/
+                          - generic [ref=e2103]:
+                            - generic: Armin vs. Erwin discourse has undone years of my therapy
+                        - generic [ref=e2104]:
+                          - generic [ref=e2105]:
+                            - 'link "Author: u/tinselpandora" [ref=e2110]':
+                              - /url: https://www.reddit.com/user/tinselpandora/
+                              - generic [ref=e2111]:
+                                - generic [ref=e2113]:
+                                  - img [ref=e2115]
+                                  - img [ref=e2119]
+                                  - img [ref=e2122]
+                                - generic [ref=e2124]: u/tinselpandora
+                            - generic [ref=e2125]: •
+                            - time [ref=e2127]: 5 days ago
+                          - button "Open user actions" [ref=e2132]:
+                            - img [ref=e2135]
+                        - generic [ref=e2138]:
+                          - heading "Armin vs. Erwin discourse has undone years of my therapy" [level=2] [ref=e2139]:
+                            - link "Armin vs. Erwin discourse has undone years of my therapy" [ref=e2140]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u5t5x6/armin_vs_erwin_discourse_has_undone_years_of_my/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e2143]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e2145]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e2146]:
+                            - generic:
+                              - link:
+                                - /url: /r/attackontitan/comments/1u5t5x6/armin_vs_erwin_discourse_has_undone_years_of_my/
+                                - generic:
+                                  - generic:
+                                    - paragraph: I had this debate with my friends and completely blanked, so now you get to read my imaginary “shower argument” scenario because apparently my brain refuses to let me sleep until I win debates that ended two days ago…
+                                    - paragraph: Can we stop acting like choosing Armin over Erwin was some objective catastrophe for FIVE SECONDS?
+                                    - paragraph: “BUT ERWIN WAS THE DEVIL HUMANITY NEEEEEEEEEEDEDDDDDD!”
+                                    - paragraph: Yeah, and the guy was EXHAUSTEDD on a cellular level. Did we watch the same show??!?? Erwin had spent YEARS sending teenagers into meat grinders while carrying enough survivor’s guilt to collapse a large nation. His final charge wasn’t some LinkedIn motivational speech about how he couldn’t wait to keep leading. It was basically, “Please let this nightmare end already.”
+                                    - paragraph: Meanwhile Armin is over there being the only person in the cast asking, “Hey, maybe we should use our brains before committing mass homicide?” Mans figured out Annie. He outplayed Bertholdt. He CONSTANTLY came up with strategies despite having the self-esteem of a wet napkin.
+                                    - paragraph: “But Erwin would’ve solved everything!!!!!!!”😩😩😩
+                                    - paragraph: OH, WOULD HE??!?
+                                    - paragraph: The man couldn’t even get to the basement without having an existential crisis every other episode. His entire character arc was about chasing the truth that obsessed him since childhood. Once he finally accepted sacrificing that dream, that was his conclusion. That’s tragedy. That’s storytelling.
+                                    - paragraph: AND ANOTHER THING, are we really pretending Erwin would’ve been totally normal after waking up and finding out a sixteen-year-old got roasted alive so HE could keep going?!?!?THIS MAN KEPT AN EMOTIONAL EXCEL SPREADSHEET OF EVERY SOLDIER WHO DIED UNDER HIS COMMAND. You think hearing, “Good news, Commander! We let the kid die instead lol!” would’ve had him standing up like, “Excellent. Back to business boys😎”?!? Can we be so fr right now.
+                                    - paragraph: Also, everyone suddenly becomes a military efficiency expert with hindsight. “I would’ve picked Erwin.” Sure you would’ve. Easy decision when you’re sitting on your couch eating chips with all four seasons worth of information instead of having thirty seconds while your friends are literally burning to death around you.
+                                    - paragraph: Levi didn’t choose the “stronger weapon.” He chose to let one broken man rest and give another kid full of hope a chance to see the world he kept talking about.
+                                    - paragraph: And the funniest part? The same people screaming that Armin was useless immediately shut up whenever he actually pulls off another impossible plan.
+                                    - paragraph: Now, let’s talk about Eren for a sec here.
+                                    - paragraph: Could you IMAGINEEE how much worse Eren would have become if his best friend died??? Man probably wouldn’t have stopped until he killed 99% of the world.
+                                    - paragraph: You don’t have to prefer Armin as a character, hell you don’t even have to like the guy. Erwin is incredible no doubt about it and the picture of peak testosterone. But acting like the choice was objectively stupid completely misses the point.
+                        - generic "Actions available for this post" [ref=e2148]:
+                          - generic [ref=e2151]:
+                            - button "Upvote" [ref=e2152]:
+                              - img [ref=e2154]
+                              - generic [ref=e2156]:
+                                - generic: Upvote
+                            - generic [ref=e2158]: "126"
+                            - button "Downvote" [ref=e2159]:
+                              - img [ref=e2161]
+                              - generic [ref=e2163]:
+                                - generic: Downvote
+                          - link "22 Go to comments" [ref=e2164]:
+                            - /url: /r/attackontitan/comments/1u5t5x6/armin_vs_erwin_discourse_has_undone_years_of_my/
+                            - generic [ref=e2165]:
+                              - img [ref=e2167]
+                              - generic [ref=e2170]: "22"
+                            - generic [ref=e2171]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e2175]:
+                            - generic [ref=e2176]:
+                              - img [ref=e2178]
+                              - generic [ref=e2180]: Share
+                    - separator [ref=e2181]
+                    - article "What If Armin Had the Founding Titan's Powers?" [ref=e2182]:
+                      - generic [ref=e2183] [cursor=pointer]:
+                        - link "What If Armin Had the Founding Titan's Powers?" [ref=e2184]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/what_if_armin_had_the_founding_titans_powers/
+                          - generic [ref=e2185]:
+                            - generic: What If Armin Had the Founding Titan's Powers?
+                        - generic [ref=e2186]:
+                          - generic [ref=e2187]:
+                            - 'link "Author: u/cosmic-jai" [ref=e2192]':
+                              - /url: https://www.reddit.com/user/cosmic-jai/
+                              - generic [ref=e2193]:
+                                - img [ref=e2198]
+                                - generic [ref=e2200]: u/cosmic-jai
+                            - generic [ref=e2201]: •
+                            - time [ref=e2203]: 5 days ago
+                          - button "Open user actions" [ref=e2208]:
+                            - img [ref=e2211]
+                        - generic [ref=e2218]:
+                          - img [ref=e2220]
+                          - generic [ref=e2222]: SPOILER
+                        - generic [ref=e2224]:
+                          - heading "What If Armin Had the Founding Titan's Powers?" [level=2] [ref=e2225]:
+                            - link "What If Armin Had the Founding Titan's Powers?" [ref=e2226]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u5r3zg/what_if_armin_had_the_founding_titans_powers/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e2229]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e2231]': Ending Spoilers - Discussion/Question
+                        - generic [ref=e2236]:
+                          - button "View spoiler" [ref=e2238]:
+                            - generic [ref=e2240]: View spoiler
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img "r/attackontitan - What If Armin Had the Founding Titan's Powers?"
+                        - generic "Actions available for this post" [ref=e2243]:
+                          - generic [ref=e2246]:
+                            - button "Upvote" [ref=e2247]:
+                              - img [ref=e2249]
+                              - generic [ref=e2251]:
+                                - generic: Upvote
+                            - generic [ref=e2253]: "60"
+                            - button "Downvote" [ref=e2254]:
+                              - img [ref=e2256]
+                              - generic [ref=e2258]:
+                                - generic: Downvote
+                          - link "31 Go to comments" [ref=e2259]:
+                            - /url: /r/attackontitan/comments/1u5r3zg/what_if_armin_had_the_founding_titans_powers/
+                            - generic [ref=e2260]:
+                              - img [ref=e2262]
+                              - generic [ref=e2265]: "31"
+                            - generic [ref=e2266]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e2270]:
+                            - generic [ref=e2271]:
+                              - img [ref=e2273]
+                              - generic [ref=e2275]: Share
+                    - separator [ref=e2276]
+                    - article "REALLY?!?! CUS HE'S AN IDIOT?!?!" [ref=e2277]:
+                      - generic [ref=e2278] [cursor=pointer]:
+                        - link "REALLY?!?! CUS HE'S AN IDIOT?!?!" [ref=e2279]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/really_cus_hes_an_idiot/
+                          - generic [ref=e2280]:
+                            - generic: REALLY?!?! CUS HE'S AN IDIOT?!?!
+                        - generic [ref=e2281]:
+                          - generic [ref=e2282]:
+                            - 'link "Author: u/Manfromatavern" [ref=e2287]':
+                              - /url: https://www.reddit.com/user/Manfromatavern/
+                              - generic [ref=e2288]:
+                                - img [ref=e2293]
+                                - generic [ref=e2295]: u/Manfromatavern
+                            - generic [ref=e2296]: •
+                            - time [ref=e2298]: 5 days ago
+                          - button "Open user actions" [ref=e2303]:
+                            - img [ref=e2306]
+                        - generic [ref=e2313]:
+                          - img [ref=e2315]
+                          - generic [ref=e2317]: SPOILER
+                        - generic [ref=e2319]:
+                          - heading "REALLY?!?! CUS HE'S AN IDIOT?!?!" [level=2] [ref=e2320]:
+                            - link "REALLY?!?! CUS HE'S AN IDIOT?!?!" [ref=e2321]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/really_cus_hes_an_idiot/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e2324]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e2326]': Ending Spoilers - Discussion/Question
+                        - generic [ref=e2331]:
+                          - button "View spoiler" [ref=e2333]:
+                            - generic [ref=e2335]: View spoiler
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img "r/attackontitan - REALLY?!?! CUS HE'S AN IDIOT?!?!"
+                        - generic "Actions available for this post" [ref=e2338]:
+                          - generic [ref=e2341]:
+                            - button "Upvote" [ref=e2342]:
+                              - img [ref=e2344]
+                              - generic [ref=e2346]:
+                                - generic: Upvote
+                            - generic [ref=e2348]: "471"
+                            - button "Downvote" [ref=e2349]:
+                              - img [ref=e2351]
+                              - generic [ref=e2353]:
+                                - generic: Downvote
+                          - link "292 Go to comments" [ref=e2354]:
+                            - /url: /r/attackontitan/comments/1u5p8x7/really_cus_hes_an_idiot/
+                            - generic [ref=e2355]:
+                              - img [ref=e2357]
+                              - generic [ref=e2360]: "292"
+                            - generic [ref=e2361]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e2365]:
+                            - generic [ref=e2366]:
+                              - img [ref=e2368]
+                              - generic [ref=e2370]: Share
+                    - separator [ref=e2371]
+                    - article "Just got done with that ending. Oh my god." [ref=e2372]:
+                      - generic [ref=e2373] [cursor=pointer]:
+                        - link "Just got done with that ending. Oh my god." [ref=e2374]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u58fi2/just_got_done_with_that_ending_oh_my_god/
+                          - generic [ref=e2375]:
+                            - generic: Just got done with that ending. Oh my god.
+                        - generic [ref=e2376]:
+                          - generic [ref=e2377]:
+                            - 'link "Author: u/Efficient_Ad_6913" [ref=e2382]':
+                              - /url: https://www.reddit.com/user/Efficient_Ad_6913/
+                              - generic [ref=e2383]:
+                                - img [ref=e2388]
+                                - generic [ref=e2390]: u/Efficient_Ad_6913
+                            - generic [ref=e2391]: •
+                            - time [ref=e2393]: 6 days ago
+                          - button "Open user actions" [ref=e2398]:
+                            - img [ref=e2401]
+                        - generic [ref=e2408]:
+                          - img [ref=e2410]
+                          - generic [ref=e2412]: SPOILER
+                        - generic [ref=e2414]:
+                          - heading "Just got done with that ending. Oh my god." [level=2] [ref=e2415]:
+                            - link "Just got done with that ending. Oh my god." [ref=e2416]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u58fi2/just_got_done_with_that_ending_oh_my_god/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e2419]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e2421]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e2426]:
+                            - button "View spoiler" [ref=e2428]:
+                              - generic [ref=e2430]: View spoiler
+                            - generic:
+                              - generic:
+                                - generic:
+                                  - link "Just got done with that ending. Oh my god.":
+                                    - /url: /r/attackontitan/comments/1u58fi2/just_got_done_with_that_ending_oh_my_god/
+                                    - generic:
+                                      - generic: Just got done with that ending. Oh my god.
+                                  - generic:
+                                    - generic:
+                                      - paragraph: I was an avid anime hater for so long before I recently started to pick up this little show called attack on titan. I was hooked - and saw the show as having a little suspense but focused on a young man getting revenge for his mother and all the lives lost, however that final season, and ending was not what I was expecting at all which is rare for me. I feel so emotional despite it just being drawings, you know? From Erens last words to Mikasa being what they were, to Eren not getting the ending of happiness and living out his 4 years which is what I thought would happen, but rather going down in history as a mass murdering psychopath. It hit so hard up until the final moments, I thought “there must be a way they bring him back and they’re all happy and sunshine’s and rainbows and whatever” but genuinely, this was one of, if not the best piece of fiction I have every experienced. Words cannot express what I’m genuinely feeling over this show.
+                        - generic "Actions available for this post" [ref=e2433]:
+                          - generic [ref=e2436]:
+                            - button "Upvote" [ref=e2437]:
+                              - img [ref=e2439]
+                              - generic [ref=e2441]:
+                                - generic: Upvote
+                            - generic [ref=e2443]: "60"
+                            - button "Downvote" [ref=e2444]:
+                              - img [ref=e2446]
+                              - generic [ref=e2448]:
+                                - generic: Downvote
+                          - link "19 Go to comments" [ref=e2449]:
+                            - /url: /r/attackontitan/comments/1u58fi2/just_got_done_with_that_ending_oh_my_god/
+                            - generic [ref=e2450]:
+                              - img [ref=e2452]
+                              - generic [ref=e2455]: "19"
+                            - generic [ref=e2456]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e2460]:
+                            - generic [ref=e2461]:
+                              - img [ref=e2463]
+                              - generic [ref=e2465]: Share
+                    - separator [ref=e2466]
+                    - 'article "For the skeptics of the AOT Pig Theory: Look at the bigger thematic picture." [ref=e2467]':
+                      - generic [ref=e2468] [cursor=pointer]:
+                        - 'link "For the skeptics of the AOT Pig Theory: Look at the bigger thematic picture." [ref=e2469]':
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u57y4k/for_the_skeptics_of_the_aot_pig_theory_look_at/
+                          - generic [ref=e2470]:
+                            - generic: "For the skeptics of the AOT Pig Theory: Look at the bigger thematic picture."
+                        - generic [ref=e2471]:
+                          - generic [ref=e2472]:
+                            - 'link "Author: u/Mr-Chaos666" [ref=e2477]':
+                              - /url: https://www.reddit.com/user/Mr-Chaos666/
+                              - generic [ref=e2478]:
+                                - img [ref=e2483]
+                                - generic [ref=e2485]: u/Mr-Chaos666
+                            - generic [ref=e2486]: •
+                            - time [ref=e2488]: 6 days ago
+                          - button "Open user actions" [ref=e2493]:
+                            - img [ref=e2496]
+                        - generic [ref=e2499]:
+                          - 'heading "For the skeptics of the AOT Pig Theory: Look at the bigger thematic picture." [level=2] [ref=e2500]':
+                            - 'link "For the skeptics of the AOT Pig Theory: Look at the bigger thematic picture." [ref=e2501]':
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u57y4k/for_the_skeptics_of_the_aot_pig_theory_look_at/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e2504]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e2506]': Ending Spoilers - Discussion/Question
+                          - generic [ref=e2507]:
+                            - generic:
+                              - link:
+                                - /url: /r/attackontitan/comments/1u57y4k/for_the_skeptics_of_the_aot_pig_theory_look_at/
+                                - generic:
+                                  - generic:
+                                    - paragraph: For the people who didn’t believe my last theory about the three pigs representing Grisha, Zeke, and Eren—or thought it was just a stretch—I need you to hear me out. Attack on Titan doesn't do accidents.
+                                    - paragraph: "When you look at the parallel imagery Hajime Isayama uses, the connection between Ymir freeing the pigs and the entire plot of the show becomes undeniable. Look at these details:"
+                                    - list:
+                                      - listitem:
+                                        - paragraph: The Titan vs. The Fence (The Literal Cattle Parallels)
+                                    - paragraph: Think back to the very first episode. How does Eren describe humanity living inside the Walls? He says they are living like "cattle in a pen." Now, look at Chapter 135. Ymir stands over the fence, looking down into the pig pen before she lets them go. It is eerily similar to the iconic shot of the Colossal Titan looking over Wall Maria in Episode 1.
+                                    - paragraph: Ymir looks over a pen holding literal pigs (cattle).
+                                    - paragraph: The Colossal Titan looks over a wall holding humans (who Eren calls cattle).
+                                    - paragraph: 2. The Kick That Starts the Journey to Freedom
+                                    - paragraph: It goes deeper than just looking over a wall.
+                                    - paragraph: Ymir opens the pen, releasing the one pig that actually desires freedom (Eren).
+                                    - paragraph: In the exact same way, the Colossal Titan kicks down the wall, destroying the "pen" holding humanity.
+                                    - paragraph: By kicking down that wall, the Colossal Titan unwittingly triggers the exact event that forces Eren to run for his life, fight, and ultimately begin his 2,000-year journey toward absolute freedom. Ymir freed the pig; the Titan freed the boy.
+                                    - paragraph: 3. The Ear and Body Details Don't Lie
+                                    - paragraph: "To reiterate the visual evidence from my last post: there are exactly three pigs circled in the manga panels."
+                                    - paragraph: Two stayed behind (Grisha and Zeke, whose Titans are noticeably heavier/chubby and who ultimately accepted or sought submission/compromise).
+                                    - paragraph: One escaped and ran (Eren, whose Titan is lean, muscular, and uniquely has the same pointed, wild ears as the escaping pig).
+                                    - paragraph: Conclusion
+                                    - paragraph: Ymir freeing the pigs wasn't just a random plot device to get her punished—it was the thematic blueprint for the entire series. Eren is the only "pig" that ran, and 2,000 years later, he is the one returning the favor to free her.
+                                    - paragraph: Change my mind.
+                                    - paragraph
+                                    - paragraph: And for those who are still skeptical after all think about it.
+                                    - paragraph
+                                    - paragraph: If you change the way you look at things, the things you look at change
+                                    - paragraph: "- Wayne Dyer"
+                                    - paragraph
+                        - generic "Actions available for this post" [ref=e2509]:
+                          - generic [ref=e2512]:
+                            - button "Upvote" [ref=e2513]:
+                              - img [ref=e2515]
+                              - generic [ref=e2517]:
+                                - generic: Upvote
+                            - generic [ref=e2519]: "0"
+                            - button "Downvote" [ref=e2520]:
+                              - img [ref=e2522]
+                              - generic [ref=e2524]:
+                                - generic: Downvote
+                          - link "9 Go to comments" [ref=e2525]:
+                            - /url: /r/attackontitan/comments/1u57y4k/for_the_skeptics_of_the_aot_pig_theory_look_at/
+                            - generic [ref=e2526]:
+                              - img [ref=e2528]
+                              - generic [ref=e2531]: "9"
+                            - generic [ref=e2532]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e2536]:
+                            - generic [ref=e2537]:
+                              - img [ref=e2539]
+                              - generic [ref=e2541]: Share
+                    - separator [ref=e2542]
+                    - article "Chapter 1 dicussion SPOILERS" [ref=e2543]:
+                      - generic [ref=e2544] [cursor=pointer]:
+                        - link "Chapter 1 dicussion SPOILERS" [ref=e2545]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u4x49b/chapter_1_dicussion_spoilers/
+                          - generic [ref=e2546]:
+                            - generic: Chapter 1 dicussion SPOILERS
+                        - generic [ref=e2547]:
+                          - generic [ref=e2548]:
+                            - 'link "Author: u/uns3riously" [ref=e2553]':
+                              - /url: https://www.reddit.com/user/uns3riously/
+                              - generic [ref=e2554]:
+                                - img "u/uns3riously avatar" [ref=e2557]
+                                - generic [ref=e2558]: u/uns3riously
+                            - generic [ref=e2559]: •
+                            - time [ref=e2561]: 6 days ago
+                          - button "Open user actions" [ref=e2566]:
+                            - img [ref=e2569]
+                        - generic [ref=e2576]:
+                          - img [ref=e2578]
+                          - generic [ref=e2580]: SPOILER
+                        - generic [ref=e2582]:
+                          - heading "Chapter 1 dicussion SPOILERS" [level=2] [ref=e2583]:
+                            - link "Chapter 1 dicussion SPOILERS" [ref=e2584]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u4x49b/chapter_1_dicussion_spoilers/
+                          - 'link "Flair: Ending Spoilers - Discussion/Question" [ref=e2587]':
+                            - /url: /r/attackontitan/?f=flair_name%3A%22Ending%20Spoilers%20-%20Discussion%2FQuestion%22
+                            - 'generic "Flair: Ending Spoilers - Discussion/Question" [ref=e2589]': Ending Spoilers - Discussion/Question
+                        - generic [ref=e2594]:
+                          - button "View spoiler" [ref=e2596]:
+                            - generic [ref=e2598]: View spoiler
+                          - generic:
+                            - generic:
+                              - generic:
+                                - img "r/attackontitan - Chapter 1 dicussion SPOILERS"
+                        - generic "Actions available for this post" [ref=e2601]:
+                          - generic [ref=e2604]:
+                            - button "Upvote" [ref=e2605]:
+                              - img [ref=e2607]
+                              - generic [ref=e2609]:
+                                - generic: Upvote
+                            - generic [ref=e2611]: "8"
+                            - button "Downvote" [ref=e2612]:
+                              - img [ref=e2614]
+                              - generic [ref=e2616]:
+                                - generic: Downvote
+                          - link "4 Go to comments" [ref=e2617]:
+                            - /url: /r/attackontitan/comments/1u4x49b/chapter_1_dicussion_spoilers/
+                            - generic [ref=e2618]:
+                              - img [ref=e2620]
+                              - generic [ref=e2623]: "4"
+                            - generic [ref=e2624]:
+                              - generic: Go to comments
+                          - button "Share" [ref=e2628]:
+                            - generic [ref=e2629]:
+                              - img [ref=e2631]
+                              - generic [ref=e2633]: Share
+                    - separator [ref=e2634]
+              - img [ref=e2640]

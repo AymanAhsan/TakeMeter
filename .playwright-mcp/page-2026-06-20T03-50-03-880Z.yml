@@ -1,0 +1,1526 @@
+- generic [active] [ref=e1]:
+  - banner [ref=e2]:
+    - link "jump to content" [ref=e3] [cursor=pointer]:
+      - /url: "#content"
+    - generic [ref=e5]:
+      - button "GET NEW REDDIT" [ref=e6] [cursor=pointer]
+      - generic [ref=e8] [cursor=pointer]: my subreddits ▼
+      - generic [ref=e9]:
+        - list [ref=e10]:
+          - listitem [ref=e11]:
+            - link "home" [ref=e12] [cursor=pointer]:
+              - /url: https://old.reddit.com/
+          - listitem [ref=e13]:
+            - text: "-"
+            - link "popular" [ref=e14] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/popular/
+          - listitem [ref=e15]:
+            - text: "-"
+            - link "all" [ref=e16] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/all/
+          - listitem [ref=e17]:
+            - text: "-"
+            - link "users" [ref=e18] [cursor=pointer]:
+              - /url: https://old.reddit.com/users/
+        - text: "|"
+        - list [ref=e19]:
+          - listitem [ref=e20]:
+            - link "islam" [ref=e21] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/islam/
+          - listitem [ref=e22]:
+            - text: "-"
+            - link "announcements" [ref=e23] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/announcements/
+          - listitem [ref=e24]:
+            - text: "-"
+            - link "SideProject" [ref=e25] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/SideProject/
+          - listitem [ref=e26]:
+            - text: "-"
+            - link "Startup_Ideas" [ref=e27] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/Startup_Ideas/
+        - text: "|"
+        - list [ref=e28]:
+          - listitem [ref=e29]:
+            - link "AskReddit" [ref=e30] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/AskReddit/
+          - listitem [ref=e31]:
+            - text: "-"
+            - link "pics" [ref=e32] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/pics/
+          - listitem [ref=e33]:
+            - text: "-"
+            - link "funny" [ref=e34] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/funny/
+          - listitem [ref=e35]:
+            - text: "-"
+            - link "movies" [ref=e36] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/movies/
+          - listitem [ref=e37]:
+            - text: "-"
+            - link "gaming" [ref=e38] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/gaming/
+          - listitem [ref=e39]:
+            - text: "-"
+            - link "worldnews" [ref=e40] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/worldnews/
+          - listitem [ref=e41]:
+            - text: "-"
+            - link "news" [ref=e42] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/news/
+          - listitem [ref=e43]:
+            - text: "-"
+            - link "todayilearned" [ref=e44] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/todayilearned/
+          - listitem [ref=e45]:
+            - text: "-"
+            - link "nottheonion" [ref=e46] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/nottheonion/
+          - listitem [ref=e47]:
+            - text: "-"
+            - link "explainlikeimfive" [ref=e48] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/explainlikeimfive/
+          - listitem [ref=e49]:
+            - text: "-"
+            - link "mildlyinteresting" [ref=e50] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/mildlyinteresting/
+          - listitem [ref=e51]:
+            - text: "-"
+            - link "DIY" [ref=e52] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/DIY/
+          - listitem [ref=e53]:
+            - text: "-"
+            - link "videos" [ref=e54] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/videos/
+          - listitem [ref=e55]:
+            - text: "-"
+            - link "OldSchoolCool" [ref=e56] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/OldSchoolCool/
+          - listitem [ref=e57]:
+            - text: "-"
+            - link "TwoXChromosomes" [ref=e58] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/TwoXChromosomes/
+          - listitem [ref=e59]:
+            - text: "-"
+            - link "tifu" [ref=e60] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/tifu/
+          - listitem [ref=e61]:
+            - text: "-"
+            - link "Music" [ref=e62] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/Music/
+          - listitem [ref=e63]:
+            - text: "-"
+            - link "books" [ref=e64] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/books/
+          - listitem [ref=e65]:
+            - text: "-"
+            - link "LifeProTips" [ref=e66] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/LifeProTips/
+          - listitem [ref=e67]:
+            - text: "-"
+            - link "dataisbeautiful" [ref=e68] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/dataisbeautiful/
+          - listitem [ref=e69]:
+            - text: "-"
+            - link "aww" [ref=e70] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/aww/
+          - listitem [ref=e71]:
+            - text: "-"
+            - link "science" [ref=e72] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/science/
+          - listitem [ref=e73]:
+            - text: "-"
+            - link "space" [ref=e74] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/space/
+          - listitem [ref=e75]:
+            - text: "-"
+            - link "Showerthoughts" [ref=e76] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/Showerthoughts/
+          - listitem [ref=e77]:
+            - text: "-"
+            - link "askscience" [ref=e78] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/askscience/
+          - listitem [ref=e79]:
+            - text: "-"
+            - link "Jokes" [ref=e80] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/Jokes/
+          - listitem [ref=e81]:
+            - text: "-"
+            - link "Art" [ref=e82] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/Art/
+          - listitem [ref=e83]:
+            - text: "-"
+            - link "IAmA" [ref=e84] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/IAmA/
+          - listitem [ref=e85]:
+            - text: "-"
+            - link "Futurology" [ref=e86] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/Futurology/
+          - listitem [ref=e87]:
+            - text: "-"
+            - link "sports" [ref=e88] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/sports/
+          - listitem [ref=e89]:
+            - text: "-"
+            - link "UpliftingNews" [ref=e90] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/UpliftingNews/
+          - listitem [ref=e91]:
+            - text: "-"
+            - link "food" [ref=e92] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/food/
+          - listitem [ref=e93]:
+            - text: "-"
+            - link "nosleep" [ref=e94] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/nosleep/
+          - listitem [ref=e95]:
+            - text: "-"
+            - link "creepy" [ref=e96] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/creepy/
+          - listitem [ref=e97]:
+            - text: "-"
+            - link "history" [ref=e98] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/history/
+          - listitem [ref=e99]:
+            - text: "-"
+            - link "gifs" [ref=e100] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/gifs/
+          - listitem [ref=e101]:
+            - text: "-"
+            - link "InternetIsBeautiful" [ref=e102] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/InternetIsBeautiful/
+          - listitem [ref=e103]:
+            - text: "-"
+            - link "GetMotivated" [ref=e104] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/GetMotivated/
+          - listitem [ref=e105]:
+            - text: "-"
+            - link "gadgets" [ref=e106] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/gadgets/
+          - listitem [ref=e107]:
+            - text: "-"
+            - link "WritingPrompts" [ref=e108] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/WritingPrompts/
+          - listitem [ref=e109]:
+            - text: "-"
+            - link "philosophy" [ref=e110] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/philosophy/
+          - listitem [ref=e111]:
+            - text: "-"
+            - link "Documentaries" [ref=e112] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/Documentaries/
+          - listitem [ref=e113]:
+            - text: "-"
+            - link "EarthPorn" [ref=e114] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/EarthPorn/
+          - listitem [ref=e115]:
+            - text: "-"
+            - link "photoshopbattles" [ref=e116] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/photoshopbattles/
+          - listitem [ref=e117]:
+            - text: "-"
+            - link "listentothis" [ref=e118] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/listentothis/
+          - listitem [ref=e119]:
+            - text: "-"
+            - link "blog" [ref=e120] [cursor=pointer]:
+              - /url: https://old.reddit.com/r/blog/
+      - link "edit »" [ref=e121] [cursor=pointer]:
+        - /url: https://old.reddit.com/subreddits/
+    - generic [ref=e122]:
+      - link "attackontitan" [ref=e123] [cursor=pointer]:
+        - /url: https://old.reddit.com/
+        - img "attackontitan" [ref=e124]
+      - link "attackontitan" [ref=e125] [cursor=pointer]:
+        - /url: https://old.reddit.com/r/attackontitan/
+      - list [ref=e126]:
+        - listitem [ref=e127]:
+          - link "hot" [ref=e128] [cursor=pointer]:
+            - /url: https://old.reddit.com/r/attackontitan/
+        - listitem [ref=e129]:
+          - link "new" [ref=e130] [cursor=pointer]:
+            - /url: https://old.reddit.com/r/attackontitan/new/
+        - listitem [ref=e131]:
+          - link "rising" [ref=e132] [cursor=pointer]:
+            - /url: https://old.reddit.com/r/attackontitan/rising/
+        - listitem
+        - listitem [ref=e133]:
+          - link "top" [ref=e134] [cursor=pointer]:
+            - /url: https://old.reddit.com/r/attackontitan/top/
+        - listitem [ref=e135]:
+          - link "wiki" [ref=e136] [cursor=pointer]:
+            - /url: https://old.reddit.com/r/attackontitan/wiki/
+    - generic [ref=e137]:
+      - generic [ref=e138]:
+        - link "ResidentNo707" [ref=e139] [cursor=pointer]:
+          - /url: https://old.reddit.com/user/ResidentNo707/
+        - text: (1)
+      - text: "|"
+      - link "messages" [ref=e140] [cursor=pointer]:
+        - /url: https://old.reddit.com/message/inbox/
+      - text: "|"
+      - link "notifications" [ref=e141] [cursor=pointer]:
+        - /url: https://reddit.com/notifications
+      - text: "|"
+      - link "chat messages" [ref=e142] [cursor=pointer]:
+        - /url: https://chat.reddit.com
+      - text: "|"
+      - list [ref=e143]:
+        - listitem [ref=e144]:
+          - link "preferences" [ref=e145] [cursor=pointer]:
+            - /url: https://old.reddit.com/prefs/
+      - text: "|"
+      - link "logout" [ref=e147] [cursor=pointer]:
+        - /url: javascript:void(0)
+  - generic [ref=e148]:
+    - search [ref=e149]:
+      - textbox "search" [ref=e150]
+      - button "Submit" [ref=e151] [cursor=pointer]
+    - generic [ref=e152]:
+      - link "Submit LinkSubmit a new link" [ref=e153] [cursor=pointer]:
+        - /url: https://old.reddit.com/r/attackontitan/submit
+      - text: N/A
+    - generic [ref=e154]:
+      - text: N/A
+      - link "Submit TextSubmit a new text post" [ref=e155] [cursor=pointer]:
+        - /url: https://old.reddit.com/r/attackontitan/submit?selftext=true
+    - generic [ref=e157]:
+      - text: Subreddit Info
+      - heading "attackontitan" [level=1] [ref=e158]:
+        - link "attackontitan" [ref=e159] [cursor=pointer]:
+          - /url: https://old.reddit.com/r/attackontitan/
+      - link "join" [ref=e161] [cursor=pointer]:
+        - /url: "#"
+      - generic [ref=e162]:
+        - checkbox "Show my flair on this subreddit. It looks like:" [checked] [ref=e163]
+        - text: "Show my flair on this subreddit. It looks like:"
+      - generic [ref=e164]:
+        - link "ResidentNo707":
+          - /url: https://old.reddit.com/user/ResidentNo707
+        - text: (
+        - link "edit" [ref=e165] [cursor=pointer]:
+          - /url: javascript://void(0)
+        - text: )
+      - generic [ref=e168]:
+        - blockquote [ref=e169]:
+          - heading "+RULES (hover to read)" [level=4] [ref=e170] [cursor=pointer]
+        - separator [ref=e171]
+        - heading "FAQ - FREQUENTLY ASKED QUESTION" [level=2] [ref=e172]:
+          - link "FAQ - FREQUENTLY ASKED QUESTION" [ref=e173] [cursor=pointer]:
+            - /url: https://www.reddit.com/r/attackontitan/comments/cox1ft/faq_frequently_asked_questions/
+        - separator [ref=e174]
+        - heading "How to tag spoilers:" [level=1] [ref=e175]
+        - code [ref=e177]: "[Spoiler type]>!Spoiler text!<"
+        - list [ref=e178]:
+          - listitem [ref=e179]:
+            - paragraph [ref=e180]: "Example:"
+            - paragraph [ref=e181]: "[Manga Spoiler]Spoiler text"
+        - separator [ref=e182]
+        - paragraph:
+          - link:
+            - /url: https://discord.gg/nThpaKt
+        - heading "Other subreddits:" [level=3] [ref=e183]
+        - heading "Subreddits - Manga Spoilers:" [level=1] [ref=e184]
+        - list [ref=e185]:
+          - listitem [ref=e186]:
+            - paragraph [ref=e187]:
+              - link "/r/ShingekiNoKyojin" [ref=e188] [cursor=pointer]:
+                - /url: /r/ShingekiNoKyojin
+          - listitem [ref=e189]:
+            - paragraph [ref=e190]:
+              - link "r/TitanFolk" [ref=e191] [cursor=pointer]:
+                - /url: /r/TitanFolk
+          - listitem [ref=e192]:
+            - paragraph [ref=e193]:
+              - link "r/ReinerCult" [ref=e194] [cursor=pointer]:
+                - /url: /r/ReinerCult
+          - listitem [ref=e195]:
+            - paragraph [ref=e196]:
+              - link "r/GabiCult" [ref=e197] [cursor=pointer]:
+                - /url: /r/GabiCult
+          - listitem [ref=e198]:
+            - paragraph [ref=e199]:
+              - link "r/ZekeCult" [ref=e200] [cursor=pointer]:
+                - /url: /r/ZekeCult
+        - heading "Subreddits - Anime Spoilers:" [level=1] [ref=e201]
+        - list [ref=e202]:
+          - listitem [ref=e203]:
+            - paragraph [ref=e204]:
+              - link "r/LeviCult" [ref=e205] [cursor=pointer]:
+                - /url: /r/LeviCult
+          - listitem [ref=e206]:
+            - paragraph [ref=e207]:
+              - link "r/ArminCult" [ref=e208] [cursor=pointer]:
+                - /url: /r/ArminCult
+          - listitem [ref=e209]:
+            - paragraph [ref=e210]:
+              - link "r/ErwinSmith" [ref=e211] [cursor=pointer]:
+                - /url: /r/ErwinSmith
+          - listitem [ref=e212]:
+            - paragraph [ref=e213]:
+              - link "r/Mikasa" [ref=e214] [cursor=pointer]:
+                - /url: /r/Mikasa
+          - listitem [ref=e215]:
+            - paragraph [ref=e216]:
+              - link "r/AnnieCult" [ref=e217] [cursor=pointer]:
+                - /url: /r/AnnieCult
+          - listitem [ref=e218]:
+            - paragraph [ref=e219]:
+              - link "r/HistoriaTeam" [ref=e220] [cursor=pointer]:
+                - /url: /r/HistoriaTeam
+          - listitem [ref=e221]:
+            - paragraph [ref=e222]:
+              - link "r/HangeCult" [ref=e223] [cursor=pointer]:
+                - /url: /r/HangeCult
+        - separator [ref=e224]
+      - generic [ref=e225]:
+        - text: created by
+        - link "firebathero" [ref=e226] [cursor=pointer]:
+          - /url: https://old.reddit.com/user/firebathero
+        - generic "erwin is still alive" [ref=e227]
+        - generic [ref=e228]:
+          - text: a community for
+          - time [ref=e229]: 13 years
+    - generic [ref=e231]:
+      - heading "MODERATORS" [level=1] [ref=e233]
+      - list [ref=e234]:
+        - listitem [ref=e235]:
+          - link "message the mods" [ref=e236] [cursor=pointer]:
+            - /url: /message/compose/?to=/r/attackontitan
+        - listitem [ref=e237]:
+          - link "Avizie" [ref=e238] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/Avizie
+        - listitem [ref=e239]:
+          - link "0Wraith0" [ref=e240] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/0Wraith0
+        - listitem [ref=e241]:
+          - link "RoyalRetriver" [ref=e242] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/RoyalRetriver
+        - listitem [ref=e243]:
+          - link "RepostSleuthBot" [ref=e244] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/RepostSleuthBot
+        - listitem [ref=e245]:
+          - link "AutoGreyShonen" [ref=e246] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/AutoGreyShonen
+        - listitem [ref=e247]:
+          - link "DustyAsh69" [ref=e248] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/DustyAsh69
+        - listitem [ref=e249]:
+          - link "GeekYuv" [ref=e250] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/GeekYuv
+          - generic "Island Devil :godmode:" [ref=e251]:
+            - text: Island Devil
+            - generic ":godmode:" [ref=e252]
+        - listitem [ref=e253]:
+          - link "Sorstalas" [ref=e254] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/Sorstalas
+        - listitem [ref=e255]:
+          - link "Sane-Ni-Wa-To-Ri" [ref=e256] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/Sane-Ni-Wa-To-Ri
+        - listitem [ref=e258]:
+          - link "TheUsrTheUsr" [ref=e259] [cursor=pointer]:
+            - /url: https://old.reddit.com/user/TheUsrTheUsr
+        - listitem [ref=e260]:
+          - link "...and 1 more »" [ref=e261] [cursor=pointer]:
+            - /url: /r/attackontitan/about/moderators
+    - paragraph [ref=e264]:
+      - link "account activity" [ref=e265] [cursor=pointer]:
+        - /url: /account-activity
+    - text: Subreddit CSS Theme by /r/Naut
+  - main [ref=e266]:
+    - paragraph [ref=e269]:
+      - text: Uh oh! We have suspended your account due to suspicious activity. Not to worry. You can continue using Reddit by
+      - link "resetting your password" [ref=e270] [cursor=pointer]:
+        - /url: /prefs/update
+      - text: .
+    - generic [ref=e271]:
+      - generic [ref=e272]:
+        - paragraph
+        - generic [ref=e273]:
+          - button "upvote" [ref=e274] [cursor=pointer]
+          - generic "4" [ref=e275]
+          - button "downvote" [ref=e276] [cursor=pointer]
+        - link [ref=e277] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1ua71vm/aot_fans_in_hamburg/
+        - generic [ref=e279]:
+          - paragraph [ref=e280]:
+            - link "AoT Fans in Hamburg" [ref=e281] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1ua71vm/aot_fans_in_hamburg/
+            - generic "Discussion/Question" [ref=e282]
+            - link "self.attackontitan" [ref=e283] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e285]:
+            - text: submitted
+            - time [ref=e286]: 11 hours ago
+            - text: by
+            - link "PastMathematician585" [ref=e287] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/PastMathematician585
+          - list [ref=e288]:
+            - listitem [ref=e289]:
+              - link "1 comment" [ref=e290] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1ua71vm/aot_fans_in_hamburg/
+            - listitem [ref=e291]:
+              - link "share" [ref=e292] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e293]:
+              - link "save" [ref=e294] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e295]:
+              - link "hide" [ref=e298] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e299]:
+              - link "report" [ref=e300] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e301]:
+              - link "crosspost" [ref=e302] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e303]:
+        - paragraph
+        - generic [ref=e304]:
+          - button "upvote" [ref=e305] [cursor=pointer]
+          - generic "7" [ref=e306]
+          - button "downvote" [ref=e307] [cursor=pointer]
+        - link [ref=e308] [cursor=pointer]:
+          - /url: https://www.reddit.com/gallery/1ua38xy
+        - generic [ref=e310]:
+          - paragraph [ref=e311]:
+            - link "Parallels between Attack on Titan and Macbeth" [ref=e312] [cursor=pointer]:
+              - /url: https://www.reddit.com/gallery/1ua38xy
+            - generic "Discussion/Question" [ref=e313]
+            - link "old.reddit.com" [ref=e314] [cursor=pointer]:
+              - /url: /domain/old.reddit.com/
+          - paragraph [ref=e316]:
+            - text: submitted
+            - time [ref=e317]: 13 hours ago
+            - text: by
+            - link "3000_Years_of_Water" [ref=e318] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/3000_Years_of_Water
+          - list [ref=e319]:
+            - listitem [ref=e320]:
+              - generic [ref=e321]: SPOILER
+            - listitem [ref=e322]:
+              - link "1 comment" [ref=e323] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1ua38xy/parallels_between_attack_on_titan_and_macbeth/
+            - listitem [ref=e324]:
+              - link "share" [ref=e325] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e326]:
+              - link "save" [ref=e327] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e328]:
+              - link "hide" [ref=e331] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e332]:
+              - link "report" [ref=e333] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e334]:
+              - link "crosspost" [ref=e335] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e336]:
+        - paragraph
+        - generic [ref=e337]:
+          - button "upvote" [ref=e338] [cursor=pointer]
+          - generic [ref=e339]: •
+          - button "downvote" [ref=e340] [cursor=pointer]
+        - link [ref=e341] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1ual8km/some_comments_i_have_about_the_anime_no_major/
+        - generic [ref=e343]:
+          - paragraph [ref=e344]:
+            - link "SOME COMMENTS I HAVE ABOUT THE ANIME (NO MAJOR SPOILERS)" [ref=e345] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1ual8km/some_comments_i_have_about_the_anime_no_major/
+            - generic "Discussion/Question" [ref=e346]
+            - link "self.attackontitan" [ref=e347] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e349]:
+            - text: submitted
+            - time [ref=e350]: 57 minutes ago
+            - text: by
+            - link "Humble-Implement-964" [ref=e351] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Humble-Implement-964
+          - list [ref=e352]:
+            - listitem [ref=e353]:
+              - generic [ref=e354]: SPOILER
+            - listitem [ref=e355]:
+              - link "5 comments" [ref=e356] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1ual8km/some_comments_i_have_about_the_anime_no_major/
+            - listitem [ref=e357]:
+              - link "share" [ref=e358] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e359]:
+              - link "save" [ref=e360] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e361]:
+              - link "hide" [ref=e364] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e365]:
+              - link "report" [ref=e366] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e367]:
+              - link "crosspost" [ref=e368] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e369]:
+        - paragraph
+        - generic [ref=e370]:
+          - button "upvote" [ref=e371] [cursor=pointer]
+          - generic "182" [ref=e372]
+          - button "downvote" [ref=e373] [cursor=pointer]
+        - link [ref=e374] [cursor=pointer]:
+          - /url: https://i.redd.it/e8ivy0n9438h1.png
+        - generic [ref=e376]:
+          - paragraph [ref=e377]:
+            - link "If you ever needed a reason to not trust AI as a source, here you go" [ref=e378] [cursor=pointer]:
+              - /url: https://i.redd.it/e8ivy0n9438h1.png
+            - generic "Meme" [ref=e379]
+            - link "i.redd.it" [ref=e380] [cursor=pointer]:
+              - /url: /domain/i.redd.it/
+          - paragraph [ref=e382]:
+            - text: submitted
+            - time [ref=e383]: 1 day ago
+            - text: by
+            - link "FarmSevere" [ref=e384] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/FarmSevere
+            - generic "Jaegerist :Yeagerist:" [ref=e385]:
+              - text: Jaegerist
+              - generic ":Yeagerist:" [ref=e386]
+          - list [ref=e387]:
+            - listitem [ref=e388]:
+              - link "51 comments" [ref=e389] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9ebuj/if_you_ever_needed_a_reason_to_not_trust_ai_as_a/
+            - listitem [ref=e390]:
+              - link "share" [ref=e391] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e392]:
+              - link "save" [ref=e393] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e394]:
+              - link "hide" [ref=e397] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e398]:
+              - link "report" [ref=e399] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e400]:
+              - link "crosspost" [ref=e401] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e402]:
+        - paragraph
+        - generic [ref=e403]:
+          - button "upvote" [ref=e404] [cursor=pointer]
+          - generic "90" [ref=e405]
+          - button "downvote" [ref=e406] [cursor=pointer]
+        - link [ref=e407] [cursor=pointer]:
+          - /url: https://www.reddit.com/gallery/1u9ju41
+        - generic [ref=e409]:
+          - paragraph [ref=e410]:
+            - link "In your own opinion, how far does the Santa Titan/Bearded Restorationist get if he gained the Founding Titan/Attack Titan" [ref=e411] [cursor=pointer]:
+              - /url: https://www.reddit.com/gallery/1u9ju41
+            - generic "Discussion/Question" [ref=e412]
+            - link "old.reddit.com" [ref=e413] [cursor=pointer]:
+              - /url: /domain/old.reddit.com/
+          - paragraph [ref=e415]:
+            - text: submitted
+            - time [ref=e416]: 1 day ago
+            - text: by
+            - link "Thewickedsomeone1" [ref=e417] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Thewickedsomeone1
+            - generic "Erwin's Soldier :Erwin:" [ref=e418]:
+              - text: Erwin's Soldier
+              - generic ":Erwin:" [ref=e419]
+          - list [ref=e420]:
+            - listitem [ref=e421]:
+              - link "14 comments" [ref=e422] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9ju41/in_your_own_opinion_how_far_does_the_santa/
+            - listitem [ref=e423]:
+              - link "share" [ref=e424] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e425]:
+              - link "save" [ref=e426] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e427]:
+              - link "hide" [ref=e430] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e431]:
+              - link "report" [ref=e432] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e433]:
+              - link "crosspost" [ref=e434] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e435]:
+        - paragraph
+        - generic [ref=e436]:
+          - button "upvote" [ref=e437] [cursor=pointer]
+          - generic "48" [ref=e438]
+          - button "downvote" [ref=e439] [cursor=pointer]
+        - link [ref=e440] [cursor=pointer]:
+          - /url: https://i.redd.it/b91k58er458h1.png
+        - generic [ref=e442]:
+          - paragraph [ref=e443]:
+            - link "Which jaw titan looks better between Marcel and porco" [ref=e444] [cursor=pointer]:
+              - /url: https://i.redd.it/b91k58er458h1.png
+            - generic "Discussion/Question" [ref=e445]
+            - link "i.redd.it" [ref=e446] [cursor=pointer]:
+              - /url: /domain/i.redd.it/
+          - paragraph [ref=e448]:
+            - text: submitted
+            - time [ref=e449]: 1 day ago
+            - text: by
+            - link "SpiritualTip9569" [ref=e450] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/SpiritualTip9569
+          - list [ref=e451]:
+            - listitem [ref=e452]:
+              - link "27 comments" [ref=e453] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9o7cm/which_jaw_titan_looks_better_between_marcel_and/
+            - listitem [ref=e454]:
+              - link "share" [ref=e455] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e456]:
+              - link "save" [ref=e457] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e458]:
+              - link "hide" [ref=e461] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e462]:
+              - link "report" [ref=e463] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e464]:
+              - link "crosspost" [ref=e465] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e466]:
+        - paragraph
+        - generic [ref=e467]:
+          - button "upvote" [ref=e468] [cursor=pointer]
+          - generic "59" [ref=e469]
+          - button "downvote" [ref=e470] [cursor=pointer]
+        - link [ref=e471] [cursor=pointer]:
+          - /url: https://i.redd.it/757kaeoih48h1.jpeg
+        - generic [ref=e473]:
+          - paragraph [ref=e474]:
+            - link "Unusual titan behavior" [ref=e475] [cursor=pointer]:
+              - /url: https://i.redd.it/757kaeoih48h1.jpeg
+            - generic "Discussion/Question" [ref=e476]
+            - link "i.redd.it" [ref=e477] [cursor=pointer]:
+              - /url: /domain/i.redd.it/
+          - paragraph [ref=e479]:
+            - text: submitted
+            - time [ref=e480]: 1 day ago
+            - text: by
+            - link "Previous-Mixture-346" [ref=e481] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Previous-Mixture-346
+          - list [ref=e482]:
+            - listitem [ref=e483]:
+              - link "29 comments" [ref=e484] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9ld8w/unusual_titan_behavior/
+            - listitem [ref=e485]:
+              - link "share" [ref=e486] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e487]:
+              - link "save" [ref=e488] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e489]:
+              - link "hide" [ref=e492] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e493]:
+              - link "report" [ref=e494] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e495]:
+              - link "crosspost" [ref=e496] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e497]:
+        - paragraph
+        - generic [ref=e498]:
+          - button "upvote" [ref=e499] [cursor=pointer]
+          - generic "3" [ref=e500]
+          - button "downvote" [ref=e501] [cursor=pointer]
+        - link [ref=e502] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1ua05cc/was_the_new_info_a_disapointment/
+        - generic [ref=e504]:
+          - paragraph [ref=e505]:
+            - link "Was the new info a disapointment" [ref=e506] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1ua05cc/was_the_new_info_a_disapointment/
+            - generic "Discussion/Question" [ref=e507]
+            - link "self.attackontitan" [ref=e508] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e509]:
+            - text: submitted
+            - time [ref=e510]: 15 hours ago
+            - text: by
+            - link "Neat_Yak9086" [ref=e511] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Neat_Yak9086
+            - generic "Potato Girl Enjoyer :sasha_potato:" [ref=e512]:
+              - text: Potato Girl Enjoyer
+              - generic ":sasha_potato:" [ref=e513]
+          - list [ref=e514]:
+            - listitem [ref=e515]:
+              - link "5 comments" [ref=e516] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1ua05cc/was_the_new_info_a_disapointment/
+            - listitem [ref=e517]:
+              - link "share" [ref=e518] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e519]:
+              - link "save" [ref=e520] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e521]:
+              - link "hide" [ref=e524] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e525]:
+              - link "report" [ref=e526] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e527]:
+              - link "crosspost" [ref=e528] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e529]:
+        - paragraph
+        - generic [ref=e530]:
+          - button "upvote" [ref=e531] [cursor=pointer]
+          - generic "3" [ref=e532]
+          - button "downvote" [ref=e533] [cursor=pointer]
+        - link [ref=e534] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1ua3xz4/looking_to_cosplay_as_eren_for_comiccon_any_advice/
+        - generic [ref=e536]:
+          - paragraph [ref=e537]:
+            - link "Looking to Cosplay as Eren for Comic-Con. Any advice?" [ref=e538] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1ua3xz4/looking_to_cosplay_as_eren_for_comiccon_any_advice/
+            - generic "Cosplay" [ref=e539]
+            - link "self.attackontitan" [ref=e540] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e542]:
+            - text: submitted
+            - time [ref=e543]: 13 hours ago
+            - text: by
+            - link "Mr_Archa" [ref=e544] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Mr_Archa
+            - generic "Eren did nothing wrong :Eren_hand:" [ref=e545]:
+              - text: Eren did nothing wrong
+              - generic ":Eren_hand:" [ref=e546]
+          - list [ref=e547]:
+            - listitem [ref=e548]:
+              - link "3 comments" [ref=e549] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1ua3xz4/looking_to_cosplay_as_eren_for_comiccon_any_advice/
+            - listitem [ref=e550]:
+              - link "share" [ref=e551] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e552]:
+              - link "save" [ref=e553] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e554]:
+              - link "hide" [ref=e557] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e558]:
+              - link "report" [ref=e559] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e560]:
+              - link "crosspost" [ref=e561] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e562]:
+        - paragraph
+        - generic [ref=e563]:
+          - button "upvote" [ref=e564] [cursor=pointer]
+          - generic "1290" [ref=e565]
+          - button "downvote" [ref=e566] [cursor=pointer]
+        - link [ref=e567] [cursor=pointer]:
+          - /url: https://www.reddit.com/gallery/1u8wxp4
+        - generic [ref=e569]:
+          - paragraph [ref=e570]:
+            - link "What does Eren mean by this" [ref=e571] [cursor=pointer]:
+              - /url: https://www.reddit.com/gallery/1u8wxp4
+            - generic "Discussion/Question" [ref=e572]
+            - link "old.reddit.com" [ref=e573] [cursor=pointer]:
+              - /url: /domain/old.reddit.com/
+          - paragraph [ref=e575]:
+            - text: submitted
+            - time [ref=e576]: 1 day ago
+            - text: by
+            - link "GamexYard" [ref=e577] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/GamexYard
+          - list [ref=e578]:
+            - listitem [ref=e579]:
+              - link "79 comments" [ref=e580] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u8wxp4/what_does_eren_mean_by_this/
+            - listitem [ref=e581]:
+              - link "share" [ref=e582] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e583]:
+              - link "save" [ref=e584] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e585]:
+              - link "hide" [ref=e588] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e589]:
+              - link "report" [ref=e590] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e591]:
+              - link "crosspost" [ref=e592] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e593]:
+        - paragraph
+        - generic [ref=e594]:
+          - button "upvote" [ref=e595] [cursor=pointer]
+          - generic "15" [ref=e596]
+          - button "downvote" [ref=e597] [cursor=pointer]
+        - link [ref=e598] [cursor=pointer]:
+          - /url: https://i.redd.it/tco5z425768h1.jpeg
+        - generic [ref=e600]:
+          - paragraph [ref=e601]:
+            - link "Eremika be going through identity crisis" [ref=e602] [cursor=pointer]:
+              - /url: https://i.redd.it/tco5z425768h1.jpeg
+            - generic "Meme" [ref=e603]
+            - link "i.redd.it" [ref=e604] [cursor=pointer]:
+              - /url: /domain/i.redd.it/
+          - paragraph [ref=e606]:
+            - text: submitted
+            - time [ref=e607]: 22 hours ago
+            - text: by
+            - link "sad--air" [ref=e608] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/sad--air
+            - generic "Erwin's Soldier :Erwin:" [ref=e609]:
+              - text: Erwin's Soldier
+              - generic ":Erwin:" [ref=e610]
+          - list [ref=e611]:
+            - listitem [ref=e612]:
+              - link "1 comment" [ref=e613] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9simt/eremika_be_going_through_identity_crisis/
+            - listitem [ref=e614]:
+              - link "share" [ref=e615] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e616]:
+              - link "save" [ref=e617] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e618]:
+              - link "hide" [ref=e621] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e622]:
+              - link "report" [ref=e623] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e624]:
+              - link "crosspost" [ref=e625] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e626]:
+        - paragraph
+        - generic [ref=e627]:
+          - button "upvote" [ref=e628] [cursor=pointer]
+          - generic "427" [ref=e629]
+          - button "downvote" [ref=e630] [cursor=pointer]
+        - link [ref=e631] [cursor=pointer]:
+          - /url: https://i.redd.it/xevw3ett608h1.jpeg
+        - generic [ref=e633]:
+          - paragraph [ref=e634]:
+            - link "If we could smell the show. What would have been the stinkiest moment in the show?" [ref=e635] [cursor=pointer]:
+              - /url: https://i.redd.it/xevw3ett608h1.jpeg
+            - generic "Discussion/Question" [ref=e636]
+            - link "i.redd.it" [ref=e637] [cursor=pointer]:
+              - /url: /domain/i.redd.it/
+          - paragraph [ref=e639]:
+            - text: submitted
+            - time [ref=e640]: 1 day ago
+            - text: by
+            - link "RareOne970" [ref=e641] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/RareOne970
+          - list [ref=e642]:
+            - listitem [ref=e643]:
+              - link "133 comments" [ref=e644] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u90rt8/if_we_could_smell_the_show_what_would_have_been/
+            - listitem [ref=e645]:
+              - link "share" [ref=e646] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e647]:
+              - link "save" [ref=e648] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e649]:
+              - link "hide" [ref=e652] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e653]:
+              - link "report" [ref=e654] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e655]:
+              - link "crosspost" [ref=e656] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e657]:
+        - paragraph
+        - generic [ref=e658]:
+          - button "upvote" [ref=e659] [cursor=pointer]
+          - generic "147" [ref=e660]
+          - button "downvote" [ref=e661] [cursor=pointer]
+        - link [ref=e662] [cursor=pointer]:
+          - /url: https://i.redd.it/y0t9xdtlt18h1.jpeg
+        - generic [ref=e664]:
+          - paragraph [ref=e665]:
+            - link "How did you found out about AOT, before it became Ultra-popular?" [ref=e666] [cursor=pointer]:
+              - /url: https://i.redd.it/y0t9xdtlt18h1.jpeg
+            - generic "Discussion/Question" [ref=e667]
+            - link "i.redd.it" [ref=e668] [cursor=pointer]:
+              - /url: /domain/i.redd.it/
+          - paragraph [ref=e670]:
+            - text: submitted
+            - time [ref=e671]: 1 day ago
+            - text: by
+            - link "RareOne970" [ref=e672] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/RareOne970
+          - list [ref=e673]:
+            - listitem [ref=e674]:
+              - link "157 comments" [ref=e675] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u97b2k/how_did_you_found_out_about_aot_before_it_became/
+            - listitem [ref=e676]:
+              - link "share" [ref=e677] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e678]:
+              - link "save" [ref=e679] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e680]:
+              - link "hide" [ref=e683] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e684]:
+              - link "report" [ref=e685] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e686]:
+              - link "crosspost" [ref=e687] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e688]:
+        - paragraph
+        - generic [ref=e689]:
+          - button "upvote" [ref=e690] [cursor=pointer]
+          - generic "0" [ref=e691]
+          - button "downvote" [ref=e692] [cursor=pointer]
+        - link [ref=e693] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1ua6jlk/spoiler_why_didnt_reiner_eat_erin_when_he_was_too/
+        - generic [ref=e695]:
+          - paragraph [ref=e696]:
+            - 'link "Spoiler: why didn''t Reiner eat Erin when he was too weak to transform?" [ref=e697] [cursor=pointer]':
+              - /url: /r/attackontitan/comments/1ua6jlk/spoiler_why_didnt_reiner_eat_erin_when_he_was_too/
+            - generic "Ending Spoilers - Discussion/Question" [ref=e698]
+            - link "self.attackontitan" [ref=e699] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e701]:
+            - text: submitted
+            - time [ref=e702]: 11 hours ago
+            - text: by
+            - link "Smiling_Psychopath" [ref=e703] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Smiling_Psychopath
+          - list [ref=e704]:
+            - listitem [ref=e705]:
+              - generic [ref=e706]: SPOILER
+            - listitem [ref=e707]:
+              - link "28 comments" [ref=e708] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1ua6jlk/spoiler_why_didnt_reiner_eat_erin_when_he_was_too/
+            - listitem [ref=e709]:
+              - link "share" [ref=e710] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e711]:
+              - link "save" [ref=e712] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e713]:
+              - link "hide" [ref=e716] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e717]:
+              - link "report" [ref=e718] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e719]:
+              - link "crosspost" [ref=e720] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e721]:
+        - paragraph
+        - generic [ref=e722]:
+          - button "upvote" [ref=e723] [cursor=pointer]
+          - generic "24" [ref=e724]
+          - button "downvote" [ref=e725] [cursor=pointer]
+        - link "1:07" [ref=e726] [cursor=pointer]:
+          - /url: https://v.redd.it/afl6ah9gc48h1
+          - generic [ref=e727]: 1:07
+        - generic [ref=e729]:
+          - paragraph [ref=e730]:
+            - 'link "In Stock: Levi vs Beast Titan Diorama" [ref=e731] [cursor=pointer]':
+              - /url: https://v.redd.it/afl6ah9gc48h1
+            - generic "Misc" [ref=e732]
+            - link "v.redd.it" [ref=e733] [cursor=pointer]:
+              - /url: /domain/v.redd.it/
+          - paragraph [ref=e735]:
+            - text: submitted
+            - time [ref=e736]: 1 day ago
+            - text: by
+            - link "miltonr87" [ref=e737] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/miltonr87
+            - generic "Warrior :Warrior:" [ref=e738]:
+              - text: Warrior
+              - generic ":Warrior:" [ref=e739]
+          - list [ref=e740]:
+            - listitem [ref=e741]:
+              - link "3 comments" [ref=e742] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9kt3r/in_stock_levi_vs_beast_titan_diorama/
+            - listitem [ref=e743]:
+              - link "share" [ref=e744] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e745]:
+              - link "save" [ref=e746] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e747]:
+              - link "hide" [ref=e750] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e751]:
+              - link "report" [ref=e752] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e753]:
+              - link "crosspost" [ref=e754] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e755]:
+        - paragraph
+        - generic [ref=e756]:
+          - button "upvote" [ref=e757] [cursor=pointer]
+          - generic "0" [ref=e758]
+          - button "downvote" [ref=e759] [cursor=pointer]
+        - link [ref=e760] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1ua3y0e/when_shifters_die_do_their_bodies_evaporate_like/
+        - generic [ref=e762]:
+          - paragraph [ref=e763]:
+            - link "When shifters die, do their bodies evaporate like titans, or do they die like normal people?" [ref=e764] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1ua3y0e/when_shifters_die_do_their_bodies_evaporate_like/
+            - generic "Discussion/Question" [ref=e765]
+            - link "self.attackontitan" [ref=e766] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e768]:
+            - text: submitted
+            - time [ref=e769]: 13 hours ago
+            - text: by
+            - link "Emotional-Pie7314" [ref=e770] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Emotional-Pie7314
+          - list [ref=e771]:
+            - listitem [ref=e772]:
+              - link "6 comments" [ref=e773] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1ua3y0e/when_shifters_die_do_their_bodies_evaporate_like/
+            - listitem [ref=e774]:
+              - link "share" [ref=e775] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e776]:
+              - link "save" [ref=e777] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e778]:
+              - link "hide" [ref=e781] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e782]:
+              - link "report" [ref=e783] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e784]:
+              - link "crosspost" [ref=e785] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e786]:
+        - paragraph
+        - generic [ref=e787]:
+          - button "upvote" [ref=e788] [cursor=pointer]
+          - generic "0" [ref=e789]
+          - button "downvote" [ref=e790] [cursor=pointer]
+        - link [ref=e791] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1ua3e8i/how_can_i_legally_use_attack_on_titan_music_in_a/
+        - generic [ref=e793]:
+          - paragraph [ref=e794]:
+            - link "How can I legally use Attack on Titan music in a fan-made codex website?" [ref=e795] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1ua3e8i/how_can_i_legally_use_attack_on_titan_music_in_a/
+            - generic "Discussion/Question" [ref=e796]
+            - link "self.attackontitan" [ref=e797] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e799]:
+            - text: submitted
+            - time [ref=e800]: 13 hours ago
+            - text: by
+            - link "aldersonloop59" [ref=e801] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/aldersonloop59
+          - list [ref=e802]:
+            - listitem [ref=e803]:
+              - link "3 comments" [ref=e804] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1ua3e8i/how_can_i_legally_use_attack_on_titan_music_in_a/
+            - listitem [ref=e805]:
+              - link "share" [ref=e806] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e807]:
+              - link "save" [ref=e808] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e809]:
+              - link "hide" [ref=e812] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e813]:
+              - link "report" [ref=e814] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e815]:
+              - link "crosspost" [ref=e816] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e817]:
+        - paragraph
+        - generic [ref=e818]:
+          - button "upvote" [ref=e819] [cursor=pointer]
+          - generic "3" [ref=e820]
+          - button "downvote" [ref=e821] [cursor=pointer]
+        - link [ref=e822] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1u9uxnj/attack_on_titan_1_game_why_is_rozen_the_only/
+        - generic [ref=e824]:
+          - paragraph [ref=e825]:
+            - link "Attack on titan 1 game. Why is rozen the only other legendary gear?" [ref=e826] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1u9uxnj/attack_on_titan_1_game_why_is_rozen_the_only/
+            - generic "Game" [ref=e827]
+            - link "self.attackontitan" [ref=e828] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e830]:
+            - text: submitted
+            - time [ref=e831]: 20 hours ago
+            - text: by
+            - link "SynergyFighter" [ref=e832] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/SynergyFighter
+          - list [ref=e833]:
+            - listitem [ref=e834]:
+              - link "1 comment" [ref=e835] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9uxnj/attack_on_titan_1_game_why_is_rozen_the_only/
+            - listitem [ref=e836]:
+              - link "share" [ref=e837] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e838]:
+              - link "save" [ref=e839] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e840]:
+              - link "hide" [ref=e843] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e844]:
+              - link "report" [ref=e845] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e846]:
+              - link "crosspost" [ref=e847] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e848]:
+        - paragraph
+        - generic [ref=e849]:
+          - button "upvote" [ref=e850] [cursor=pointer]
+          - generic "29" [ref=e851]
+          - button "downvote" [ref=e852] [cursor=pointer]
+        - link [ref=e853] [cursor=pointer]:
+          - /url: https://i.redd.it/868gpcc2638h1.jpeg
+        - generic [ref=e855]:
+          - paragraph [ref=e856]:
+            - link "To this day a feat that ALL ANIME FEARS" [ref=e857] [cursor=pointer]:
+              - /url: https://i.redd.it/868gpcc2638h1.jpeg
+            - generic "Ending Spoilers - Discussion/Question" [ref=e858]
+            - link "i.redd.it" [ref=e859] [cursor=pointer]:
+              - /url: /domain/i.redd.it/
+          - paragraph [ref=e861]:
+            - text: submitted
+            - time [ref=e862]: 1 day ago
+            - text: by
+            - link "Automatic-Office-607" [ref=e863] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Automatic-Office-607
+          - list [ref=e864]:
+            - listitem [ref=e865]:
+              - link "15 comments" [ref=e866] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9eli4/to_this_day_a_feat_that_all_anime_fears/
+            - listitem [ref=e867]:
+              - link "share" [ref=e868] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e869]:
+              - link "save" [ref=e870] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e871]:
+              - link "hide" [ref=e874] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e875]:
+              - link "report" [ref=e876] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e877]:
+              - link "crosspost" [ref=e878] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e879]:
+        - paragraph
+        - generic [ref=e880]:
+          - button "upvote" [ref=e881] [cursor=pointer]
+          - generic "4" [ref=e882]
+          - button "downvote" [ref=e883] [cursor=pointer]
+        - link [ref=e884] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1u9sarx/19th_june/
+        - generic [ref=e886]:
+          - paragraph [ref=e887]:
+            - link "19th June" [ref=e888] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1u9sarx/19th_june/
+            - generic "Discussion/Question" [ref=e889]
+            - link "self.attackontitan" [ref=e890] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e892]:
+            - text: submitted
+            - time [ref=e893]: 23 hours ago
+            - text: by
+            - link "ethan_torchio" [ref=e894] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/ethan_torchio
+          - list [ref=e895]:
+            - listitem [ref=e896]:
+              - link "7 comments" [ref=e897] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9sarx/19th_june/
+            - listitem [ref=e898]:
+              - link "share" [ref=e899] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e900]:
+              - link "save" [ref=e901] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e902]:
+              - link "hide" [ref=e905] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e906]:
+              - link "report" [ref=e907] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e908]:
+              - link "crosspost" [ref=e909] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e910]:
+        - paragraph
+        - generic [ref=e911]:
+          - button "upvote" [ref=e912] [cursor=pointer]
+          - generic "1" [ref=e913]
+          - button "downvote" [ref=e914] [cursor=pointer]
+        - link [ref=e915] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1u9yw3z/are_there_any_groups_where_you_can_roleplay_aot/
+        - generic [ref=e917]:
+          - paragraph [ref=e918]:
+            - link "Are there any groups where you can roleplay AOT? They can be English or Italian. I'm inspired by playing a character and playing with others." [ref=e919] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1u9yw3z/are_there_any_groups_where_you_can_roleplay_aot/
+            - generic "Discussion/Question" [ref=e920]
+            - link "self.attackontitan" [ref=e921] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e922]:
+            - text: submitted
+            - time [ref=e923]: 16 hours ago
+            - text: by
+            - link "Beautiful-Cup-9389" [ref=e924] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Beautiful-Cup-9389
+          - list [ref=e925]:
+            - listitem [ref=e926]:
+              - link "2 comments" [ref=e927] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9yw3z/are_there_any_groups_where_you_can_roleplay_aot/
+            - listitem [ref=e928]:
+              - link "share" [ref=e929] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e930]:
+              - link "save" [ref=e931] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e932]:
+              - link "hide" [ref=e935] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e936]:
+              - link "report" [ref=e937] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e938]:
+              - link "crosspost" [ref=e939] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e940]:
+        - paragraph
+        - generic [ref=e941]:
+          - button "upvote" [ref=e942] [cursor=pointer]
+          - generic "2" [ref=e943]
+          - button "downvote" [ref=e944] [cursor=pointer]
+        - link [ref=e945] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1u9uq2h/are_the_upperbody_straps_on_s4_odm_gear_black_or/
+        - generic [ref=e947]:
+          - paragraph [ref=e948]:
+            - link "Are the upper-body straps on S4 ODM gear black or brown??" [ref=e949] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1u9uq2h/are_the_upperbody_straps_on_s4_odm_gear_black_or/
+            - generic "Discussion/Question" [ref=e950]
+            - link "self.attackontitan" [ref=e951] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e953]:
+            - text: submitted
+            - time [ref=e954]: 20 hours ago
+            - text: by
+            - link "AdvantageEconomy4956" [ref=e955] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/AdvantageEconomy4956
+          - list [ref=e956]:
+            - listitem [ref=e957]:
+              - link "3 comments" [ref=e958] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9uq2h/are_the_upperbody_straps_on_s4_odm_gear_black_or/
+            - listitem [ref=e959]:
+              - link "share" [ref=e960] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e961]:
+              - link "save" [ref=e962] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e963]:
+              - link "hide" [ref=e966] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e967]:
+              - link "report" [ref=e968] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e969]:
+              - link "crosspost" [ref=e970] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e971]:
+        - paragraph
+        - generic [ref=e972]:
+          - button "upvote" [ref=e973] [cursor=pointer]
+          - generic "14" [ref=e974]
+          - button "downvote" [ref=e975] [cursor=pointer]
+        - link "1:04" [ref=e976] [cursor=pointer]:
+          - /url: https://v.redd.it/jnrf26k2b38h1
+          - generic [ref=e977]: 1:04
+        - generic [ref=e979]:
+          - paragraph [ref=e980]:
+            - link "What a glorious edit" [ref=e981] [cursor=pointer]:
+              - /url: https://v.redd.it/jnrf26k2b38h1
+            - generic "Edit/AMV" [ref=e982]
+            - link "v.redd.it" [ref=e983] [cursor=pointer]:
+              - /url: /domain/v.redd.it/
+          - paragraph [ref=e985]:
+            - text: submitted
+            - time [ref=e986]: 1 day ago
+            - text: by
+            - link "traceykm" [ref=e987] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/traceykm
+            - generic "Isayama is the GOAT 🐐" [ref=e988]
+          - list [ref=e989]:
+            - listitem [ref=e990]:
+              - link "1 comment" [ref=e991] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9fd8o/what_a_glorious_edit/
+            - listitem [ref=e992]:
+              - link "share" [ref=e993] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e994]:
+              - link "save" [ref=e995] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e996]:
+              - link "hide" [ref=e999] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e1000]:
+              - link "report" [ref=e1001] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e1002]:
+              - link "crosspost" [ref=e1003] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e1004]:
+        - paragraph
+        - generic [ref=e1005]:
+          - button "upvote" [ref=e1006] [cursor=pointer]
+          - generic "11" [ref=e1007]
+          - button "downvote" [ref=e1008] [cursor=pointer]
+        - link [ref=e1009] [cursor=pointer]:
+          - /url: /r/attackontitan/comments/1u9hanh/whats_your_favorite_beautifulsoothingemotional/
+        - generic [ref=e1011]:
+          - paragraph [ref=e1012]:
+            - link "What's your favorite beautiful/soothing/emotional OST (soundtrack/music) from AOT?" [ref=e1013] [cursor=pointer]:
+              - /url: /r/attackontitan/comments/1u9hanh/whats_your_favorite_beautifulsoothingemotional/
+            - generic "Discussion/Question" [ref=e1014]
+            - link "self.attackontitan" [ref=e1015] [cursor=pointer]:
+              - /url: /r/attackontitan/
+          - paragraph [ref=e1017]:
+            - text: submitted
+            - time [ref=e1018]: 1 day ago
+            - text: by
+            - link "Dull-Information6784" [ref=e1019] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Dull-Information6784
+          - list [ref=e1020]:
+            - listitem [ref=e1021]:
+              - link "14 comments" [ref=e1022] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u9hanh/whats_your_favorite_beautifulsoothingemotional/
+            - listitem [ref=e1023]:
+              - link "share" [ref=e1024] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e1025]:
+              - link "save" [ref=e1026] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e1027]:
+              - link "hide" [ref=e1030] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e1031]:
+              - link "report" [ref=e1032] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e1033]:
+              - link "crosspost" [ref=e1034] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e1035]:
+        - paragraph
+        - generic [ref=e1036]:
+          - button "upvote" [ref=e1037] [cursor=pointer]
+          - generic "25" [ref=e1038]
+          - button "downvote" [ref=e1039] [cursor=pointer]
+        - link [ref=e1040] [cursor=pointer]:
+          - /url: https://i.redd.it/pjlsz45a028h1.jpeg
+        - generic [ref=e1042]:
+          - paragraph [ref=e1043]:
+            - link "Art by @Did0u274 on TikTok" [ref=e1044] [cursor=pointer]:
+              - /url: https://i.redd.it/pjlsz45a028h1.jpeg
+            - generic "Fanart (Not OC)" [ref=e1045]
+            - link "i.redd.it" [ref=e1046] [cursor=pointer]:
+              - /url: /domain/i.redd.it/
+          - paragraph [ref=e1048]:
+            - text: submitted
+            - time [ref=e1049]: 1 day ago
+            - text: by
+            - link "Did0u274" [ref=e1050] [cursor=pointer]:
+              - /url: https://old.reddit.com/user/Did0u274
+          - list [ref=e1051]:
+            - listitem [ref=e1052]:
+              - link "5 comments" [ref=e1053] [cursor=pointer]:
+                - /url: https://old.reddit.com/r/attackontitan/comments/1u989r7/art_by_did0u274_on_tiktok/
+            - listitem [ref=e1054]:
+              - link "share" [ref=e1055] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+            - listitem [ref=e1056]:
+              - link "save" [ref=e1057] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e1058]:
+              - link "hide" [ref=e1061] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e1062]:
+              - link "report" [ref=e1063] [cursor=pointer]:
+                - /url: javascript:void(0)
+            - listitem [ref=e1064]:
+              - link "crosspost" [ref=e1065] [cursor=pointer]:
+                - /url: "javascript: void 0;"
+      - generic [ref=e1067]:
+        - text: "view more:"
+        - link "‹ prev" [ref=e1069] [cursor=pointer]:
+          - /url: https://old.reddit.com/r/attackontitan/?f=flair_name%3A%22Discussion%2FQuestion%22&sort=top&t=all&count=26&before=t3_1ua71vm
+        - link "next ›" [ref=e1072] [cursor=pointer]:
+          - /url: https://old.reddit.com/r/attackontitan/?f=flair_name%3A%22Discussion%2FQuestion%22&sort=top&t=all&count=50&after=t3_1u989r7
+  - generic [ref=e1073]:
+    - generic [ref=e1074]:
+      - list [ref=e1076]:
+        - listitem [ref=e1077]: about
+        - listitem [ref=e1078]:
+          - link "blog" [ref=e1079] [cursor=pointer]:
+            - /url: https://redditblog.com
+        - listitem [ref=e1080]:
+          - link "about" [ref=e1081] [cursor=pointer]:
+            - /url: https://www.redditinc.com
+        - listitem [ref=e1082]:
+          - link "advertising" [ref=e1083] [cursor=pointer]:
+            - /url: https://www.redditinc.com/advertising
+        - listitem [ref=e1084]:
+          - link "careers" [ref=e1085] [cursor=pointer]:
+            - /url: https://www.redditinc.com/careers
+      - list [ref=e1087]:
+        - listitem [ref=e1088]: help
+        - listitem [ref=e1089]:
+          - link "site rules" [ref=e1090] [cursor=pointer]:
+            - /url: https://old.reddit.com/rules/
+        - listitem [ref=e1091]:
+          - link "Reddit help center" [ref=e1092] [cursor=pointer]:
+            - /url: https://www.reddithelp.com
+        - listitem [ref=e1093]:
+          - link "reddiquette" [ref=e1094] [cursor=pointer]:
+            - /url: https://old.reddit.com/wiki/reddiquette/
+        - listitem [ref=e1095]:
+          - link "mod guidelines" [ref=e1096] [cursor=pointer]:
+            - /url: https://old.reddit.com/help/healthycommunities/
+        - listitem [ref=e1097]:
+          - link "contact us" [ref=e1098] [cursor=pointer]:
+            - /url: https://old.reddit.com/contact/
+      - list [ref=e1100]:
+        - listitem [ref=e1101]: apps & tools
+        - listitem [ref=e1102]:
+          - link "Reddit for iPhone" [ref=e1103] [cursor=pointer]:
+            - /url: https://itunes.apple.com/us/app/reddit-the-official-app/id1064216828?mt=8
+        - listitem [ref=e1104]:
+          - link "Reddit for Android" [ref=e1105] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.reddit.frontpage
+        - listitem [ref=e1106]:
+          - link "mobile website" [ref=e1107] [cursor=pointer]:
+            - /url: "#"
+      - list [ref=e1109]:
+        - listitem [ref=e1110]: <3
+        - listitem [ref=e1111]:
+          - link "reddit premium" [ref=e1112] [cursor=pointer]:
+            - /url: https://old.reddit.com/premium/
+    - paragraph [ref=e1113]:
+      - text: Use of this site constitutes acceptance of our
+      - link "User Agreement" [ref=e1114] [cursor=pointer]:
+        - /url: https://old.reddit.com/help/useragreement
+      - text: and
+      - link "Privacy Policy" [ref=e1115] [cursor=pointer]:
+        - /url: https://old.reddit.com/help/privacypolicy
+      - text: . © 2026 reddit inc. All rights reserved.
+    - paragraph [ref=e1116]: REDDIT and the ALIEN Logo are registered trademarks of reddit inc.

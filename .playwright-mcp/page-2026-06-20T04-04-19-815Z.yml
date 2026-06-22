@@ -1,0 +1,1554 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "REALLY?!?! CUS HE'S AN IDIOT?!?! : r/attackontitan"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - generic [ref=e12]:
+            - button "Open menu" [ref=e16] [cursor=pointer]:
+              - img [ref=e19]
+              - generic [ref=e21]:
+                - generic: Open menu
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Home":
+                        - /url: https://www.reddit.com/
+          - search [ref=e31]:
+            - generic [ref=e33]:
+              - img [ref=e36]
+              - textbox "Ask" [ref=e40]:
+                - /placeholder: Find anything
+              - separator [ref=e41]
+              - link "Ask" [ref=e45] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e46]:
+                  - img [ref=e48]
+                  - generic [ref=e50]: Ask
+              - generic: Find anything
+          - generic [ref=e51]:
+            - link "Log In" [ref=e55] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e57]: Log In
+            - button "Expand user menu" [ref=e62] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]:
+                - generic: Expand user menu
+      - generic [ref=e71]:
+        - main [ref=e72]:
+          - 'generic "REALLY?!?! CUS HE''S AN IDIOT?!?! : r/attackontitan"'
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - button "Back" [ref=e77] [cursor=pointer]:
+                  - img [ref=e80]
+                  - generic [ref=e82]:
+                    - generic: Back
+                - link "Go to attackontitan" [ref=e85] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/
+                  - generic [ref=e89]:
+                    - generic: Go to attackontitan
+                - group [ref=e90]:
+                  - generic [ref=e91]:
+                    - link "r/attackontitan" [ref=e94] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/
+                    - generic [ref=e95]: •
+                    - time [ref=e97]: 5d ago
+                  - 'link "Author: Manfromatavern" [ref=e102] [cursor=pointer]':
+                    - /url: https://www.reddit.com/user/Manfromatavern/
+                    - generic [ref=e103]: Manfromatavern
+              - button "Open user actions" [ref=e107] [cursor=pointer]:
+                - img [ref=e110]
+            - generic [ref=e117]:
+              - img [ref=e119]
+              - generic [ref=e121]: SPOILER
+            - 'heading "Post Title: REALLY?!?! CUS HE''S AN IDIOT?!?!" [level=1] [ref=e124]': REALLY?!?! CUS HE'S AN IDIOT?!?!
+            - generic [ref=e129]:
+              - button "View spoiler" [ref=e131] [cursor=pointer]:
+                - generic [ref=e133]: View spoiler
+              - generic:
+                - generic:
+                  - generic:
+                    - img "r/attackontitan - REALLY?!?! CUS HE'S AN IDIOT?!?!"
+            - generic [ref=e139]:
+              - button "View spoiler" [ref=e141] [cursor=pointer]:
+                - generic [ref=e143]: View spoiler
+              - generic:
+                - generic:
+                  - generic:
+                    - paragraph: Somone needs to explain if I'm missing something here cus this explanation sucks beyond measure.
+                    - paragraph
+                    - paragraph: I can see so many reasons that are better at justify what he did. "The strings of faith forced me" "It was the only way to guarantee your safety" etc...
+                    - paragraph
+                    - paragraph: But to say "Yeah man I killed 80% of the world cus im a silly billy" is so disappointing and honesty the anime has been so great with such an impressive story line that I expected a lot more of a reasoning than "Im stupid"
+                    - paragraph
+                    - paragraph: At the beginning it seemed like he was doing this to earn his freedom and that he saw no other was to be truly free if he didnt kill everyone outside the island. However, in his talk with Armin, he made it sound that it wasn't really the insensitive behind his action and that all he did was done because he's an idiot...
+                    - paragraph
+                    - paragraph: Still the greatest anime I've seen in my life but like... this bit is disappointing.
+                  - button "Read more":
+                    - generic:
+                      - generic: Read more
+                    - generic:
+                      - generic:
+                        - img
+            - generic [ref=e145]:
+              - img [ref=e146]
+              - generic [ref=e148]: "471"
+              - img [ref=e149]
+              - generic [ref=e151]: ·
+              - img [ref=e152]
+              - generic [ref=e154]: "292"
+          - separator [ref=e155]
+          - region "Comments" [ref=e158]:
+            - heading "Comments Section" [level=1] [ref=e159]
+            - generic:
+              - article "Comment from AutoModerator 5 days ago" [ref=e161]:
+                - generic "AutoModerator's profile 5d ago" [ref=e162] [cursor=pointer]:
+                  - img [ref=e164]
+                  - generic [ref=e169]:
+                    - link "AutoModerator's profile" [ref=e172]:
+                      - /url: https://www.reddit.com/user/AutoModerator/
+                      - text: AutoModerator
+                    - generic "Comment distinguished by moderator" [ref=e175]: MOD
+                    - generic [ref=e176]: •
+                    - link "5d ago" [ref=e178]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormegcy/
+                      - time [ref=e180]: 5d ago
+              - article "Comment from BassieTH 5 days ago" [ref=e183]:
+                - generic "BassieTH's profile --- avatar BassieTH's profile 5d ago" [ref=e184] [cursor=pointer]:
+                  - link "BassieTH's profile --- avatar" [ref=e189]:
+                    - /url: https://www.reddit.com/user/BassieTH/
+                    - generic [ref=e191]:
+                      - img [ref=e193]
+                      - img [ref=e197]
+                      - img [ref=e200]
+                  - generic [ref=e205]:
+                    - link "BassieTH's profile" [ref=e208]:
+                      - /url: https://www.reddit.com/user/BassieTH/
+                      - text: BassieTH
+                    - generic [ref=e209]: •
+                    - link "5d ago" [ref=e211]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormglc6/
+                      - time [ref=e213]: 5d ago
+                - generic [ref=e215]:
+                  - generic [ref=e218]:
+                    - paragraph [ref=e219]: i mean that’s kinda the point; it wasn’t a pure and righteous quest for freedom and peace, he was a victim of the same vicious cycle that has been there for generations and continues to go on. in a way, the entire series is about perspective and challenging the ideals and perceptions that you grew up with.
+                    - paragraph [ref=e220]: there were signs since the first season but much like in real life, people justify their actions by looking for reasons that make it seem okay, because it’s uncomfortable to see the truth.
+                  - generic [ref=e222]:
+                    - img [ref=e223]
+                    - generic [ref=e225]: "487"
+                    - img [ref=e226]
+                  - img
+                  - generic [ref=e228]:
+                    - 'article "Comment thread level 1: Reply from 4kdej 5 days ago" [ref=e230]':
+                      - generic "4kdej's profile --- avatar 4kdej's profile 5d ago" [ref=e231] [cursor=pointer]:
+                        - link "4kdej's profile --- avatar" [ref=e236]:
+                          - /url: https://www.reddit.com/user/4kdej/
+                          - generic [ref=e238]:
+                            - img [ref=e240]
+                            - img [ref=e244]
+                            - img [ref=e247]
+                        - generic [ref=e252]:
+                          - link "4kdej's profile" [ref=e255]:
+                            - /url: https://www.reddit.com/user/4kdej/
+                            - text: 4kdej
+                          - generic [ref=e256]: •
+                          - link "5d ago" [ref=e258]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormiw3h/
+                            - time [ref=e260]: 5d ago
+                      - generic [ref=e262]:
+                        - paragraph [ref=e266]: W comment
+                        - generic [ref=e268]:
+                          - img [ref=e269]
+                          - generic [ref=e271]: "42"
+                          - img [ref=e272]
+                    - 'article "Comment thread level 1: Reply from bisky12 5 days ago" [ref=e275]':
+                      - generic "bisky12's profile --- avatar bisky12's profile 5d ago" [ref=e276] [cursor=pointer]:
+                        - link "bisky12's profile --- avatar" [ref=e281]:
+                          - /url: https://www.reddit.com/user/bisky12/
+                          - img [ref=e286]
+                        - generic [ref=e291]:
+                          - link "bisky12's profile" [ref=e294]:
+                            - /url: https://www.reddit.com/user/bisky12/
+                            - text: bisky12
+                          - generic [ref=e295]: •
+                          - link "5d ago" [ref=e297]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormvz6z/
+                            - time [ref=e299]: 5d ago
+                      - generic [ref=e301]:
+                        - paragraph [ref=e305]: yes. i also want to add to this that eren is only 19 by eos, very much still just a kid. most people that hate the ending dont want to come to terms with this fact, but young people being taken advantage of by the powers that be is an ongoing theme in the series, with with eren when he was younger, with gabby, with reiner and the other shifters, and even with ymir herself.
+                        - generic [ref=e307]:
+                          - img [ref=e308]
+                          - generic [ref=e310]: "36"
+                          - img [ref=e311]
+                        - button "1 more reply" [ref=e316] [cursor=pointer]:
+                          - generic [ref=e319]:
+                            - generic [ref=e321]:
+                              - generic [ref=e322]: "1"
+                              - text: more reply
+                            - img [ref=e323]
+                    - button "37 more replies" [ref=e327] [cursor=pointer]:
+                      - generic [ref=e330]:
+                        - generic [ref=e332]:
+                          - generic [ref=e333]: "37"
+                          - text: more replies
+                        - img [ref=e334]
+              - article "Comment from Sotomene 5 days ago" [ref=e337]:
+                - generic "Sotomene's profile --- avatar Sotomene's profile 5d ago" [ref=e338] [cursor=pointer]:
+                  - link "Sotomene's profile --- avatar" [ref=e343]:
+                    - /url: https://www.reddit.com/user/Sotomene/
+                    - img [ref=e348]
+                  - generic [ref=e353]:
+                    - link "Sotomene's profile" [ref=e356]:
+                      - /url: https://www.reddit.com/user/Sotomene/
+                      - text: Sotomene
+                    - generic [ref=e357]: •
+                    - link "5d ago" [ref=e359]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormh4lo/
+                      - time [ref=e361]: 5d ago
+                - generic [ref=e363]:
+                  - generic [ref=e366]:
+                    - paragraph [ref=e367]: He is basically saying that things happened the way it did because he is an average person, a fool who didn't know any better.
+                    - paragraph [ref=e368]: If you pay attention throughout the story it's something that he struggle with, being surrender by people he felt were extraordinary while he was average at best.
+                  - generic [ref=e370]:
+                    - img [ref=e371]
+                    - generic [ref=e373]: "137"
+                    - img [ref=e374]
+                  - button "7 more replies" [ref=e379] [cursor=pointer]:
+                    - generic [ref=e382]:
+                      - generic [ref=e384]:
+                        - generic [ref=e385]: "7"
+                        - text: more replies
+                      - img [ref=e386]
+              - article "Comment from trafalmadorianistic 5 days ago" [ref=e389]:
+                - generic "trafalmadorianistic's profile --- avatar trafalmadorianistic's profile 5d ago" [ref=e390] [cursor=pointer]:
+                  - link "trafalmadorianistic's profile --- avatar" [ref=e395]:
+                    - /url: https://www.reddit.com/user/trafalmadorianistic/
+                    - generic [ref=e397]:
+                      - img [ref=e399]
+                      - img [ref=e403]
+                      - img [ref=e406]
+                  - generic [ref=e411]:
+                    - link "trafalmadorianistic's profile" [ref=e414]:
+                      - /url: https://www.reddit.com/user/trafalmadorianistic/
+                      - text: trafalmadorianistic
+                    - generic [ref=e415]: •
+                    - link "5d ago" [ref=e417]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormhvtb/
+                      - time [ref=e419]: 5d ago
+                - generic [ref=e421]:
+                  - paragraph [ref=e425]: He didnt know better. He didn't deserve to have that power, and the world suffered because he did. That's what I got out of it.
+                  - generic [ref=e427]:
+                    - img [ref=e428]
+                    - generic [ref=e430]: "49"
+                    - img [ref=e431]
+                  - button "24 more replies" [ref=e436] [cursor=pointer]:
+                    - generic [ref=e439]:
+                      - generic [ref=e441]:
+                        - generic [ref=e442]: "24"
+                        - text: more replies
+                      - img [ref=e443]
+              - article "Comment from MyAimSucc 5 days ago" [ref=e446]:
+                - generic "MyAimSucc's profile --- avatar MyAimSucc's profile 5d ago" [ref=e447] [cursor=pointer]:
+                  - link "MyAimSucc's profile --- avatar" [ref=e452]:
+                    - /url: https://www.reddit.com/user/MyAimSucc/
+                    - img "u/MyAimSucc avatar" [ref=e455]
+                  - generic [ref=e459]:
+                    - link "MyAimSucc's profile" [ref=e462]:
+                      - /url: https://www.reddit.com/user/MyAimSucc/
+                      - text: MyAimSucc
+                    - generic [ref=e463]: •
+                    - link "5d ago" [ref=e465]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormj5wm/
+                      - time [ref=e467]: 5d ago
+                - generic [ref=e469]:
+                  - generic [ref=e472]:
+                    - paragraph [ref=e473]: He’s what happens when you give an idiot omniscient power. He’ll fuck up and do dumb terrible things. It’s not that difficult to discern or understand IMO
+                    - paragraph [ref=e474]: Media literacy dying day by day
+                  - generic [ref=e476]:
+                    - img [ref=e477]
+                    - generic [ref=e479]: "31"
+                    - img [ref=e480]
+                  - button "4 more replies" [ref=e485] [cursor=pointer]:
+                    - generic [ref=e488]:
+                      - generic [ref=e490]:
+                        - generic [ref=e491]: "4"
+                        - text: more replies
+                      - img [ref=e492]
+              - article "Comment from notolo632 5 days ago" [ref=e495]:
+                - generic "notolo632's profile --- avatar notolo632's profile 5d ago" [ref=e496] [cursor=pointer]:
+                  - link "notolo632's profile --- avatar" [ref=e501]:
+                    - /url: https://www.reddit.com/user/notolo632/
+                    - img [ref=e506]
+                  - generic [ref=e511]:
+                    - link "notolo632's profile" [ref=e514]:
+                      - /url: https://www.reddit.com/user/notolo632/
+                      - text: notolo632
+                    - generic [ref=e515]: •
+                    - link "5d ago" [ref=e517]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormq97f/
+                      - time [ref=e519]: 5d ago
+                - generic [ref=e521]:
+                  - generic [ref=e524]:
+                    - paragraph [ref=e525]: When you think of this as an excuse for everything that happened in the show, you are sure gonna be disappointed. However, this is not how it was crafted.
+                    - paragraph [ref=e526]: "You have to look at it this way: the entire show was about an idiot that got too much power, from the very beginning. Even as a child Eren was shown as a kid that always head towards danger without ever seriously thinking about the out come. It is shown repeatedly everytime he's on screen."
+                    - paragraph [ref=e527]: You just got pissed that he says that out loud straight to your face, even tho the show has been trying to tell you that all along
+                  - generic [ref=e529]:
+                    - img [ref=e530]
+                    - generic [ref=e532]: "5"
+                    - img [ref=e533]
+                  - button "5 more replies" [ref=e538] [cursor=pointer]:
+                    - generic [ref=e541]:
+                      - generic [ref=e543]:
+                        - generic [ref=e544]: "5"
+                        - text: more replies
+                      - img [ref=e545]
+              - article "Comment from Educational-Depth624 5 days ago" [ref=e548]:
+                - generic "Educational-Depth624's profile --- avatar Educational-Depth624's profile 5d ago" [ref=e549] [cursor=pointer]:
+                  - link "Educational-Depth624's profile --- avatar" [ref=e554]:
+                    - /url: https://www.reddit.com/user/Educational-Depth624/
+                    - img [ref=e559]
+                  - generic [ref=e564]:
+                    - link "Educational-Depth624's profile" [ref=e567]:
+                      - /url: https://www.reddit.com/user/Educational-Depth624/
+                      - text: Educational-Depth624
+                    - generic [ref=e568]: •
+                    - link "5d ago" [ref=e570]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormhnzx/
+                      - time [ref=e572]: 5d ago
+                - generic [ref=e574]:
+                  - generic [ref=e577]:
+                    - paragraph [ref=e578]: He's saying he's an idiot because the rumbeling was the only "solution" he could come up with.
+                    - paragraph [ref=e579]: And because he was overwhelmed by the amount of power he had.
+                  - generic [ref=e581]:
+                    - img [ref=e582]
+                    - generic [ref=e584]: "574"
+                    - img [ref=e585]
+                  - img
+                  - generic [ref=e587]:
+                    - 'article "Comment thread level 1: Reply from MetroidJunkie 5 days ago" [ref=e589]':
+                      - generic "MetroidJunkie's profile --- avatar MetroidJunkie's profile 5d ago" [ref=e590] [cursor=pointer]:
+                        - link "MetroidJunkie's profile --- avatar" [ref=e595]:
+                          - /url: https://www.reddit.com/user/MetroidJunkie/
+                          - img "u/MetroidJunkie avatar" [ref=e598]
+                        - generic [ref=e602]:
+                          - link "MetroidJunkie's profile" [ref=e605]:
+                            - /url: https://www.reddit.com/user/MetroidJunkie/
+                            - text: MetroidJunkie
+                          - generic [ref=e606]: •
+                          - link "5d ago" [ref=e608]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormk0sp/
+                            - time [ref=e610]: 5d ago
+                      - generic [ref=e612]:
+                        - paragraph [ref=e616]: And, to be fair, it was the only solution anyone else could come up with that didn't involve the Eldians being genocided. Eren could scare them with the threat of the Wall Titans, but Karl already did that and it didn't stop Marley from invading. Eventually, threat without action is going to be ignored. A partial rumbling is more likely to piss them off and make them want to eliminate Eren.
+                        - generic [ref=e618]:
+                          - img [ref=e619]
+                          - generic [ref=e621]: "189"
+                          - img [ref=e622]
+                        - button "53 more replies" [ref=e627] [cursor=pointer]:
+                          - generic [ref=e630]:
+                            - generic [ref=e632]:
+                              - generic [ref=e633]: "53"
+                              - text: more replies
+                            - img [ref=e634]
+                    - button "2 more replies" [ref=e638] [cursor=pointer]:
+                      - generic [ref=e641]:
+                        - generic [ref=e643]:
+                          - generic [ref=e644]: "2"
+                          - text: more replies
+                        - img [ref=e645]
+              - article "Comment from AlpacaKiller 5 days ago" [ref=e648]:
+                - generic "AlpacaKiller's profile --- avatar AlpacaKiller's profile 5d ago" [ref=e649] [cursor=pointer]:
+                  - link "AlpacaKiller's profile --- avatar" [ref=e654]:
+                    - /url: https://www.reddit.com/user/AlpacaKiller/
+                    - img "u/AlpacaKiller avatar" [ref=e657]
+                  - generic [ref=e661]:
+                    - link "AlpacaKiller's profile" [ref=e664]:
+                      - /url: https://www.reddit.com/user/AlpacaKiller/
+                      - text: AlpacaKiller
+                    - generic [ref=e665]: •
+                    - link "5d ago" [ref=e667]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/orml6by/
+                      - time [ref=e669]: 5d ago
+                - generic [ref=e671]:
+                  - paragraph [ref=e675]: "To me it seemed like a lament: \"maybe Erwin or Armin or Hange would have figure out a better way with this, but I am just an idiot who didn't know any better\" type shit"
+                  - generic [ref=e677]:
+                    - img [ref=e678]
+                    - generic [ref=e680]: "42"
+                    - img [ref=e681]
+              - article "Comment from HeroBrine0907 5 days ago" [ref=e684]:
+                - generic "HeroBrine0907's profile --- avatar HeroBrine0907's profile 5d ago" [ref=e685] [cursor=pointer]:
+                  - link "HeroBrine0907's profile --- avatar" [ref=e690]:
+                    - /url: https://www.reddit.com/user/HeroBrine0907/
+                    - img "u/HeroBrine0907 avatar" [ref=e693]
+                  - generic [ref=e697]:
+                    - link "HeroBrine0907's profile" [ref=e700]:
+                      - /url: https://www.reddit.com/user/HeroBrine0907/
+                      - text: HeroBrine0907
+                    - generic [ref=e701]: •
+                    - link "5d ago" [ref=e703]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormix7a/
+                      - time [ref=e705]: 5d ago
+                - generic [ref=e707]:
+                  - generic [ref=e710]:
+                    - paragraph [ref=e711]: You can decide on yourself whether you only want to judge him by his words or analyse his character as a whole, including his actions. People choose to do either, which is one of the primary ways people's opinions diverge in the fandom.
+                    - paragraph [ref=e712]: My opinion is that he is an idiot in that his actions, in the end, were not for a greater cause, for a future or a society. They were selfish, for the people he cared about.
+                    - paragraph [ref=e713]: He is a garden variety idiot in that he couldve changed the world with his power but he couldnt. It's him observing and admitting a failure. I think it is a fair observation, in that while his choices were not moral, they were understandable, a human reaction to years of trauna, hate and unfairness.
+                    - paragraph [ref=e714]: All I hate is that people reduce his motivations to being an idiot, when he's really talking about the power he gained and used because he, in his humanity lets be honest, couldnt see past his own selfish desires.
+                  - generic [ref=e716]:
+                    - img [ref=e717]
+                    - generic [ref=e719]: "3"
+                    - img [ref=e720]
+                  - button "2 more replies" [ref=e725] [cursor=pointer]:
+                    - generic [ref=e728]:
+                      - generic [ref=e730]:
+                        - generic [ref=e731]: "2"
+                        - text: more replies
+                      - img [ref=e732]
+              - article "Comment from WelcomeLive9732 5 days ago" [ref=e735]:
+                - generic "WelcomeLive9732's profile --- avatar WelcomeLive9732's profile 5d ago" [ref=e736] [cursor=pointer]:
+                  - link "WelcomeLive9732's profile --- avatar" [ref=e741]:
+                    - /url: https://www.reddit.com/user/WelcomeLive9732/
+                    - img "u/WelcomeLive9732 avatar" [ref=e744]
+                  - generic [ref=e748]:
+                    - link "WelcomeLive9732's profile" [ref=e751]:
+                      - /url: https://www.reddit.com/user/WelcomeLive9732/
+                      - text: WelcomeLive9732
+                    - generic [ref=e752]: •
+                    - link "5d ago" [ref=e754]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormjah3/
+                      - time [ref=e756]: 5d ago
+                - generic [ref=e758]:
+                  - generic [ref=e761]:
+                    - paragraph [ref=e762]: This is why I like Attack in Titan because the characters are so human. We all have dark thoughts and impulses but we don't act on them because we don't want to deal with the consequences of those actions or we simply lack the power to act on those thoughts.
+                    - paragraph [ref=e763]: Eren has the power and doesn't have to worry about the consequences. His entire life his main motivation is freedom. But his version of freedom is a wild untamed world free of humans. He thought that would be Paradise compared to living in the walls. He hated the titans for keeping him contained in those walls. But when he finally escapes those walls he discovered the freedom he dreamt of never existed in the first place. The world within the walls and the world outside the walls are the same.
+                    - paragraph [ref=e764]: The only way to get the freedom he wanted was The Rumbling. Humanity would be gone and a wild untamed world would be left behind. He even manages to find a future where titans no longer exist and Mikasa and Armin get to live. But at the cost of so many others. Eren knows what he is doing is wrong. He knows if anyone else has this power they would have found a better way. But that would involve making sacrifices he didn't want to make. Which is why he gave into his dark impulses and did the Rumbling. Even going so far as to manipulate his past self onto this path. Basically enslaving himself. He tries to justify it by claiming he had no other way. But that's a lie. He had no other way because he wouldn't allow himself to have another way. He did it because he wanted to do it. That what he means when he says he is an idiot with too much power. .
+                  - generic [ref=e766]:
+                    - img [ref=e767]
+                    - generic [ref=e769]: "29"
+                    - img [ref=e770]
+              - article "Comment from Cute_Blackberry2909 5 days ago" [ref=e773]:
+                - generic "Cute_Blackberry2909's profile --- avatar Cute_Blackberry2909's profile 5d ago" [ref=e774] [cursor=pointer]:
+                  - link "Cute_Blackberry2909's profile --- avatar" [ref=e779]:
+                    - /url: https://www.reddit.com/user/Cute_Blackberry2909/
+                    - img "u/Cute_Blackberry2909 avatar" [ref=e782]
+                  - generic [ref=e786]:
+                    - link "Cute_Blackberry2909's profile" [ref=e789]:
+                      - /url: https://www.reddit.com/user/Cute_Blackberry2909/
+                      - text: Cute_Blackberry2909
+                    - generic [ref=e790]: •
+                    - link "5d ago" [ref=e792]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormhiyp/
+                      - time [ref=e794]: 5d ago
+                - generic [ref=e796]:
+                  - generic [ref=e799]:
+                    - paragraph [ref=e800]: I don't know i could be wrong
+                    - paragraph [ref=e801]: But i always thought that one of the key driving force of his "freedom" was the dream of the outside world that Armin showed him as a child, the sea the volcanoes everything
+                    - paragraph [ref=e802]: Vast land empty to be discovered
+                    - paragraph [ref=e803]: Now when the outside world did turn out to be true but rather filled with humanity that hates them to the core , to Eren that dream was shattered
+                    - paragraph [ref=e804]: That coupled with the fact that how horrific Eldians were treated, so to achieve his version of freedom, Eren decided to kill the rest of the humanity, to make the outside world he empty as he dreamt with Armin
+                    - paragraph [ref=e805]: Which is kind of a stupid reason
+                  - generic [ref=e807]:
+                    - img [ref=e808]
+                    - generic [ref=e810]: "28"
+                    - img [ref=e811]
+              - article "Comment from glazedonions 5 days ago" [ref=e814]:
+                - generic "glazedonions's profile --- avatar glazedonions's profile 5d ago" [ref=e815] [cursor=pointer]:
+                  - link "glazedonions's profile --- avatar" [ref=e820]:
+                    - /url: https://www.reddit.com/user/glazedonions/
+                    - img [ref=e825]
+                  - generic [ref=e830]:
+                    - link "glazedonions's profile" [ref=e833]:
+                      - /url: https://www.reddit.com/user/glazedonions/
+                      - text: glazedonions
+                    - generic [ref=e834]: •
+                    - link "5d ago" [ref=e836]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormn0q8/
+                      - time [ref=e838]: 5d ago
+                - generic [ref=e840]:
+                  - paragraph [ref=e844]: In my opinion you are meant to be disappointed, the story is intentionally subverting the first half of s4 where eren is portrayed as a masterminding competent badass. Eren like all perpetrators of mass political violence is a kind of banal evil, he wasn’t born pure evil at heart but in the end does evil out of selfishness and laziness. I think when a show portrays disappointment and mediocrity that can be intentional and saying smth about humans. What’s also important about the ending is the other end of it, that in the end Armin is STILL trying to find another solution in spite of everything they’ve been through
+                  - generic [ref=e846]:
+                    - img [ref=e847]
+                    - generic [ref=e849]: "9"
+                    - img [ref=e850]
+              - article "Comment from profesorgamin 5 days ago" [ref=e853]:
+                - generic "profesorgamin's profile --- avatar profesorgamin's profile 5d ago" [ref=e854] [cursor=pointer]:
+                  - link "profesorgamin's profile --- avatar" [ref=e859]:
+                    - /url: https://www.reddit.com/user/profesorgamin/
+                    - img [ref=e864]
+                  - generic [ref=e869]:
+                    - link "profesorgamin's profile" [ref=e872]:
+                      - /url: https://www.reddit.com/user/profesorgamin/
+                      - text: profesorgamin
+                    - generic [ref=e873]: •
+                    - link "5d ago" [ref=e875]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormhgeo/
+                      - time [ref=e877]: 5d ago
+                - generic [ref=e879]:
+                  - generic [ref=e882]:
+                    - paragraph [ref=e883]: I've said this before but just think about it, why do nations really fight?
+                    - paragraph [ref=e884]: If you had a lot of magical power could you actually improve the world?
+                    - paragraph [ref=e885]: Could someone like Musk solve homelessness even if he wanted/tried?
+                    - paragraph [ref=e886]: Eren saw an out for one little war but it was beyond his capabilities to really solve the conflict. And such things are out of the hands of regular humans... probably. Just remember the after credits and all the "natural world" scenes we get.
+                  - generic [ref=e888]:
+                    - img [ref=e889]
+                    - generic [ref=e891]: "13"
+                    - img [ref=e892]
+              - article "Comment from Cismet 5 days ago" [ref=e895]:
+                - generic "Cismet's profile --- avatar Cismet's profile 5d ago" [ref=e896] [cursor=pointer]:
+                  - link "Cismet's profile --- avatar" [ref=e901]:
+                    - /url: https://www.reddit.com/user/Cismet/
+                    - img "u/Cismet avatar" [ref=e904]
+                  - generic [ref=e908]:
+                    - link "Cismet's profile" [ref=e911]:
+                      - /url: https://www.reddit.com/user/Cismet/
+                      - text: Cismet
+                    - generic [ref=e912]: •
+                    - link "5d ago" [ref=e914]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormi7hk/
+                      - time [ref=e916]: 5d ago
+                - generic [ref=e918]:
+                  - paragraph [ref=e922]: Because it’s not the only reason. We kinda see Eren’s thoughts unfolded, and it’s all over the place, fumbling over each other, as expected tbh. Like have you ever justified it 1 way of thought but then different and maybe better justification for another way of thinking props up and the cycle repeats. It could even be deciding to go to school or work for the day that you’re not feeling 100%. You end up debating yourself, giving yourself 100 different reasons and “outs”, etc. That was Eren, he says he did it for his friends, he did it for the island, he did it for himself, he was locked into the fate, that he played a role in the destiny, and that he’s an idiot in general. All those things and more can be true at the same time.
+                  - generic [ref=e924]:
+                    - img [ref=e925]
+                    - generic [ref=e927]: "6"
+                    - img [ref=e928]
+              - article "Comment from Medical_Action_9320 5 days ago" [ref=e931]:
+                - generic "Medical_Action_9320's profile --- avatar Medical_Action_9320's profile 5d ago" [ref=e932] [cursor=pointer]:
+                  - link "Medical_Action_9320's profile --- avatar" [ref=e937]:
+                    - /url: https://www.reddit.com/user/Medical_Action_9320/
+                    - img "u/Medical_Action_9320 avatar" [ref=e940]
+                  - generic [ref=e944]:
+                    - link "Medical_Action_9320's profile" [ref=e947]:
+                      - /url: https://www.reddit.com/user/Medical_Action_9320/
+                      - text: Medical_Action_9320
+                    - generic [ref=e948]: •
+                    - link "5d ago" [ref=e950]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormfchg/
+                      - time [ref=e952]: 5d ago
+                - generic [ref=e954]:
+                  - paragraph [ref=e958]: Watch erens character analyzation on youtube, its a pretty long video but that will make you understand everything
+                  - generic [ref=e960]:
+                    - img [ref=e961]
+                    - generic [ref=e963]: "14"
+                    - img [ref=e964]
+                  - img
+                  - 'article "Comment thread level 1: Reply from Signal-Individual-88 5 days ago" [ref=e968]':
+                    - generic "Signal-Individual-88's profile --- avatar Signal-Individual-88's profile 5d ago" [ref=e969] [cursor=pointer]:
+                      - link "Signal-Individual-88's profile --- avatar" [ref=e974]:
+                        - /url: https://www.reddit.com/user/Signal-Individual-88/
+                        - img "u/Signal-Individual-88 avatar" [ref=e977]
+                      - generic [ref=e981]:
+                        - link "Signal-Individual-88's profile" [ref=e984]:
+                          - /url: https://www.reddit.com/user/Signal-Individual-88/
+                          - text: Signal-Individual-88
+                        - generic [ref=e985]: •
+                        - link "5d ago" [ref=e987]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormfjfv/
+                          - time [ref=e989]: 5d ago
+                    - generic [ref=e991]:
+                      - paragraph [ref=e995]: Link?
+                      - generic [ref=e997]:
+                        - img [ref=e998]
+                        - generic [ref=e1000]: "6"
+                        - img [ref=e1001]
+                      - button "7 more replies" [ref=e1006] [cursor=pointer]:
+                        - generic [ref=e1009]:
+                          - generic [ref=e1011]:
+                            - generic [ref=e1012]: "7"
+                            - text: more replies
+                          - img [ref=e1013]
+              - article "Comment from solrac1104 5 days ago" [ref=e1016]:
+                - generic "solrac1104's profile --- avatar solrac1104's profile 5d ago" [ref=e1017] [cursor=pointer]:
+                  - link "solrac1104's profile --- avatar" [ref=e1022]:
+                    - /url: https://www.reddit.com/user/solrac1104/
+                    - img "u/solrac1104 avatar" [ref=e1025]
+                  - generic [ref=e1029]:
+                    - link "solrac1104's profile" [ref=e1032]:
+                      - /url: https://www.reddit.com/user/solrac1104/
+                      - text: solrac1104
+                    - generic [ref=e1033]: •
+                    - link "5d ago" [ref=e1035]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormlf7r/
+                      - time [ref=e1037]: 5d ago
+                - generic [ref=e1039]:
+                  - paragraph [ref=e1043]: I mean I think it's just Eren oversimplifying his own motives and psyche. I don't really take it literal. But it's true that Eren at the end of the day is still that little boy who can't stand having his freedom taken away and basically becomes a slave to this obsession. I think this is Eren having a moment of clarity with his own violent acts.
+                  - generic [ref=e1045]:
+                    - img [ref=e1046]
+                    - generic [ref=e1048]: "3"
+                    - img [ref=e1049]
+              - article "Comment from feetfinder6 5 days ago" [ref=e1052]:
+                - generic "feetfinder6's profile --- avatar feetfinder6's profile 5d ago" [ref=e1053] [cursor=pointer]:
+                  - link "feetfinder6's profile --- avatar" [ref=e1058]:
+                    - /url: https://www.reddit.com/user/feetfinder6/
+                    - img "u/feetfinder6 avatar" [ref=e1061]
+                  - generic [ref=e1065]:
+                    - link "feetfinder6's profile" [ref=e1068]:
+                      - /url: https://www.reddit.com/user/feetfinder6/
+                      - text: feetfinder6
+                    - generic [ref=e1069]: •
+                    - link "5d ago" [ref=e1071]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormypzc/
+                      - time [ref=e1073]: 5d ago
+                - generic [ref=e1075]:
+                  - paragraph [ref=e1079]: I think you’re just taking it at face value. Obviously he’s oversimplifying it since had many reasons to do what he did, not just “hurr durr I’m an idiot”. One of the points of the show is that people are just perpetuating a cycle of hatred started by other people a long time ago. Is there any good reason for that to have started in the first place?
+                  - generic [ref=e1081]:
+                    - img [ref=e1082]
+                    - generic [ref=e1084]: "3"
+                    - img [ref=e1085]
+              - article "Comment from FNSquatch 5 days ago" [ref=e1088]:
+                - generic "FNSquatch's profile --- avatar FNSquatch's profile 5d ago" [ref=e1089] [cursor=pointer]:
+                  - link "FNSquatch's profile --- avatar" [ref=e1094]:
+                    - /url: https://www.reddit.com/user/FNSquatch/
+                    - img [ref=e1099]
+                  - generic [ref=e1104]:
+                    - link "FNSquatch's profile" [ref=e1107]:
+                      - /url: https://www.reddit.com/user/FNSquatch/
+                      - text: FNSquatch
+                    - generic [ref=e1108]: •
+                    - link "5d ago" [ref=e1110]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/orpoocf/
+                      - time [ref=e1112]: 5d ago
+                - generic [ref=e1114]:
+                  - paragraph [ref=e1118]: It’s honestly the best reason. He’s just a person. No person could handle the level of responsibility and power he was given, as a child too.
+                  - generic [ref=e1120]:
+                    - img [ref=e1121]
+                    - generic [ref=e1123]: "3"
+                    - img [ref=e1124]
+              - article "Comment from North_Ad1934 5 days ago" [ref=e1127]:
+                - generic "North_Ad1934's profile --- avatar North_Ad1934's profile 5d ago" [ref=e1128] [cursor=pointer]:
+                  - link "North_Ad1934's profile --- avatar" [ref=e1133]:
+                    - /url: https://www.reddit.com/user/North_Ad1934/
+                    - img "u/North_Ad1934 avatar" [ref=e1136]
+                  - generic [ref=e1140]:
+                    - link "North_Ad1934's profile" [ref=e1143]:
+                      - /url: https://www.reddit.com/user/North_Ad1934/
+                      - text: North_Ad1934
+                    - generic [ref=e1144]: •
+                    - link "5d ago" [ref=e1146]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ormgvbr/
+                      - time [ref=e1148]: 5d ago
+                - generic [ref=e1150]:
+                  - paragraph [ref=e1154]: He’s saying he’s an idiot because he could never fully grasp the power he was forced to have. Yall need to learn media literacy
+                  - generic [ref=e1156]:
+                    - img [ref=e1157]
+                    - generic [ref=e1159]: "8"
+                    - img [ref=e1160]
+              - article "Comment from fear_no_man25 5 days ago" [ref=e1163]:
+                - generic "fear_no_man25's profile --- avatar fear_no_man25's profile 5d ago" [ref=e1164] [cursor=pointer]:
+                  - link "fear_no_man25's profile --- avatar" [ref=e1169]:
+                    - /url: https://www.reddit.com/user/fear_no_man25/
+                    - img [ref=e1174]
+                  - generic [ref=e1179]:
+                    - link "fear_no_man25's profile" [ref=e1182]:
+                      - /url: https://www.reddit.com/user/fear_no_man25/
+                      - text: fear_no_man25
+                    - generic [ref=e1183]: •
+                    - link "5d ago" [ref=e1185]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/orni4ma/
+                      - time [ref=e1187]: 5d ago
+                - generic [ref=e1189]:
+                  - generic [ref=e1192]:
+                    - paragraph [ref=e1193]: the last two episodes are central to understand Eren.
+                    - paragraph [ref=e1194]: The manga was too open for interpretation. Isayama felt like he needed to make things clearer, and he did so.
+                    - paragraph [ref=e1195]: Basically, Eren grand realization is the fact that he did what he did not because of Paradis. Not because it was the right thing to do. But because it's what he wanted to do. That's what many fans don't get. That's why the question "was Eren justified or not?" is the wrong question.
+                    - paragraph [ref=e1196]: He wanted to level everything. It was the sight he dreamed of the entire time. A huge, open land. Without war, without titans, without people (for good or bad) - nothing but mountains and forests and rivers and lava. It was not only the physical sight, but a promise of a world he wished for.
+                    - paragraph [ref=e1197]: He discovers this world doesn't exist, and this infuriates him. He explains it - he hated that there were ppl on the other side. He hated it. And, he had the power to change it.
+                    - paragraph [ref=e1198]: "Thus, he exerts his freedom. A very specific kind of freedom: the freedom to truly do your deepest wish, regardless of consequences, regardless of right or wrong, or social expectations. Which is why, at the same time, he admits it's a form of slavery. Slavery to freedom. Since he is acting upon his instincts and desires instead of what he rationalize knows to be right or wrong, it's simultaneously freedom, AND imprisonment, depending on how you look at it. He recreates the entire sequence in his mind an untold number of times and he ends up doing the Rumbling everytime. He can't change the outcome - and he realizes he can't, because in the end he is still him, he still can't win against his deepest desire, and he still is the person who holds the power to act on it."
+                    - paragraph [ref=e1199]: Which he translates to... I always do it because in the end I'm always an idiot.
+                  - generic [ref=e1201]:
+                    - img [ref=e1202]
+                    - generic [ref=e1204]: "2"
+                    - img [ref=e1205]
+              - article "Comment from One-Ad-7122 5 days ago" [ref=e1208]:
+                - generic "One-Ad-7122's profile --- avatar One-Ad-7122's profile 5d ago" [ref=e1209] [cursor=pointer]:
+                  - link "One-Ad-7122's profile --- avatar" [ref=e1214]:
+                    - /url: https://www.reddit.com/user/One-Ad-7122/
+                    - img [ref=e1219]
+                  - generic [ref=e1224]:
+                    - link "One-Ad-7122's profile" [ref=e1227]:
+                      - /url: https://www.reddit.com/user/One-Ad-7122/
+                      - text: One-Ad-7122
+                    - generic [ref=e1228]: •
+                    - link "5d ago" [ref=e1230]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/comment/ornzzxp/
+                      - time [ref=e1232]: 5d ago
+                - generic [ref=e1234]:
+                  - generic [ref=e1237]:
+                    - paragraph [ref=e1238]: He convinced himself that he was doing it for eldia, in reality he had pent up hatred and wanted to take it out on someone while feeling right about himself.
+                    - paragraph [ref=e1239]: Only at death's door he realised that he was lying to himself.
+                    - paragraph [ref=e1240]: He's a 19 year old stupid kid that failed to grow up and talk things out.
+                    - paragraph [ref=e1241]: Also because he is stupid, he cannot explain it better.
+                  - generic [ref=e1243]:
+                    - img [ref=e1244]
+                    - generic [ref=e1246]: "2"
+                    - img [ref=e1247]
+        - generic [ref=e1252]:
+          - generic [ref=e1253]:
+            - complementary "People also ask about section" [ref=e1255]:
+              - heading "People also ask about section" [level=1] [ref=e1256]
+              - generic [ref=e1257]:
+                - img [ref=e1259]
+                - generic [ref=e1261]: People also ask about
+              - generic [ref=e1262]:
+                - generic [ref=e1264]:
+                  - generic [ref=e1265]:
+                    - generic [ref=e1266]: Most shocking moments in Attack on Titan
+                    - generic [ref=e1267]:
+                      - paragraph [ref=e1268]:
+                        - text: To identify the most shocking moments in
+                        - emphasis [ref=e1269]: Attack on Titan
+                        - text: ", consider scenes that deliver unexpected plot twists, horrific imagery, or intense emotional impact."
+                      - heading "Unexpected Revelations and Betrayals" [level=3] [ref=e1270]
+                      - list [ref=e1271]:
+                        - listitem [ref=e1272]:
+                          - paragraph [ref=e1273]:
+                            - strong [ref=e1274]: The Colossal and Armored Titan reveal
+                            - text: was a massive shock to viewers, fundamentally changing the understanding of the show's conflict. "Its hard to beat the Reiner and Bert reveal"
+                        - listitem [ref=e1275]:
+                          - paragraph [ref=e1276]:
+                            - strong [ref=e1277]: Eren manipulating Grisha to kill the Reiss family
+                            - text: completely redefined Eren's character and motivations. "Finding out Eren is the one who pushed Grisha to kill the Reiss family."
+                        - listitem [ref=e1278]:
+                          - paragraph [ref=e1279]:
+                            - strong [ref=e1280]: The Beast Titan's first appearance
+                            - text: was shocking due to its intelligent, human-like behavior and ability to speak. "The Beast Titan legit had me shooketh."
+                      - heading "Horrific and Disturbing Imagery" [level=3] [ref=e1281]
+                      - list [ref=e1282]:
+                        - listitem [ref=e1283]:
+                          - paragraph [ref=e1284]:
+                            - strong [ref=e1285]: Mike Zacharias's death
+                            - text: is frequently cited as one of the most brutal and disturbing, showing him helpless and terrified before being devoured. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e1286]:
+                          - paragraph [ref=e1287]:
+                            - strong [ref=e1288]: Kaya witnessing her mother being eaten alive
+                            - text: left a lasting impact due to the prolonged suffering and the child's helplessness. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e1289]:
+                          - paragraph [ref=e1290]:
+                            - strong [ref=e1291]: The Rumbling
+                            - text: presented an apocalyptic scale of horror, with countless innocent lives being crushed. "The Rumbling was like the one of the most horrifying end of the world moment I’ve ever seen watching all those people trying to escape even attack each other in a futile attempt to escape and even a women crying in terror and despair with her kids made me speechless and sick probably moreso than Faye or Nanaba’s deaths"
+                      - heading "Emotional Impact and Character Trauma" [level=3] [ref=e1292]
+                      - list [ref=e1293]:
+                        - listitem [ref=e1294]:
+                          - paragraph [ref=e1295]:
+                            - strong [ref=e1296]: Nanaba's psychological breakdown
+                            - text: before her death, regressing to a terrified child, was deeply disturbing. "Nanaba screaming "father, please, no, i'll be good", having a full on trauma induced regression to a childhood memory as shes about to be eaten."
+                        - listitem [ref=e1297]:
+                          - paragraph [ref=e1298]:
+                            - strong [ref=e1299]: Hannah attempting CPR on Franz
+                            - text: ", who was missing the lower half of his body, highlighted the grim realities of battle. \"this was disturbing.Hannah giving cpr to franz. the view in anime is blocked by armin in the anime\""
+                        - listitem [ref=e1300]:
+                          - paragraph [ref=e1301]:
+                            - strong [ref=e1302]: Marco's betrayal and death
+                            - text: was a crushing moment, showing the harshness of a war where former comrades turn on each other. "Being betrayed by not one, not two, but THREE people who you believed were your comrades and friends is just so crushing."
+                      - paragraph [ref=e1303]: Do you think the earlier seasons had more shocking moments due to the initial mystery of the titans?
+                      - separator [ref=e1304]
+                  - link "Show More" [ref=e1309] [cursor=pointer]:
+                    - /url: https://www.reddit.com/answers/186040ef-642a-4c1d-8c8b-8677a3a082fc/?q=Most+shocking+moments+in+Attack+on+Titan&source=PDP
+                    - generic [ref=e1311]: Show More
+                - link "Character arcs that surprised fans the most" [ref=e1313] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/d295c5ea-cca9-4a25-bbeb-0edc5fbca7d1/?q=Character+arcs+that+surprised+fans+the+most&source=PDP
+                  - generic [ref=e1316]: Character arcs that surprised fans the most
+                  - img [ref=e1319]
+                - link "Best fan theories about the series" [ref=e1322] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/4b1ce891-1625-4442-9642-14e89d56952d/?q=Best+fan+theories+about+the+series&source=PDP
+                  - generic [ref=e1325]: Best fan theories about the series
+                  - img [ref=e1328]
+                - link "Impact of Attack on Titan on anime culture" [ref=e1331] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/78541a60-a5d5-4b8a-8906-b80df50a0104/?q=Impact+of+Attack+on+Titan+on+anime+culture&source=PDP
+                  - generic [ref=e1334]: Impact of Attack on Titan on anime culture
+                  - img [ref=e1337]
+                - link "Favorite Titan transformations and why" [ref=e1340] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/3b807bbe-7509-4ae4-8d1f-1cadab46d903/?q=Favorite+Titan+transformations+and+why&source=PDP
+                  - generic [ref=e1343]: Favorite Titan transformations and why
+                  - img [ref=e1346]
+            - complementary "Related Posts Section" [ref=e1348]:
+              - heading "Related Posts Section" [level=1] [ref=e1349]: More posts you may like
+              - generic [ref=e1350]: Related posts
+              - list [ref=e1356]:
+                - listitem [ref=e1357]:
+                  - generic [ref=e1358]:
+                    - generic [ref=e1359]:
+                      - link "Tf just happened here???" [ref=e1360] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/Agenda_Impact/comments/1ta08km/tf_just_happened_here/
+                        - generic [ref=e1361]:
+                          - generic: Tf just happened here???
+                      - generic [ref=e1362]:
+                        - generic [ref=e1363]:
+                          - generic [ref=e1365]:
+                            - link "r/Agenda_Impact" [ref=e1366] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/Agenda_Impact/
+                              - generic [ref=e1370]: r/Agenda_Impact
+                            - generic [ref=e1371]: •
+                            - time [ref=e1373]: 1mo ago
+                          - link "List item post - Tf just happened here???" [ref=e1375] [cursor=pointer]:
+                            - /url: /r/Agenda_Impact/comments/1ta08km/tf_just_happened_here/
+                            - heading "List item post - Tf just happened here???" [level=3] [ref=e1378]: Tf just happened here???
+                        - generic [ref=e1380]:
+                          - link "r/Agenda_Impact - Tf just happened here???" [ref=e1381] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/Agenda_Impact/comments/1ta08km/tf_just_happened_here/
+                            - img "r/Agenda_Impact - Tf just happened here???" [ref=e1382]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1384]:
+                        - generic [ref=e1385]: "37"
+                        - text: upvotes ·
+                        - generic [ref=e1386]: "19"
+                        - text: comments
+                    - separator [ref=e1387]
+                - listitem [ref=e1388]:
+                  - generic [ref=e1389]:
+                    - generic [ref=e1390]:
+                      - link "WDYM ?????" [ref=e1391] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/MadhurModel/comments/1u5p24f/wdym/
+                        - generic [ref=e1392]:
+                          - generic: WDYM ?????
+                      - generic [ref=e1393]:
+                        - generic [ref=e1394]:
+                          - generic [ref=e1396]:
+                            - link "r/MadhurModel" [ref=e1397] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/MadhurModel/
+                              - generic [ref=e1401]: r/MadhurModel
+                            - generic [ref=e1402]: •
+                            - time [ref=e1404]: 5d ago
+                          - link "List item post - WDYM ?????" [ref=e1406] [cursor=pointer]:
+                            - /url: /r/MadhurModel/comments/1u5p24f/wdym/
+                            - heading "List item post - WDYM ?????" [level=3] [ref=e1409]: WDYM ?????
+                        - generic [ref=e1411]:
+                          - link "r/MadhurModel - WDYM ?????" [ref=e1412] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/MadhurModel/comments/1u5p24f/wdym/
+                            - img "r/MadhurModel - WDYM ?????" [ref=e1413]
+                          - generic:
+                            - img
+                            - generic: 0:45
+                      - generic [ref=e1415]:
+                        - generic [ref=e1416]: "45"
+                        - text: upvotes ·
+                        - generic [ref=e1417]: "9"
+                        - text: comments
+                    - separator [ref=e1418]
+                - listitem [ref=e1419]:
+                  - generic [ref=e1420]:
+                    - generic [ref=e1421]:
+                      - link "I really wonder if those adjustments and improvements were necessary???" [ref=e1422] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/marvelrivals/comments/1tb74e4/i_really_wonder_if_those_adjustments_and/
+                        - generic [ref=e1423]:
+                          - generic: I really wonder if those adjustments and improvements were necessary???
+                      - generic [ref=e1424]:
+                        - generic [ref=e1425]:
+                          - generic [ref=e1427]:
+                            - link "r/marvelrivals" [ref=e1428] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/marvelrivals/
+                              - generic [ref=e1432]: r/marvelrivals
+                            - generic [ref=e1433]: •
+                            - time [ref=e1435]: 1mo ago
+                          - link "List item post - I really wonder if those adjustments and improvements were ..." [ref=e1437] [cursor=pointer]:
+                            - /url: /r/marvelrivals/comments/1tb74e4/i_really_wonder_if_those_adjustments_and/
+                            - heading "List item post - I really wonder if those adjustments and improvements were ..." [level=3] [ref=e1440]: I really wonder if those adjustments and improvements were necessary???
+                        - link "r/marvelrivals - I really wonder if those adjustments and improvements were necessary???" [ref=e1443] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/marvelrivals/comments/1tb74e4/i_really_wonder_if_those_adjustments_and/
+                          - img "r/marvelrivals - I really wonder if those adjustments and improvements were necessary???" [ref=e1444]
+                      - generic [ref=e1446]:
+                        - generic [ref=e1447]: "12"
+                        - text: upvotes ·
+                        - generic [ref=e1448]: "43"
+                        - text: comments
+                    - separator [ref=e1449]
+                - listitem
+                - listitem [ref=e1450]:
+                  - generic [ref=e1451]:
+                    - generic [ref=e1452]:
+                      - link "I'm confused asf... Bots piloting your castle?? WTF" [ref=e1453] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/CastleBusters/comments/1tk5zm3/im_confused_asf_bots_piloting_your_castle_wtf/
+                        - generic [ref=e1454]:
+                          - generic: I'm confused asf... Bots piloting your castle?? WTF
+                      - generic [ref=e1456]:
+                        - generic [ref=e1458]:
+                          - link "r/CastleBusters" [ref=e1459] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/CastleBusters/
+                            - generic [ref=e1463]: r/CastleBusters
+                          - generic [ref=e1464]: •
+                          - time [ref=e1466]: 1mo ago
+                        - link "List item post - I'm confused asf... Bots piloting your castle?? WTF" [ref=e1468] [cursor=pointer]:
+                          - /url: /r/CastleBusters/comments/1tk5zm3/im_confused_asf_bots_piloting_your_castle_wtf/
+                          - heading "List item post - I'm confused asf... Bots piloting your castle?? WTF" [level=3] [ref=e1471]: I'm confused asf... Bots piloting your castle?? WTF
+                      - generic [ref=e1473]:
+                        - generic [ref=e1474]: "17"
+                        - text: comments
+                    - separator [ref=e1475]
+                - listitem [ref=e1476]:
+                  - generic [ref=e1477]:
+                    - generic [ref=e1478]:
+                      - link "What the Fuck is my type???" [ref=e1479] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/NoStupidQuestions/comments/1sxmwfd/what_the_fuck_is_my_type/
+                        - generic [ref=e1480]:
+                          - generic: What the Fuck is my type???
+                      - generic [ref=e1482]:
+                        - generic [ref=e1484]:
+                          - link "r/NoStupidQuestions" [ref=e1485] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/NoStupidQuestions/
+                            - generic [ref=e1489]: r/NoStupidQuestions
+                          - generic [ref=e1490]: •
+                          - time [ref=e1492]: 2mo ago
+                        - link "List item post - What the Fuck is my type???" [ref=e1494] [cursor=pointer]:
+                          - /url: /r/NoStupidQuestions/comments/1sxmwfd/what_the_fuck_is_my_type/
+                          - heading "List item post - What the Fuck is my type???" [level=3] [ref=e1497]: What the Fuck is my type???
+                      - generic [ref=e1499]:
+                        - generic [ref=e1500]: "7"
+                        - text: comments
+                    - separator [ref=e1501]
+                - listitem [ref=e1502]:
+                  - generic [ref=e1503]:
+                    - generic [ref=e1504]:
+                      - link "Is this a foreshadowing?" [ref=e1505] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1r8zvzb/is_this_a_foreshadowing/
+                        - generic [ref=e1506]:
+                          - generic: Is this a foreshadowing?
+                      - generic [ref=e1507]:
+                        - generic [ref=e1508]:
+                          - generic [ref=e1510]:
+                            - link "r/attackontitan" [ref=e1511] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1515]: r/attackontitan
+                            - generic [ref=e1516]: •
+                            - time [ref=e1518]: 4mo ago
+                          - link "List item post - Is this a foreshadowing?" [ref=e1520] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1r8zvzb/is_this_a_foreshadowing/
+                            - heading "List item post - Is this a foreshadowing?" [level=3] [ref=e1523]: Is this a foreshadowing?
+                        - generic [ref=e1525]:
+                          - link "r/attackontitan - Is this a foreshadowing?" [ref=e1526] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1r8zvzb/is_this_a_foreshadowing/
+                            - img "r/attackontitan - Is this a foreshadowing?" [ref=e1527]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1529]:
+                        - generic [ref=e1530]: 1.2K
+                        - text: upvotes ·
+                        - generic [ref=e1531]: "18"
+                        - text: comments
+                    - separator [ref=e1532]
+                - listitem [ref=e1533]:
+                  - generic [ref=e1534]:
+                    - generic [ref=e1535]:
+                      - link "did yall see this?" [ref=e1536] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qo6omx/did_yall_see_this/
+                        - generic [ref=e1537]:
+                          - generic: did yall see this?
+                      - generic [ref=e1538]:
+                        - generic [ref=e1539]:
+                          - generic [ref=e1541]:
+                            - link "r/attackontitan" [ref=e1542] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1546]: r/attackontitan
+                            - generic [ref=e1547]: •
+                            - time [ref=e1549]: 5mo ago
+                          - link "SPOILER List item post - did yall see this?" [ref=e1551] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1qo6omx/did_yall_see_this/
+                            - generic [ref=e1553]:
+                              - generic [ref=e1555]:
+                                - img [ref=e1557]
+                                - generic [ref=e1559]: SPOILER
+                              - heading "List item post - did yall see this?" [level=3] [ref=e1560]: did yall see this?
+                        - generic [ref=e1562]:
+                          - link "r/attackontitan - did yall see this?" [ref=e1563] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1qo6omx/did_yall_see_this/
+                            - img "r/attackontitan - did yall see this?" [ref=e1564]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1566]:
+                        - generic [ref=e1567]: "775"
+                        - text: upvotes ·
+                        - generic [ref=e1568]: "33"
+                        - text: comments
+                    - separator [ref=e1569]
+                - listitem [ref=e1570]:
+                  - generic [ref=e1571]:
+                    - generic [ref=e1572]:
+                      - link "Is this true…?" [ref=e1573] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1s8ouyq/is_this_true/
+                        - generic [ref=e1574]:
+                          - generic: Is this true…?
+                      - generic [ref=e1575]:
+                        - generic [ref=e1576]:
+                          - generic [ref=e1578]:
+                            - link "r/attackontitan" [ref=e1579] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1583]: r/attackontitan
+                            - generic [ref=e1584]: •
+                            - time [ref=e1586]: 3mo ago
+                          - link "List item post - Is this true…?" [ref=e1588] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1s8ouyq/is_this_true/
+                            - heading "List item post - Is this true…?" [level=3] [ref=e1591]: Is this true…?
+                        - link "r/attackontitan - Is this true…?" [ref=e1594] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1s8ouyq/is_this_true/
+                          - img "r/attackontitan - Is this true…?" [ref=e1595]
+                      - generic [ref=e1597]:
+                        - generic [ref=e1598]: "426"
+                        - text: upvotes ·
+                        - generic [ref=e1599]: "17"
+                        - text: comments
+                    - separator [ref=e1600]
+                - listitem
+                - listitem [ref=e1601]:
+                  - generic [ref=e1602]:
+                    - generic [ref=e1603]:
+                      - link "Well that explains it." [ref=e1604] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1se1xoa/well_that_explains_it/
+                        - generic [ref=e1605]:
+                          - generic: Well that explains it.
+                      - generic [ref=e1606]:
+                        - generic [ref=e1607]:
+                          - generic [ref=e1609]:
+                            - link "r/attackontitan" [ref=e1610] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1614]: r/attackontitan
+                            - generic [ref=e1615]: •
+                            - time [ref=e1617]: 2mo ago
+                          - link "List item post - Well that explains it." [ref=e1619] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1se1xoa/well_that_explains_it/
+                            - heading "List item post - Well that explains it." [level=3] [ref=e1622]: Well that explains it.
+                        - link "r/attackontitan - Well that explains it." [ref=e1625] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1se1xoa/well_that_explains_it/
+                          - img "r/attackontitan - Well that explains it." [ref=e1626]
+                      - generic [ref=e1628]:
+                        - generic [ref=e1629]: "732"
+                        - text: upvotes ·
+                        - generic [ref=e1630]: "11"
+                        - text: comments
+                    - separator [ref=e1631]
+                - listitem [ref=e1632]:
+                  - generic [ref=e1633]:
+                    - generic [ref=e1634]:
+                      - link "I feel like I have seen this one before" [ref=e1635] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1tli112/i_feel_like_i_have_seen_this_one_before/
+                        - generic [ref=e1636]:
+                          - generic: I feel like I have seen this one before
+                      - generic [ref=e1637]:
+                        - generic [ref=e1638]:
+                          - generic [ref=e1640]:
+                            - link "r/attackontitan" [ref=e1641] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1645]: r/attackontitan
+                            - generic [ref=e1646]: •
+                            - time [ref=e1648]: 28d ago
+                          - link "List item post - I feel like I have seen this one before" [ref=e1650] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1tli112/i_feel_like_i_have_seen_this_one_before/
+                            - heading "List item post - I feel like I have seen this one before" [level=3] [ref=e1653]: I feel like I have seen this one before
+                        - link "r/attackontitan - I feel like I have seen this one before" [ref=e1656] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1tli112/i_feel_like_i_have_seen_this_one_before/
+                          - img "r/attackontitan - I feel like I have seen this one before" [ref=e1657]
+                      - generic [ref=e1659]:
+                        - generic [ref=e1660]: 2.2K
+                        - text: upvotes ·
+                        - generic [ref=e1661]: "44"
+                        - text: comments
+                    - separator [ref=e1662]
+                - listitem [ref=e1663]:
+                  - generic [ref=e1664]:
+                    - generic [ref=e1665]:
+                      - link "Ok this is too much....i refuse to believe this lol...." [ref=e1666] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1s0euzd/ok_this_is_too_muchi_refuse_to_believe_this_lol/
+                        - generic [ref=e1667]:
+                          - generic: Ok this is too much....i refuse to believe this lol....
+                      - generic [ref=e1668]:
+                        - generic [ref=e1669]:
+                          - generic [ref=e1671]:
+                            - link "r/attackontitan" [ref=e1672] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1676]: r/attackontitan
+                            - generic [ref=e1677]: •
+                            - time [ref=e1679]: 3mo ago
+                          - link "List item post - Ok this is too much....i refuse to believe this lol...." [ref=e1681] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1s0euzd/ok_this_is_too_muchi_refuse_to_believe_this_lol/
+                            - heading "List item post - Ok this is too much....i refuse to believe this lol...." [level=3] [ref=e1684]: Ok this is too much....i refuse to believe this lol....
+                        - link "r/attackontitan - Ok this is too much....i refuse to believe this lol...." [ref=e1687] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1s0euzd/ok_this_is_too_muchi_refuse_to_believe_this_lol/
+                          - img "r/attackontitan - Ok this is too much....i refuse to believe this lol...." [ref=e1688]
+                      - generic [ref=e1690]:
+                        - generic [ref=e1691]: 1.2K
+                        - text: upvotes ·
+                        - generic [ref=e1692]: "44"
+                        - text: comments
+                    - separator [ref=e1693]
+                - listitem [ref=e1694]:
+                  - generic [ref=e1695]:
+                    - generic [ref=e1696]:
+                      - link "Slightly confused" [ref=e1697] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1u97khu/slightly_confused/
+                        - generic [ref=e1698]:
+                          - generic: Slightly confused
+                      - generic [ref=e1699]:
+                        - generic [ref=e1700]:
+                          - generic [ref=e1702]:
+                            - link "r/attackontitan" [ref=e1703] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1707]: r/attackontitan
+                            - generic [ref=e1708]: •
+                            - time [ref=e1710]: 2d ago
+                          - link "List item post - Slightly confused" [ref=e1712] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1u97khu/slightly_confused/
+                            - heading "List item post - Slightly confused" [level=3] [ref=e1715]: Slightly confused
+                        - generic [ref=e1717]:
+                          - link "r/attackontitan - Slightly confused" [ref=e1718] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u97khu/slightly_confused/
+                            - img "r/attackontitan - Slightly confused" [ref=e1719]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1721]:
+                        - generic [ref=e1722]: 2.2K
+                        - text: upvotes ·
+                        - generic [ref=e1723]: "48"
+                        - text: comments
+                    - separator [ref=e1724]
+                - listitem [ref=e1725]:
+                  - generic [ref=e1726]:
+                    - generic [ref=e1727]:
+                      - link "Can't agree more" [ref=e1728] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1szofe5/cant_agree_more/
+                        - generic [ref=e1729]:
+                          - generic: Can't agree more
+                      - generic [ref=e1730]:
+                        - generic [ref=e1731]:
+                          - generic [ref=e1733]:
+                            - link "r/attackontitan" [ref=e1734] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1738]: r/attackontitan
+                            - generic [ref=e1739]: •
+                            - time [ref=e1741]: 2mo ago
+                          - link "List item post - Can't agree more" [ref=e1743] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1szofe5/cant_agree_more/
+                            - heading "List item post - Can't agree more" [level=3] [ref=e1746]: Can't agree more
+                        - link "r/attackontitan - Can't agree more" [ref=e1749] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1szofe5/cant_agree_more/
+                          - img "r/attackontitan - Can't agree more" [ref=e1750]
+                      - generic [ref=e1752]:
+                        - generic [ref=e1753]: "380"
+                        - text: upvotes ·
+                        - generic [ref=e1754]: "8"
+                        - text: comments
+                    - separator [ref=e1755]
+                - listitem [ref=e1756]:
+                  - generic [ref=e1757]:
+                    - generic [ref=e1758]:
+                      - link "what’s this referencing?" [ref=e1759] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1r0o9b9/whats_this_referencing/
+                        - generic [ref=e1760]:
+                          - generic: what’s this referencing?
+                      - generic [ref=e1761]:
+                        - generic [ref=e1762]:
+                          - generic [ref=e1764]:
+                            - link "r/attackontitan" [ref=e1765] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1769]: r/attackontitan
+                            - generic [ref=e1770]: •
+                            - time [ref=e1772]: 4mo ago
+                          - link "List item post - what’s this referencing?" [ref=e1774] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1r0o9b9/whats_this_referencing/
+                            - heading "List item post - what’s this referencing?" [level=3] [ref=e1777]: what’s this referencing?
+                        - link "r/attackontitan - what’s this referencing?" [ref=e1780] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1r0o9b9/whats_this_referencing/
+                          - img "r/attackontitan - what’s this referencing?" [ref=e1781]
+                      - generic [ref=e1783]:
+                        - generic [ref=e1784]: "254"
+                        - text: upvotes ·
+                        - generic [ref=e1785]: "8"
+                        - text: comments
+                    - separator [ref=e1786]
+                - listitem [ref=e1787]:
+                  - generic [ref=e1788]:
+                    - generic [ref=e1789]:
+                      - link "is this foreshadowing or am i crazy" [ref=e1790] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1ty5aur/is_this_foreshadowing_or_am_i_crazy/
+                        - generic [ref=e1791]:
+                          - generic: is this foreshadowing or am i crazy
+                      - generic [ref=e1792]:
+                        - generic [ref=e1793]:
+                          - generic [ref=e1795]:
+                            - link "r/attackontitan" [ref=e1796] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1800]: r/attackontitan
+                            - generic [ref=e1801]: •
+                            - time [ref=e1803]: 14d ago
+                          - link "SPOILER List item post - is this foreshadowing or am i crazy" [ref=e1805] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1ty5aur/is_this_foreshadowing_or_am_i_crazy/
+                            - generic [ref=e1807]:
+                              - generic [ref=e1809]:
+                                - img [ref=e1811]
+                                - generic [ref=e1813]: SPOILER
+                              - heading "List item post - is this foreshadowing or am i crazy" [level=3] [ref=e1814]: is this foreshadowing or am i crazy
+                        - generic [ref=e1816]:
+                          - link "r/attackontitan - is this foreshadowing or am i crazy" [ref=e1817] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1ty5aur/is_this_foreshadowing_or_am_i_crazy/
+                            - img "r/attackontitan - is this foreshadowing or am i crazy" [ref=e1818]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1820]:
+                        - generic [ref=e1821]: 2.1K
+                        - text: upvotes ·
+                        - generic [ref=e1822]: "83"
+                        - text: comments
+                    - separator [ref=e1823]
+                - listitem [ref=e1824]:
+                  - generic [ref=e1825]:
+                    - generic [ref=e1826]:
+                      - link "Man…." [ref=e1827] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1tr4keq/man/
+                        - generic [ref=e1828]:
+                          - generic: Man….
+                      - generic [ref=e1829]:
+                        - generic [ref=e1830]:
+                          - generic [ref=e1832]:
+                            - link "r/attackontitan" [ref=e1833] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1837]: r/attackontitan
+                            - generic [ref=e1838]: •
+                            - time [ref=e1840]: 22d ago
+                          - link "List item post - Man…." [ref=e1842] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1tr4keq/man/
+                            - heading "List item post - Man…." [level=3] [ref=e1845]: Man….
+                        - link "r/attackontitan - Man…." [ref=e1848] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1tr4keq/man/
+                          - img "r/attackontitan - Man…." [ref=e1849]
+                      - generic [ref=e1851]:
+                        - generic [ref=e1852]: "91"
+                        - text: upvotes ·
+                        - generic [ref=e1853]: "7"
+                        - text: comments
+                    - separator [ref=e1854]
+                - listitem [ref=e1855]:
+                  - generic [ref=e1856]:
+                    - generic [ref=e1857]:
+                      - link "Who the hell is this guy?" [ref=e1858] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1s1uu08/who_the_hell_is_this_guy/
+                        - generic [ref=e1859]:
+                          - generic: Who the hell is this guy?
+                      - generic [ref=e1860]:
+                        - generic [ref=e1861]:
+                          - generic [ref=e1863]:
+                            - link "r/attackontitan" [ref=e1864] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1868]: r/attackontitan
+                            - generic [ref=e1869]: •
+                            - time [ref=e1871]: 3mo ago
+                          - link "List item post - Who the hell is this guy?" [ref=e1873] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1s1uu08/who_the_hell_is_this_guy/
+                            - heading "List item post - Who the hell is this guy?" [level=3] [ref=e1876]: Who the hell is this guy?
+                        - link "r/attackontitan - Who the hell is this guy?" [ref=e1879] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1s1uu08/who_the_hell_is_this_guy/
+                          - img "r/attackontitan - Who the hell is this guy?" [ref=e1880]
+                      - generic [ref=e1882]:
+                        - generic [ref=e1883]: "771"
+                        - text: upvotes ·
+                        - generic [ref=e1884]: "200"
+                        - text: comments
+                    - separator [ref=e1885]
+                - listitem [ref=e1886]:
+                  - generic [ref=e1887]:
+                    - generic [ref=e1888]:
+                      - link "I made two versions of this joke because I thought it was funny" [ref=e1889] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1tk73pa/i_made_two_versions_of_this_joke_because_i/
+                        - generic [ref=e1890]:
+                          - generic: I made two versions of this joke because I thought it was funny
+                      - generic [ref=e1891]:
+                        - generic [ref=e1892]:
+                          - generic [ref=e1894]:
+                            - link "r/attackontitan" [ref=e1895] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1899]: r/attackontitan
+                            - generic [ref=e1900]: •
+                            - time [ref=e1902]: 1mo ago
+                          - link "List item post - I made two versions of this joke because I thought it was f..." [ref=e1904] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1tk73pa/i_made_two_versions_of_this_joke_because_i/
+                            - heading "List item post - I made two versions of this joke because I thought it was f..." [level=3] [ref=e1907]: I made two versions of this joke because I thought it was funny
+                        - generic [ref=e1909]:
+                          - link "r/attackontitan - I made two versions of this joke because I thought it was funny" [ref=e1910] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1tk73pa/i_made_two_versions_of_this_joke_because_i/
+                            - img "r/attackontitan - I made two versions of this joke because I thought it was funny" [ref=e1911]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1913]:
+                        - generic [ref=e1914]: "426"
+                        - text: upvotes ·
+                        - generic [ref=e1915]: "18"
+                        - text: comments
+                    - separator [ref=e1916]
+                - listitem [ref=e1917]:
+                  - generic [ref=e1918]:
+                    - generic [ref=e1919]:
+                      - link "I know this is supposed to be serious but" [ref=e1920] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1ptr1ck/i_know_this_is_supposed_to_be_serious_but/
+                        - generic [ref=e1921]:
+                          - generic: I know this is supposed to be serious but
+                      - generic [ref=e1922]:
+                        - generic [ref=e1923]:
+                          - generic [ref=e1925]:
+                            - link "r/attackontitan" [ref=e1926] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1930]: r/attackontitan
+                            - generic [ref=e1931]: •
+                            - time [ref=e1933]: 6mo ago
+                          - link "List item post - I know this is supposed to be serious but" [ref=e1935] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1ptr1ck/i_know_this_is_supposed_to_be_serious_but/
+                            - heading "List item post - I know this is supposed to be serious but" [level=3] [ref=e1938]: I know this is supposed to be serious but
+                        - generic [ref=e1940]:
+                          - link "r/attackontitan - I know this is supposed to be serious but" [ref=e1941] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1ptr1ck/i_know_this_is_supposed_to_be_serious_but/
+                            - img "r/attackontitan - I know this is supposed to be serious but" [ref=e1942]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e1944]:
+                        - generic [ref=e1945]: "190"
+                        - text: upvotes ·
+                        - generic [ref=e1946]: "16"
+                        - text: comments
+                    - separator [ref=e1947]
+                - listitem [ref=e1948]:
+                  - generic [ref=e1949]:
+                    - generic [ref=e1950]:
+                      - link "Hmm" [ref=e1951] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1twqe9a/hmm/
+                        - generic [ref=e1952]:
+                          - generic: Hmm
+                      - generic [ref=e1953]:
+                        - generic [ref=e1954]:
+                          - generic [ref=e1956]:
+                            - link "r/attackontitan" [ref=e1957] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1961]: r/attackontitan
+                            - generic [ref=e1962]: •
+                            - time [ref=e1964]: 16d ago
+                          - link "List item post - Hmm" [ref=e1966] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1twqe9a/hmm/
+                            - heading "List item post - Hmm" [level=3] [ref=e1969]: Hmm
+                        - link "r/attackontitan - Hmm" [ref=e1972] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1twqe9a/hmm/
+                          - img "r/attackontitan - Hmm" [ref=e1973]
+                      - generic [ref=e1975]:
+                        - generic [ref=e1976]: "40"
+                        - text: upvotes ·
+                        - generic [ref=e1977]: "7"
+                        - text: comments
+                    - separator [ref=e1978]
+                - listitem [ref=e1979]:
+                  - generic [ref=e1980]:
+                    - generic [ref=e1981]:
+                      - link "I can't believe he tanked this" [ref=e1982] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1u2a4ro/i_cant_believe_he_tanked_this/
+                        - generic [ref=e1983]:
+                          - generic: I can't believe he tanked this
+                      - generic [ref=e1984]:
+                        - generic [ref=e1985]:
+                          - generic [ref=e1987]:
+                            - link "r/attackontitan" [ref=e1988] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1992]: r/attackontitan
+                            - generic [ref=e1993]: •
+                            - time [ref=e1995]: 9d ago
+                          - link "SPOILER List item post - I can't believe he tanked this" [ref=e1997] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1u2a4ro/i_cant_believe_he_tanked_this/
+                            - generic [ref=e1999]:
+                              - generic [ref=e2001]:
+                                - img [ref=e2003]
+                                - generic [ref=e2005]: SPOILER
+                              - heading "List item post - I can't believe he tanked this" [level=3] [ref=e2006]: I can't believe he tanked this
+                        - generic [ref=e2008]:
+                          - link "r/attackontitan - I can't believe he tanked this" [ref=e2009] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1u2a4ro/i_cant_believe_he_tanked_this/
+                            - img "r/attackontitan - I can't believe he tanked this" [ref=e2010]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e2012]:
+                        - generic [ref=e2013]: "22"
+                        - text: upvotes ·
+                        - generic [ref=e2014]: "7"
+                        - text: comments
+                    - separator [ref=e2015]
+                - listitem [ref=e2016]:
+                  - generic [ref=e2017]:
+                    - generic [ref=e2018]:
+                      - link "Literally inarguable opinion" [ref=e2019] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1tu9kk2/literally_inarguable_opinion/
+                        - generic [ref=e2020]:
+                          - generic: Literally inarguable opinion
+                      - generic [ref=e2021]:
+                        - generic [ref=e2022]:
+                          - generic [ref=e2024]:
+                            - link "r/attackontitan" [ref=e2025] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e2029]: r/attackontitan
+                            - generic [ref=e2030]: •
+                            - time [ref=e2032]: 18d ago
+                          - link "List item post - Literally inarguable opinion" [ref=e2034] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1tu9kk2/literally_inarguable_opinion/
+                            - heading "List item post - Literally inarguable opinion" [level=3] [ref=e2037]: Literally inarguable opinion
+                        - link "r/attackontitan - Literally inarguable opinion" [ref=e2040] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1tu9kk2/literally_inarguable_opinion/
+                          - img "r/attackontitan - Literally inarguable opinion" [ref=e2041]
+                      - generic [ref=e2043]:
+                        - generic [ref=e2044]: "68"
+                        - text: upvotes ·
+                        - generic [ref=e2045]: "13"
+                        - text: comments
+                    - separator [ref=e2046]
+                - listitem [ref=e2047]:
+                  - generic [ref=e2048]:
+                    - generic [ref=e2049]:
+                      - link "Where was this guy during the rumbling" [ref=e2050] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qg9o7z/where_was_this_guy_during_the_rumbling/
+                        - generic [ref=e2051]:
+                          - generic: Where was this guy during the rumbling
+                      - generic [ref=e2052]:
+                        - generic [ref=e2053]:
+                          - generic [ref=e2055]:
+                            - link "r/attackontitan" [ref=e2056] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e2060]: r/attackontitan
+                            - generic [ref=e2061]: •
+                            - time [ref=e2063]: 5mo ago
+                          - link "List item post - Where was this guy during the rumbling" [ref=e2065] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1qg9o7z/where_was_this_guy_during_the_rumbling/
+                            - heading "List item post - Where was this guy during the rumbling" [level=3] [ref=e2068]: Where was this guy during the rumbling
+                        - link "r/attackontitan - Where was this guy during the rumbling" [ref=e2071] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1qg9o7z/where_was_this_guy_during_the_rumbling/
+                          - img "r/attackontitan - Where was this guy during the rumbling" [ref=e2072]
+                      - generic [ref=e2074]:
+                        - generic [ref=e2075]: "765"
+                        - text: upvotes ·
+                        - generic [ref=e2076]: "93"
+                        - text: comments
+                    - separator [ref=e2077]
+                - listitem [ref=e2078]:
+                  - generic [ref=e2079]:
+                    - generic [ref=e2080]:
+                      - link "Any thoughts or explanations?" [ref=e2081] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1scsmpg/any_thoughts_or_explanations/
+                        - generic [ref=e2082]:
+                          - generic: Any thoughts or explanations?
+                      - generic [ref=e2083]:
+                        - generic [ref=e2084]:
+                          - generic [ref=e2086]:
+                            - link "r/attackontitan" [ref=e2087] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e2091]: r/attackontitan
+                            - generic [ref=e2092]: •
+                            - time [ref=e2094]: 3mo ago
+                          - link "List item post - Any thoughts or explanations?" [ref=e2096] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1scsmpg/any_thoughts_or_explanations/
+                            - heading "List item post - Any thoughts or explanations?" [level=3] [ref=e2099]: Any thoughts or explanations?
+                        - link "r/attackontitan - Any thoughts or explanations?" [ref=e2102] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1scsmpg/any_thoughts_or_explanations/
+                          - img "r/attackontitan - Any thoughts or explanations?" [ref=e2103]
+                      - generic [ref=e2105]:
+                        - generic [ref=e2106]: "97"
+                        - text: upvotes ·
+                        - generic [ref=e2107]: "14"
+                        - text: comments
+                    - separator [ref=e2108]
+                - listitem [ref=e2109]:
+                  - generic [ref=e2111]:
+                    - link "Anything to keep this subreddit alive" [ref=e2112] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1trmsp5/anything_to_keep_this_subreddit_alive/
+                      - generic [ref=e2113]:
+                        - generic: Anything to keep this subreddit alive
+                    - generic [ref=e2114]:
+                      - generic [ref=e2115]:
+                        - generic [ref=e2117]:
+                          - link "r/attackontitan" [ref=e2118] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e2122]: r/attackontitan
+                          - generic [ref=e2123]: •
+                          - time [ref=e2125]: 21d ago
+                        - link "List item post - Anything to keep this subreddit alive" [ref=e2127] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1trmsp5/anything_to_keep_this_subreddit_alive/
+                          - heading "List item post - Anything to keep this subreddit alive" [level=3] [ref=e2130]: Anything to keep this subreddit alive
+                      - link "r/attackontitan - Anything to keep this subreddit alive" [ref=e2133] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1trmsp5/anything_to_keep_this_subreddit_alive/
+                        - img "r/attackontitan - Anything to keep this subreddit alive" [ref=e2134]
+                    - generic [ref=e2136]:
+                      - generic [ref=e2137]: "73"
+                      - text: upvotes ·
+                      - generic [ref=e2138]: "22"
+                      - text: comments
+            - generic [ref=e2139]:
+              - heading "View Post in" [level=2] [ref=e2141]:
+                - generic [ref=e2142]: View Post in
+              - generic [ref=e2143]:
+                - link "Português (Brasil)" [ref=e2145] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/really_cus_hes_an_idiot/?tl=pt-br
+                - link "Français" [ref=e2147] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u5p8x7/really_cus_hes_an_idiot/?tl=fr
+                - group [ref=e2148]:
+                  - generic "See more" [ref=e2149] [cursor=pointer]:
+                    - generic [ref=e2150]: See more
+                    - img [ref=e2152]
+            - complementary "Community information" [ref=e2154]:
+              - generic [ref=e2156]:
+                - heading "Community Info Section" [level=1] [ref=e2157]
+                - generic [ref=e2158]:
+                  - generic [ref=e2159]:
+                    - link "r/attackontitan" [ref=e2160] [cursor=pointer]:
+                      - /url: /r/attackontitan/
+                      - generic [ref=e2161]: r/attackontitan
+                    - 'button "Community status: Resting Under the tree..." [ref=e2164] [cursor=pointer]':
+                      - img "tree" [ref=e2165]
+                  - button "Join" [ref=e2169] [cursor=pointer]
+                - generic [ref=e2170]:
+                  - generic [ref=e2171]: Attack on Titan (Shingeki no Kyojin)
+                  - generic [ref=e2172]: A subreddit dedicated to Attack on Titan (進撃の巨人) manga and anime series.
+                  - generic [ref=e2175]:
+                    - img [ref=e2176]
+                    - text: Public
+          - list [ref=e2179]:
+            - listitem [ref=e2180]:
+              - link "Home" [ref=e2182] [cursor=pointer]:
+                - /url: /?feed=home
+            - listitem [ref=e2183]:
+              - link "Popular" [ref=e2185] [cursor=pointer]:
+                - /url: /r/popular/
+            - listitem [ref=e2186]:
+              - link "News" [ref=e2188] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e2189]:
+              - link "Explore" [ref=e2191] [cursor=pointer]:
+                - /url: /explore/
+            - listitem [ref=e2192]:
+              - link "Best of Reddit" [ref=e2194] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/global/
+            - listitem [ref=e2195]:
+              - link "Best of Reddit in Portuguese" [ref=e2197] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+            - listitem [ref=e2198]:
+              - link "Best of Reddit in German" [ref=e2200] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-de/
+            - listitem [ref=e2201]:
+              - link "Reddit Rules" [ref=e2203] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/content-policy
+            - listitem [ref=e2204]:
+              - link "Privacy Policy" [ref=e2206] [cursor=pointer]:
+                - /url: https://www.reddit.com/policies/privacy-policy
+            - listitem [ref=e2207]:
+              - link "User Agreement" [ref=e2209] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/user-agreement
+            - listitem [ref=e2210]:
+              - link "Your Privacy Choices" [ref=e2212] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/articles/43980704794004
+            - listitem [ref=e2213]:
+              - link "Accessibility" [ref=e2215] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+            - listitem [ref=e2216]:
+              - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2217] [cursor=pointer]:
+                - /url: https://redditinc.com

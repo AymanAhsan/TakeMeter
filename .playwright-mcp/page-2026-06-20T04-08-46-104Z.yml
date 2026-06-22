@@ -1,0 +1,1226 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: "Finally done with the series people, my thoughts : r/attackontitan"
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - generic [ref=e12]:
+            - button "Open menu" [ref=e16] [cursor=pointer]:
+              - img [ref=e19]
+              - generic [ref=e21]:
+                - generic: Open menu
+            - generic:
+              - generic:
+                - generic:
+                  - generic:
+                    - generic:
+                      - link "Home":
+                        - /url: https://www.reddit.com/
+          - search [ref=e31]:
+            - generic [ref=e33]:
+              - img [ref=e36]
+              - textbox "Ask" [ref=e40]:
+                - /placeholder: Find anything
+              - separator [ref=e41]
+              - link "Ask" [ref=e45] [cursor=pointer]:
+                - /url: /answers/
+                - generic [ref=e46]:
+                  - img [ref=e48]
+                  - generic [ref=e50]: Ask
+              - generic: Find anything
+          - generic [ref=e51]:
+            - link "Log In" [ref=e55] [cursor=pointer]:
+              - /url: https://www.reddit.com/login/
+              - generic [ref=e57]: Log In
+            - button "Expand user menu" [ref=e62] [cursor=pointer]:
+              - img [ref=e65]
+              - generic [ref=e67]:
+                - generic: Expand user menu
+      - generic [ref=e71]:
+        - main [ref=e72]:
+          - 'generic "Finally done with the series people, my thoughts : r/attackontitan"'
+          - generic [ref=e73]:
+            - generic [ref=e74]:
+              - generic [ref=e75]:
+                - button "Back" [ref=e77] [cursor=pointer]:
+                  - img [ref=e80]
+                  - generic [ref=e82]:
+                    - generic: Back
+                - link "Go to attackontitan" [ref=e85] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/
+                  - generic [ref=e89]:
+                    - generic: Go to attackontitan
+                - group [ref=e90]:
+                  - generic [ref=e91]:
+                    - link "r/attackontitan" [ref=e94] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/
+                    - generic [ref=e95]: •
+                    - time [ref=e97]: 5d ago
+                  - 'link "Author: CalmAd6341" [ref=e102] [cursor=pointer]':
+                    - /url: https://www.reddit.com/user/CalmAd6341/
+                    - generic [ref=e103]: CalmAd6341
+              - button "Open user actions" [ref=e107] [cursor=pointer]:
+                - img [ref=e110]
+            - 'heading "Post Title: Finally done with the series people, my thoughts" [level=1] [ref=e114]': Finally done with the series people, my thoughts
+            - img "r/attackontitan - Finally done with the series people, my thoughts" [ref=e120] [cursor=pointer]
+            - generic [ref=e123]:
+              - generic [ref=e124]:
+                - paragraph [ref=e125]: Soooo I finally finished Attack on Titan and honestly… I’m kinda in the middle. I get why people either love it or hate it, I’m literally both
+                - paragraph [ref=e126]:
+                  - text: Like I
+                  - emphasis [ref=e127]: did
+                  - text: enjoy the ending. Mikasa killing Eren was such a crazy scene, probably one of the best in the show. And yeah the kiss was wild but also kinda fit in a weird way. Eren becoming the final villain was something I expected, but the way it actually played out was still really cool. The whole thing with him being behind so much stuff (Grisha, his mom, everything) was insane to think about.
+                - paragraph [ref=e128]: Also the Paths stuff, the visions he showed people, and Ymir’s backstory… that was all really interesting. And the soundtrack was just perfect the whole time.
+                - paragraph [ref=e129]: Mikasa’s ending actually hit me. Her keeping the scarf, visiting Eren’s grave, growing old… that was sad as hell. I’m glad she still moved on though. And that cabin scene with Eren? Man I wish we got more of that. I feel like their relationship needed more development in general. Same with a lot of characters, I kinda wanted to see more of what happens to everyone after.
+                - paragraph [ref=e130]: But then there are parts that just didn’t sit right with me.
+                - paragraph [ref=e131]: That final conversation between Eren and Armin… I don’t know man. Eren saying he doesn’t even fully know why he did everything and calling himself an idiot just felt off after everything we saw. And the whole “I don’t want Mikasa to move on for 10 years” thing… that was just weir didn’t feel like the same Eren. Didnt at all like it
+                - paragraph [ref=e132]: And yeah I get the whole message about the cycle of violence never ending, but it just left me feeling like… what was the point of everything then? Paradis still gets destroyed eventually, war keeps going, nothing really changes. They even showed moments where people from both sides helped each other, which was nice, but it didn’t really lead anywhere.
+                - paragraph [ref=e133]: And that last scene with the kid and the tree… yeah, I get what they were going for, but I didn’t like it. It just feels like everything is gonna repeat again.
+                - paragraph [ref=e134]:
+                  - text: "Some other things:"
+                  - text: Hange’s death felt a bit forced
+                  - text: Levi deserved a better ending (or honestly maybe even death, at least he’d get peace)
+                  - text: Zeke and Levi should’ve had one proper final moment,I feel like they could’ve gone two ways and I would’ve been happier
+                - paragraph [ref=e135]: They could have went with either Stopping eren before the rumbling starts and somehow proving they are good guys and everyone is no longer at war, that would been good message and ending would have been worth it, finally the cycle ends enough sacrifies we are at rest, all soliders death didnt go in vain
+                - paragraph [ref=e136]: OR
+                - paragraph [ref=e137]: Eren compleed the rumbling and lives in guilt his whole life and realises he did wrong, that would be dark and good too ig, spending his entire life regretting and being hated
+                - paragraph [ref=e138]: What we got is kinda in between. Not bad, just… not fully satisfying. Eren planning everything out knowing they will kill him at 80 percent deaths, but yeahh could have improved. but yeahh i dont see the point in this all the sacrifies from season 1 went to waste, cycle never stopped, So whts the point
+                - paragraph [ref=e139]: But yeah overall I still liked it, just wish it committed more.
+                - paragraph [ref=e140]: Anyway if anyone has good AOT theories (especially weird niche ones), drop them I’m deep into that stuff now lol
+              - button "Read more" [ref=e141] [cursor=pointer]:
+                - generic [ref=e143]: Read more
+                - img [ref=e146]
+            - generic [ref=e148]:
+              - img [ref=e149]
+              - generic [ref=e151]: "13"
+              - img [ref=e152]
+              - generic [ref=e154]: ·
+              - img [ref=e155]
+              - generic [ref=e157]: "12"
+          - separator [ref=e158]
+          - region "Comments" [ref=e161]:
+            - heading "Comments Section" [level=1] [ref=e162]
+            - generic:
+              - article "Comment from AutoModerator 5 days ago" [ref=e164]:
+                - generic "AutoModerator's profile 5d ago" [ref=e165] [cursor=pointer]:
+                  - img [ref=e167]
+                  - generic [ref=e172]:
+                    - link "AutoModerator's profile" [ref=e175]:
+                      - /url: https://www.reddit.com/user/AutoModerator/
+                      - text: AutoModerator
+                    - generic "Comment distinguished by moderator" [ref=e178]: MOD
+                    - generic [ref=e179]: •
+                    - link "5d ago" [ref=e181]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/orr8vkc/
+                      - time [ref=e183]: 5d ago
+              - article "Comment from jules__noah 4 days ago" [ref=e186]:
+                - generic "jules__noah's profile --- avatar jules__noah's profile 4d ago" [ref=e187] [cursor=pointer]:
+                  - link "jules__noah's profile --- avatar" [ref=e192]:
+                    - /url: https://www.reddit.com/user/jules__noah/
+                    - img "u/jules__noah avatar" [ref=e195]
+                  - generic [ref=e199]:
+                    - link "jules__noah's profile" [ref=e202]:
+                      - /url: https://www.reddit.com/user/jules__noah/
+                      - text: jules__noah
+                    - generic [ref=e203]: •
+                    - link "4d ago" [ref=e205]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/orw8odd/
+                      - time [ref=e207]: 4d ago
+                - generic [ref=e209]:
+                  - paragraph [ref=e213]: Hard disagree on Levi's ending. I think he had probably the best ending. Now, I'm a hardcore Levi fan, so maybe I'm bias, but him dying in the final battle would have felt forced. Almost cruel. He's spent literally his whole life fighting for survival, never knowing peace, and now he's actually achieved it. He doesn't have his Ackerman powers anymore, he can't even walk properly. He's just a regular person now. And now there's no more fighting, no more battles, now he can just relax and do whatever he can to help the people left behind, helping to rebuild society, spending time with Gabi and Falco. He's earned that.
+                  - generic [ref=e215]:
+                    - img [ref=e216]
+                    - generic [ref=e218]: "5"
+                    - img [ref=e219]
+                  - img
+                  - 'article "Comment thread level 1: Reply from CalmAd6341 3 days ago" [ref=e223]':
+                    - generic "CalmAd6341's profile --- avatar CalmAd6341's profile 3d ago" [ref=e224] [cursor=pointer]:
+                      - link "CalmAd6341's profile --- avatar" [ref=e229]:
+                        - /url: https://www.reddit.com/user/CalmAd6341/
+                        - img "u/CalmAd6341 avatar" [ref=e232]
+                      - generic [ref=e236]:
+                        - link "CalmAd6341's profile" [ref=e239]:
+                          - /url: https://www.reddit.com/user/CalmAd6341/
+                          - text: CalmAd6341
+                        - generic "Comment distinguished as the original poster" [ref=e242]: OP
+                        - generic [ref=e243]: •
+                        - link "3d ago" [ref=e245]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/os0pqjv/
+                          - time [ref=e247]: 3d ago
+                    - generic [ref=e249]:
+                      - paragraph [ref=e253]: I don't think that's the kind of life levi would want tbh
+                      - generic [ref=e255]:
+                        - img [ref=e256]
+                        - generic [ref=e258]: "1"
+                        - img [ref=e259]
+              - article "Comment from PacTheTac 3 days ago" [ref=e262]:
+                - generic "PacTheTac's profile --- avatar PacTheTac's profile 3d ago" [ref=e263] [cursor=pointer]:
+                  - link "PacTheTac's profile --- avatar" [ref=e268]:
+                    - /url: https://www.reddit.com/user/PacTheTac/
+                    - img "u/PacTheTac avatar" [ref=e271]
+                  - generic [ref=e275]:
+                    - link "PacTheTac's profile" [ref=e278]:
+                      - /url: https://www.reddit.com/user/PacTheTac/
+                      - text: PacTheTac
+                    - generic [ref=e279]: •
+                    - link "3d ago" [ref=e281]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/os17ijg/
+                      - time [ref=e283]: 3d ago
+                - generic [ref=e285]:
+                  - paragraph [ref=e289]: all of what happened still mattered. Eren was able to provide a long life for his friends. Yes the cycle continues but it’s not for hundreds if not thousands of years later. The point is that the conflict was resolved but hate and war that comes with it never goes away
+                  - generic [ref=e291]:
+                    - img [ref=e292]
+                    - generic [ref=e294]: "2"
+                    - img [ref=e295]
+                  - img
+                  - 'article "Comment thread level 1: Reply from CalmAd6341 3 days ago" [ref=e299]':
+                    - generic "CalmAd6341's profile --- avatar CalmAd6341's profile 3d ago" [ref=e300] [cursor=pointer]:
+                      - link "CalmAd6341's profile --- avatar" [ref=e305]:
+                        - /url: https://www.reddit.com/user/CalmAd6341/
+                        - img "u/CalmAd6341 avatar" [ref=e308]
+                      - generic [ref=e312]:
+                        - link "CalmAd6341's profile" [ref=e315]:
+                          - /url: https://www.reddit.com/user/CalmAd6341/
+                          - text: CalmAd6341
+                        - generic "Comment distinguished as the original poster" [ref=e318]: OP
+                        - generic [ref=e319]: •
+                        - link "3d ago" [ref=e321]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/os3sejt/
+                          - time [ref=e323]: 3d ago
+                    - generic [ref=e325]:
+                      - paragraph [ref=e329]: Bruhh paradi got nuked
+                      - generic [ref=e331]:
+                        - img [ref=e332]
+                        - generic [ref=e334]: "1"
+                        - img [ref=e335]
+                      - img
+                      - 'article "Comment thread level 2: Reply from PacTheTac 3 days ago" [ref=e339]':
+                        - generic "PacTheTac's profile --- avatar PacTheTac's profile 3d ago" [ref=e340] [cursor=pointer]:
+                          - link "PacTheTac's profile --- avatar" [ref=e345]:
+                            - /url: https://www.reddit.com/user/PacTheTac/
+                            - img "u/PacTheTac avatar" [ref=e348]
+                          - generic [ref=e352]:
+                            - link "PacTheTac's profile" [ref=e355]:
+                              - /url: https://www.reddit.com/user/PacTheTac/
+                              - text: PacTheTac
+                            - generic [ref=e356]: •
+                            - link "3d ago" [ref=e358]:
+                              - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/os3wkbi/
+                              - time [ref=e360]: 3d ago
+                        - generic [ref=e362]:
+                          - paragraph [ref=e366]: Thousands of years later. Eren got what he wanted which was his friends to have a long life
+                          - generic [ref=e368]:
+                            - img [ref=e369]
+                            - generic [ref=e371]: "2"
+                            - img [ref=e372]
+              - article "Comment from odesplaysgames_yt 4 days ago" [ref=e375]:
+                - generic "odesplaysgames_yt's profile --- avatar odesplaysgames_yt's profile 4d ago" [ref=e376] [cursor=pointer]:
+                  - link "odesplaysgames_yt's profile --- avatar" [ref=e381]:
+                    - /url: https://www.reddit.com/user/odesplaysgames_yt/
+                    - img [ref=e386]
+                  - generic [ref=e391]:
+                    - link "odesplaysgames_yt's profile" [ref=e394]:
+                      - /url: https://www.reddit.com/user/odesplaysgames_yt/
+                      - text: odesplaysgames_yt
+                    - generic [ref=e395]: •
+                    - link "4d ago" [ref=e397]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/os0av1p/
+                      - time [ref=e399]: 4d ago
+                - generic [ref=e401]:
+                  - paragraph [ref=e405]: so reletable
+                  - generic [ref=e407]:
+                    - img [ref=e408]
+                    - generic [ref=e410]: "2"
+                    - img [ref=e411]
+              - article "Comment from According-War-6553 16 hours ago" [ref=e414]:
+                - generic "According-War-6553's profile --- avatar According-War-6553's profile 16h ago" [ref=e415] [cursor=pointer]:
+                  - link "According-War-6553's profile --- avatar" [ref=e420]:
+                    - /url: https://www.reddit.com/user/According-War-6553/
+                    - img "u/According-War-6553 avatar" [ref=e423]
+                  - generic [ref=e427]:
+                    - link "According-War-6553's profile" [ref=e430]:
+                      - /url: https://www.reddit.com/user/According-War-6553/
+                      - text: According-War-6553
+                    - generic [ref=e431]: •
+                    - link "16h ago" [ref=e433]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/oskdcdc/
+                      - time [ref=e435]: 16h ago
+                - generic [ref=e437]:
+                  - generic [ref=e440]:
+                    - paragraph [ref=e441]: Eyo!! I finished AOT a week ago, and here is my take. (I wrote a lot).
+                    - paragraph [ref=e442]: "At its core, AoT is a profound reflection of humanity. So I want you to ask yourself how a human mind could conceive such a story. The answer is simple: it reflects our very human natures. It showcases the disturbing yet fascinating duality of our beauty and brutality."
+                    - paragraph [ref=e443]: "To understand my perspective, I invite you to look at a few fundamental principles of existence:"
+                    - list [ref=e444]:
+                      - listitem [ref=e445]:
+                        - paragraph [ref=e446]:
+                          - strong [ref=e447]: "Polarity:"
+                          - text: "The world is built on opposites: life and death, pain and pleasure, freedom and limitation, north and south, left and right... One cannot exist without the other."
+                      - listitem [ref=e448]:
+                        - paragraph [ref=e449]:
+                          - strong [ref=e450]: "Perception / Subjectivity:"
+                          - text: We never access reality directly; we only experience our perception of it.
+                      - listitem [ref=e451]:
+                        - paragraph [ref=e452]:
+                          - strong [ref=e453]: "Constructs:"
+                          - text: To make sense of this uncertainty, humanity invents frameworks like morality, justice, and freedom. These are necessary stories, but they become dangerous the moment we mistake them for reality itself.
+                    - paragraph [ref=e454]:
+                      - text: This illusion is exactly what happened to humanity, and more specifically, to Eren. He didn't pursue actual freedom; he pursued an
+                      - emphasis [ref=e455]: idea
+                      - text: of freedom. The harder he chased that ideal, the more it enslaved him. In the end, he was no longer confronting reality, he was trapped inside his own obsession.
+                    - paragraph [ref=e456]: The tragedy of human existence is our desire to reject half of life. We want life without death, love without loss, and freedom without limitation. But every coin has two sides. True freedom might not be the absence of chains, but rather the clear, unfiltered perception of reality as it is, embracing the duality of light and shadow, Yin and Yang.
+                    - paragraph [ref=e457]: "This brings me to the boy in the ending. I see him as a symbol of innocence: a mind untouched by human-made constructs, existing in a state of pure perception before interpretation replaces experience. It is why people often view childhood as the best time of their lives: not because life was easier, but because their perception was less filtered."
+                    - paragraph [ref=e458]: Yet, most people never question this shift.
+                    - paragraph [ref=e459]: To finish, I would like you to imagine a child looking at the sky. He sees a moving figure, and a parent tells him, "It's a bird." From that moment on, the child stops seeing the raw, nameless wonder; he only sees the symbol. Why did we name it a bird? It is just a label. Like that child, modern society remains trapped in a lower level of awareness, allowing our perception to be entirely biased by symbols and mistaking our own stories for absolute truth.
+                    - paragraph [ref=e460]: And so, AOT is just the representation of humanity.
+                    - paragraph [ref=e461]: "As you said: everything is gonna repeat again."
+                  - generic [ref=e463]:
+                    - img [ref=e464]
+                    - generic [ref=e466]: "2"
+                    - img [ref=e467]
+              - article "Comment from GrassTheBass 4 days ago" [ref=e470]:
+                - generic "GrassTheBass's profile --- avatar GrassTheBass's profile 4d ago" [ref=e471] [cursor=pointer]:
+                  - link "GrassTheBass's profile --- avatar" [ref=e476]:
+                    - /url: https://www.reddit.com/user/GrassTheBass/
+                    - generic [ref=e478]:
+                      - img [ref=e480]
+                      - img [ref=e484]
+                      - img [ref=e487]
+                  - generic [ref=e492]:
+                    - link "GrassTheBass's profile" [ref=e495]:
+                      - /url: https://www.reddit.com/user/GrassTheBass/
+                      - text: GrassTheBass
+                    - generic [ref=e496]: •
+                    - link "4d ago" [ref=e498]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/ortnevd/
+                      - time [ref=e500]: 4d ago
+                - generic [ref=e502]:
+                  - paragraph [ref=e506]: That is the point! The Cycle never stops. I took it as a metaphor on how Humanity (in real life) will always slaughter each other over pointless reasons we could easily talk out. But as Eren himself said "Just how there are those who will fight wars, there will always be people like you Armin, who fight for peace." (Not the actual quote, just what I remember of it.)
+                  - generic [ref=e508]:
+                    - img [ref=e509]
+                    - generic [ref=e511]: "4"
+                    - img [ref=e512]
+                  - img
+                  - 'article "Comment thread level 1: Reply from CalmAd6341 3 days ago" [ref=e516]':
+                    - generic "CalmAd6341's profile --- avatar CalmAd6341's profile 3d ago" [ref=e517] [cursor=pointer]:
+                      - link "CalmAd6341's profile --- avatar" [ref=e522]:
+                        - /url: https://www.reddit.com/user/CalmAd6341/
+                        - img "u/CalmAd6341 avatar" [ref=e525]
+                      - generic [ref=e529]:
+                        - link "CalmAd6341's profile" [ref=e532]:
+                          - /url: https://www.reddit.com/user/CalmAd6341/
+                          - text: CalmAd6341
+                        - generic "Comment distinguished as the original poster" [ref=e535]: OP
+                        - generic [ref=e536]: •
+                        - link "3d ago" [ref=e538]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/os0pw0b/
+                          - time [ref=e540]: 3d ago
+                    - generic [ref=e542]:
+                      - paragraph [ref=e546]: Yeahh I remember that, ig they were trying to be realistic
+                      - generic [ref=e548]:
+                        - img [ref=e549]
+                        - generic [ref=e551]: "2"
+                        - img [ref=e552]
+              - article "Comment from No_Persimmon360 4 days ago" [ref=e555]:
+                - generic "No_Persimmon360's profile --- avatar No_Persimmon360's profile 4d ago" [ref=e556] [cursor=pointer]:
+                  - link "No_Persimmon360's profile --- avatar" [ref=e561]:
+                    - /url: https://www.reddit.com/user/No_Persimmon360/
+                    - generic [ref=e563]:
+                      - img [ref=e565]
+                      - img [ref=e569]
+                      - img [ref=e572]
+                  - generic [ref=e577]:
+                    - link "No_Persimmon360's profile" [ref=e580]:
+                      - /url: https://www.reddit.com/user/No_Persimmon360/
+                      - text: No_Persimmon360
+                    - generic [ref=e581]: •
+                    - link "4d ago" [ref=e583]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/oryzeyg/
+                      - time [ref=e585]: 4d ago
+                - generic [ref=e587]:
+                  - paragraph [ref=e591]: I agree with you, the ending means most of what happened kinda didn't matter. The cycle of destruction and war will never cease. In my mind it would have been a better outcome to kill 100% of Marley's population by removing the titans power and leave paradis island grow back to a thriving civilization. However it's mentioned that even if they were no titans and paradis was the lone survivor, the people would still fight between each other for some reason. It would still end up with war and more atrocities. Makes it really hard to find any hopeful future for humanity however you look at it. At least people got some years without any war in the ending we got.
+                  - generic [ref=e593]:
+                    - img [ref=e594]
+                    - generic [ref=e596]: "1"
+                    - img [ref=e597]
+                  - img
+                  - 'article "Comment thread level 1: Reply from CalmAd6341 3 days ago" [ref=e601]':
+                    - generic "CalmAd6341's profile --- avatar CalmAd6341's profile 3d ago" [ref=e602] [cursor=pointer]:
+                      - link "CalmAd6341's profile --- avatar" [ref=e607]:
+                        - /url: https://www.reddit.com/user/CalmAd6341/
+                        - img "u/CalmAd6341 avatar" [ref=e610]
+                      - generic [ref=e614]:
+                        - link "CalmAd6341's profile" [ref=e617]:
+                          - /url: https://www.reddit.com/user/CalmAd6341/
+                          - text: CalmAd6341
+                        - generic "Comment distinguished as the original poster" [ref=e620]: OP
+                        - generic [ref=e621]: •
+                        - link "3d ago" [ref=e623]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/comment/os0q8kr/
+                          - time [ref=e625]: 3d ago
+                    - generic [ref=e627]:
+                      - paragraph [ref=e631]: That's the dark way, ig they could also went the cliche ending which usually happens they stop right before the rumbling in front of Marley and marley realises they are not devil and everyone lives happily after sunshine and rainbows
+                      - generic [ref=e633]:
+                        - img [ref=e634]
+                        - generic [ref=e636]: "1"
+                        - img [ref=e637]
+        - generic [ref=e639]:
+          - generic [ref=e640]:
+            - complementary "People also ask about section" [ref=e642]:
+              - heading "People also ask about section" [level=1] [ref=e643]
+              - generic [ref=e644]:
+                - img [ref=e646]
+                - generic [ref=e648]: People also ask about
+              - generic [ref=e649]:
+                - generic [ref=e651]:
+                  - generic [ref=e652]:
+                    - generic [ref=e653]: Most shocking moments in Attack on Titan
+                    - generic [ref=e654]:
+                      - paragraph [ref=e655]:
+                        - text: To identify the most shocking moments in
+                        - emphasis [ref=e656]: Attack on Titan
+                        - text: ", consider scenes that deliver unexpected plot twists, horrific imagery, or intense emotional impact."
+                      - heading "Unexpected Revelations and Betrayals" [level=3] [ref=e657]
+                      - list [ref=e658]:
+                        - listitem [ref=e659]:
+                          - paragraph [ref=e660]:
+                            - strong [ref=e661]: The Colossal and Armored Titan reveal
+                            - text: was a massive shock to viewers, fundamentally changing the understanding of the show's conflict. "Its hard to beat the Reiner and Bert reveal"
+                        - listitem [ref=e662]:
+                          - paragraph [ref=e663]:
+                            - strong [ref=e664]: Eren manipulating Grisha to kill the Reiss family
+                            - text: completely redefined Eren's character and motivations. "Finding out Eren is the one who pushed Grisha to kill the Reiss family."
+                        - listitem [ref=e665]:
+                          - paragraph [ref=e666]:
+                            - strong [ref=e667]: The Beast Titan's first appearance
+                            - text: was shocking due to its intelligent, human-like behavior and ability to speak. "The Beast Titan legit had me shooketh."
+                      - heading "Horrific and Disturbing Imagery" [level=3] [ref=e668]
+                      - list [ref=e669]:
+                        - listitem [ref=e670]:
+                          - paragraph [ref=e671]:
+                            - strong [ref=e672]: Mike Zacharias's death
+                            - text: is frequently cited as one of the most brutal and disturbing, showing him helpless and terrified before being devoured. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e673]:
+                          - paragraph [ref=e674]:
+                            - strong [ref=e675]: Kaya witnessing her mother being eaten alive
+                            - text: left a lasting impact due to the prolonged suffering and the child's helplessness. "Mine would be the scene with Kaya watching her mom get eaten alive slowly."
+                        - listitem [ref=e676]:
+                          - paragraph [ref=e677]:
+                            - strong [ref=e678]: The Rumbling
+                            - text: presented an apocalyptic scale of horror, with countless innocent lives being crushed. "The Rumbling was like the one of the most horrifying end of the world moment I’ve ever seen watching all those people trying to escape even attack each other in a futile attempt to escape and even a women crying in terror and despair with her kids made me speechless and sick probably moreso than Faye or Nanaba’s deaths"
+                      - heading "Emotional Impact and Character Trauma" [level=3] [ref=e679]
+                      - list [ref=e680]:
+                        - listitem [ref=e681]:
+                          - paragraph [ref=e682]:
+                            - strong [ref=e683]: Nanaba's psychological breakdown
+                            - text: before her death, regressing to a terrified child, was deeply disturbing. "Nanaba screaming "father, please, no, i'll be good", having a full on trauma induced regression to a childhood memory as shes about to be eaten."
+                        - listitem [ref=e684]:
+                          - paragraph [ref=e685]:
+                            - strong [ref=e686]: Hannah attempting CPR on Franz
+                            - text: ", who was missing the lower half of his body, highlighted the grim realities of battle. \"this was disturbing.Hannah giving cpr to franz. the view in anime is blocked by armin in the anime\""
+                        - listitem [ref=e687]:
+                          - paragraph [ref=e688]:
+                            - strong [ref=e689]: Marco's betrayal and death
+                            - text: was a crushing moment, showing the harshness of a war where former comrades turn on each other. "Being betrayed by not one, not two, but THREE people who you believed were your comrades and friends is just so crushing."
+                      - paragraph [ref=e690]: Do you think the earlier seasons had more shocking moments due to the initial mystery of the titans?
+                      - separator [ref=e691]
+                  - link "Show More" [ref=e696] [cursor=pointer]:
+                    - /url: https://www.reddit.com/answers/64c06511-8dfe-4400-a210-363ac47862b3/?q=Most+shocking+moments+in+Attack+on+Titan&source=PDP
+                    - generic [ref=e698]: Show More
+                - link "Character arcs that surprised fans the most" [ref=e700] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/0d786916-2ca9-429c-a28a-3660a4930a3c/?q=Character+arcs+that+surprised+fans+the+most&source=PDP
+                  - generic [ref=e703]: Character arcs that surprised fans the most
+                  - img [ref=e706]
+                - link "Best fan theories about the series" [ref=e709] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/efe5a361-848f-49f2-9925-448b99f23954/?q=Best+fan+theories+about+the+series&source=PDP
+                  - generic [ref=e712]: Best fan theories about the series
+                  - img [ref=e715]
+                - link "Impact of Attack on Titan on anime culture" [ref=e718] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/2fae6da4-658e-4604-b8fe-1d87a09102bc/?q=Impact+of+Attack+on+Titan+on+anime+culture&source=PDP
+                  - generic [ref=e721]: Impact of Attack on Titan on anime culture
+                  - img [ref=e724]
+                - link "Favorite Titan transformations and why" [ref=e727] [cursor=pointer]:
+                  - /url: https://www.reddit.com/answers/a2034190-f44c-49b3-b1ee-89d292273b06/?q=Favorite+Titan+transformations+and+why&source=PDP
+                  - generic [ref=e730]: Favorite Titan transformations and why
+                  - img [ref=e733]
+            - complementary "Related Posts Section" [ref=e735]:
+              - heading "Related Posts Section" [level=1] [ref=e736]: More posts you may like
+              - generic [ref=e737]: Related posts
+              - list [ref=e743]:
+                - listitem [ref=e744]:
+                  - generic [ref=e745]:
+                    - generic [ref=e746]:
+                      - link "So I just watched DMC Season 2" [ref=e747] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/DevilMayCryNetflix/comments/1temfme/so_i_just_watched_dmc_season_2/
+                        - generic [ref=e748]:
+                          - generic: So I just watched DMC Season 2
+                      - generic [ref=e749]:
+                        - generic [ref=e750]:
+                          - generic [ref=e752]:
+                            - link "r/DevilMayCryNetflix" [ref=e753] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/DevilMayCryNetflix/
+                              - generic [ref=e757]: r/DevilMayCryNetflix
+                            - generic [ref=e758]: •
+                            - time [ref=e760]: 1mo ago
+                          - link "List item post - So I just watched DMC Season 2" [ref=e762] [cursor=pointer]:
+                            - /url: /r/DevilMayCryNetflix/comments/1temfme/so_i_just_watched_dmc_season_2/
+                            - heading "List item post - So I just watched DMC Season 2" [level=3] [ref=e765]: So I just watched DMC Season 2
+                        - link "r/DevilMayCryNetflix - So I just watched DMC Season 2" [ref=e768] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/DevilMayCryNetflix/comments/1temfme/so_i_just_watched_dmc_season_2/
+                          - img "r/DevilMayCryNetflix - So I just watched DMC Season 2" [ref=e769]
+                      - generic [ref=e771]:
+                        - generic [ref=e772]: "53"
+                        - text: upvotes ·
+                        - generic [ref=e773]: "14"
+                        - text: comments
+                    - separator [ref=e774]
+                - listitem [ref=e775]:
+                  - generic [ref=e776]:
+                    - generic [ref=e777]:
+                      - link "Just finished the series and I got thoughts" [ref=e778] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/BadMonkeyTVSeries/comments/1u2qmzy/just_finished_the_series_and_i_got_thoughts/
+                        - generic [ref=e779]:
+                          - generic: Just finished the series and I got thoughts
+                      - generic [ref=e781]:
+                        - generic [ref=e783]:
+                          - link "r/BadMonkeyTVSeries" [ref=e784] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/BadMonkeyTVSeries/
+                            - generic [ref=e788]: r/BadMonkeyTVSeries
+                          - generic [ref=e789]: •
+                          - time [ref=e791]: 9d ago
+                        - link "List item post - Just finished the series and I got thoughts" [ref=e793] [cursor=pointer]:
+                          - /url: /r/BadMonkeyTVSeries/comments/1u2qmzy/just_finished_the_series_and_i_got_thoughts/
+                          - heading "List item post - Just finished the series and I got thoughts" [level=3] [ref=e796]: Just finished the series and I got thoughts
+                      - generic [ref=e798]:
+                        - generic [ref=e799]: "3"
+                        - text: upvotes ·
+                        - generic [ref=e800]: "8"
+                        - text: comments
+                    - separator [ref=e801]
+                - listitem [ref=e802]:
+                  - generic [ref=e803]:
+                    - generic [ref=e804]:
+                      - link "My Thoughts As A First time viewer of Season 2, Just finished" [ref=e805] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/TheTraitors/comments/1st4wyx/my_thoughts_as_a_first_time_viewer_of_season_2/
+                        - generic [ref=e806]:
+                          - generic: My Thoughts As A First time viewer of Season 2, Just finished
+                      - generic [ref=e808]:
+                        - generic [ref=e810]:
+                          - link "r/TheTraitors" [ref=e811] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/TheTraitors/
+                            - generic [ref=e815]: r/TheTraitors
+                          - generic [ref=e816]: •
+                          - time [ref=e818]: 2mo ago
+                        - link "List item post - My Thoughts As A First time viewer of Season 2, Just finish..." [ref=e820] [cursor=pointer]:
+                          - /url: /r/TheTraitors/comments/1st4wyx/my_thoughts_as_a_first_time_viewer_of_season_2/
+                          - heading "List item post - My Thoughts As A First time viewer of Season 2, Just finish..." [level=3] [ref=e823]: My Thoughts As A First time viewer of Season 2, Just finished
+                      - generic [ref=e825]:
+                        - generic [ref=e826]: "29"
+                        - text: upvotes ·
+                        - generic [ref=e827]: "17"
+                        - text: comments
+                    - separator [ref=e828]
+                - listitem
+                - listitem [ref=e829]:
+                  - generic [ref=e830]:
+                    - generic [ref=e831]:
+                      - link "Anyone else disliked not just the ending, but the last three seasons of mha?" [ref=e832] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/mha/comments/1tjnnll/anyone_else_disliked_not_just_the_ending_but_the/
+                        - generic [ref=e833]:
+                          - generic: Anyone else disliked not just the ending, but the last three seasons of mha?
+                      - generic [ref=e835]:
+                        - generic [ref=e837]:
+                          - link "r/mha" [ref=e838] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/mha/
+                            - generic [ref=e842]: r/mha
+                          - generic [ref=e843]: •
+                          - time [ref=e845]: 1mo ago
+                        - link "SPOILER List item post - Anyone else disliked not just the ending, but the last thre..." [ref=e847] [cursor=pointer]:
+                          - /url: /r/mha/comments/1tjnnll/anyone_else_disliked_not_just_the_ending_but_the/
+                          - generic [ref=e849]:
+                            - generic [ref=e851]:
+                              - img [ref=e853]
+                              - generic [ref=e855]: SPOILER
+                            - heading "List item post - Anyone else disliked not just the ending, but the last thre..." [level=3] [ref=e856]: Anyone else disliked not just the ending, but the last three seasons of mha?
+                      - generic [ref=e858]:
+                        - generic [ref=e859]: "14"
+                        - text: comments
+                    - separator [ref=e860]
+                - listitem [ref=e861]:
+                  - generic [ref=e862]:
+                    - generic [ref=e863]:
+                      - link "Just finished The Wire and this is my honest opinion about it" [ref=e864] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/tvshow/comments/1ss40r2/just_finished_the_wire_and_this_is_my_honest/
+                        - generic [ref=e865]:
+                          - generic: Just finished The Wire and this is my honest opinion about it
+                      - generic [ref=e867]:
+                        - generic [ref=e869]:
+                          - link "r/tvshow" [ref=e870] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/tvshow/
+                            - generic [ref=e874]: r/tvshow
+                          - generic [ref=e875]: •
+                          - time [ref=e877]: 2mo ago
+                        - link "List item post - Just finished The Wire and this is my honest opinion about ..." [ref=e879] [cursor=pointer]:
+                          - /url: /r/tvshow/comments/1ss40r2/just_finished_the_wire_and_this_is_my_honest/
+                          - heading "List item post - Just finished The Wire and this is my honest opinion about ..." [level=3] [ref=e882]: Just finished The Wire and this is my honest opinion about it
+                      - generic [ref=e884]:
+                        - generic [ref=e885]: "13"
+                        - text: comments
+                    - separator [ref=e886]
+                - listitem [ref=e887]:
+                  - generic [ref=e888]:
+                    - generic [ref=e889]:
+                      - link "Just Finished Twilight, yep, I cried. A question about the beginning (Spoilers for TNP Twilight)" [ref=e890] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/WarriorCats/comments/1tjhoy4/just_finished_twilight_yep_i_cried_a_question/
+                        - generic [ref=e891]:
+                          - generic: Just Finished Twilight, yep, I cried. A question about the beginning (Spoilers for TNP Twilight)
+                      - generic [ref=e893]:
+                        - generic [ref=e895]:
+                          - link "r/WarriorCats" [ref=e896] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/WarriorCats/
+                            - generic [ref=e900]: r/WarriorCats
+                          - generic [ref=e901]: •
+                          - time [ref=e903]: 1mo ago
+                        - link "SPOILER List item post - Just Finished Twilight, yep, I cried. A question about the ..." [ref=e905] [cursor=pointer]:
+                          - /url: /r/WarriorCats/comments/1tjhoy4/just_finished_twilight_yep_i_cried_a_question/
+                          - generic [ref=e907]:
+                            - generic [ref=e909]:
+                              - img [ref=e911]
+                              - generic [ref=e913]: SPOILER
+                            - heading "List item post - Just Finished Twilight, yep, I cried. A question about the ..." [level=3] [ref=e914]: Just Finished Twilight, yep, I cried. A question about the beginning (Spoilers for TNP Twilight)
+                      - generic [ref=e916]:
+                        - generic [ref=e917]: "10"
+                        - text: upvotes ·
+                        - generic [ref=e918]: "6"
+                        - text: comments
+                    - separator [ref=e919]
+                - listitem [ref=e920]:
+                  - generic [ref=e921]:
+                    - generic [ref=e922]:
+                      - link "Is this a foreshadowing?" [ref=e923] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1r8zvzb/is_this_a_foreshadowing/
+                        - generic [ref=e924]:
+                          - generic: Is this a foreshadowing?
+                      - generic [ref=e925]:
+                        - generic [ref=e926]:
+                          - generic [ref=e928]:
+                            - link "r/attackontitan" [ref=e929] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e933]: r/attackontitan
+                            - generic [ref=e934]: •
+                            - time [ref=e936]: 4mo ago
+                          - link "List item post - Is this a foreshadowing?" [ref=e938] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1r8zvzb/is_this_a_foreshadowing/
+                            - heading "List item post - Is this a foreshadowing?" [level=3] [ref=e941]: Is this a foreshadowing?
+                        - generic [ref=e943]:
+                          - link "r/attackontitan - Is this a foreshadowing?" [ref=e944] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1r8zvzb/is_this_a_foreshadowing/
+                            - img "r/attackontitan - Is this a foreshadowing?" [ref=e945]
+                          - generic:
+                            - img
+                            - generic: "2"
+                      - generic [ref=e947]:
+                        - generic [ref=e948]: 1.2K
+                        - text: upvotes ·
+                        - generic [ref=e949]: "18"
+                        - text: comments
+                    - separator [ref=e950]
+                - listitem [ref=e951]:
+                  - generic [ref=e952]:
+                    - generic [ref=e953]:
+                      - link "Can't agree more" [ref=e954] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1szofe5/cant_agree_more/
+                        - generic [ref=e955]:
+                          - generic: Can't agree more
+                      - generic [ref=e956]:
+                        - generic [ref=e957]:
+                          - generic [ref=e959]:
+                            - link "r/attackontitan" [ref=e960] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e964]: r/attackontitan
+                            - generic [ref=e965]: •
+                            - time [ref=e967]: 2mo ago
+                          - link "List item post - Can't agree more" [ref=e969] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1szofe5/cant_agree_more/
+                            - heading "List item post - Can't agree more" [level=3] [ref=e972]: Can't agree more
+                        - link "r/attackontitan - Can't agree more" [ref=e975] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1szofe5/cant_agree_more/
+                          - img "r/attackontitan - Can't agree more" [ref=e976]
+                      - generic [ref=e978]:
+                        - generic [ref=e979]: "380"
+                        - text: upvotes ·
+                        - generic [ref=e980]: "8"
+                        - text: comments
+                    - separator [ref=e981]
+                - listitem
+                - listitem [ref=e982]:
+                  - generic [ref=e983]:
+                    - generic [ref=e984]:
+                      - link "Just Finished S2..." [ref=e985] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qsva5h/just_finished_s2/
+                        - generic [ref=e986]:
+                          - generic: Just Finished S2...
+                      - generic [ref=e987]:
+                        - generic [ref=e988]:
+                          - generic [ref=e990]:
+                            - link "r/attackontitan" [ref=e991] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e995]: r/attackontitan
+                            - generic [ref=e996]: •
+                            - time [ref=e998]: 5mo ago
+                          - link "SPOILER List item post - Just Finished S2..." [ref=e1000] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1qsva5h/just_finished_s2/
+                            - generic [ref=e1002]:
+                              - generic [ref=e1004]:
+                                - img [ref=e1006]
+                                - generic [ref=e1008]: SPOILER
+                              - heading "List item post - Just Finished S2..." [level=3] [ref=e1009]: Just Finished S2...
+                        - generic [ref=e1011]:
+                          - link "r/attackontitan - Just Finished S2..." [ref=e1012] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1qsva5h/just_finished_s2/
+                            - img "r/attackontitan - Just Finished S2..." [ref=e1013]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1015]:
+                        - generic [ref=e1016]: "72"
+                        - text: upvotes ·
+                        - generic [ref=e1017]: "15"
+                        - text: comments
+                    - separator [ref=e1018]
+                - listitem [ref=e1019]:
+                  - generic [ref=e1020]:
+                    - generic [ref=e1021]:
+                      - link "what would’ve been a good alternate ending in my opinion." [ref=e1022] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1sxx51c/what_wouldve_been_a_good_alternate_ending_in_my/
+                        - generic [ref=e1023]:
+                          - generic: what would’ve been a good alternate ending in my opinion.
+                      - generic [ref=e1024]:
+                        - generic [ref=e1025]:
+                          - generic [ref=e1027]:
+                            - link "r/attackontitan" [ref=e1028] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1032]: r/attackontitan
+                            - generic [ref=e1033]: •
+                            - time [ref=e1035]: 2mo ago
+                          - link "List item post - what would’ve been a good alternate ending in my opinion." [ref=e1037] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1sxx51c/what_wouldve_been_a_good_alternate_ending_in_my/
+                            - heading "List item post - what would’ve been a good alternate ending in my opinion." [level=3] [ref=e1040]: what would’ve been a good alternate ending in my opinion.
+                        - link "r/attackontitan - what would’ve been a good alternate ending in my opinion." [ref=e1043] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1sxx51c/what_wouldve_been_a_good_alternate_ending_in_my/
+                          - img "r/attackontitan - what would’ve been a good alternate ending in my opinion." [ref=e1044]
+                      - generic [ref=e1046]:
+                        - generic [ref=e1047]: "79"
+                        - text: upvotes ·
+                        - generic [ref=e1048]: "57"
+                        - text: comments
+                    - separator [ref=e1049]
+                - listitem [ref=e1050]:
+                  - generic [ref=e1051]:
+                    - generic [ref=e1052]:
+                      - link "Which of these three episode runs do you think is the best?" [ref=e1053] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1ttcvm7/which_of_these_three_episode_runs_do_you_think_is/
+                        - generic [ref=e1054]:
+                          - generic: Which of these three episode runs do you think is the best?
+                      - generic [ref=e1055]:
+                        - generic [ref=e1056]:
+                          - generic [ref=e1058]:
+                            - link "r/attackontitan" [ref=e1059] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1063]: r/attackontitan
+                            - generic [ref=e1064]: •
+                            - time [ref=e1066]: 19d ago
+                          - link "List item post - Which of these three episode runs do you think is the best?" [ref=e1068] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1ttcvm7/which_of_these_three_episode_runs_do_you_think_is/
+                            - heading "List item post - Which of these three episode runs do you think is the best?" [level=3] [ref=e1071]: Which of these three episode runs do you think is the best?
+                        - generic [ref=e1073]:
+                          - link "r/attackontitan - Which of these three episode runs do you think is the best?" [ref=e1074] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1ttcvm7/which_of_these_three_episode_runs_do_you_think_is/
+                            - img "r/attackontitan - Which of these three episode runs do you think is the best?" [ref=e1075]
+                          - generic:
+                            - img
+                            - generic: "3"
+                      - generic [ref=e1077]:
+                        - generic [ref=e1078]: "697"
+                        - text: upvotes ·
+                        - generic [ref=e1079]: "81"
+                        - text: comments
+                    - separator [ref=e1080]
+                - listitem [ref=e1081]:
+                  - generic [ref=e1082]:
+                    - generic [ref=e1083]:
+                      - link "How do you think season 3 part 2 would have played out if these characters were still alive?" [ref=e1084] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1twc81x/how_do_you_think_season_3_part_2_would_have/
+                        - generic [ref=e1085]:
+                          - generic: How do you think season 3 part 2 would have played out if these characters were still alive?
+                      - generic [ref=e1086]:
+                        - generic [ref=e1087]:
+                          - generic [ref=e1089]:
+                            - link "r/attackontitan" [ref=e1090] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1094]: r/attackontitan
+                            - generic [ref=e1095]: •
+                            - time [ref=e1097]: 16d ago
+                          - link "List item post - How do you think season 3 part 2 would have played out if t..." [ref=e1099] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1twc81x/how_do_you_think_season_3_part_2_would_have/
+                            - heading "List item post - How do you think season 3 part 2 would have played out if t..." [level=3] [ref=e1102]: How do you think season 3 part 2 would have played out if these characters were still alive?
+                        - generic [ref=e1104]:
+                          - link "r/attackontitan - How do you think season 3 part 2 would have played out if these characters were still alive?" [ref=e1105] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1twc81x/how_do_you_think_season_3_part_2_would_have/
+                            - img "r/attackontitan - How do you think season 3 part 2 would have played out if these characters were still alive?" [ref=e1106]
+                          - generic:
+                            - img
+                            - generic: "4"
+                      - generic [ref=e1108]:
+                        - generic [ref=e1109]: "266"
+                        - text: upvotes ·
+                        - generic [ref=e1110]: "38"
+                        - text: comments
+                    - separator [ref=e1111]
+                - listitem [ref=e1112]:
+                  - generic [ref=e1113]:
+                    - generic [ref=e1114]:
+                      - link "Can I still call this a theory ?" [ref=e1115] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1rcqjvw/can_i_still_call_this_a_theory/
+                        - generic [ref=e1116]:
+                          - generic: Can I still call this a theory ?
+                      - generic [ref=e1117]:
+                        - generic [ref=e1118]:
+                          - generic [ref=e1120]:
+                            - link "r/attackontitan" [ref=e1121] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1125]: r/attackontitan
+                            - generic [ref=e1126]: •
+                            - time [ref=e1128]: 4mo ago
+                          - link "List item post - Can I still call this a theory ?" [ref=e1130] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1rcqjvw/can_i_still_call_this_a_theory/
+                            - heading "List item post - Can I still call this a theory ?" [level=3] [ref=e1133]: Can I still call this a theory ?
+                        - generic [ref=e1135]:
+                          - link "r/attackontitan - Can I still call this a theory ?" [ref=e1136] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1rcqjvw/can_i_still_call_this_a_theory/
+                            - img "r/attackontitan - Can I still call this a theory ?" [ref=e1137]
+                          - generic:
+                            - img
+                            - generic: "3"
+                      - generic [ref=e1139]:
+                        - generic [ref=e1140]: "136"
+                        - text: upvotes ·
+                        - generic [ref=e1141]: "30"
+                        - text: comments
+                    - separator [ref=e1142]
+                - listitem [ref=e1143]:
+                  - generic [ref=e1144]:
+                    - generic [ref=e1145]:
+                      - link "Just finished my first watch of the series. I binged it, was an absolutely peak story. Ive been like this all day" [ref=e1146] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1u1oitn/just_finished_my_first_watch_of_the_series_i/
+                        - generic [ref=e1147]:
+                          - generic: Just finished my first watch of the series. I binged it, was an absolutely peak story. Ive been like this all day
+                      - generic [ref=e1148]:
+                        - generic [ref=e1149]:
+                          - generic [ref=e1151]:
+                            - link "r/attackontitan" [ref=e1152] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1156]: r/attackontitan
+                            - generic [ref=e1157]: •
+                            - time [ref=e1159]: 10d ago
+                          - link "List item post - Just finished my first watch of the series. I binged it, wa..." [ref=e1161] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1u1oitn/just_finished_my_first_watch_of_the_series_i/
+                            - heading "List item post - Just finished my first watch of the series. I binged it, wa..." [level=3] [ref=e1164]: Just finished my first watch of the series. I binged it, was an absolutely peak story. Ive been like this all day
+                        - link "r/attackontitan - Just finished my first watch of the series. I binged it, was an absolutely peak story. Ive been like this all day" [ref=e1167] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1u1oitn/just_finished_my_first_watch_of_the_series_i/
+                          - img "r/attackontitan - Just finished my first watch of the series. I binged it, was an absolutely peak story. Ive been like this all day" [ref=e1168]
+                      - generic [ref=e1170]:
+                        - generic [ref=e1171]: "177"
+                        - text: upvotes ·
+                        - generic [ref=e1172]: "21"
+                        - text: comments
+                    - separator [ref=e1173]
+                - listitem [ref=e1174]:
+                  - generic [ref=e1175]:
+                    - generic [ref=e1176]:
+                      - link "Any thoughts or explanations?" [ref=e1177] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1scsmpg/any_thoughts_or_explanations/
+                        - generic [ref=e1178]:
+                          - generic: Any thoughts or explanations?
+                      - generic [ref=e1179]:
+                        - generic [ref=e1180]:
+                          - generic [ref=e1182]:
+                            - link "r/attackontitan" [ref=e1183] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1187]: r/attackontitan
+                            - generic [ref=e1188]: •
+                            - time [ref=e1190]: 3mo ago
+                          - link "List item post - Any thoughts or explanations?" [ref=e1192] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1scsmpg/any_thoughts_or_explanations/
+                            - heading "List item post - Any thoughts or explanations?" [level=3] [ref=e1195]: Any thoughts or explanations?
+                        - link "r/attackontitan - Any thoughts or explanations?" [ref=e1198] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1scsmpg/any_thoughts_or_explanations/
+                          - img "r/attackontitan - Any thoughts or explanations?" [ref=e1199]
+                      - generic [ref=e1201]:
+                        - generic [ref=e1202]: "97"
+                        - text: upvotes ·
+                        - generic [ref=e1203]: "14"
+                        - text: comments
+                    - separator [ref=e1204]
+                - listitem [ref=e1205]:
+                  - generic [ref=e1206]:
+                    - generic [ref=e1207]:
+                      - link "Am I missing an episode somewhere?" [ref=e1208] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1pthxe8/am_i_missing_an_episode_somewhere/
+                        - generic [ref=e1209]:
+                          - generic: Am I missing an episode somewhere?
+                      - generic [ref=e1210]:
+                        - generic [ref=e1211]:
+                          - generic [ref=e1213]:
+                            - link "r/attackontitan" [ref=e1214] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1218]: r/attackontitan
+                            - generic [ref=e1219]: •
+                            - time [ref=e1221]: 6mo ago
+                          - link "SPOILER List item post - Am I missing an episode somewhere?" [ref=e1223] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1pthxe8/am_i_missing_an_episode_somewhere/
+                            - generic [ref=e1225]:
+                              - generic [ref=e1227]:
+                                - img [ref=e1229]
+                                - generic [ref=e1231]: SPOILER
+                              - heading "List item post - Am I missing an episode somewhere?" [level=3] [ref=e1232]: Am I missing an episode somewhere?
+                        - generic [ref=e1234]:
+                          - link "r/attackontitan - Am I missing an episode somewhere?" [ref=e1235] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1pthxe8/am_i_missing_an_episode_somewhere/
+                            - img "r/attackontitan - Am I missing an episode somewhere?" [ref=e1236]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1238]:
+                        - generic [ref=e1239]: "54"
+                        - text: upvotes ·
+                        - generic [ref=e1240]: "14"
+                        - text: comments
+                    - separator [ref=e1241]
+                - listitem [ref=e1242]:
+                  - generic [ref=e1243]:
+                    - generic [ref=e1244]:
+                      - link "Just finished the ending..." [ref=e1245] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1r4h11f/just_finished_the_ending/
+                        - generic [ref=e1246]:
+                          - generic: Just finished the ending...
+                      - generic [ref=e1247]:
+                        - generic [ref=e1248]:
+                          - generic [ref=e1250]:
+                            - link "r/attackontitan" [ref=e1251] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1255]: r/attackontitan
+                            - generic [ref=e1256]: •
+                            - time [ref=e1258]: 4mo ago
+                          - link "SPOILER List item post - Just finished the ending..." [ref=e1260] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1r4h11f/just_finished_the_ending/
+                            - generic [ref=e1262]:
+                              - generic [ref=e1264]:
+                                - img [ref=e1266]
+                                - generic [ref=e1268]: SPOILER
+                              - heading "List item post - Just finished the ending..." [level=3] [ref=e1269]: Just finished the ending...
+                        - generic [ref=e1271]:
+                          - link "r/attackontitan - Just finished the ending..." [ref=e1272] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1r4h11f/just_finished_the_ending/
+                            - img "r/attackontitan - Just finished the ending..." [ref=e1273]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1275]:
+                        - generic [ref=e1276]: "12"
+                        - text: upvotes ·
+                        - generic [ref=e1277]: "11"
+                        - text: comments
+                    - separator [ref=e1278]
+                - listitem [ref=e1279]:
+                  - generic [ref=e1280]:
+                    - generic [ref=e1281]:
+                      - link "I have a serious doubt about the ending" [ref=e1282] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1rngaqr/i_have_a_serious_doubt_about_the_ending/
+                        - generic [ref=e1283]:
+                          - generic: I have a serious doubt about the ending
+                      - generic [ref=e1284]:
+                        - generic [ref=e1285]:
+                          - generic [ref=e1287]:
+                            - link "r/attackontitan" [ref=e1288] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1292]: r/attackontitan
+                            - generic [ref=e1293]: •
+                            - time [ref=e1295]: 3mo ago
+                          - link "SPOILER List item post - I have a serious doubt about the ending" [ref=e1297] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1rngaqr/i_have_a_serious_doubt_about_the_ending/
+                            - generic [ref=e1299]:
+                              - generic [ref=e1301]:
+                                - img [ref=e1303]
+                                - generic [ref=e1305]: SPOILER
+                              - heading "List item post - I have a serious doubt about the ending" [level=3] [ref=e1306]: I have a serious doubt about the ending
+                        - generic [ref=e1308]:
+                          - link "r/attackontitan - I have a serious doubt about the ending" [ref=e1309] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/comments/1rngaqr/i_have_a_serious_doubt_about_the_ending/
+                            - img "r/attackontitan - I have a serious doubt about the ending" [ref=e1310]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1312]:
+                        - generic [ref=e1313]: "69"
+                        - text: upvotes ·
+                        - generic [ref=e1314]: "61"
+                        - text: comments
+                    - separator [ref=e1315]
+                - listitem [ref=e1316]:
+                  - generic [ref=e1317]:
+                    - generic [ref=e1318]:
+                      - link "Finally had time to watch Season 3, my thoughts" [ref=e1319] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/SpyxFamily/comments/1tv4ams/finally_had_time_to_watch_season_3_my_thoughts/
+                        - generic [ref=e1320]:
+                          - generic: Finally had time to watch Season 3, my thoughts
+                      - generic [ref=e1321]:
+                        - generic [ref=e1322]:
+                          - generic [ref=e1324]:
+                            - link "r/SpyxFamily" [ref=e1325] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/SpyxFamily/
+                              - generic [ref=e1329]: r/SpyxFamily
+                            - generic [ref=e1330]: •
+                            - time [ref=e1332]: 17d ago
+                          - link "SPOILER List item post - Finally had time to watch Season 3, my thoughts" [ref=e1334] [cursor=pointer]:
+                            - /url: /r/SpyxFamily/comments/1tv4ams/finally_had_time_to_watch_season_3_my_thoughts/
+                            - generic [ref=e1336]:
+                              - generic [ref=e1338]:
+                                - img [ref=e1340]
+                                - generic [ref=e1342]: SPOILER
+                              - heading "List item post - Finally had time to watch Season 3, my thoughts" [level=3] [ref=e1343]: Finally had time to watch Season 3, my thoughts
+                        - generic [ref=e1345]:
+                          - link "r/SpyxFamily - Finally had time to watch Season 3, my thoughts" [ref=e1346] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/SpyxFamily/comments/1tv4ams/finally_had_time_to_watch_season_3_my_thoughts/
+                            - img "r/SpyxFamily - Finally had time to watch Season 3, my thoughts" [ref=e1347]
+                          - generic:
+                            - generic:
+                              - img
+                      - generic [ref=e1349]:
+                        - generic [ref=e1350]: "143"
+                        - text: upvotes ·
+                        - generic [ref=e1351]: "24"
+                        - text: comments
+                    - separator [ref=e1352]
+                - listitem [ref=e1353]:
+                  - generic [ref=e1354]:
+                    - generic [ref=e1355]:
+                      - link "It’s really depressing to think that there will likely never be something like this series ever again." [ref=e1356] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1sqcvg7/its_really_depressing_to_think_that_there_will/
+                        - generic [ref=e1357]:
+                          - generic: It’s really depressing to think that there will likely never be something like this series ever again.
+                      - generic [ref=e1359]:
+                        - generic [ref=e1361]:
+                          - link "r/attackontitan" [ref=e1362] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1366]: r/attackontitan
+                          - generic [ref=e1367]: •
+                          - time [ref=e1369]: 2mo ago
+                        - link "List item post - It’s really depressing to think that there will likely neve..." [ref=e1371] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1sqcvg7/its_really_depressing_to_think_that_there_will/
+                          - heading "List item post - It’s really depressing to think that there will likely neve..." [level=3] [ref=e1374]: It’s really depressing to think that there will likely never be something like this series ever again.
+                      - generic [ref=e1376]:
+                        - generic [ref=e1377]: "41"
+                        - text: upvotes ·
+                        - generic [ref=e1378]: "11"
+                        - text: comments
+                    - separator [ref=e1379]
+                - listitem [ref=e1380]:
+                  - generic [ref=e1381]:
+                    - generic [ref=e1382]:
+                      - link "I still haven’t managed to bring myself to watch the final episode, and it’s been two years" [ref=e1383] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1s7u1ni/i_still_havent_managed_to_bring_myself_to_watch/
+                        - generic [ref=e1384]:
+                          - generic: I still haven’t managed to bring myself to watch the final episode, and it’s been two years
+                      - generic [ref=e1385]:
+                        - generic [ref=e1386]:
+                          - generic [ref=e1388]:
+                            - link "r/attackontitan" [ref=e1389] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1393]: r/attackontitan
+                            - generic [ref=e1394]: •
+                            - time [ref=e1396]: 3mo ago
+                          - link "List item post - I still haven’t managed to bring myself to watch the final ..." [ref=e1398] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1s7u1ni/i_still_havent_managed_to_bring_myself_to_watch/
+                            - heading "List item post - I still haven’t managed to bring myself to watch the final ..." [level=3] [ref=e1401]: I still haven’t managed to bring myself to watch the final episode, and it’s been two years
+                        - link "r/attackontitan - I still haven’t managed to bring myself to watch the final episode, and it’s been two years" [ref=e1404] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1s7u1ni/i_still_havent_managed_to_bring_myself_to_watch/
+                          - img "r/attackontitan - I still haven’t managed to bring myself to watch the final episode, and it’s been two years" [ref=e1405]
+                      - generic [ref=e1407]:
+                        - generic [ref=e1408]: "153"
+                        - text: upvotes ·
+                        - generic [ref=e1409]: "42"
+                        - text: comments
+                    - separator [ref=e1410]
+                - listitem [ref=e1411]:
+                  - generic [ref=e1412]:
+                    - generic [ref=e1413]:
+                      - link "Just finished it, my thoughts about the ending" [ref=e1414] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/VioletEvergarden/comments/1sxgs14/just_finished_it_my_thoughts_about_the_ending/
+                        - generic [ref=e1415]:
+                          - generic: Just finished it, my thoughts about the ending
+                      - generic [ref=e1417]:
+                        - generic [ref=e1419]:
+                          - link "r/VioletEvergarden" [ref=e1420] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/VioletEvergarden/
+                            - generic [ref=e1424]: r/VioletEvergarden
+                          - generic [ref=e1425]: •
+                          - time [ref=e1427]: 2mo ago
+                        - link "SPOILER List item post - Just finished it, my thoughts about the ending" [ref=e1429] [cursor=pointer]:
+                          - /url: /r/VioletEvergarden/comments/1sxgs14/just_finished_it_my_thoughts_about_the_ending/
+                          - generic [ref=e1431]:
+                            - generic [ref=e1433]:
+                              - img [ref=e1435]
+                              - generic [ref=e1437]: SPOILER
+                            - heading "List item post - Just finished it, my thoughts about the ending" [level=3] [ref=e1438]: Just finished it, my thoughts about the ending
+                      - generic [ref=e1440]:
+                        - generic [ref=e1441]: "31"
+                        - text: comments
+                    - separator [ref=e1442]
+                - listitem [ref=e1443]:
+                  - generic [ref=e1444]:
+                    - generic [ref=e1445]:
+                      - link "Just binged the whole series in the past 2 weeks. My fucking god." [ref=e1446] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1qtohjo/just_binged_the_whole_series_in_the_past_2_weeks/
+                        - generic [ref=e1447]:
+                          - generic: Just binged the whole series in the past 2 weeks. My fucking god.
+                      - generic [ref=e1449]:
+                        - generic [ref=e1451]:
+                          - link "r/attackontitan" [ref=e1452] [cursor=pointer]:
+                            - /url: https://www.reddit.com/r/attackontitan/
+                            - generic [ref=e1456]: r/attackontitan
+                          - generic [ref=e1457]: •
+                          - time [ref=e1459]: 5mo ago
+                        - link "List item post - Just binged the whole series in the past 2 weeks. My fuckin..." [ref=e1461] [cursor=pointer]:
+                          - /url: /r/attackontitan/comments/1qtohjo/just_binged_the_whole_series_in_the_past_2_weeks/
+                          - heading "List item post - Just binged the whole series in the past 2 weeks. My fuckin..." [level=3] [ref=e1464]: Just binged the whole series in the past 2 weeks. My fucking god.
+                      - generic [ref=e1466]:
+                        - generic [ref=e1467]: "76"
+                        - text: upvotes ·
+                        - generic [ref=e1468]: "15"
+                        - text: comments
+                    - separator [ref=e1469]
+                - listitem [ref=e1470]:
+                  - generic [ref=e1471]:
+                    - generic [ref=e1472]:
+                      - link "How was the hype between season of the series? What theories were there?" [ref=e1473] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/attackontitan/comments/1nh1qi7/how_was_the_hype_between_season_of_the_series/
+                        - generic [ref=e1474]:
+                          - generic: How was the hype between season of the series? What theories were there?
+                      - generic [ref=e1475]:
+                        - generic [ref=e1476]:
+                          - generic [ref=e1478]:
+                            - link "r/attackontitan" [ref=e1479] [cursor=pointer]:
+                              - /url: https://www.reddit.com/r/attackontitan/
+                              - generic [ref=e1483]: r/attackontitan
+                            - generic [ref=e1484]: •
+                            - time [ref=e1486]: 9mo ago
+                          - link "List item post - How was the hype between season of the series? What theorie..." [ref=e1488] [cursor=pointer]:
+                            - /url: /r/attackontitan/comments/1nh1qi7/how_was_the_hype_between_season_of_the_series/
+                            - heading "List item post - How was the hype between season of the series? What theorie..." [level=3] [ref=e1491]: How was the hype between season of the series? What theories were there?
+                        - link "r/attackontitan - How was the hype between season of the series? What theories were there?" [ref=e1494] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/comments/1nh1qi7/how_was_the_hype_between_season_of_the_series/
+                          - img "r/attackontitan - How was the hype between season of the series? What theories were there?" [ref=e1495]
+                      - generic [ref=e1497]:
+                        - generic [ref=e1498]: "142"
+                        - text: upvotes ·
+                        - generic [ref=e1499]: "33"
+                        - text: comments
+                    - separator [ref=e1500]
+                - listitem [ref=e1501]:
+                  - generic [ref=e1503]:
+                    - link "Just finished it. Loved it" [ref=e1504] [cursor=pointer]:
+                      - /url: https://www.reddit.com/r/attackontitan/comments/1sbgxvi/just_finished_it_loved_it/
+                      - generic [ref=e1505]:
+                        - generic: Just finished it. Loved it
+                    - generic [ref=e1507]:
+                      - generic [ref=e1509]:
+                        - link "r/attackontitan" [ref=e1510] [cursor=pointer]:
+                          - /url: https://www.reddit.com/r/attackontitan/
+                          - generic [ref=e1514]: r/attackontitan
+                        - generic [ref=e1515]: •
+                        - time [ref=e1517]: 3mo ago
+                      - link "SPOILER List item post - Just finished it. Loved it" [ref=e1519] [cursor=pointer]:
+                        - /url: /r/attackontitan/comments/1sbgxvi/just_finished_it_loved_it/
+                        - generic [ref=e1521]:
+                          - generic [ref=e1523]:
+                            - img [ref=e1525]
+                            - generic [ref=e1527]: SPOILER
+                          - heading "List item post - Just finished it. Loved it" [level=3] [ref=e1528]: Just finished it. Loved it
+                    - generic [ref=e1530]:
+                      - generic [ref=e1531]: "30"
+                      - text: upvotes ·
+                      - generic [ref=e1532]: "6"
+                      - text: comments
+            - generic [ref=e1533]:
+              - heading "View Post in" [level=2] [ref=e1535]:
+                - generic [ref=e1536]: View Post in
+              - generic [ref=e1537]:
+                - link "Français" [ref=e1539] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/finally_done_with_the_series_people_my_thoughts/?tl=fr
+                - link "Português (Brasil)" [ref=e1541] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/attackontitan/comments/1u6bmy8/finally_done_with_the_series_people_my_thoughts/?tl=pt-br
+                - group [ref=e1542]:
+                  - generic "See more" [ref=e1543] [cursor=pointer]:
+                    - generic [ref=e1544]: See more
+                    - img [ref=e1546]
+            - complementary "Community information" [ref=e1548]:
+              - generic [ref=e1550]:
+                - heading "Community Info Section" [level=1] [ref=e1551]
+                - generic [ref=e1552]:
+                  - generic [ref=e1553]:
+                    - link "r/attackontitan" [ref=e1554] [cursor=pointer]:
+                      - /url: /r/attackontitan/
+                      - generic [ref=e1555]: r/attackontitan
+                    - 'button "Community status: Resting Under the tree..." [ref=e1558] [cursor=pointer]':
+                      - img "tree" [ref=e1559]
+                  - button "Join" [ref=e1563] [cursor=pointer]
+                - generic [ref=e1564]:
+                  - generic [ref=e1565]: Attack on Titan (Shingeki no Kyojin)
+                  - generic [ref=e1566]: A subreddit dedicated to Attack on Titan (進撃の巨人) manga and anime series.
+                  - generic [ref=e1569]:
+                    - img [ref=e1570]
+                    - text: Public
+          - list [ref=e1573]:
+            - listitem [ref=e1574]:
+              - link "Home" [ref=e1576] [cursor=pointer]:
+                - /url: /?feed=home
+            - listitem [ref=e1577]:
+              - link "Popular" [ref=e1579] [cursor=pointer]:
+                - /url: /r/popular/
+            - listitem [ref=e1580]:
+              - link "News" [ref=e1582] [cursor=pointer]:
+                - /url: /news/
+            - listitem [ref=e1583]:
+              - link "Explore" [ref=e1585] [cursor=pointer]:
+                - /url: /explore/
+            - listitem [ref=e1586]:
+              - link "Best of Reddit" [ref=e1588] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/global/
+            - listitem [ref=e1589]:
+              - link "Best of Reddit in Portuguese" [ref=e1591] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-pt-BR/
+            - listitem [ref=e1592]:
+              - link "Best of Reddit in German" [ref=e1594] [cursor=pointer]:
+                - /url: https://www.reddit.com/posts/2026/tl-de/
+            - listitem [ref=e1595]:
+              - link "Reddit Rules" [ref=e1597] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/content-policy
+            - listitem [ref=e1598]:
+              - link "Privacy Policy" [ref=e1600] [cursor=pointer]:
+                - /url: https://www.reddit.com/policies/privacy-policy
+            - listitem [ref=e1601]:
+              - link "User Agreement" [ref=e1603] [cursor=pointer]:
+                - /url: https://www.redditinc.com/policies/user-agreement
+            - listitem [ref=e1604]:
+              - link "Your Privacy Choices" [ref=e1606] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/articles/43980704794004
+            - listitem [ref=e1607]:
+              - link "Accessibility" [ref=e1609] [cursor=pointer]:
+                - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+            - listitem [ref=e1610]:
+              - link "Reddit, Inc. © 2026. All rights reserved." [ref=e1611] [cursor=pointer]:
+                - /url: https://redditinc.com
