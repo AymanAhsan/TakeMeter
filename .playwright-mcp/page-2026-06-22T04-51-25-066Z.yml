@@ -1,0 +1,1360 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+    - generic [ref=e4]: Skip to main content
+  - generic [ref=e6]:
+    - generic:
+      - generic [ref=e7]:
+        - generic: Evangelion
+      - banner [ref=e10]:
+        - navigation [ref=e11]:
+          - link "Home" [ref=e15] [cursor=pointer]:
+            - /url: https://www.reddit.com/
+            - img [ref=e17]
+          - search [ref=e33]:
+            - generic [ref=e35]:
+              - img [ref=e38]
+              - generic "Remove r/evangelion filter and expand search to all of Reddit" [ref=e41] [cursor=pointer]:
+                - button [pressed] [ref=e42]:
+                  - generic [ref=e46]: r/evangelion
+                  - img [ref=e48]
+              - textbox "Remove r/evangelion filter and expand search to all of Reddit" [ref=e52]:
+                - /placeholder: Search in ⁨r/evangelion⁩
+          - generic [ref=e53]:
+            - generic [ref=e54]:
+              - link "Advertise on Reddit" [ref=e60] [cursor=pointer]:
+                - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=nav_cta
+                - img [ref=e63]
+                - generic [ref=e65]:
+                  - generic: Advertise on Reddit
+              - button "Open chat" [ref=e71] [cursor=pointer]:
+                - img [ref=e74]
+                - generic [ref=e76]:
+                  - generic: Open chat
+              - link "Create post" [ref=e81] [cursor=pointer]:
+                - /url: /r/evangelion/submit/
+                - img [ref=e84]
+                - generic [ref=e86]:
+                  - generic: Create post
+              - generic [ref=e88]:
+                - link "Open inbox" [ref=e91] [cursor=pointer]:
+                  - /url: /notifications
+                  - img [ref=e94]
+                  - generic [ref=e96]:
+                    - generic: Open inbox
+                - generic:
+                  - generic:
+                    - generic:
+                      - generic: "1"
+            - button "User Avatar Expand user menu" [ref=e101] [cursor=pointer]:
+              - img "User Avatar" [ref=e109]
+              - generic [ref=e111]:
+                - generic: Expand user menu
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - region "Community actions" [ref=e117]:
+            - generic [ref=e118]:
+              - heading "r/evangelion" [level=1] [ref=e124]
+              - generic [ref=e125]:
+                - link "Create Post" [ref=e129] [cursor=pointer]:
+                  - /url: /r/evangelion/submit
+                  - generic [ref=e130]:
+                    - img [ref=e132]
+                    - generic [ref=e134]: Create Post
+                - generic [ref=e136]:
+                  - button "Join" [ref=e139] [cursor=pointer]
+                  - button "Open overflow menu" [ref=e142] [cursor=pointer]:
+                    - img [ref=e145]
+          - generic [ref=e147]:
+            - generic:
+              - generic:
+                - link "Skip to Navigation" [ref=e148] [cursor=pointer]:
+                  - /url: "#left-sidebar-container"
+                - link "Skip to Right Sidebar" [ref=e149] [cursor=pointer]:
+                  - /url: "#right-sidebar-container"
+          - generic [ref=e150]:
+            - main [ref=e151]:
+              - generic [ref=e154]:
+                - generic [ref=e155]:
+                  - generic "Sort by" [ref=e158]:
+                    - 'button "Sort by: Top" [ref=e160] [cursor=pointer]':
+                      - generic [ref=e162]: Top
+                  - generic "Sort by" [ref=e167]:
+                    - 'button "Sort by: All Time" [ref=e169] [cursor=pointer]':
+                      - generic [ref=e171]: All Time
+                - generic "View" [ref=e177]:
+                  - 'button "View: Card" [ref=e179] [cursor=pointer]'
+              - generic [ref=e185]:
+                - button "collapse/expand community highlights" [ref=e186] [cursor=pointer]:
+                  - heading "Community highlights" [level=3] [ref=e187]:
+                    - img [ref=e188]
+                    - generic [ref=e190]: Community highlights
+                  - button "collapse/expand community highlights" [ref=e192]:
+                    - img [ref=e195]
+                - list [ref=e199]:
+                  - listitem [ref=e200]:
+                    - link "The First Descendant x EVANGELION Collaboration Trailer 138 votes • 52 comments DemiFiendRSA" [ref=e201] [cursor=pointer]:
+                      - /url: /r/evangelion/comments/1u3o4g7/the_first_descendant_x_evangelion_collaboration/
+                      - generic [ref=e207]:
+                        - generic [ref=e208]:
+                          - heading "The First Descendant x EVANGELION Collaboration Trailer" [level=2] [ref=e211]
+                          - generic [ref=e214]:
+                            - generic [ref=e215]: "138"
+                            - text: votes •
+                            - generic [ref=e216]: "52"
+                            - text: comments
+                        - img "DemiFiendRSA" [ref=e223]
+              - generic [ref=e225]:
+                - generic "Evangelion"
+                - separator [ref=e226]
+                - generic [ref=e227]:
+                  - heading "Feed" [level=1] [ref=e229]
+                  - generic:
+                    - article "Meanwhile in Mexico..." [ref=e230]:
+                      - generic [ref=e231] [cursor=pointer]:
+                        - link "Meanwhile in Mexico..." [ref=e232]:
+                          - /url: https://www.reddit.com/r/evangelion/comments/1fs9jf8/meanwhile_in_mexico/
+                          - generic [ref=e233]:
+                            - generic: Meanwhile in Mexico...
+                        - generic [ref=e234]:
+                          - generic [ref=e235]:
+                            - generic [ref=e240]:
+                              - img [ref=e245]
+                              - generic [ref=e247]: "[deleted]"
+                            - generic [ref=e248]: •
+                            - time [ref=e250]: 2 yr. ago
+                          - generic [ref=e251]:
+                            - img "Archived post" [ref=e255]
+                            - button "Open user actions" [ref=e260]:
+                              - img [ref=e263]
+                        - generic [ref=e266]:
+                          - heading "Meanwhile in Mexico..." [level=2] [ref=e267]:
+                            - link "Meanwhile in Mexico..." [ref=e268]:
+                              - /url: https://www.reddit.com/r/evangelion/comments/1fs9jf8/meanwhile_in_mexico/
+                          - 'link "Flair: Cosplay" [ref=e271]':
+                            - /url: /r/evangelion/?f=flair_name%3A%22Cosplay%22
+                            - 'generic "Flair: Cosplay" [ref=e273]': Cosplay
+                        - generic [ref=e279]:
+                          - generic "video player" [ref=e280]
+                          - generic [ref=e281]:
+                            - generic [ref=e282]:
+                              - button "Toggle playback" [ref=e283]:
+                                - img [ref=e284]
+                              - generic "Media time" [ref=e286]
+                              - generic [ref=e291]:
+                                - generic [ref=e292]: 0:00
+                                - generic [ref=e293]: / 1:03
+                              - button "Toggle captions" [ref=e294]:
+                                - img [ref=e295]
+                              - generic [ref=e298]:
+                                - button "Settings" [ref=e299]:
+                                  - img [ref=e300]
+                                - generic:
+                                  - button:
+                                    - generic:
+                                      - img
+                                    - generic: Autoplay
+                                  - button:
+                                    - generic: 480p
+                                  - button:
+                                    - generic: 360p
+                                  - button:
+                                    - generic: 240p
+                                  - button:
+                                    - generic: 144p
+                                  - button:
+                                    - generic:
+                                      - img
+                                    - generic: Auto
+                              - button "Toggle fullscreen" [ref=e302]:
+                                - img [ref=e303]
+                            - button "Toggle volume" [ref=e308]:
+                              - img [ref=e309]
+                        - generic "Actions available for this post" [ref=e313]:
+                          - generic [ref=e316]:
+                            - button "Upvote" [disabled]:
+                              - generic:
+                                - img
+                              - generic:
+                                - generic: Upvote
+                            - generic [ref=e318]: 14K
+                            - button "Downvote" [disabled]:
+                              - generic:
+                                - img
+                              - generic:
+                                - generic: Downvote
+                          - link "271 Go to comments" [ref=e319]:
+                            - /url: /r/evangelion/comments/1fs9jf8/meanwhile_in_mexico/
+                            - generic [ref=e320]:
+                              - img [ref=e322]
+                              - generic [ref=e325]: "271"
+                            - generic [ref=e326]:
+                              - generic: Go to comments
+                          - button "Give award, 1 award given" [ref=e328]:
+                            - generic [ref=e333]: "1"
+                          - button "Share" [ref=e337]:
+                            - generic [ref=e338]:
+                              - img [ref=e340]
+                              - generic [ref=e342]: Share
+                    - separator [ref=e343]
+                    - separator [ref=e344]
+                    - article "my rei cosplay [winterwifey]" [ref=e345]:
+                      - generic [ref=e346] [cursor=pointer]:
+                        - link "my rei cosplay [winterwifey]" [ref=e347]:
+                          - /url: https://www.reddit.com/r/evangelion/comments/1ni324o/my_rei_cosplay_winterwifey/
+                          - generic [ref=e348]:
+                            - generic: my rei cosplay [winterwifey]
+                        - generic [ref=e349]:
+                          - generic [ref=e350]:
+                            - 'link "Author: u/winterwifeys" [ref=e355]':
+                              - /url: https://www.reddit.com/user/winterwifeys/
+                              - generic [ref=e356]:
+                                - img "u/winterwifeys avatar" [ref=e359]
+                                - generic [ref=e360]: u/winterwifeys
+                            - generic [ref=e361]: •
+                            - time [ref=e363]: 9 mo. ago
+                          - generic [ref=e364]:
+                            - generic [ref=e366]:
+                              - generic:
+                                - img "Locked post" [ref=e368]
+                                - img "Archived post" [ref=e371]
+                            - button "Open user actions" [ref=e376]:
+                              - img [ref=e379]
+                        - generic [ref=e382]:
+                          - heading "my rei cosplay [winterwifey]" [level=2] [ref=e383]:
+                            - link "my rei cosplay [winterwifey]" [ref=e384]:
+                              - /url: https://www.reddit.com/r/evangelion/comments/1ni324o/my_rei_cosplay_winterwifey/
+                          - 'link "Flair: Cosplay" [ref=e387]':
+                            - /url: /r/evangelion/?f=flair_name%3A%22Cosplay%22
+                            - 'generic "Flair: Cosplay" [ref=e389]': Cosplay
+                        - img "r/evangelion - my rei cosplay [winterwifey]" [ref=e395]
+                        - generic "Actions available for this post" [ref=e397]:
+                          - generic [ref=e400]:
+                            - button "Upvote" [disabled]:
+                              - generic:
+                                - img
+                              - generic:
+                                - generic: Upvote
+                            - generic [ref=e402]: 12K
+                            - button "Downvote" [disabled]:
+                              - generic:
+                                - img
+                              - generic:
+                                - generic: Downvote
+                          - link "41 Go to comments" [ref=e403]:
+                            - /url: /r/evangelion/comments/1ni324o/my_rei_cosplay_winterwifey/
+                            - generic [ref=e404]:
+                              - img [ref=e406]
+                              - generic [ref=e409]: "41"
+                            - generic [ref=e410]:
+                              - generic: Go to comments
+                          - button "Give award" [ref=e412]:
+                            - img [ref=e415]
+                          - button "Share" [ref=e420]:
+                            - generic [ref=e421]:
+                              - img [ref=e423]
+                              - generic [ref=e425]: Share
+                    - separator [ref=e426]
+                    - article "I've never seen a better cosplay" [ref=e427]:
+                      - generic [ref=e428] [cursor=pointer]:
+                        - link "I've never seen a better cosplay" [ref=e429]:
+                          - /url: https://www.reddit.com/r/evangelion/comments/1cmcafn/ive_never_seen_a_better_cosplay/
+                          - generic [ref=e430]:
+                            - generic: I've never seen a better cosplay
+                        - generic [ref=e431]:
+                          - generic [ref=e432]:
+                            - 'link "Author: u/WinterTakerRevived" [ref=e437]':
+                              - /url: https://www.reddit.com/user/WinterTakerRevived/
+                              - generic [ref=e438]:
+                                - img [ref=e443]
+                                - generic [ref=e445]: u/WinterTakerRevived
+                            - generic [ref=e446]: •
+                            - time [ref=e448]: 2 yr. ago
+                          - generic [ref=e449]:
+                            - img "Archived post" [ref=e453]
+                            - button "Open user actions" [ref=e458]:
+                              - img [ref=e461]
+                        - generic [ref=e464]:
+                          - heading "I've never seen a better cosplay" [level=2] [ref=e465]:
+                            - link "I've never seen a better cosplay" [ref=e466]:
+                              - /url: https://www.reddit.com/r/evangelion/comments/1cmcafn/ive_never_seen_a_better_cosplay/
+                          - 'link "Flair: Cosplay" [ref=e469]':
+                            - /url: /r/evangelion/?f=flair_name%3A%22Cosplay%22
+                            - 'generic "Flair: Cosplay" [ref=e471]': Cosplay
+                        - img "r/evangelion - I've never seen a better cosplay" [ref=e477]
+                        - generic "Actions available for this post" [ref=e479]:
+                          - generic [ref=e482]:
+                            - button "Upvote" [disabled]:
+                              - generic:
+                                - img
+                              - generic:
+                                - generic: Upvote
+                            - generic [ref=e484]: 12K
+                            - button "Downvote" [disabled]:
+                              - generic:
+                                - img
+                              - generic:
+                                - generic: Downvote
+                          - link "124 Go to comments" [ref=e485]:
+                            - /url: /r/evangelion/comments/1cmcafn/ive_never_seen_a_better_cosplay/
+                            - generic [ref=e486]:
+                              - img [ref=e488]
+                              - generic [ref=e491]: "124"
+                            - generic [ref=e492]:
+                              - generic: Go to comments
+                          - button "Give award" [ref=e494]:
+                            - img [ref=e497]
+                          - button "Share" [ref=e502]:
+                            - generic [ref=e503]:
+                              - img [ref=e505]
+                              - generic [ref=e507]: Share
+                    - separator [ref=e508]
+                  - img [ref=e514]
+            - generic [ref=e527]:
+              - complementary "Community information" [ref=e531]:
+                - generic [ref=e532]:
+                  - generic [ref=e534]:
+                    - heading "Community Info Section" [level=1] [ref=e535]
+                    - generic [ref=e536]:
+                      - generic [ref=e537]: Evangelion
+                      - generic [ref=e538]: God's in his heaven. All's right with the world.
+                      - generic [ref=e539]:
+                        - generic [ref=e541]:
+                          - img [ref=e542]
+                          - text: Created Sep 6, 2009
+                        - generic [ref=e545]:
+                          - img [ref=e546]
+                          - text: Public
+                    - generic [ref=e548]:
+                      - generic [ref=e549]:
+                        - strong [ref=e551]:
+                          - generic: 176K
+                        - generic [ref=e552]: Second Impact survivors
+                      - generic [ref=e553]:
+                        - strong [ref=e555]:
+                          - generic: 3.3K
+                        - generic [ref=e556]: Working at Nerv
+                  - separator [ref=e557]
+                  - generic [ref=e558]:
+                    - heading "Community Bookmarks" [level=2] [ref=e560]:
+                      - generic [ref=e561]: Community Bookmarks
+                    - generic [ref=e562]:
+                      - link "FAQ" [ref=e564] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/evangelion/wiki/frequently-asked-questions
+                        - generic [ref=e567]: FAQ
+                      - link "Fan Fiction" [ref=e569] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/evangelion/wiki/fan-fiction
+                        - generic [ref=e572]: Fan Fiction
+                  - separator [ref=e573]
+                  - generic [ref=e574]:
+                    - heading "r/evangelion Rules" [level=2] [ref=e576]:
+                      - generic [ref=e577]: r/evangelion Rules
+                    - generic [ref=e578]:
+                      - group [ref=e580]:
+                        - generic "1 Follow reddiquette" [ref=e581] [cursor=pointer]:
+                          - generic [ref=e583]:
+                            - generic [ref=e584]:
+                              - generic [ref=e586]: "1"
+                              - heading "Follow reddiquette" [level=2] [ref=e590]
+                            - img [ref=e593]
+                      - group [ref=e596]:
+                        - generic "2 Stay on topic" [ref=e597] [cursor=pointer]:
+                          - generic [ref=e599]:
+                            - generic [ref=e600]:
+                              - generic [ref=e602]: "2"
+                              - heading "Stay on topic" [level=2] [ref=e606]
+                            - img [ref=e609]
+                      - group [ref=e612]:
+                        - generic "3 No porn" [ref=e613] [cursor=pointer]:
+                          - generic [ref=e615]:
+                            - generic [ref=e616]:
+                              - generic [ref=e618]: "3"
+                              - heading "No porn" [level=2] [ref=e622]
+                            - img [ref=e625]
+                      - group [ref=e628]:
+                        - generic "4 Quality over Quantity" [ref=e629] [cursor=pointer]:
+                          - generic [ref=e631]:
+                            - generic [ref=e632]:
+                              - generic [ref=e634]: "4"
+                              - heading "Quality over Quantity" [level=2] [ref=e638]
+                            - img [ref=e641]
+                      - group [ref=e644]:
+                        - generic "5 Copyrighted material" [ref=e645] [cursor=pointer]:
+                          - generic [ref=e647]:
+                            - generic [ref=e648]:
+                              - generic [ref=e650]: "5"
+                              - heading "Copyrighted material" [level=2] [ref=e654]
+                            - img [ref=e657]
+                      - group [ref=e660]:
+                        - generic "6 Meme/Shitpost Policy" [ref=e661] [cursor=pointer]:
+                          - generic [ref=e663]:
+                            - generic [ref=e664]:
+                              - generic [ref=e666]: "6"
+                              - heading "Meme/Shitpost Policy" [level=2] [ref=e670]
+                            - img [ref=e673]
+                      - group [ref=e676]:
+                        - generic "7 Fan Art" [ref=e677] [cursor=pointer]:
+                          - generic [ref=e679]:
+                            - generic [ref=e680]:
+                              - generic [ref=e682]: "7"
+                              - heading "Fan Art" [level=2] [ref=e686]
+                            - img [ref=e689]
+                      - group [ref=e692]:
+                        - generic "8 Reference Drawings" [ref=e693] [cursor=pointer]:
+                          - generic [ref=e695]:
+                            - generic [ref=e696]:
+                              - generic [ref=e698]: "8"
+                              - heading "Reference Drawings" [level=2] [ref=e702]
+                            - img [ref=e705]
+                      - group [ref=e708]:
+                        - generic "9 Moderator jurisdiction" [ref=e709] [cursor=pointer]:
+                          - generic [ref=e711]:
+                            - generic [ref=e712]:
+                              - generic [ref=e714]: "9"
+                              - heading "Moderator jurisdiction" [level=2] [ref=e718]
+                            - img [ref=e721]
+                  - separator [ref=e723]
+                  - generic [ref=e724]:
+                    - heading "Welcome" [level=2] [ref=e726]:
+                      - generic [ref=e727]: Welcome
+                    - paragraph [ref=e730]: The fate of destruction is also the joy of rebirth. Welcome to the Evangelion subreddit. Feel free to post anything Evangelion related, including philosophical questions raised by the show.
+                  - separator [ref=e731]
+                  - generic [ref=e732]:
+                    - heading "Frequently Asked Questions" [level=2] [ref=e734]:
+                      - generic [ref=e735]: Frequently Asked Questions
+                    - list [ref=e738]:
+                      - listitem [ref=e739]:
+                        - link "What order do I watch it?" [ref=e740] [cursor=pointer]:
+                          - /url: /r/evangelion/wiki/frequently-asked-questions#wiki_what_order_do_i_watch_it.3F
+                      - listitem [ref=e741]:
+                        - link "Where can I watch it?" [ref=e742] [cursor=pointer]:
+                          - /url: /r/evangelion/wiki/frequently-asked-questions#wiki_where_can_i_watch_it.3F
+                      - listitem [ref=e743]:
+                        - link "Where can I find more explanations?" [ref=e744] [cursor=pointer]:
+                          - /url: /r/evangelion/wiki/frequently-asked-questions#wiki_where_can_i_find_more_explanations.3F
+                      - listitem [ref=e745]:
+                        - link "Why is one of the Rebuild films out of stock?" [ref=e746] [cursor=pointer]:
+                          - /url: /r/evangelion/wiki/frequently-asked-questions#wiki_why_is_one_of_the_rebuild_films_out_of_stock.3F
+                      - listitem [ref=e747]:
+                        - link "Why is the manga out of stock?" [ref=e748] [cursor=pointer]:
+                          - /url: /r/evangelion/wiki/frequently-asked-questions#wiki_why_is_the_manga_out_of_stock.3F
+                      - listitem [ref=e749]:
+                        - link "Is there something wrong with the Netflix version?" [ref=e750] [cursor=pointer]:
+                          - /url: /r/evangelion/wiki/frequently-asked-questions#wiki_is_there_something_wrong_with_the_netflix_version.3F
+                  - separator [ref=e751]
+                  - generic [ref=e752]:
+                    - heading "Related Subreddits" [level=2] [ref=e754]:
+                      - generic [ref=e755]: Related Subreddits
+                    - generic [ref=e762]:
+                      - link "r/evangelionmemes" [ref=e765] [cursor=pointer]:
+                        - /url: /r/evangelionmemes
+                      - generic [ref=e766]: 330,914 members
+                    - generic [ref=e773]:
+                      - link "r/mildlyevangelion" [ref=e776] [cursor=pointer]:
+                        - /url: /r/mildlyevangelion
+                      - generic [ref=e777]: 68,069 members
+                  - separator [ref=e778]
+                  - generic [ref=e779]:
+                    - heading "Moderators" [level=2] [ref=e781]:
+                      - generic [ref=e782]: Moderators
+                    - link "Message Mods" [ref=e784] [cursor=pointer]:
+                      - /url: https://www.reddit.com/message/compose?to=r/evangelion
+                      - generic [ref=e785]:
+                        - img [ref=e787]
+                        - generic [ref=e789]: Message Mods
+                    - generic [ref=e791]:
+                      - img "u/theevamonkey avatar" [ref=e796]
+                      - generic [ref=e797]:
+                        - generic [ref=e799]:
+                          - link "u/theevamonkey" [ref=e800] [cursor=pointer]:
+                            - /url: /user/theevamonkey/
+                            - generic [ref=e801]: u/theevamonkey
+                          - 'generic "Flair: Moderator" [ref=e803]': Moderator
+                        - generic [ref=e805]: The Eva Monkey
+                    - generic [ref=e807]:
+                      - img "u/CthulhusMonocle avatar" [ref=e812]
+                      - generic [ref=e815]:
+                        - link "u/CthulhusMonocle" [ref=e816] [cursor=pointer]:
+                          - /url: /user/CthulhusMonocle/
+                          - generic [ref=e817]: u/CthulhusMonocle
+                        - 'generic "Flair: Moderator" [ref=e819]': Moderator
+                    - generic [ref=e821]:
+                      - img "u/razorbeamz avatar" [ref=e826]
+                      - generic [ref=e829]:
+                        - link "u/razorbeamz" [ref=e830] [cursor=pointer]:
+                          - /url: /user/razorbeamz/
+                          - generic [ref=e831]: u/razorbeamz
+                        - 'generic "Flair: Moderator" [ref=e833]': Moderator
+                    - generic [ref=e835]:
+                      - img "u/AutoModerator avatar" [ref=e840]
+                      - link "u/AutoModerator" [ref=e844] [cursor=pointer]:
+                        - /url: /user/AutoModerator/
+                        - generic [ref=e845]: u/AutoModerator
+                    - generic [ref=e847]:
+                      - img "u/floodassistant avatar" [ref=e852]
+                      - link "u/floodassistant" [ref=e856] [cursor=pointer]:
+                        - /url: /user/floodassistant/
+                        - generic [ref=e857]: u/floodassistant
+                    - generic [ref=e859]:
+                      - img "u/post-flair-ratio avatar" [ref=e864]
+                      - link "u/post-flair-ratio" [ref=e868] [cursor=pointer]:
+                        - /url: /user/post-flair-ratio/
+                        - generic [ref=e869]: u/post-flair-ratio
+                    - link "View all moderators" [ref=e870] [cursor=pointer]:
+                      - /url: /mod/evangelion/moderators/
+                      - generic [ref=e872]: View all moderators
+                  - separator [ref=e873]
+                  - generic [ref=e874]:
+                    - heading "Installed Apps" [level=2] [ref=e876]:
+                      - generic [ref=e877]: Installed Apps
+                    - link "post-flair-ratio" [ref=e878] [cursor=pointer]:
+                      - /url: https://developers.reddit.com/apps/post-flair-ratio
+                      - generic [ref=e881]: post-flair-ratio
+                      - img [ref=e884]
+                    - link "Flooding Assistant" [ref=e886] [cursor=pointer]:
+                      - /url: https://developers.reddit.com/apps/floodassistant
+                      - generic [ref=e889]: Flooding Assistant
+                      - img [ref=e892]
+              - list [ref=e895]:
+                - listitem [ref=e896]:
+                  - link "Reddit Rules" [ref=e898] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                - listitem [ref=e899]:
+                  - link "Privacy Policy" [ref=e901] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                - listitem [ref=e902]:
+                  - link "User Agreement" [ref=e904] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                - listitem [ref=e905]:
+                  - link "Your Privacy Choices" [ref=e907] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                - listitem [ref=e908]:
+                  - link "Accessibility" [ref=e910] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                - listitem [ref=e911]:
+                  - link "Reddit, Inc. © 2026. All rights reserved." [ref=e912] [cursor=pointer]:
+                    - /url: https://redditinc.com
+        - generic [ref=e914]:
+          - button "Collapse Navigation" [ref=e917] [cursor=pointer]:
+            - img [ref=e920]
+            - generic [ref=e922]:
+              - generic: Collapse Navigation
+          - navigation "Primary" [ref=e927]:
+            - generic [ref=e929]:
+              - link "Home" [ref=e931] [cursor=pointer]:
+                - /url: https://www.reddit.com/?feed=home
+                - generic [ref=e932]:
+                  - img [ref=e934]
+                  - generic [ref=e937]: Home
+              - link "Popular" [ref=e939] [cursor=pointer]:
+                - /url: https://www.reddit.com/r/popular/
+                - generic [ref=e940]:
+                  - img [ref=e942]
+                  - generic [ref=e945]: Popular
+              - link "News" [ref=e946] [cursor=pointer]:
+                - /url: https://www.reddit.com/news/
+                - generic [ref=e947]:
+                  - img [ref=e949]
+                  - generic [ref=e953]: News
+              - link "Explore" [ref=e955] [cursor=pointer]:
+                - /url: https://www.reddit.com/explore/
+                - generic [ref=e956]:
+                  - img [ref=e958]
+                  - generic [ref=e961]: Explore
+              - button "Start a community" [ref=e962] [cursor=pointer]:
+                - generic [ref=e963]:
+                  - img [ref=e965]
+                  - generic [ref=e968]: Start a community
+            - separator [ref=e969]
+            - group [ref=e973]:
+              - generic "GAMES ON REDDIT" [ref=e974] [cursor=pointer]:
+                - generic [ref=e975]:
+                  - generic [ref=e980]:
+                    - generic: GAMES ON REDDIT
+                  - img [ref=e983]
+              - generic [ref=e986]:
+                - link "Featured Game" [ref=e990] [cursor=pointer]:
+                  - /url: https://www.reddit.com/r/BubbleShooterPro/comments/1uc6ony?entry_point=games_drawer_featured_game
+                  - generic [ref=e992]:
+                    - generic [ref=e996]:
+                      - heading "Bubble Shooter Pro" [level=3] [ref=e997]
+                      - paragraph [ref=e998]: Pop Bubbles!!
+                      - paragraph [ref=e999]:
+                        - generic [ref=e1000]: 158K
+                        - text: monthly players
+                    - generic [ref=e1002]:
+                      - generic: NEW
+                - generic [ref=e1004]:
+                  - link "Bonkyard" [ref=e1006] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/Bonkyard/comments/1ub4u76?entry_point=games_drawer_personalized_game
+                    - generic [ref=e1007]:
+                      - img [ref=e1012]
+                      - generic [ref=e1016]: Bonkyard
+                  - link "Vowel Play" [ref=e1018] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/VowelPlay/comments/1ubo9yi?entry_point=games_drawer_personalized_game
+                    - generic [ref=e1019]:
+                      - img [ref=e1024]
+                      - generic [ref=e1028]: Vowel Play
+                  - link "Arrows Puzzle" [ref=e1030] [cursor=pointer]:
+                    - /url: https://www.reddit.com/r/arrowspuzzle/comments/1ubtsw1?entry_point=games_drawer_personalized_game
+                    - generic [ref=e1031]:
+                      - img [ref=e1036]
+                      - generic [ref=e1040]: Arrows Puzzle
+                - link "Discover More" [ref=e1042] [cursor=pointer]:
+                  - /url: /r/GamesOnReddit
+                  - generic [ref=e1043]:
+                    - img [ref=e1045]
+                    - generic [ref=e1049]: Discover More
+            - separator [ref=e1050]
+            - group [ref=e1052]:
+              - generic "CUSTOM FEEDS" [ref=e1053] [cursor=pointer]:
+                - generic [ref=e1055]:
+                  - generic [ref=e1058]: CUSTOM FEEDS
+                  - img [ref=e1061]
+              - button "Create Custom Feed" [ref=e1067] [cursor=pointer]:
+                - generic [ref=e1068]:
+                  - img [ref=e1070]
+                  - generic [ref=e1073]: Create Custom Feed
+            - separator [ref=e1074]
+            - group [ref=e1077]:
+              - generic "RECENT" [ref=e1078] [cursor=pointer]:
+                - generic [ref=e1079]:
+                  - generic [ref=e1082]: RECENT
+                  - img [ref=e1085]
+              - generic [ref=e1088]:
+                - link "r/evangelion" [ref=e1089] [cursor=pointer]:
+                  - /url: /r/evangelion/
+                  - generic [ref=e1090]:
+                    - img [ref=e1095]
+                    - generic [ref=e1098]: r/evangelion
+                - link "r/FullmetalAlchemist" [ref=e1099] [cursor=pointer]:
+                  - /url: /r/FullmetalAlchemist/
+                  - generic [ref=e1100]:
+                    - img [ref=e1105]
+                    - generic [ref=e1108]: r/FullmetalAlchemist
+            - group [ref=e1110]:
+              - generic "COMMUNITIES" [ref=e1111] [cursor=pointer]:
+                - generic [ref=e1113]:
+                  - generic [ref=e1116]: COMMUNITIES
+                  - img [ref=e1119]
+              - generic [ref=e1122]:
+                - link "Manage Communities" [ref=e1123] [cursor=pointer]:
+                  - /url: /user/RyzeBlaziken/communities
+                  - generic [ref=e1124]:
+                    - img [ref=e1126]
+                    - generic [ref=e1129]: Manage Communities
+                - generic [ref=e1131]:
+                  - link "r/Amd" [ref=e1133] [cursor=pointer]:
+                    - /url: /r/Amd/
+                    - generic [ref=e1134]:
+                      - img [ref=e1139]
+                      - generic [ref=e1142]: r/Amd
+                    - button "Add community to favorites" [ref=e1145]:
+                      - img [ref=e1148]
+                  - link "r/AMD_Stock" [ref=e1151] [cursor=pointer]:
+                    - /url: /r/AMD_Stock/
+                    - generic [ref=e1152]:
+                      - img [ref=e1157]
+                      - generic [ref=e1160]: r/AMD_Stock
+                    - button "Add community to favorites" [ref=e1163]:
+                      - img [ref=e1166]
+                  - link "r/AnimalsBeingBros" [ref=e1169] [cursor=pointer]:
+                    - /url: /r/AnimalsBeingBros/
+                    - generic [ref=e1170]:
+                      - img [ref=e1175]
+                      - generic [ref=e1178]: r/AnimalsBeingBros
+                    - button "Add community to favorites" [ref=e1181]:
+                      - img [ref=e1184]
+                  - link "r/anime" [ref=e1187] [cursor=pointer]:
+                    - /url: /r/anime/
+                    - generic [ref=e1188]:
+                      - img [ref=e1193]
+                      - generic [ref=e1196]: r/anime
+                    - button "Add community to favorites" [ref=e1199]:
+                      - img [ref=e1202]
+                  - link "r/animememes" [ref=e1205] [cursor=pointer]:
+                    - /url: /r/animememes/
+                    - generic [ref=e1206]:
+                      - img [ref=e1211]
+                      - generic [ref=e1214]: r/animememes
+                    - button "Add community to favorites" [ref=e1217]:
+                      - img [ref=e1220]
+                  - link "r/Animemes" [ref=e1223] [cursor=pointer]:
+                    - /url: /r/Animemes/
+                    - generic [ref=e1224]:
+                      - img [ref=e1229]
+                      - generic [ref=e1232]: r/Animemes
+                    - button "Add community to favorites" [ref=e1235]:
+                      - img [ref=e1238]
+                  - link "r/announcements" [ref=e1241] [cursor=pointer]:
+                    - /url: /r/announcements/
+                    - generic [ref=e1242]:
+                      - img [ref=e1247]
+                      - generic [ref=e1250]: r/announcements
+                    - button "Add community to favorites" [ref=e1253]:
+                      - img [ref=e1256]
+                  - link "r/AskReddit" [ref=e1259] [cursor=pointer]:
+                    - /url: /r/AskReddit/
+                    - generic [ref=e1260]:
+                      - img [ref=e1265]
+                      - generic [ref=e1268]: r/AskReddit
+                    - button "Add community to favorites" [ref=e1271]:
+                      - img [ref=e1274]
+                  - link "r/aww" [ref=e1277] [cursor=pointer]:
+                    - /url: /r/aww/
+                    - generic [ref=e1278]:
+                      - img [ref=e1283]
+                      - generic [ref=e1286]: r/aww
+                    - button "Add community to favorites" [ref=e1289]:
+                      - img [ref=e1292]
+                  - link "r/battlestations" [ref=e1295] [cursor=pointer]:
+                    - /url: /r/battlestations/
+                    - generic [ref=e1296]:
+                      - img [ref=e1301]
+                      - generic [ref=e1304]: r/battlestations
+                    - button "Add community to favorites" [ref=e1307]:
+                      - img [ref=e1310]
+                  - link "r/bruhmoment" [ref=e1313] [cursor=pointer]:
+                    - /url: /r/bruhmoment/
+                    - generic [ref=e1314]:
+                      - img [ref=e1319]
+                      - generic [ref=e1322]: r/bruhmoment
+                    - button "Add community to favorites" [ref=e1325]:
+                      - img [ref=e1328]
+                  - link "r/buildapc" [ref=e1331] [cursor=pointer]:
+                    - /url: /r/buildapc/
+                    - generic [ref=e1332]:
+                      - img [ref=e1337]
+                      - generic [ref=e1340]: r/buildapc
+                    - button "Add community to favorites" [ref=e1343]:
+                      - img [ref=e1346]
+                  - link "r/ChoosingBeggars" [ref=e1349] [cursor=pointer]:
+                    - /url: /r/ChoosingBeggars/
+                    - generic [ref=e1350]:
+                      - img [ref=e1355]
+                      - generic [ref=e1358]: r/ChoosingBeggars
+                    - button "Add community to favorites" [ref=e1361]:
+                      - img [ref=e1364]
+                  - link "r/Coffee" [ref=e1367] [cursor=pointer]:
+                    - /url: /r/Coffee/
+                    - generic [ref=e1368]:
+                      - img [ref=e1373]
+                      - generic [ref=e1376]: r/Coffee
+                    - button "Add community to favorites" [ref=e1379]:
+                      - img [ref=e1382]
+                  - link "r/CompetitiveMinecraft" [ref=e1385] [cursor=pointer]:
+                    - /url: /r/CompetitiveMinecraft/
+                    - generic [ref=e1386]:
+                      - img [ref=e1391]
+                      - generic [ref=e1394]: r/CompetitiveMinecraft
+                    - button "Add community to favorites" [ref=e1397]:
+                      - img [ref=e1400]
+                  - link "r/conspiracy" [ref=e1403] [cursor=pointer]:
+                    - /url: /r/conspiracy/
+                    - generic [ref=e1404]:
+                      - img [ref=e1409]
+                      - generic [ref=e1412]: r/conspiracy
+                    - button "Add community to favorites" [ref=e1415]:
+                      - img [ref=e1418]
+                  - link "r/conspiracytheories" [ref=e1421] [cursor=pointer]:
+                    - /url: /r/conspiracytheories/
+                    - generic [ref=e1422]:
+                      - img [ref=e1427]
+                      - generic [ref=e1430]: r/conspiracytheories
+                    - button "Add community to favorites" [ref=e1433]:
+                      - img [ref=e1436]
+                  - link "r/coolermaster" [ref=e1439] [cursor=pointer]:
+                    - /url: /r/coolermaster/
+                    - generic [ref=e1440]:
+                      - img [ref=e1445]
+                      - generic [ref=e1448]: r/coolermaster
+                    - button "Add community to favorites" [ref=e1451]:
+                      - img [ref=e1454]
+                  - link "r/Corsair" [ref=e1457] [cursor=pointer]:
+                    - /url: /r/Corsair/
+                    - generic [ref=e1458]:
+                      - img [ref=e1463]
+                      - generic [ref=e1466]: r/Corsair
+                    - button "Add community to favorites" [ref=e1469]:
+                      - img [ref=e1472]
+                  - link "r/Crazycraft" [ref=e1475] [cursor=pointer]:
+                    - /url: /r/Crazycraft/
+                    - generic [ref=e1476]:
+                      - img [ref=e1481]
+                      - generic [ref=e1484]: r/Crazycraft
+                    - button "Add community to favorites" [ref=e1487]:
+                      - img [ref=e1490]
+                  - link "r/dankmemes" [ref=e1493] [cursor=pointer]:
+                    - /url: /r/dankmemes/
+                    - generic [ref=e1494]:
+                      - img [ref=e1499]
+                      - generic [ref=e1502]: r/dankmemes
+                    - button "Add community to favorites" [ref=e1505]:
+                      - img [ref=e1508]
+                  - link "r/DemonSlayerAnime" [ref=e1511] [cursor=pointer]:
+                    - /url: /r/DemonSlayerAnime/
+                    - generic [ref=e1512]:
+                      - img [ref=e1517]
+                      - generic [ref=e1520]: r/DemonSlayerAnime
+                    - button "Add community to favorites" [ref=e1523]:
+                      - img [ref=e1526]
+                  - link "r/discordapp" [ref=e1529] [cursor=pointer]:
+                    - /url: /r/discordapp/
+                    - generic [ref=e1530]:
+                      - img [ref=e1535]
+                      - generic [ref=e1538]: r/discordapp
+                    - button "Add community to favorites" [ref=e1541]:
+                      - img [ref=e1544]
+                  - link "r/entitledparents" [ref=e1547] [cursor=pointer]:
+                    - /url: /r/entitledparents/
+                    - generic [ref=e1548]:
+                      - img [ref=e1553]
+                      - generic [ref=e1556]: r/entitledparents
+                    - button "Add community to favorites" [ref=e1559]:
+                      - img [ref=e1562]
+                  - link "r/fabricmc" [ref=e1565] [cursor=pointer]:
+                    - /url: /r/fabricmc/
+                    - generic [ref=e1566]:
+                      - img [ref=e1571]
+                      - generic [ref=e1574]: r/fabricmc
+                    - button "Add community to favorites" [ref=e1577]:
+                      - img [ref=e1580]
+                  - link "r/fairytail" [ref=e1583] [cursor=pointer]:
+                    - /url: /r/fairytail/
+                    - generic [ref=e1584]:
+                      - img [ref=e1589]
+                      - generic [ref=e1592]: r/fairytail
+                    - button "Add community to favorites" [ref=e1595]:
+                      - img [ref=e1598]
+                  - link "r/FoodPorn" [ref=e1601] [cursor=pointer]:
+                    - /url: /r/FoodPorn/
+                    - generic [ref=e1602]:
+                      - img [ref=e1607]
+                      - generic [ref=e1610]: r/FoodPorn
+                    - button "Add community to favorites" [ref=e1613]:
+                      - img [ref=e1616]
+                  - link "r/funny" [ref=e1619] [cursor=pointer]:
+                    - /url: /r/funny/
+                    - generic [ref=e1620]:
+                      - img [ref=e1625]
+                      - generic [ref=e1628]: r/funny
+                    - button "Add community to favorites" [ref=e1631]:
+                      - img [ref=e1634]
+                  - link "r/gaming" [ref=e1637] [cursor=pointer]:
+                    - /url: /r/gaming/
+                    - generic [ref=e1638]:
+                      - img [ref=e1643]
+                      - generic [ref=e1646]: r/gaming
+                    - button "Add community to favorites" [ref=e1649]:
+                      - img [ref=e1652]
+                  - link "r/Gaming_Headsets" [ref=e1655] [cursor=pointer]:
+                    - /url: /r/Gaming_Headsets/
+                    - generic [ref=e1656]:
+                      - img [ref=e1661]
+                      - generic [ref=e1664]: r/Gaming_Headsets
+                    - button "Add community to favorites" [ref=e1667]:
+                      - img [ref=e1670]
+                  - link "r/gamingpc" [ref=e1673] [cursor=pointer]:
+                    - /url: /r/gamingpc/
+                    - generic [ref=e1674]:
+                      - img [ref=e1680]
+                      - generic [ref=e1684]: r/gamingpc
+                    - button "Add community to favorites" [ref=e1687]:
+                      - img [ref=e1690]
+                  - link "r/gpu" [ref=e1693] [cursor=pointer]:
+                    - /url: /r/gpu/
+                    - generic [ref=e1694]:
+                      - img [ref=e1700]
+                      - generic [ref=e1704]: r/gpu
+                    - button "Add community to favorites" [ref=e1707]:
+                      - img [ref=e1710]
+                  - link "r/haikyuu" [ref=e1713] [cursor=pointer]:
+                    - /url: /r/haikyuu/
+                    - generic [ref=e1714]:
+                      - img [ref=e1719]
+                      - generic [ref=e1722]: r/haikyuu
+                    - button "Add community to favorites" [ref=e1725]:
+                      - img [ref=e1728]
+                  - link "r/hardware" [ref=e1731] [cursor=pointer]:
+                    - /url: /r/hardware/
+                    - generic [ref=e1732]:
+                      - img [ref=e1737]
+                      - generic [ref=e1740]: r/hardware
+                    - button "Add community to favorites" [ref=e1743]:
+                      - img [ref=e1746]
+                  - link "r/HyperX" [ref=e1749] [cursor=pointer]:
+                    - /url: /r/HyperX/
+                    - generic [ref=e1750]:
+                      - img [ref=e1755]
+                      - generic [ref=e1758]: r/HyperX
+                    - button "Add community to favorites" [ref=e1761]:
+                      - img [ref=e1764]
+                  - link "r/insaneparents" [ref=e1767] [cursor=pointer]:
+                    - /url: /r/insaneparents/
+                    - generic [ref=e1768]:
+                      - img [ref=e1773]
+                      - generic [ref=e1776]: r/insaneparents
+                    - button "Add community to favorites" [ref=e1779]:
+                      - img [ref=e1782]
+                  - link "r/Instagramreality" [ref=e1785] [cursor=pointer]:
+                    - /url: /r/Instagramreality/
+                    - generic [ref=e1786]:
+                      - img [ref=e1791]
+                      - generic [ref=e1794]: r/Instagramreality
+                    - button "Add community to favorites" [ref=e1797]:
+                      - img [ref=e1800]
+                  - link "r/intel" [ref=e1803] [cursor=pointer]:
+                    - /url: /r/intel/
+                    - generic [ref=e1804]:
+                      - img [ref=e1809]
+                      - generic [ref=e1812]: r/intel
+                    - button "Add community to favorites" [ref=e1815]:
+                      - img [ref=e1818]
+                  - link "r/interestingasfuck" [ref=e1821] [cursor=pointer]:
+                    - /url: /r/interestingasfuck/
+                    - generic [ref=e1822]:
+                      - img [ref=e1827]
+                      - generic [ref=e1830]: r/interestingasfuck
+                    - button "Add community to favorites" [ref=e1833]:
+                      - img [ref=e1836]
+                  - link "r/islam" [ref=e1839] [cursor=pointer]:
+                    - /url: /r/islam/
+                    - generic [ref=e1840]:
+                      - img [ref=e1845]
+                      - generic [ref=e1848]: r/islam
+                    - button "Add community to favorites" [ref=e1851]:
+                      - img [ref=e1854]
+                  - link "r/Izlam" [ref=e1857] [cursor=pointer]:
+                    - /url: /r/Izlam/
+                    - generic [ref=e1858]:
+                      - img [ref=e1863]
+                      - generic [ref=e1866]: r/Izlam
+                    - button "Add community to favorites" [ref=e1869]:
+                      - img [ref=e1872]
+                  - link "r/KidsAreFuckingStupid" [ref=e1875] [cursor=pointer]:
+                    - /url: /r/KidsAreFuckingStupid/
+                    - generic [ref=e1876]:
+                      - img [ref=e1882]
+                      - generic [ref=e1886]: r/KidsAreFuckingStupid
+                    - button "Add community to favorites" [ref=e1889]:
+                      - img [ref=e1892]
+                  - link "r/LogitechG" [ref=e1895] [cursor=pointer]:
+                    - /url: /r/LogitechG/
+                    - generic [ref=e1896]:
+                      - img [ref=e1901]
+                      - generic [ref=e1904]: r/LogitechG
+                    - button "Add community to favorites" [ref=e1907]:
+                      - img [ref=e1910]
+                  - link "r/mcservers" [ref=e1913] [cursor=pointer]:
+                    - /url: /r/mcservers/
+                    - generic [ref=e1914]:
+                      - img [ref=e1919]
+                      - generic [ref=e1922]: r/mcservers
+                    - button "Add community to favorites" [ref=e1925]:
+                      - img [ref=e1928]
+                  - link "r/MCVanillaServers" [ref=e1931] [cursor=pointer]:
+                    - /url: /r/MCVanillaServers/
+                    - generic [ref=e1932]:
+                      - img [ref=e1937]
+                      - generic [ref=e1940]: r/MCVanillaServers
+                    - button "Add community to favorites" [ref=e1943]:
+                      - img [ref=e1946]
+                  - link "r/MechanicalKeyboards" [ref=e1949] [cursor=pointer]:
+                    - /url: /r/MechanicalKeyboards/
+                    - generic [ref=e1950]:
+                      - img [ref=e1955]
+                      - generic [ref=e1958]: r/MechanicalKeyboards
+                    - button "Add community to favorites" [ref=e1961]:
+                      - img [ref=e1964]
+                  - link "r/MemePiece" [ref=e1967] [cursor=pointer]:
+                    - /url: /r/MemePiece/
+                    - generic [ref=e1968]:
+                      - img [ref=e1973]
+                      - generic [ref=e1976]: r/MemePiece
+                    - button "Add community to favorites" [ref=e1979]:
+                      - img [ref=e1982]
+                  - link "r/memes" [ref=e1985] [cursor=pointer]:
+                    - /url: /r/memes/
+                    - generic [ref=e1986]:
+                      - img [ref=e1991]
+                      - generic [ref=e1994]: r/memes
+                    - button "Add community to favorites" [ref=e1997]:
+                      - img [ref=e2000]
+                  - link "r/Minecraft" [ref=e2003] [cursor=pointer]:
+                    - /url: /r/Minecraft/
+                    - generic [ref=e2004]:
+                      - img [ref=e2009]
+                      - generic [ref=e2012]: r/Minecraft
+                    - button "Add community to favorites" [ref=e2015]:
+                      - img [ref=e2018]
+                  - link "r/Minecraftbuilds" [ref=e2021] [cursor=pointer]:
+                    - /url: /r/Minecraftbuilds/
+                    - generic [ref=e2022]:
+                      - img [ref=e2027]
+                      - generic [ref=e2030]: r/Minecraftbuilds
+                    - button "Add community to favorites" [ref=e2033]:
+                      - img [ref=e2036]
+                  - link "r/MinecraftForge" [ref=e2039] [cursor=pointer]:
+                    - /url: /r/MinecraftForge/
+                    - generic [ref=e2040]:
+                      - img [ref=e2045]
+                      - generic [ref=e2048]: r/MinecraftForge
+                    - button "Add community to favorites" [ref=e2051]:
+                      - img [ref=e2054]
+                  - link "r/MinecraftMod" [ref=e2057] [cursor=pointer]:
+                    - /url: /r/MinecraftMod/
+                    - generic [ref=e2058]:
+                      - img [ref=e2063]
+                      - generic [ref=e2066]: r/MinecraftMod
+                    - button "Add community to favorites" [ref=e2069]:
+                      - img [ref=e2072]
+                  - link "r/minecraftseeds" [ref=e2075] [cursor=pointer]:
+                    - /url: /r/minecraftseeds/
+                    - generic [ref=e2076]:
+                      - img [ref=e2081]
+                      - generic [ref=e2084]: r/minecraftseeds
+                    - button "Add community to favorites" [ref=e2087]:
+                      - img [ref=e2090]
+                  - link "r/MinecraftServer" [ref=e2093] [cursor=pointer]:
+                    - /url: /r/MinecraftServer/
+                    - generic [ref=e2094]:
+                      - img [ref=e2099]
+                      - generic [ref=e2102]: r/MinecraftServer
+                    - button "Add community to favorites" [ref=e2105]:
+                      - img [ref=e2108]
+                  - link "r/minecraftsuggestions" [ref=e2111] [cursor=pointer]:
+                    - /url: /r/minecraftsuggestions/
+                    - generic [ref=e2112]:
+                      - img [ref=e2117]
+                      - generic [ref=e2120]: r/minecraftsuggestions
+                    - button "Add community to favorites" [ref=e2123]:
+                      - img [ref=e2126]
+                  - link "r/MousepadReview" [ref=e2129] [cursor=pointer]:
+                    - /url: /r/MousepadReview/
+                    - generic [ref=e2130]:
+                      - img [ref=e2135]
+                      - generic [ref=e2138]: r/MousepadReview
+                    - button "Add community to favorites" [ref=e2141]:
+                      - img [ref=e2144]
+                  - link "r/MouseReview" [ref=e2147] [cursor=pointer]:
+                    - /url: /r/MouseReview/
+                    - generic [ref=e2148]:
+                      - img [ref=e2153]
+                      - generic [ref=e2156]: r/MouseReview
+                    - button "Add community to favorites" [ref=e2159]:
+                      - img [ref=e2162]
+                  - link "r/MurderedByWords" [ref=e2165] [cursor=pointer]:
+                    - /url: /r/MurderedByWords/
+                    - generic [ref=e2166]:
+                      - img [ref=e2171]
+                      - generic [ref=e2174]: r/MurderedByWords
+                    - button "Add community to favorites" [ref=e2177]:
+                      - img [ref=e2180]
+                  - link "r/MuslimNoFap" [ref=e2183] [cursor=pointer]:
+                    - /url: /r/MuslimNoFap/
+                    - generic [ref=e2184]:
+                      - img [ref=e2189]
+                      - generic [ref=e2192]: r/MuslimNoFap
+                    - button "Add community to favorites" [ref=e2195]:
+                      - img [ref=e2198]
+                  - link "r/NatureIsFuckingLit" [ref=e2201] [cursor=pointer]:
+                    - /url: /r/NatureIsFuckingLit/
+                    - generic [ref=e2202]:
+                      - img [ref=e2207]
+                      - generic [ref=e2210]: r/NatureIsFuckingLit
+                    - button "Add community to favorites" [ref=e2213]:
+                      - img [ref=e2216]
+                  - link "r/news" [ref=e2219] [cursor=pointer]:
+                    - /url: /r/news/
+                    - generic [ref=e2220]:
+                      - img [ref=e2225]
+                      - generic [ref=e2228]: r/news
+                    - button "Add community to favorites" [ref=e2231]:
+                      - img [ref=e2234]
+                  - link "r/NoFap" [ref=e2237] [cursor=pointer]:
+                    - /url: /r/NoFap/
+                    - generic [ref=e2238]:
+                      - img [ref=e2243]
+                      - generic [ref=e2246]: r/NoFap
+                    - button "Add community to favorites" [ref=e2249]:
+                      - img [ref=e2252]
+                  - link "r/nvidia" [ref=e2255] [cursor=pointer]:
+                    - /url: /r/nvidia/
+                    - generic [ref=e2256]:
+                      - img [ref=e2261]
+                      - generic [ref=e2264]: r/nvidia
+                    - button "Add community to favorites" [ref=e2267]:
+                      - img [ref=e2270]
+                  - link "r/NZXT" [ref=e2273] [cursor=pointer]:
+                    - /url: /r/NZXT/
+                    - generic [ref=e2274]:
+                      - img [ref=e2279]
+                      - generic [ref=e2282]: r/NZXT
+                    - button "Add community to favorites" [ref=e2285]:
+                      - img [ref=e2288]
+                  - link "r/obs" [ref=e2291] [cursor=pointer]:
+                    - /url: /r/obs/
+                    - generic [ref=e2292]:
+                      - img [ref=e2297]
+                      - generic [ref=e2300]: r/obs
+                    - button "Add community to favorites" [ref=e2303]:
+                      - img [ref=e2306]
+                  - link "r/OnePiece" [ref=e2309] [cursor=pointer]:
+                    - /url: /r/OnePiece/
+                    - generic [ref=e2310]:
+                      - img [ref=e2315]
+                      - generic [ref=e2318]: r/OnePiece
+                    - button "Add community to favorites" [ref=e2321]:
+                      - img [ref=e2324]
+                  - link "r/Optifine" [ref=e2327] [cursor=pointer]:
+                    - /url: /r/Optifine/
+                    - generic [ref=e2328]:
+                      - img [ref=e2333]
+                      - generic [ref=e2336]: r/Optifine
+                    - button "Add community to favorites" [ref=e2339]:
+                      - img [ref=e2342]
+                  - link "r/osugame" [ref=e2345] [cursor=pointer]:
+                    - /url: /r/osugame/
+                    - generic [ref=e2346]:
+                      - img [ref=e2351]
+                      - generic [ref=e2354]: r/osugame
+                    - button "Add community to favorites" [ref=e2357]:
+                      - img [ref=e2360]
+                  - link "r/overclocking" [ref=e2363] [cursor=pointer]:
+                    - /url: /r/overclocking/
+                    - generic [ref=e2364]:
+                      - img [ref=e2369]
+                      - generic [ref=e2372]: r/overclocking
+                    - button "Add community to favorites" [ref=e2375]:
+                      - img [ref=e2378]
+                  - link "r/PCBuilds" [ref=e2381] [cursor=pointer]:
+                    - /url: /r/PCBuilds/
+                    - generic [ref=e2382]:
+                      - img [ref=e2387]
+                      - generic [ref=e2390]: r/PCBuilds
+                    - button "Add community to favorites" [ref=e2393]:
+                      - img [ref=e2396]
+                  - link "r/pcmasterrace" [ref=e2399] [cursor=pointer]:
+                    - /url: /r/pcmasterrace/
+                    - generic [ref=e2400]:
+                      - img [ref=e2405]
+                      - generic [ref=e2408]: r/pcmasterrace
+                    - button "Add community to favorites" [ref=e2411]:
+                      - img [ref=e2414]
+                  - link "r/PcMasterRaceBuilds" [ref=e2417] [cursor=pointer]:
+                    - /url: /r/PcMasterRaceBuilds/
+                    - generic [ref=e2418]:
+                      - img [ref=e2424]
+                      - generic [ref=e2428]: r/PcMasterRaceBuilds
+                    - button "Add community to favorites" [ref=e2431]:
+                      - img [ref=e2434]
+                  - link "r/photoshopbattles" [ref=e2437] [cursor=pointer]:
+                    - /url: /r/photoshopbattles/
+                    - generic [ref=e2438]:
+                      - img [ref=e2443]
+                      - generic [ref=e2446]: r/photoshopbattles
+                    - button "Add community to favorites" [ref=e2449]:
+                      - img [ref=e2452]
+                  - link "r/pics" [ref=e2455] [cursor=pointer]:
+                    - /url: /r/pics/
+                    - generic [ref=e2456]:
+                      - img [ref=e2461]
+                      - generic [ref=e2464]: r/pics
+                    - button "Add community to favorites" [ref=e2467]:
+                      - img [ref=e2470]
+                  - link "r/ProGuides" [ref=e2473] [cursor=pointer]:
+                    - /url: /r/ProGuides/
+                    - generic [ref=e2474]:
+                      - img [ref=e2479]
+                      - generic [ref=e2482]: r/ProGuides
+                    - button "Add community to favorites" [ref=e2485]:
+                      - img [ref=e2488]
+                  - link "r/ProRevenge" [ref=e2491] [cursor=pointer]:
+                    - /url: /r/ProRevenge/
+                    - generic [ref=e2492]:
+                      - img [ref=e2497]
+                      - generic [ref=e2500]: r/ProRevenge
+                    - button "Add community to favorites" [ref=e2503]:
+                      - img [ref=e2506]
+                  - link "r/PublicFreakout" [ref=e2509] [cursor=pointer]:
+                    - /url: /r/PublicFreakout/
+                    - generic [ref=e2510]:
+                      - img [ref=e2515]
+                      - generic [ref=e2518]: r/PublicFreakout
+                    - button "Add community to favorites" [ref=e2521]:
+                      - img [ref=e2524]
+                  - link "r/razer" [ref=e2527] [cursor=pointer]:
+                    - /url: /r/razer/
+                    - generic [ref=e2528]:
+                      - img [ref=e2533]
+                      - generic [ref=e2536]: r/razer
+                    - button "Add community to favorites" [ref=e2539]:
+                      - img [ref=e2542]
+                  - link "r/ShingekiNoKyojin" [ref=e2545] [cursor=pointer]:
+                    - /url: /r/ShingekiNoKyojin/
+                    - generic [ref=e2546]:
+                      - img [ref=e2551]
+                      - generic [ref=e2554]: r/ShingekiNoKyojin
+                    - button "Add community to favorites" [ref=e2557]:
+                      - img [ref=e2560]
+                  - link "r/Showerthoughts" [ref=e2563] [cursor=pointer]:
+                    - /url: /r/Showerthoughts/
+                    - generic [ref=e2564]:
+                      - img [ref=e2569]
+                      - generic [ref=e2572]: r/Showerthoughts
+                    - button "Add community to favorites" [ref=e2575]:
+                      - img [ref=e2578]
+                  - link "r/SHSAT" [ref=e2581] [cursor=pointer]:
+                    - /url: /r/SHSAT/
+                    - generic [ref=e2582]:
+                      - img [ref=e2587]
+                      - generic [ref=e2590]: r/SHSAT
+                    - button "Add community to favorites" [ref=e2593]:
+                      - img [ref=e2596]
+                  - link "r/steelseries" [ref=e2599] [cursor=pointer]:
+                    - /url: /r/steelseries/
+                    - generic [ref=e2600]:
+                      - img [ref=e2605]
+                      - generic [ref=e2608]: r/steelseries
+                    - button "Add community to favorites" [ref=e2611]:
+                      - img [ref=e2614]
+                  - link "r/teenagers" [ref=e2617] [cursor=pointer]:
+                    - /url: /r/teenagers/
+                    - generic [ref=e2618]:
+                      - img [ref=e2623]
+                      - generic [ref=e2626]: r/teenagers
+                    - button "Add community to favorites" [ref=e2629]:
+                      - img [ref=e2632]
+                  - link "r/therewasanattempt" [ref=e2635] [cursor=pointer]:
+                    - /url: /r/therewasanattempt/
+                    - generic [ref=e2636]:
+                      - img [ref=e2641]
+                      - generic [ref=e2644]: r/therewasanattempt
+                    - button "Add community to favorites" [ref=e2647]:
+                      - img [ref=e2650]
+                  - link "r/tifu" [ref=e2653] [cursor=pointer]:
+                    - /url: /r/tifu/
+                    - generic [ref=e2654]:
+                      - img [ref=e2659]
+                      - generic [ref=e2662]: r/tifu
+                    - button "Add community to favorites" [ref=e2665]:
+                      - img [ref=e2668]
+                  - link "r/Twitch" [ref=e2671] [cursor=pointer]:
+                    - /url: /r/Twitch/
+                    - generic [ref=e2672]:
+                      - img [ref=e2677]
+                      - generic [ref=e2680]: r/Twitch
+                    - button "Add community to favorites" [ref=e2683]:
+                      - img [ref=e2686]
+                  - link "r/Unexpected" [ref=e2689] [cursor=pointer]:
+                    - /url: /r/Unexpected/
+                    - generic [ref=e2690]:
+                      - img [ref=e2695]
+                      - generic [ref=e2698]: r/Unexpected
+                    - button "Add community to favorites" [ref=e2701]:
+                      - img [ref=e2704]
+                  - link "r/VALORANT" [ref=e2707] [cursor=pointer]:
+                    - /url: /r/VALORANT/
+                    - generic [ref=e2708]:
+                      - img [ref=e2713]
+                      - generic [ref=e2716]: r/VALORANT
+                    - button "Add community to favorites" [ref=e2719]:
+                      - img [ref=e2722]
+                  - link "r/woooosh" [ref=e2725] [cursor=pointer]:
+                    - /url: /r/woooosh/
+                    - generic [ref=e2726]:
+                      - img [ref=e2731]
+                      - generic [ref=e2734]: r/woooosh
+                    - button "Add community to favorites" [ref=e2737]:
+                      - img [ref=e2740]
+                  - link "r/woosh" [ref=e2743] [cursor=pointer]:
+                    - /url: /r/woosh/
+                    - generic [ref=e2744]:
+                      - img [ref=e2750]
+                      - generic [ref=e2754]: r/woosh
+                    - button "Add community to favorites" [ref=e2757]:
+                      - img [ref=e2760]
+            - separator [ref=e2762]
+            - navigation "Reddit resources" [ref=e2763]:
+              - group [ref=e2765]:
+                - generic "RESOURCES" [ref=e2766] [cursor=pointer]:
+                  - generic [ref=e2768]:
+                    - generic [ref=e2771]: RESOURCES
+                    - img [ref=e2774]
+                - generic [ref=e2777]:
+                  - link "About Reddit" [ref=e2779] [cursor=pointer]:
+                    - /url: https://www.redditinc.com
+                    - generic [ref=e2780]:
+                      - img [ref=e2782]
+                      - generic [ref=e2786]: About Reddit
+                  - link "Advertise" [ref=e2788] [cursor=pointer]:
+                    - /url: https://ads.reddit.com/register?utm_source=web3x_consumer&utm_name=left_nav_cta
+                    - generic [ref=e2789]:
+                      - img [ref=e2791]
+                      - generic [ref=e2795]: Advertise
+                  - link "Developer Platform" [ref=e2797] [cursor=pointer]:
+                    - /url: https://developers.reddit.com/?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2798]:
+                      - img [ref=e2800]
+                      - generic [ref=e2804]: Developer Platform
+                  - link "Reddit Pro BETA" [ref=e2806] [cursor=pointer]:
+                    - /url: /reddit-pro?utm_source=reddit&utm_medium=left_nav_resources
+                    - generic [ref=e2807]:
+                      - img [ref=e2809]
+                      - generic [ref=e2813]:
+                        - generic [ref=e2814]: Reddit Pro
+                        - generic [ref=e2815]: BETA
+                  - link "Help" [ref=e2817] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc?utm_source=reddit&utm_medium=footer&utm_campaign=evergreen
+                    - generic [ref=e2818]:
+                      - img [ref=e2820]
+                      - generic [ref=e2824]: Help
+                  - link "Blog" [ref=e2826] [cursor=pointer]:
+                    - /url: https://redditblog.com/
+                    - generic [ref=e2827]:
+                      - img [ref=e2829]
+                      - generic [ref=e2833]: Blog
+                  - link "Careers" [ref=e2835] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/careers
+                    - generic [ref=e2836]:
+                      - img [ref=e2838]
+                      - generic [ref=e2842]: Careers
+                  - link "Press" [ref=e2844] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/press
+                    - generic [ref=e2845]:
+                      - img [ref=e2847]
+                      - generic [ref=e2851]: Press
+                  - separator [ref=e2852]
+                  - link "Best of Reddit" [ref=e2854] [cursor=pointer]:
+                    - /url: https://www.reddit.com/posts/2026/global/
+                    - generic [ref=e2855]:
+                      - img [ref=e2857]
+                      - generic [ref=e2862]: Best of Reddit
+                  - separator [ref=e2863]
+                  - link "Reddit Rules" [ref=e2865] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/content-policy
+                    - generic [ref=e2866]:
+                      - img [ref=e2868]
+                      - generic [ref=e2872]: Reddit Rules
+                  - link "Privacy Policy" [ref=e2874] [cursor=pointer]:
+                    - /url: https://www.reddit.com/policies/privacy-policy
+                    - generic [ref=e2875]:
+                      - img [ref=e2877]
+                      - generic [ref=e2881]: Privacy Policy
+                  - link "User Agreement" [ref=e2883] [cursor=pointer]:
+                    - /url: https://www.redditinc.com/policies/user-agreement
+                    - generic [ref=e2884]:
+                      - img [ref=e2886]
+                      - generic [ref=e2890]: User Agreement
+                  - link "Your Privacy Choices" [ref=e2892] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/articles/43980704794004
+                    - generic [ref=e2893]:
+                      - img [ref=e2895]
+                      - generic [ref=e2899]: Your Privacy Choices
+                  - link "Accessibility" [ref=e2901] [cursor=pointer]:
+                    - /url: https://support.reddithelp.com/hc/sections/38303584022676-Accessibility
+                    - generic [ref=e2902]:
+                      - img [ref=e2904]
+                      - generic [ref=e2909]: Accessibility
+            - link "Reddit, Inc. © 2026. All rights reserved." [ref=e2911] [cursor=pointer]:
+              - /url: https://redditinc.com

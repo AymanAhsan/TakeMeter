@@ -2,23 +2,30 @@
 
 ## Community
 
-The Anime community, specifically the subreddits **r/attackontitan** and **r/HunterXHunter**, is the target for this project.
+The project draws from four anime subreddits selected against a consistent set of criteria: **closed canon** (finished anime adaptation, no ongoing-release confound), **substantive discourse** (community generates Analytical and Informational posts, not just hype), and **distinct rhetorical register** (each community reasons differently, improving classifier generalization).
+
+### Selection criteria
+
+A subreddit is eligible if:
+1. The anime adaptation is **complete** — every post reasons about the same closed text.
+2. The community is large enough to supply **100+ labelable posts** without scraping edge cases.
+3. The dominant discourse mode is **not purely Reactive** — there must be enough Analytical and Informational content for those classes to be well-populated.
 
 ### r/attackontitan
 
-Attack on Titan is chosen over a general anime subreddit because the community has a well-defined, complete canon — the manga is finished and the anime adaptation has concluded. This is important for a classifier because it eliminates a major confound: posts aren't split between "speculation" and "analysis" modes depending on where the story currently is. Every post is operating on the same closed text.
-
-The community is also unusually argumentative in a *productive* way. The ending is genuinely divisive, the adaptation choices (especially the final season's studio switch) generated real critical discourse, and the thematic content — genocide, cycles of violence, determinism — attracts posts that go beyond surface-level reaction. This means the label space will be well-populated: you'll find real analytical posts, not just hype and memes. A subreddit for a lighter show would skew so heavily toward Reactive that the other classes would be underrepresented.
-
-Finally, the community is large enough (~700k members) to provide 200+ labelable posts without scraping edge cases, but not so large (like r/anime) that the signal drowns in noise.
+Attack on Titan has a well-defined, complete canon. The ending is genuinely divisive, the adaptation choices generated real critical discourse, and the thematic content — genocide, cycles of violence, determinism — attracts posts that go beyond surface-level reaction. The community (~700k members) is large enough for strong coverage but not so large as r/anime that signal drowns in noise.
 
 ### r/HunterXHunter
 
-Hunter x Hunter complements AOT as a second source for several reasons. Like AOT, it has a closed anime adaptation — the 2011 series is finished and covers the full Chimera Ant and Election arcs, giving the community a complete text to reason about. Posts are not muddied by release-day hype cycles tied to ongoing episodes.
+HxH complements AOT with a meaningfully different discourse profile. Debates cluster around structural and thematic depth — the Chimera Ant arc's pacing, Gon's moral arc, Meruem's character — rather than adaptation controversy. This populates the Analytical and Informational classes through a different rhetorical register, improving diversity. The 2011 adaptation is complete (~400k members).
 
-The community's discourse profile is meaningfully different from AOT's, which improves classifier generalization. HxH debates tend to cluster around structural and thematic depth — the Chimera Ant arc's pacing, Gon's moral arc, Meruem's character — rather than adaptation controversy. This populates the Analytical and Informational classes through a different rhetorical register than AOT, making the training data more diverse.
+### r/FullmetalAlchemist
 
-The subreddit (~400k members) is large enough to supply sufficient labelable posts but small enough that lower-quality content hasn't diluted the discussion threads to noise.
+FMA: Brotherhood is a closed adaptation widely regarded as one of the strongest in the medium. Community discourse skews philosophical and moral — debates about equivalent exchange, Hohenheim's arc, the ending — which produces a different Analytical register than either AOT or HxH. This is the primary source for the targeted data expansion (~250k members).
+
+### r/evangelion
+
+Neon Genesis Evangelion has a closed adaptation and one of the most interpretively active communities in anime. Discourse is heavily psychological and thematic — instrumentality, character motivation, the End of Evangelion — producing dense Analytical content through a register unlike any of the other three sources. The unusually high ratio of Analytical to Reactive posts makes it valuable for addressing the minority-class imbalance (~200k members).
 
 ---
 
@@ -84,25 +91,43 @@ Assign the highest-priority label the post *genuinely satisfies*. This resolves 
 
 ## Data Collection Plan
 
-**Source:** Reddit posts from r/attackontitan scraped via the Pushshift API or the official Reddit API (`praw`). Target post text only (title + selftext); exclude pure image/video posts with no text body.
+**Source:** Reddit posts and top-level comments from four subreddits (r/attackontitan, r/HunterXHunter, r/FullmetalAlchemist, r/evangelion), scraped via Playwright browser automation against old.reddit.com.
 
-**Volume:** 373 posts from the Discussion/Question and Ending Spoilers - Discussion/Question flairs, which are the most likely to contain Analytical and Informational content. This is a manageable size for manual annotation while providing enough data for initial model training and evaluation.
+**Existing data:** 373 labeled examples from r/attackontitan and r/HunterXHunter (v1 scrape).
 
-**Seeding strategy per label:**
+**v2 expansion:** ~150–200 additional examples from r/FullmetalAlchemist and r/evangelion via targeted scraping (`scrape_targeted.py`), focused on the two class boundaries the v1 model failed at.
 
-| Label | Search/filter strategy |
-|---|---|
-| Analytical | Flair: "Analysis/Theory" posts; long-form posts (>300 words) |
-| Evaluative | Flair: "Discussion"; posts containing "best", "worst", "overrated", "hot take" |
-| Informational | Posts ending in "?"; flair: "Question" |
-| Reactive | Short posts (<100 words); posts within 24h of episode/chapter release dates |
+### Targeted scraping passes
 
-**If a label is underrepresented after 200 examples:**
+Error analysis on the v1 model identified two systematic failure modes that targeted collection directly addresses:
 
-The most likely underrepresented label is Informational — many question posts are deleted or answered in comments rather than becoming standalone posts. Remediation options in priority order:
-1. Scrape comment threads, not just top-level posts — Informational discourse happens there.
-2. Lower the minimum word count threshold for Informational only.
-3. If still underrepresented at <15% of the dataset, consider merging Informational into Analytical (questions seeking interpretation) and Reactive (questions seeking validation), and redefining the taxonomy as 3 labels before annotation is complete.
+**Pass 1 — Meme-register Reactive** (fixes: Reactive predicted as Evaluative)
+
+The v1 model consistently misclassified internet-slang and meme-language Reactive posts (e.g. "that's my roman empire", "vocal stim", deadpan humor) as Evaluative because their syntax superficially resembles comparative judgment. Remediation: search each subreddit for posts and comments containing meme-signal vocabulary (`unironically`, `roman empire`, `rent free`, `ngl`, `cope`, `lmao`, etc.) and short posts (<80 words). These are accepted into the dataset regardless of whether they contain explicit emotional language — the meme register itself is the signal.
+
+**Pass 2 — Detailed Informational** (fixes: Informational predicted as Analytical)
+
+The v1 model classified thorough, structured factual explanations as Analytical because it learned "detailed + evidence-citing → Analytical." The correct signal is whether a claim is being *defended*, but surface features are indistinguishable. Remediation: search for question-titled posts (`?`, `why`, `how`, `what`, `explain`) and collect long top-level comments (≥80 words) replying to them. These are typically detailed factual answers that the model needs to learn are Informational, not Analytical.
+
+**Pass 3 — General Discussion** (balanced coverage for new subreddits)
+
+A standard top-posts scrape from each new subreddit to provide general class coverage and expose the model to FMA- and NGE-specific vocabulary and rhetorical patterns.
+
+### Seeding strategy summary
+
+| Pass | Target class | Filter |
+|---|---|---|
+| Meme-register | Reactive | Meme-signal vocabulary OR post length <80 words |
+| Detailed Informational | Informational | Question title + comment length ≥80 words |
+| General Discussion | All | Top discussion posts, no filter |
+
+### Labeling
+
+All scraped rows are labeled manually after collection. The same tiebreaker priority order applies: Analytical > Informational > Evaluative > Reactive.
+
+**If a label is still underrepresented after the v2 expansion:**
+1. Increase targeted pass depth (more search queries, more posts per query).
+2. If Informational remains below 15% of the dataset after remediation, consider merging it into Analytical (interpretation questions) and Reactive (validation questions), collapsing to a 3-label taxonomy before retraining.
 
 ---
 
@@ -135,3 +160,158 @@ AUC is appropriate for binary tasks or when calibrated probabilities matter. Thi
 **What "deployment" means here:** The classifier would be used as a quality signal — surfacing Analytical posts for community highlights, flagging Reactive-only posts for potential removal from discussion threads, or providing post authors with a label to encourage more substantive writing. At F1 ≥ 0.80, false positives are infrequent enough that the tool adds value without requiring a human in the loop for every decision.
 
 **What would invalidate the project:** If Analytical and Evaluative cannot be separated above F1 = 0.65 after hyperparameter tuning, the boundary defined in this plan is not learnable from text features alone, and the taxonomy should be collapsed to 3 labels (merging them into a single "Opinion" class) before retraining.
+
+---
+
+## v2 — Fine-Tuning Redesign (Track A: Discourse Classifier)
+
+This supersedes the earlier fine-tuning approach. Prior results are not carried forward — the redesign starts from a clean slate. The focus is the **evaluation protocol first, model second**, because at 373 labeled examples a single train/test split is statistically meaningless (the prior run's entire gap was ~2 examples).
+
+### Evaluation protocol
+
+- **Stratified 5-fold cross-validation** is the primary harness. Report macro-F1 as **mean ± std across folds** — not a single number from one split.
+- A small **final hold-out set (~40 examples, stratified)** is set aside and touched exactly once, at the very end, to sanity-check the CV estimate. It is never used for model or hyperparameter selection.
+- **Primary metric:** macro-F1 (class imbalance makes accuracy misleading — Reactive is 38%).
+- **Secondary:** per-class F1 and a confusion matrix aggregated across folds. The Analytical↔Evaluative and Informational↔Analytical cells are the diagnostic focus.
+- All runs are **seed-pinned** for reproducibility.
+
+### Model selection — bake-off
+
+Run the *same* CV harness across several encoders and select by mean CV macro-F1. The harness is written so the model is a one-line swap; compute is negligible (full bake-off is well under an hour on a free GPU).
+
+| Candidate | Params | Why try it |
+|---|---|---|
+| `microsoft/deberta-v3-base` | 184M | strongest small-data encoder; expected front-runner |
+| `answerdotai/ModernBERT-base` | 149M | modern long-context encoder, strong recent benchmarks |
+| `roberta-base` | 125M | robust, well-understood baseline |
+| `distilbert-base-uncased` | 66M | speed reference point |
+
+### Training discipline (small-data)
+
+- **Class-weighted cross-entropy** (inverse-frequency) to handle the imbalance.
+- **Early stopping** on validation macro-F1 instead of a fixed epoch count.
+- Light hyperparameter search inside CV: learning rate ∈ {1e-5, 2e-5, 3e-5}; warmup = 10% of total steps computed as an integer.
+- Optional minority-class text augmentation (LLM paraphrase / back-translation) — adopted only if it improves CV macro-F1, not assumed.
+
+### Hugging Face integration
+
+- Built on `transformers` `Trainer` + `datasets`.
+- The winning configuration is retrained on all available data and pushed to the **HF Hub** with a model card documenting the CV results (mean ± std, per-class F1, confusion matrix).
+
+### Success criteria (unchanged target, stronger measurement)
+
+- **Minimum viable:** mean CV macro-F1 ≥ 0.72 with no class below 0.60.
+- **Good:** mean CV macro-F1 ≥ 0.80 with Analytical/Evaluative confusion < 15%.
+- Because the estimate is now a CV mean ± std rather than one split, "we beat the target" must mean the *lower* end of the spread clears it, not a lucky single run.
+
+### Out of scope (deferred)
+
+Track B (validity model) is not part of this phase. It depends on the RAG pipeline existing first to bootstrap validity labels, and is documented separately when that work begins.
+
+---
+
+## v2 — Validity Meter (Track B: deferred)
+
+**This section documents the planned design. No implementation begins until Track A clears the macro-F1 ≥ 0.72 target.**
+
+See `docs/architecture.md` for the full system diagram.
+
+### What validity measures
+
+For each take, validity outputs a single percentage (0–100) combining two sub-scores:
+
+- **Factual accuracy (F):** how well the take's verifiable claims match evidence retrieved from the wiki knowledge base.
+- **Logical coherence (C):** whether the take's argument follows from its own stated premises, independent of whether the claims are true.
+
+Opinions are inherently subjective, so validity does not ask whether a take is "correct." It asks whether the take is *grounded* (factually) and *consistent* (logically). A post can have low factual accuracy and high coherence (a well-argued wrong claim) or high factual accuracy and low coherence (accurate facts, incoherent argument). These are orthogonal axes — collapsing them into one prompt destroys exactly the signal TakeMeter is designed to surface.
+
+### Discourse label gates the validity weighting
+
+The discourse label from Track A feeds directly into the validity pipeline. Reactive posts produce no validity score (they contain no claims or arguments to evaluate). For all other labels, the weighting between F and C shifts based on what the label tells us the post is primarily doing:
+
+| Label | Validity formula | Rationale |
+|---|---|---|
+| Informational | 0.8·F + 0.2·C | Almost pure fact retrieval; coherence is secondary |
+| Analytical | 0.5·F + 0.5·C | Claims and reasoning both matter equally |
+| Evaluative | 0.3·F + 0.7·C | Judgment post; coherence of the verdict matters more than factual precision |
+| Reactive | N/A (abstain) | No verifiable claims, no argument to evaluate |
+
+This means **Track A must be reliable before Track B is meaningful** — a misclassified label assigns the wrong weights, and a Reactive misclassification wastes a Groq call or silently skips a real take.
+
+### Pipeline architecture (5 stages)
+
+```
+take + series + label (from Track A)
+        │
+        ├─ label == Reactive → ABSTAIN (no score)
+        │
+        ▼
+[Stage 1] CORPUS (one-time batch)
+  MediaWiki API → 4 Fandom wikis (AOT, HXH, FMA, NGE)
+  allpages + extracts → data/wiki_raw/<series>/*.json
+
+[Stage 2] INDEX BUILD (one-time batch)
+  section-aware chunking (~400 tok) → embed (bge-small-en-v1.5)
+  → faiss.IndexFlatIP + metadata.jsonl → data/index/
+
+[Stage 3] RETRIEVAL (per-take, real-time)
+  embed take → FAISS query → filter to take's series
+  → top-k canon chunks
+
+[Stage 4] TWO PARALLEL VERIFICATION HEADS (Groq, llama-3.3-70b-versatile)
+  ┌─ Head A FACTUAL: claims vs retrieved canon
+  │    F = supported / (supported + contradicted)
+  │    unverifiable → excluded, not penalized
+  │    output: JSON {claims[{text, label, evidence}], factual_score}
+  │
+  └─ Head B LOGICAL: argument structure (no retrieval needed)
+       "do the premises support the conclusion?"
+       output: JSON {sound, issues[], coherence_score}
+
+[Stage 5] WEIGHTED SCORE
+  validity_pct = round(label_weight(F, C) * 100)
+```
+
+### Knowledge base
+
+The KB is a **frozen snapshot** of wiki pages for AOT, HxH, FMA, and NGE sourced from Fandom wikis via the MediaWiki API (`/api.php`). No HTML scraping, no API key required. Closed canon means the snapshot is correct and does not need live updates.
+
+**Series routing:** posts are scraped per-subreddit, so `subreddit → series` is a deterministic lookup stored as a column. No entity linking needed.
+
+**Critical rule:** a claim not covered by the KB is excluded from scoring — not penalized as false. Penalizing missing wiki coverage would bias validity against niche or detailed claims.
+
+### Implementation build order
+
+1. `scripts/scraping/dump_fandom.py` — MediaWiki `allpages` + `extracts` ingest → `data/wiki_raw/`
+2. `scripts/rag/build_index.py` — chunk, embed, FAISS build → `data/index/`
+3. `scripts/rag/retrieve.py` — series-filtered query wrapper
+4. `scripts/rag/verify.py` — Groq two-head verifier, cached by post ID
+5. Eval: hand-label 50–80 examples per head, measure Cohen's κ before any fine-tuning
+
+### Judge: Groq (llama-3.3-70b-versatile)
+
+Groq is used for both heads. Reasons over local NLI (e.g. DeBERTa-MNLI):
+- Reddit prose is informal and jargon-heavy; NLI models trained on formal text (MNLI/SNLI) are brittle in this register.
+- A 70B LLM handles elliptical phrasing and series-specific vocabulary without fine-tuning.
+- `response_format={"type":"json_object"}` enforces parseable output.
+- Verdicts cached by post ID so re-runs are free. Groq free tier is sufficient at evaluation scale.
+
+### Bootstrap process for validity labels
+
+No validity-labeled data exists. Labels are generated as follows:
+1. Run the full pipeline over all labeled examples → auto-generate `validity_pct`, `factual_score`, `coherence_score` for each.
+2. Human-review a stratified sample of ≥50 rows per head, checking the cited evidence and the pipeline's scoring decision. Measure Cohen's κ — same discipline as the discourse labeling phase.
+3. If κ ≥ 0.65, fine-tune on auto-labels. If κ < 0.65, the pipeline has a systematic error (bad retrieval or bad prompt) that must be fixed before any fine-tuning.
+
+### Fine-tuning targets (Track B)
+
+- **Validity regressor** — distill the full pipeline into a single DeBERTa regression head (MSE loss, 1 output) for fast serve-time scoring without live Groq calls. Evaluate with MAE + Spearman correlation against held-out RAG-generated scores, using the same 5-fold CV protocol as Track A.
+- **NLI cross-encoder (optional)** — fine-tune a DeBERTa cross-encoder on `(claim, evidence)` pairs for the factual head. Adopt only if zero-shot Groq agreement is below κ 0.65 on the hand-labeled eval set.
+
+### New dependencies (Track B)
+
+```
+faiss-cpu>=1.8.0
+sentence-transformers>=3.0.0
+groq>=0.9.0
+```

@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# TakeMeter training artifacts
+checkpoints/
+cv_results.json
